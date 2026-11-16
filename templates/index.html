@@ -13,7 +13,7 @@
   {% for m, q in latest_filings %}
     <li>
       <span class="period">{{ q.label }}</span>
-      <span class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }} · filed {{ q.filed|short }} · {{ q.positions|length }} positions · {{ q.total|money }}</span></span>
+      <span class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }} · filed {{ q.filed|short }} · {{ "{:,}".format(q.total_positions) }} positions · {{ q.total|money }}</span></span>
       <a class="read" href="{{ root }}m/{{ m.id }}/{{ q.slug }}.html">See it<span class="sr"> : {{ m.name }}, {{ q.label }}</span> &rarr;</a>
     </li>
   {% endfor %}

@@ -360,7 +360,7 @@ def write_feed(filings):
     <link>{url}</link>
     <guid isPermaLink="true">{url}</guid>
     <pubDate>{format_datetime(when)}</pubDate>
-    <description>{escape(f"{len(q['positions'])} positions, {money(q['total'])}. {summary}")}</description>
+    <description>{escape(f"{q["total_positions"]:,} positions, {money(q["total"])}. {summary}")}</description>
   </item>""")
     newest = max((q["filed"] for _, q in filings), default="2026-01-01")
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>

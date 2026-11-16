@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ m.name }}, {{ m.firm }}: 13F portfolio{% endblock %}
-{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{% endblock %}
+{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ "{:,}".format(q.total_positions) }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{% endblock %}
 {% from "_charts.html" import heat, heat_script, sector_bars %}
 {% block main %}
 <p class="crumb"><a href="{{ root }}managers.html">&larr; All managers</a></p>
@@ -23,6 +23,7 @@
 
 <h2 class="rule-head">Sector weighting</h2>
 {{ sector_bars(q.sectors) }}
+{% if q.total_positions > q.positions|length %}<p class="small">Sectors cover all {{ "{:,}".format(q.total_positions) }} positions in the 13F. "Unclassified" is the smaller ones the site doesn't name.</p>{% endif %}
 <h3 class="move-head">By quarter</h3>
 {{ heat(sgrid, m, cols, root, sector_labels, "Weight of each sector in every " ~ m.firm ~ " 13F from " ~ m.quarters[0].label ~ " to " ~ q.label ~ ".", link=false) }}
 <p class="small">Sectors come from each company's industry code at the SEC (SIC), grouped broadly. The codes are old and coarse: Amazon counts as retail, Alphabet as software. <a href="{{ root }}about.html#sectors">How sectors work</a>.</p>
@@ -45,7 +46,7 @@
     <tr>
       <td class="co"><a href="{{ root }}m/{{ m.id }}/{{ h.slug }}.html">{{ h.label }}</a><span class="tick">filed {{ h.filed|short }}</span></td>
       <td class="hide-s top3">{% for p in h.positions[:3] %}{{ p.name }} {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}</td>
-      <td class="num">{{ h.positions|length }}</td>
+      <td class="num">{{ "{:,}".format(h.total_positions) }}</td>
       <td class="num">{{ h.total|money }}</td>
     </tr>
   {% endfor %}

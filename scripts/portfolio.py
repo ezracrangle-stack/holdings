@@ -99,8 +99,8 @@ def positions(filing, securities, unknown):
         sec = securities.get(r["cusip"])
         if sec and sec.get("skip"):
             continue
-        if sec is None:
-            unknown.setdefault(r["cusip"], r["issuer"])
+        missing = sec is None
+        if missing:
             sec = {"name": clean_issuer(r["issuer"]), "ticker": None}
         key = (sec.get("ticker") or r["cusip"], r["put_call"], slugify(sec["name"]))
         p = out.setdefault(key, {"key": "|".join(x or "" for x in key), "name": sec["name"],
@@ -108,7 +108,9 @@ def positions(filing, securities, unknown):
                                   "fund": bool(sec.get("fund")), "put_call": r["put_call"], "kind": sec.get("kind"),
                                   "sector": sector_of(securities.get(r["cusip"])),
                                   "class": r["class"], "unit": r["unit"], "shares": 0, "value": 0,
-                                  "cusips": set()})
+                                  "cusips": set(), "missing": {}})
+        if missing:
+            p["missing"][r["cusip"]] = r["issuer"]
         p["shares"] += r["shares"]
         p["value"] += r["value"]
         p["cusips"].add(r["cusip"])
@@ -197,6 +199,7 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
         quarters[-1]["is_latest"] = True
     for q in quarters:
         q["sectors"] = sector_weights(q["positions"])
+    keys = [{p["key"] for p in q["positions"]} for q in quarters]
     for i, q in enumerate(quarters):
         q["changes"] = changes(quarters[i - 1], q, splits, warnings, m["name"]) if i else []
         q["prev"] = quarters[i - 1] if i else None
@@ -205,7 +208,7 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
             since, unknown_before = q["period"], i == 0 or not consecutive(quarters[i - 1]["period"], q["period"])
             for j in range(i - 1, -1, -1):
                 older = quarters[j]
-                if not any(o["key"] == p["key"] for o in older["positions"]):
+                if p["key"] not in keys[j]:
                     break
                 if not consecutive(older["period"], quarters[j + 1]["period"]):
                     break                              # no 13F for the quarters in between
@@ -214,6 +217,24 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
             p["since"] = since
             p["since_label"] = quarter_label(since)
             p["first_filing"] = unknown_before         # "or earlier": we can't see the quarter before
+    top = m.get("top")
+    if top:
+        # very diversified 13Fs: keep the biggest positions; weights stay a share of the whole 13F
+        kept = [{p["key"] for p in q["positions"][:top]} for q in quarters]
+        names = {p["name"] for p in quarters[-1]["positions"][:top]} if quarters else set()
+        warnings[:] = [w for w in warnings if not w.startswith(m["name"] + ":")
+                       or any(f": {n} shares" in w for n in names)]
+        for i, q in enumerate(quarters):
+            q["total_positions"] = len(q["positions"])
+            q["positions"] = q["positions"][:top]
+            prev = kept[i - 1] if i else set()
+            q["changes"] = [c for c in q["changes"] if c["key"] in kept[i] or c["key"] in prev]
+    for q in quarters:
+        q.setdefault("total_positions", len(q["positions"]))
+        for p in q["positions"]:
+            unknown.update(p.pop("missing", {}))
+        for c in q["changes"]:
+            c.pop("missing", None)
     m["quarters"] = quarters
     m["latest"] = quarters[-1] if quarters else None
     # every quarter of every holding, with what the manager did: the "History" pages

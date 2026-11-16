@@ -19,6 +19,7 @@
     </tr>
   {% endfor %}
   </tbody>
-  <tfoot><tr><td>{{ q.positions|length }} positions</td><td class="num">100%</td><td class="num hide-s">{{ q.total|money }}</td><td class="hide-s"></td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
+  <tfoot><tr><td>{% if q.total_positions > q.positions|length %}Top {{ q.positions|length }} of {{ "{:,}".format(q.total_positions) }} positions{% else %}{{ q.positions|length }} positions{% endif %}</td><td class="num">{{ (q.positions|sum(attribute="weight"))|pct }}</td><td class="num hide-s">{{ q.total|money }}</td><td class="hide-s"></td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
 </table>
+{% if q.total_positions > q.positions|length %}<p class="small">This 13F lists {{ "{:,}".format(q.total_positions) }} positions. The site shows the {{ q.positions|length }} biggest; the full list is in the filing on EDGAR.</p>{% endif %}
 <p class="small">Weight is the position's share of the total value in this 13F, not of the whole fund. Price is the value divided by the number of shares, so it's the price at the end of the quarter, as the firm reported it. Change compares share counts with {{ q.prev.label if q.prev else "the previous quarter" }}, adjusted for stock splits.</p>

@@ -16,6 +16,7 @@
 #              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
 #              Then "why" is taken from that site and you can leave it out. Otherwise: no.
 #  old_ids:    earlier addresses of the page, so old links still land here.
+#  top:        for very diversified 13Fs, show only this many of the biggest positions.
 #
 #  Keep the two spaces of indentation. Text with a colon (:)
 #  inside must go between double quotes.
@@ -133,3 +134,11 @@ managers:
     firm: Giverny Capital
     cik: 1641864
     letters: giverny
+
+  - id: joel-greenblatt
+    name: Joel Greenblatt
+    firm: Gotham Asset Management
+    cik: 1510387
+    top: 50
+    letters: no
+    why: "Joel wrote The Little Book That Beats the Market and teaches at Columbia. Gotham now runs a diversified, rules-based book of about 1,800 stocks; this page shows the 50 biggest."

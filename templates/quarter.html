@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ m.name }}, {{ m.firm }}: 13F for {{ q.label }}{% endblock %}
-{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}.{% endblock %}
+{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ "{:,}".format(q.total_positions) }} positions, {{ q.total|money }}.{% endblock %}
 {% from "_charts.html" import sector_bars %}
 {% block main %}
 <p class="crumb"><a href="{{ root }}m/{{ m.id }}.html">&larr; {{ m.name }}, latest 13F</a></p>

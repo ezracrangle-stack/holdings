@@ -792,7 +792,7 @@
 "45780R101": {name: "Installed Building Products", ticker: "IBP", sic: 1520, sector: "Industrials"}
 "45866F104": {name: "Intercontinental Exchange", ticker: "ICE", sic: 6200}
 "46120E602": {name: "Intuitive Surgical", ticker: "ISRG", sic: 3842}
-"46138G649": {name: "Invesco ETF", ticker: "INVESCO", fund: yes}
+"46138G649": {name: "Invesco ETF", ticker: null, fund: yes}
 "46137V357": {name: "Invesco S&P 500 Equal Weight ETF", ticker: "RSP", fund: yes}
 "477839104": {name: "JBT Marel", ticker: "JBTM", sic: 3550}
 "F5333N100": {name: "JCDecaux", ticker: "DEC", sic: 7310, sector: "Media & telecom"}
@@ -937,3 +937,295 @@
 "464287788": {name: "iShares U.S. Financials ETF", ticker: "IYF", fund: yes}
 "464288752": {name: "iShares U.S. Home Construction ETF", ticker: "ITB", fund: yes}
 "550021109": {name: "Lululemon", ticker: "LULU", sic: 2300}
+
+# Joel Greenblatt (top 50 of each quarter)
+"00766T100": {name: "AECOM", ticker: "ACM", sector: "Industrials"}
+"03743Q108": {name: "APA", ticker: "APA", sic: 1311}
+"00217D100": {name: "AST SpaceMobile", ticker: "ASTS", sic: 4899}
+"002896207": {name: "Abercrombie & Fitch", ticker: "ANF", sector: "Consumer discretionary"}
+"00404A109": {name: "Acadia Healthcare", ticker: "ACHC", sector: "Health care"}
+"00751Y106": {name: "Advance Auto Parts", ticker: "AAP", sic: 5531}
+"011659109": {name: "Alaska Air", ticker: "ALK", sic: 4512}
+"01973R101": {name: "Allison Transmission", ticker: "ALSN", sector: "Industrials"}
+"023436108": {name: "Amedisys", ticker: "AMED", sector: "Health care"}
+"G0260P102": {name: "Amer Sports", ticker: "AS", sic: 2300}
+"024061103": {name: "American Axle", ticker: "AXL", sector: "Consumer discretionary"}
+"02553E106": {name: "American Eagle Outfitters", ticker: "AEO", sic: 5651}
+"031162100": {name: "Amgen", ticker: "AMGN", sic: 2836}
+"035290105": {name: "Anixter", ticker: "AXE", sector: "Industrials", note: "Bought by WESCO in 2020."}
+"037604105": {name: "Apollo Education Group", ticker: "APOL", sector: "Consumer discretionary", note: "Taken private in 2017."}
+"G27823106": {name: "Aptiv", ticker: "DLPH", sector: "Consumer discretionary", note: "Called Delphi Automotive until 2017."}
+"G6095L109": {name: "Aptiv", ticker: "APTV", sic: 3714}
+"039483102": {name: "Archer-Daniels-Midland", ticker: "ADM", sic: 2070}
+"04270V106": {name: "Arris", ticker: "ARRS", sector: "Technology", note: "Bought by CommScope in 2019."}
+"042735100": {name: "Arrow Electronics", ticker: "ARW", sector: "Technology"}
+"053807103": {name: "Avnet", ticker: "AVT", sic: 5065}
+"054303102": {name: "Avon Products", ticker: "AVP", sector: "Consumer staples", note: "Bought by Natura in 2020."}
+"070830104": {name: "Bath & Body Works", ticker: "BBWI", sic: 5990}
+"501797104": {name: "Bath & Body Works", ticker: "LB", sector: "Consumer discretionary", note: "Called L Brands until 2021."}
+"071813109": {name: "Baxter International", ticker: "BAX", sic: 3841}
+"075896100": {name: "Bed Bath & Beyond", ticker: "BBBY", sector: "Consumer discretionary", note: "Bankrupt in 2023."}
+"089302103": {name: "Big Lots", ticker: "BIG", sector: "Consumer discretionary"}
+"09247X101": {name: "BlackRock", ticker: "BLK", sic: 6211}
+"100557107": {name: "Boston Beer", ticker: "SAM", sic: 2082}
+"101137107": {name: "Boston Scientific", ticker: "BSX", sic: 3841}
+"103304101": {name: "Boyd Gaming", ticker: "BYD", sic: 7011}
+"11135F101": {name: "Broadcom", ticker: "AVGO", sic: 3674}
+"11133T103": {name: "Broadridge", ticker: "BR", sector: "Technology"}
+"111621306": {name: "Brocade", ticker: "BRCD", sector: "Technology", note: "Bought by Broadcom in 2017."}
+"118440106": {name: "Buckle", ticker: "BKE", sic: 5651}
+"G16962105": {name: "Bunge", ticker: "BG", sector: "Consumer staples"}
+"12673P105": {name: "CA Technologies", ticker: "CA", sector: "Technology", note: "Bought by Broadcom in 2018."}
+"127190304": {name: "CACI", ticker: "CACI", sector: "Technology"}
+"124857202": {name: "CBS", ticker: "CBS", sector: "Media & telecom", note: "Merged with Viacom in 2019."}
+"12662P108": {name: "CVR Energy", ticker: "CVI", sic: 2911}
+"G60754101": {name: "Capri", ticker: "KORS", sector: "Consumer discretionary", note: "Called Michael Kors until 2018."}
+"14149Y108": {name: "Cardinal Health", ticker: "CAH", sic: 5122}
+"143658300": {name: "Carnival", ticker: "CCL", sic: 4400}
+"146229109": {name: "Carter's", ticker: "CRI", sector: "Consumer discretionary"}
+"15135B101": {name: "Centene", ticker: "CNC", sic: 6324}
+"159864107": {name: "Charles River Laboratories", ticker: "CRL", sector: "Health care"}
+"16359R103": {name: "Chemed", ticker: "CHE", sic: 8082}
+"168615102": {name: "Chico's", ticker: "CHS", sector: "Consumer discretionary"}
+"171484108": {name: "Churchill Downs", ticker: "CHDN", sic: 7948}
+"125523100": {name: "Cigna Group", ticker: "CI", sic: 6324}
+"172755100": {name: "Cirrus Logic", ticker: "CRUS", sic: 3674}
+"18539C204": {name: "Clearway Energy", ticker: "CWEN", sic: 4911}
+"185899101": {name: "Cleveland-Cliffs", ticker: "CLF", sic: 1000}
+"19122T109": {name: "Coca-Cola Enterprises", ticker: "CCE", sector: "Consumer staples"}
+"199908104": {name: "Comfort Systems USA", ticker: "FIX", sector: "Industrials"}
+"205363104": {name: "Computer Sciences", ticker: "CSC", sector: "Technology", note: "Merged into DXC Technology in 2017."}
+"205944101": {name: "Con-way", ticker: "CNW", sector: "Industrials", note: "Bought by XPO in 2015."}
+"205887102": {name: "Conagra Brands", ticker: "CAG", sic: 2000}
+"20605P101": {name: "Concho Resources", ticker: "CXO", sector: "Energy", note: "Bought by ConocoPhillips in 2021."}
+"21037T109": {name: "Constellation Energy", ticker: "CEG", sic: 4911}
+"21249J105": {name: "Conversant", ticker: "CNVR", sector: "Media & telecom"}
+"92046N102": {name: "Conversant", ticker: "VCLK", sector: "Media & telecom", note: "Called ValueClick until 2014."}
+"216831107": {name: "Cooper Tire", ticker: "CTB", sector: "Consumer discretionary"}
+"219350105": {name: "Corning", ticker: "GLW", sector: "Technology"}
+"222816100": {name: "Covance", ticker: "CVD", sector: "Health care", note: "Bought by LabCorp in 2015."}
+"22788C105": {name: "CrowdStrike", ticker: "CRWD", sector: "Technology"}
+"233326107": {name: "DST Systems", ticker: "DST", sector: "Technology"}
+"233331107": {name: "DTE Energy", ticker: "DTE", sic: 4911}
+"23355L106": {name: "DXC Technology", ticker: "DXC", sic: 7374}
+"235825205": {name: "Dana", ticker: "DAN", sector: "Consumer discretionary"}
+"237194105": {name: "Darden Restaurants", ticker: "DRI", sic: 5812}
+"242370203": {name: "Dean Foods", ticker: "DF", sector: "Consumer staples"}
+"243537107": {name: "Deckers Outdoor", ticker: "DECK", sic: 3021}
+"24703L202": {name: "Dell Technologies", ticker: "DELL", sic: 3571}
+"248019101": {name: "Deluxe", ticker: "DLX", sic: 2780}
+"249030107": {name: "Dentsply Sirona", ticker: "XRAY", sector: "Health care"}
+"23334L102": {name: "Designer Brands", ticker: "DSW", sector: "Consumer discretionary"}
+"252131107": {name: "Dexcom", ticker: "DXCM", sic: 3841}
+"253393102": {name: "Dick's Sporting Goods", ticker: "DKS", sic: 5940}
+"254067101": {name: "Dillard's", ticker: "DDS", sic: 5311}
+"25470F104": {name: "Discovery", ticker: "DISCA", sector: "Media & telecom"}
+"26441C204": {name: "Duke Energy", ticker: "DUK", sic: 4931}
+"26483E100": {name: "Dun & Bradstreet", ticker: "DNB", sector: "Industrials"}
+"G29183103": {name: "Eaton", ticker: "ETN", sic: 3590}
+"29266R108": {name: "Edgewell Personal Care", ticker: "ENR", sector: "Consumer staples"}
+"291011104": {name: "Emerson Electric", ticker: "EMR", sector: "Industrials"}
+"29264F205": {name: "Endo", ticker: "ENDP", sector: "Health care"}
+"29275Y102": {name: "EnerSys", ticker: "ENS", sic: 3690}
+"30034W106": {name: "Evergy", ticker: "EVRG", sic: 4931}
+"30161Q104": {name: "Exelixis", ticker: "EXEL", sic: 2836}
+"30161N101": {name: "Exelon", ticker: "EXC", sic: 4931}
+"165167735": {name: "Expand Energy", ticker: "EXE", sic: 1311}
+"30212P303": {name: "Expedia Group", ticker: "EXPE", sic: 4700}
+"302130109": {name: "Expeditors", ticker: "EXPD", sector: "Industrials"}
+"30219E103": {name: "Express", ticker: "EXPR", sector: "Consumer discretionary"}
+"302491303": {name: "FMC", ticker: "FMC", sector: "Materials"}
+"303726103": {name: "Fairchild Semiconductor", ticker: "FCS", sector: "Technology"}
+"33812L102": {name: "Fitbit", ticker: "FIT", sector: "Technology"}
+"34354P105": {name: "Flowserve", ticker: "FLS", sic: 3561}
+"343412102": {name: "Fluor", ticker: "FLR", sic: 1600}
+"34988V106": {name: "Fossil Group", ticker: "FOSL", sic: 3873}
+"35906A108": {name: "Frontier Communications", ticker: "FTR", sector: "Media & telecom"}
+"364760108": {name: "Gap", ticker: "GAP", sic: 5651}
+"36191G107": {name: "GNC", ticker: "GNC", sector: "Consumer discretionary"}
+"36467W109": {name: "GameStop", ticker: "GME", sic: 5734}
+"H2906T109": {name: "Garmin", ticker: "GRMN", sic: 3812}
+"366651107": {name: "Gartner", ticker: "IT", sic: 8741}
+"668771108": {name: "Gen Digital", ticker: "GEN", sic: 7372}
+"871503108": {name: "Gen Digital", ticker: "SYMC", sector: "Technology", note: "Called Symantec until 2019."}
+"370334104": {name: "General Mills", ticker: "GIS", sector: "Consumer staples"}
+"371901109": {name: "Gentex", ticker: "GNTX", sic: 3714}
+"372460105": {name: "Genuine Parts", ticker: "GPC", sic: 5013}
+"382550101": {name: "Goodyear", ticker: "GT", sector: "Consumer discretionary"}
+"401617105": {name: "Guess", ticker: "GES", sector: "Consumer discretionary"}
+"436106108": {name: "HF Sinclair", ticker: "HFC", sector: "Energy"}
+"428236103": {name: "HP", ticker: "HPQ", sector: "Technology", note: "Hewlett-Packard before the 2015 split."}
+"419879101": {name: "Hawaiian Holdings", ticker: "HA", sector: "Industrials"}
+"42824C109": {name: "Hewlett Packard Enterprise", ticker: "HPE", sector: "Technology"}
+"43300A203": {name: "Hilton", ticker: "HLT", sector: "Consumer discretionary"}
+"436440101": {name: "Hologic", ticker: "HOLX", sector: "Health care"}
+"438516106": {name: "Honeywell International", ticker: "HON", sic: 3724}
+"G4617B105": {name: "Horizon Therapeutics", ticker: "HZNP", sector: "Health care"}
+"443201108": {name: "Howmet Aerospace", ticker: "HWM", sic: 3350}
+"444859102": {name: "Humana", ticker: "HUM", sic: 6324}
+"446413106": {name: "Huntington Ingalls Industries", ticker: "HII", sic: 3730}
+"452308109": {name: "Illinois Tool Works", ticker: "ITW", sector: "Industrials"}
+"45337C102": {name: "Incyte", ticker: "INCY", sic: 8731}
+"45687V106": {name: "Ingersoll Rand", ticker: "IR", sic: 3560}
+"457153104": {name: "Ingram Micro", ticker: "IM", sector: "Technology"}
+"457187102": {name: "Ingredion", ticker: "INGR", sic: 2040}
+"458118106": {name: "Integrated Device Technology", ticker: "IDTI", sector: "Technology"}
+"459902102": {name: "International Game Technology", ticker: "IGT", sector: "Consumer discretionary"}
+"460690100": {name: "Interpublic", ticker: "IPG", sector: "Media & telecom"}
+"46269C102": {name: "Iridium Communications", ticker: "IRDM", sic: 4899}
+"466313103": {name: "Jabil", ticker: "JBL", sic: 3672}
+"478366107": {name: "Johnson Controls", ticker: "JCI", sector: "Industrials"}
+"G51502105": {name: "Johnson Controls", ticker: "JCI", sector: "Industrials"}
+"481165108": {name: "Joy Global", ticker: "JOY", sector: "Industrials"}
+"48203R104": {name: "Juniper Networks", ticker: "JNPR", sector: "Technology"}
+"487836108": {name: "Kellanova", ticker: "K", sector: "Consumer staples", note: "Called Kellogg until 2023."}
+"489170100": {name: "Kennametal", ticker: "KMT", sic: 3541}
+"49177J102": {name: "Kenvue", ticker: "KVUE", sector: "Consumer staples"}
+"49271V100": {name: "Keurig Dr Pepper", ticker: "KDP", sic: 2080}
+"49271M100": {name: "Keurig Green Mountain", ticker: "GMCR", sector: "Consumer staples"}
+"494368103": {name: "Kimberly-Clark", ticker: "KMB", sic: 2670}
+"500255104": {name: "Kohl's", ticker: "KSS", sic: 5311}
+"413875105": {name: "L3Harris", ticker: "HRS", sector: "Industrials", note: "Harris before the 2019 merger with L3."}
+"512807306": {name: "Lam Research", ticker: "LRCX", sic: 3559}
+"517834107": {name: "Las Vegas Sands", ticker: "LVS", sic: 7011}
+"50540R409": {name: "Labcorp", ticker: "LH", sector: "Health care"}
+"515098101": {name: "Landstar", ticker: "LSTR", sector: "Industrials"}
+"516012101": {name: "Lannett", ticker: "LCI", sector: "Health care"}
+"521865204": {name: "Lear", ticker: "LEA", sic: 3714}
+"525327102": {name: "Leidos", ticker: "LDOS", sic: 7373}
+"53219L109": {name: "LifePoint Health", ticker: "LPNT", sector: "Health care"}
+"533900106": {name: "Lincoln Electric", ticker: "LECO", sector: "Industrials"}
+"544147101": {name: "Lorillard", ticker: "LO", sector: "Consumer staples"}
+"156700106": {name: "Lumen", ticker: "CTL", sector: "Media & telecom", note: "Called CenturyLink until 2020."}
+"559222401": {name: "Magna International", ticker: "MGA", sic: 3714}
+"565849106": {name: "Marathon Oil", ticker: "MRO", sector: "Energy"}
+"56585A102": {name: "Marathon Petroleum", ticker: "MPC", sic: 2911}
+"574599106": {name: "Masco", ticker: "MAS", sector: "Industrials"}
+"576323109": {name: "Mastec", ticker: "MTZ", sic: 1623}
+"G5960L103": {name: "Medtronic", ticker: "MDT", sic: 3845}
+"595017104": {name: "Microchip Technology", ticker: "MCHP", sic: 3674}
+"60770K107": {name: "Moderna", ticker: "MRNA", sic: 2836}
+"60871R209": {name: "Molson Coors Beverage", ticker: "TAP", sic: 2082}
+"61945C103": {name: "Mosaic", ticker: "MOS", sic: 2870}
+"62855J104": {name: "Myriad Genetics", ticker: "MYGN", sic: 2835}
+"62886E108": {name: "NCR", ticker: "NCR", sector: "Technology"}
+"629377508": {name: "NRG Energy", ticker: "NRG", sic: 4911}
+"N6596X109": {name: "NXP Semiconductors", ticker: "NXPI", sic: 3674}
+"636180101": {name: "National Fuel Gas", ticker: "NFG", sic: 4924}
+"64110D104": {name: "NetApp", ticker: "NTAP", sic: 3572}
+"64126X201": {name: "Neustar", ticker: "NSR", sector: "Technology"}
+"651511107": {name: "NewLink Genetics", ticker: "NLNK", sector: "Health care"}
+"651587107": {name: "NewMarket", ticker: "NEU", sic: 2860}
+"651639106": {name: "Newmont", ticker: "NEM", sector: "Materials"}
+"65249B208": {name: "News Corp", ticker: "NWSA", sic: 2711}
+"655663102": {name: "Nordson", ticker: "NDSN", sic: 3569}
+"682189105": {name: "ON Semiconductor", ticker: "ON", sic: 3674}
+"681904108": {name: "Omnicare", ticker: "OCR", sector: "Health care"}
+"681919106": {name: "Omnicom Group", ticker: "OMC", sic: 7311}
+"682680103": {name: "Oneok", ticker: "OKE", sic: 4923}
+"68557N103": {name: "Orbital ATK", ticker: "OA", sector: "Industrials"}
+"688239201": {name: "Oshkosh", ticker: "OSK", sic: 3711}
+"690070107": {name: "Outerwall", ticker: "OUTR", sector: "Consumer discretionary"}
+"690742101": {name: "Owens Corning", ticker: "OC", sic: 3290}
+"69329Y104": {name: "PDL BioPharma", ticker: "PDLI", sector: "Health care"}
+"693506107": {name: "PPG Industries", ticker: "PPG", sic: 2851}
+"69351T106": {name: "PPL", ticker: "PPL", sic: 4911}
+"744573106": {name: "PSEG", ticker: "PEG", sector: "Utilities"}
+"693656100": {name: "PVH", ticker: "PVH", sector: "Consumer discretionary"}
+"693718108": {name: "Paccar", ticker: "PCAR", sic: 3711}
+"695156109": {name: "Packaging Corp. of America", ticker: "PKG", sector: "Materials"}
+"69608A108": {name: "Palantir Technologies", ticker: "PLTR", sic: 7372}
+"699462107": {name: "Parexel", ticker: "PRXL", sector: "Health care"}
+"701094104": {name: "Parker-Hannifin", ticker: "PH", sic: 3490}
+"58502B106": {name: "Pediatrix", ticker: "MD", sector: "Health care", note: "Called Mednax until 2022."}
+"705573103": {name: "Pegasystems", ticker: "PEGA", sic: 7374}
+"G7S00T104": {name: "Pentair", ticker: "PNR", sic: 3550}
+"716768106": {name: "PetSmart", ticker: "PETM", sector: "Consumer discretionary"}
+"720279108": {name: "Pier 1", ticker: "PIR", sector: "Consumer discretionary"}
+"72147K108": {name: "Pilgrims Pride", ticker: "PPC", sic: 2015}
+"724479100": {name: "Pitney Bowes", ticker: "PBI", sector: "Industrials"}
+"731068102": {name: "Polaris", ticker: "PII", sector: "Consumer discretionary"}
+"74762E102": {name: "Quanta Services", ticker: "PWR", sic: 1731}
+"53071M104": {name: "Qurate Retail", ticker: "QVCA", sector: "Consumer discretionary"}
+"75524B104": {name: "RBC Bearings", ticker: "RBC", sic: 3562}
+"75886F107": {name: "Regeneron Pharmaceuticals", ticker: "REGN", sic: 2834}
+"760759100": {name: "Republic Services", ticker: "RSG", sic: 4953}
+"714046109": {name: "Revvity", ticker: "RVTY", sic: 3826}
+"773903109": {name: "Rockwell Automation", ticker: "ROK", sic: 3829}
+"774341101": {name: "Rockwell Collins", ticker: "COL", sector: "Industrials"}
+"V7780T103": {name: "Royal Caribbean Cruises", ticker: "RCL", sic: 4400}
+"78468R663": {name: "SPDR ETF", ticker: null, fund: yes}
+"784635104": {name: "SPX", ticker: "SPXC", sector: "Industrials"}
+"795435106": {name: "Salix Pharmaceuticals", ticker: "SLXP", sector: "Health care"}
+"80004C101": {name: "Sandisk", ticker: "SNDK", sic: 3572}
+"80004C200": {name: "Sandisk", ticker: "SNDK", sic: 3572}
+"G7945M107": {name: "Seagate Technology Holdings", ticker: "STX", sic: 3572}
+"83088M102": {name: "Skyworks Solutions", ticker: "SWKS", sic: 3674}
+"88023U101": {name: "Somnigroup", ticker: "TPX", sector: "Consumer discretionary", note: "Called Tempur Sealy until 2025."}
+"84265V105": {name: "Southern Copper", ticker: "SCCO", sic: 1000}
+"848574109": {name: "Spirit AeroSystems", ticker: "SPR", sector: "Industrials"}
+"848577102": {name: "Spirit Airlines", ticker: "SAVE", sector: "Industrials"}
+"854502101": {name: "Stanley Black & Decker", ticker: "SWK", sic: 3420}
+"G8473T100": {name: "Steris", ticker: "STE", sic: 3842}
+"556269108": {name: "Steve Madden", ticker: "SHOO", sector: "Consumer discretionary"}
+"594972408": {name: "Strategy", ticker: "MSTR", sector: "Technology", note: "Called MicroStrategy until 2025."}
+"864159108": {name: "Sturm Ruger", ticker: "RGR", sic: 3480}
+"868536103": {name: "Supervalu", ticker: "SVU", sector: "Consumer staples"}
+"87074U101": {name: "Swift Transportation", ticker: "SWFT", sector: "Industrials"}
+"871829107": {name: "Sysco", ticker: "SYY", sic: 5140}
+"H84989104": {name: "TE Connectivity", ticker: "TEL", sic: 5065}
+"874054109": {name: "Take-Two", ticker: "TTWO", sector: "Media & telecom"}
+"878237106": {name: "Tech Data", ticker: "TECD", sector: "Technology"}
+"G87110105": {name: "TechnipFMC", ticker: "FTI", sic: 3533}
+"87901J105": {name: "Tegna", ticker: "TGNA", sector: "Media & telecom"}
+"879360105": {name: "Teledyne Technologies", ticker: "TDY", sic: 3812}
+"880349105": {name: "Tenneco", ticker: "TEN", sector: "Consumer discretionary"}
+"88076W103": {name: "Teradata", ticker: "TDC", sector: "Technology"}
+"880770102": {name: "Teradyne", ticker: "TER", sic: 3825}
+"880779103": {name: "Terex", ticker: "TEX", sic: 3537}
+"881609101": {name: "Tesoro", ticker: "TSO", sector: "Energy"}
+"883203101": {name: "Textron", ticker: "TXT", sic: 3720}
+"886364520": {name: "Tidal Trust ETF", ticker: null, fund: yes}
+"886364835": {name: "Tidal Trust ETF", ticker: null, fund: yes}
+"891894107": {name: "Towers Watson", ticker: "TW", sector: "Financials & real estate"}
+"896522109": {name: "Trinity Industries", ticker: "TRN", sic: 3743}
+"896818101": {name: "Triumph Group", ticker: "TGI", sector: "Industrials"}
+"902494103": {name: "Tyson Foods", ticker: "TSN", sic: 2015}
+"903236107": {name: "URS", ticker: "URS", sector: "Industrials"}
+"91307C102": {name: "United Therapeutics", ticker: "UTHR", sic: 2834}
+"91332U101": {name: "Unity Software", ticker: "U", sic: 7372}
+"913903100": {name: "Universal Health Services", ticker: "UHS", sector: "Health care"}
+"917047102": {name: "Urban Outfitters", ticker: "URBN", sic: 5651}
+"918204108": {name: "VF", ticker: "VFC", sic: 2320}
+"920253101": {name: "Valmont Industries", ticker: "VMI", sic: 3440}
+"921937835": {name: "Vanguard Total Bond Market ETF", ticker: "BND", fund: yes}
+"922908769": {name: "Vanguard Total Stock Market ETF", ticker: "VTI", fund: yes}
+"922908744": {name: "Vanguard Value ETF", ticker: "VTV", fund: yes}
+"92532F100": {name: "Vertex Pharmaceuticals", ticker: "VRTX", sector: "Health care"}
+"384802104": {name: "W. W. Grainger", ticker: "GWW", sector: "Industrials"}
+"948626106": {name: "WW International", ticker: "WTW", sector: "Consumer discretionary"}
+"G94368100": {name: "Warner Chilcott", ticker: "WCRX", sector: "Health care"}
+"G48833118": {name: "Weatherford International", ticker: "WFRD", sic: 3533}
+"95082P105": {name: "Wesco International", ticker: "WCC", sic: 5063}
+"958102105": {name: "Western Digital", ticker: "WDC", sic: 3572}
+"959319104": {name: "Western Refining", ticker: "WNR", sector: "Energy"}
+"959802109": {name: "Western Union", ticker: "WU", sector: "Financials & real estate"}
+"960413102": {name: "Westlake", ticker: "WLK", sector: "Materials"}
+"962166104": {name: "Weyerhaeuser", ticker: "WY", sector: "Financials & real estate"}
+"963320106": {name: "Whirlpool", ticker: "WHR", sector: "Consumer discretionary"}
+"966837106": {name: "Whole Foods Market", ticker: "WFM", sector: "Consumer staples"}
+"969904101": {name: "Williams Sonoma", ticker: "WSM", sic: 5700}
+"97382A101": {name: "Windstream", ticker: "WIN", sector: "Media & telecom"}
+"98310W108": {name: "Wyndham", ticker: "WYN", sector: "Consumer discretionary"}
+"984121103": {name: "Xerox Holdings", ticker: "XRX", sic: 3577}
+"983919101": {name: "Xilinx", ticker: "XLNX", sector: "Technology"}
+"989207105": {name: "Zebra Technologies", ticker: "ZBRA", sector: "Technology"}
+"98956P102": {name: "Zimmer Biomet", ticker: "ZBH", sector: "Health care"}
+"45169U105": {name: "iGate", ticker: "IGTE", sector: "Technology"}
+"464287226": {name: "iShares Core U.S. Aggregate Bond ETF", ticker: "AGG", fund: yes}
+"46432F842": {name: "iShares ETF", ticker: null, fund: yes}
+"46434G103": {name: "iShares ETF", ticker: null, fund: yes}
+"464285204": {name: "iShares Gold Trust", ticker: "IAU", fund: yes}
+"464287689": {name: "iShares Russell 3000 ETF", ticker: "IWV", fund: yes}
+"46565G104": {name: "iTeos Therapeutics", ticker: "ITOS", sector: "Health care"}
+"G6700G107": {name: "nVent", ticker: "NVT", sector: "Industrials"}
