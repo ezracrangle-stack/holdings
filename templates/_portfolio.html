@@ -1,7 +1,7 @@
 {# Holdings table for one quarter: q, companies, root #}
 <table class="htable">
   <thead>
-    <tr><th scope="col">Company</th><th scope="col" class="num">Weight</th><th scope="col" class="num hide-s">Value</th><th scope="col" class="num hide-s">Shares</th><th scope="col" class="num">Held since</th><th scope="col" class="num">Change</th></tr>
+    <tr><th scope="col">Company</th><th scope="col" class="num">Weight</th><th scope="col" class="num hide-s">Value</th><th scope="col" class="num hide-s">Shares</th><th scope="col" class="num hide-s">Price</th><th scope="col" class="num">Held since</th><th scope="col" class="num">Change</th></tr>
   </thead>
   <tbody>
   {% set maxw = q.positions[0].weight if q.positions else 1 %}
@@ -9,15 +9,16 @@
     {% set chg = q.changes|selectattr("key", "equalto", p.key)|first %}
     <tr>
       <td class="co">{% if not p.fund and p.slug in companies %}<a href="{{ root }}c/{{ p.slug }}.html">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
-        <span class="tick">{{ p.ticker or p.cusips|join(", ") }}{% if p.put_call %} · {{ p.put_call }} options{% endif %}{% if p.fund %} · fund{% endif %}</span></td>
+        <span class="tick">{{ p.ticker or p.cusips|join(", ") }}{% if p.put_call %} · {{ p.put_call }} options{% endif %}{% if p.fund %} · fund{% endif %} · <a class="hist" href="{{ root }}m/{{ m.id }}/stock/{{ p.slug }}.html">history</a></span></td>
       <td class="num w"><span class="bar" style="width: {{ (p.weight / maxw * 70)|round|int }}px"></span><span class="wv">{{ p.weight|pct }}</span></td>
       <td class="num hide-s">{{ p.value|money }}</td>
       <td class="num hide-s">{{ "{:,}".format(p.shares) }}{% if p.unit == "PRN" %} prn{% endif %}</td>
+      <td class="num hide-s">{{ p.price|price }}</td>
       <td class="num">{% if p.first_filing %}<span title="Held in the firm's first 13F on file">{{ p.since_label }} or earlier</span>{% else %}{{ p.since_label }}{% endif %}</td>
       <td class="num chg {{ chg.kind if chg else '' }}">{% if chg %}{{ chg|move }}{% if chg.split %}<span class="split" title="Share count adjusted for a stock split">split</span>{% endif %}{% elif not q.prev %}First 13F{% endif %}</td>
     </tr>
   {% endfor %}
   </tbody>
-  <tfoot><tr><td>{{ q.positions|length }} positions</td><td class="num">100%</td><td class="num hide-s">{{ q.total|money }}</td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
+  <tfoot><tr><td>{{ q.positions|length }} positions</td><td class="num">100%</td><td class="num hide-s">{{ q.total|money }}</td><td class="hide-s"></td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
 </table>
-<p class="small">Weight is the position's share of the total value in this 13F, not of the whole fund. Change compares share counts with {{ q.prev.label if q.prev else "the previous quarter" }}, adjusted for stock splits.</p>
+<p class="small">Weight is the position's share of the total value in this 13F, not of the whole fund. Price is the value divided by the number of shares, so it's the price at the end of the quarter, as the firm reported it. Change compares share counts with {{ q.prev.label if q.prev else "the previous quarter" }}, adjusted for stock splits.</p>

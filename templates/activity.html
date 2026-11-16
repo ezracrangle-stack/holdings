@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}{{ m.name }}, {{ m.firm }}: every buy and sell{% endblock %}
+{% block description %}Every buy, add, reduction and sale in {{ m.firm }}'s 13F filings since {{ m.quarters[0].label }}.{% endblock %}
+{% block main %}
+<p class="crumb"><a href="{{ root }}m/{{ m.id }}.html">&larr; {{ m.name }}, latest 13F</a></p>
+<h1 class="page-title">{{ m.name }} · buys and sells</h1>
+<p class="firm-line big">{{ m.firm }}</p>
+<p class="dek">Every change in share count from one 13F to the next, newest first. Buy is a new position, Sell is a position sold out, and Add or Reduce is the change in the number of shares.</p>
+
+{% for q in m.quarters|reverse if q.prev %}
+  {% set moved = q.changes|rejectattr("kind", "equalto", "same")|list %}
+  <h2 class="rule-head"><a href="{{ root }}m/{{ m.id }}/{{ q.slug }}.html">{{ q.label }}</a> <span class="rh-note">filed {{ q.filed|short }}</span></h2>
+  {% if moved %}
+  <table class="htable fixed">
+    <colgroup><col class="c-act"><col><col class="c-sh hide-s"><col class="c-w"><col class="c-p hide-s"></colgroup>
+    <thead><tr><th scope="col">Activity</th><th scope="col">Stock</th><th scope="col" class="num hide-s">Shares</th><th scope="col" class="num">Weight</th><th scope="col" class="num hide-s">Price</th></tr></thead>
+    <tbody>
+    {% for c in moved %}
+      <tr>
+        <td class="act {{ c.kind }}">{{ c|move }}{% if c.split %}<span class="split">after split</span>{% endif %}</td>
+        <td class="co"><a href="{{ root }}m/{{ m.id }}/stock/{{ c.slug }}.html">{{ c.name }}</a><span class="tick">{{ c.ticker or "" }}{% if c.put_call %} · {{ c.put_call }} options{% endif %}</span></td>
+        <td class="num hide-s">{% if c.kind == "new" %}{{ "{:,}".format(c.shares) }}{% elif c.kind == "sold" %}{{ "{:,}".format(c.prev_shares) }} &rarr; 0{% else %}{{ "{:,}".format(c.prev_shares) }} &rarr; {{ "{:,}".format(c.shares) }}{% endif %}</td>
+        <td class="num">{% if c.kind == "sold" %}was {{ c.prev_weight|pct }}{% else %}{{ c.weight|pct }}{% endif %}</td>
+        <td class="num hide-s">{{ c.price|price if c.kind != "sold" }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="small">No changes in share counts.</p>
+  {% endif %}
+{% endfor %}
+
+<h2 class="rule-head">{{ m.quarters[0].label }} <span class="rh-note">first 13F on file</span></h2>
+<p class="small">The starting portfolio: {% for p in m.quarters[0].positions %}<a href="{{ root }}m/{{ m.id }}/stock/{{ p.slug }}.html">{{ p.name }}</a> {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}.</p>
+
+{% include "_caveat.html" %}
+{% endblock %}

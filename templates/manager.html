@@ -56,6 +56,7 @@
 
 <h2 class="rule-head">What changed{% if q.prev %} from {{ q.prev.label }}{% endif %}</h2>
 {% include "_changes.html" %}
+<p class="crosslink"><a href="{{ root }}m/{{ m.id }}/activity.html">Every buy and sell since {{ m.quarters[0].label }} &rarr;</a></p>
 
 <h2 class="rule-head">Every quarter on file</h2>
 <table class="htable history">

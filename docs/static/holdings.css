@@ -76,3 +76,14 @@
 }
 
 @media (max-width: 560px) { .hm-grid { grid-template-columns: 120px repeat(var(--cols), minmax(11px, 1fr)); } }
+
+/* Activity and stock history */
+.act { white-space: nowrap; font: 13px/1.5 var(--head); letter-spacing: .02em; }
+.act.sold, .act.trimmed { color: var(--mute); }
+.act .split { font-family: var(--body); letter-spacing: 0; }
+.rule-head a { text-decoration: none; }
+.rh-note { font: italic 14px var(--body); text-transform: none; letter-spacing: 0; color: var(--mute); margin-left: 6px; }
+.htable .co .tick .hist { color: inherit; font-weight: 400; font-size: 13px; }
+.htable.fixed { table-layout: fixed; }
+.c-act { width: 120px; } .c-sh { width: 190px; } .c-w { width: 90px; } .c-p { width: 110px; }
+@media (max-width: 560px) { .c-act { width: 96px; } .c-w { width: 76px; } col.hide-s { display: none; } }

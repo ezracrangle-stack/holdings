@@ -74,6 +74,7 @@ def positions(filing, securities, unknown):
     total = sum(p["value"] for p in out.values()) or 1
     for p in out.values():
         p["weight"] = p["value"] / total
+        p["price"] = p["value"] / p["shares"] if p["shares"] and p["unit"] == "SH" and not p["put_call"] else None
         p["cusips"] = sorted(p["cusips"])
     return sorted(out.values(), key=lambda p: -p["value"]), total
 
@@ -161,6 +162,23 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
             p["first_filing"] = since == quarters[0]["period"]
     m["quarters"] = quarters
     m["latest"] = quarters[-1] if quarters else None
+    # every quarter of every holding, with what the manager did: the "History" pages
+    history = {}
+    for i, q in enumerate(quarters):
+        moves = {c["key"]: c for c in q["changes"]}
+        for p in q["positions"]:
+            c = moves.get(p["key"])
+            row = dict(p, q=q, kind=c["kind"] if c else ("first" if i == 0 else "new"),
+                       pct=c["pct"] if c else None, split=c.get("split") if c else None)
+            history.setdefault(p["slug"], {"name": p["name"], "slug": p["slug"], "fund": p["fund"],
+                                           "ticker": p["ticker"], "rows": []})["rows"].append(row)
+        for c in q["changes"]:
+            if c["kind"] == "sold":
+                history[c["slug"]]["rows"].append(dict(c, q=q, price=None))
+    for h in history.values():
+        h["rows"].sort(key=lambda r: (r["q"]["period"], r["put_call"] or ""), reverse=True)
+        h["held_now"] = any(r["q"] is m["latest"] and r["kind"] != "sold" for r in h["rows"])
+    m["history"] = history
     return m
 
 

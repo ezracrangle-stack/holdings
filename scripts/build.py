@@ -55,13 +55,21 @@ def short_date(iso):
 
 
 def move_label(c):
-    if c["kind"] == "new":
-        return "New"
-    if c["kind"] == "sold":
-        return "Sold out"
-    if c["kind"] == "same":
+    """Same words as most 13F trackers: Buy, Add, Reduce, Sell."""
+    k = c["kind"]
+    if k == "new":
+        return "Buy"
+    if k == "sold":
+        return "Sell"
+    if k == "first":
+        return "First 13F"
+    if k == "same" or c.get("pct") is None:
         return "No change"
-    return pct(c["pct"], signed=True)
+    return f"{'Add' if k == 'added' else 'Reduce'} {abs(c['pct']) * 100:.0f}%"
+
+
+def price(v):
+    return f"${v:,.2f}" if v else ""
 
 
 STEPS = [(0.20, 6), (0.15, 5), (0.10, 4), (0.05, 3), (0.025, 2), (0, 1)]
@@ -171,7 +179,7 @@ def build():
     last_run = json.loads(run_path.read_text(encoding="utf-8")).get("last_run") if run_path.exists() else None
 
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
-    env.filters.update(money=money, pct=pct, date=pretty_date, short=short_date, move=move_label)
+    env.filters.update(money=money, pct=pct, date=pretty_date, short=short_date, move=move_label, price=price)
     asset_v = hashlib.md5(b"".join((ROOT / "static" / f).read_bytes()
                                    for f in ("style.css", "holdings.css"))).hexdigest()[:8]
     common = dict(asset_v=asset_v, ga_id=GA_ID, site_url=SITE_URL, letters_url=LETTERS_URL,
@@ -199,6 +207,10 @@ def build():
     for m in managers:
         render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies,
                grid=timeline(m), step_labels=STEP_LABELS)
+        render("activity.html", f"m/{m['id']}/activity.html", "../../", m=m, companies=companies)
+        for h in m["history"].values():
+            render("stock_history.html", f"m/{m['id']}/stock/{h['slug']}.html", "../../../", m=m, h=h,
+                   companies=companies)
         for q in m["quarters"]:
             render("quarter.html", f"m/{m['id']}/{q['slug']}.html", "../../", m=m, q=q, companies=companies)
     for c in companies.values():
