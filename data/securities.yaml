@@ -3463,3 +3463,65 @@
 "G96629103": {name: "Willis Towers Watson", ticker: "WTW", sic: 6411}
 "989701107": {name: "Zions Bancorporation", ticker: "ZION", sector: "Financials & real estate"}
 "M5R75Y101": {name: "ironSource", ticker: "IS", sector: "Technology", note: "Merged with Unity in 2022."}
+
+# Thomas Gayner, Wallace Weitz and Yacktman
+"004498101": {name: "ACI Worldwide", ticker: "ACIW", sector: "Technology"}
+"03062T105": {name: "America's Car-Mart", ticker: "CRMT", sector: "Consumer discretionary"}
+"039653100": {name: "Arcosa", ticker: "ACA", sector: "Industrials"}
+"04247X102": {name: "Armstrong World Industries", ticker: "AWI", sic: 3089}
+"90662P104": {name: "Atlantic Union Bankshares", ticker: "AUB", sector: "Financials & real estate", note: "Called Union First Market Bankshares until 2014."}
+"605051044": {name: "Bank of America", ticker: "BAC", sector: "Financials & real estate", note: "Filed with a mistyped CUSIP; the line is common shares."}
+"T19377109": {name: "Bending Spoons", ticker: "BSP", sector: "Technology"}
+"09073M104": {name: "Bio-Techne", ticker: "TECH", sector: "Health care"}
+"10316T104": {name: "Box", ticker: "BOX", sic: 7372}
+"14316J108": {name: "Carlyle Group", ticker: "CG", sic: 6282}
+"20539A105": {name: "Computer Services", ticker: "CSVI", sector: "Technology"}
+"231082108": {name: "Cumulus Media", ticker: "CMLS", sector: "Media & telecom"}
+"214199105": {name: "Deere", ticker: "DE", sic: 3523}
+"25659T107": {name: "Dolby Laboratories", ticker: "DLB", sic: 6794}
+"26484T106": {name: "Dun & Bradstreet", ticker: "DNB", sector: "Industrials", note: "Taken private in 2025."}
+"94973V107": {name: "Elevance Health", ticker: "ANTM", sector: "Health care", note: "Called WellPoint until 2014."}
+"29082K105": {name: "Embecta", ticker: "EMBC", sic: 3841}
+"314211103": {name: "Federated Hermes", ticker: "FHI", sector: "Financials & real estate", note: "Called Federated Investors until 2020."}
+"81369Y605": {name: "Financial Select Sector SPDR Fund", ticker: "XLF", fund: yes}
+"32051X108": {name: "First Hawaiian", ticker: "FHB", sic: 6022}
+"33767D105": {name: "FirstCash", ticker: "FCFS", sic: 5900}
+"36116M106": {name: "FutureFuel", ticker: "FF", sic: 2860}
+"384313607": {name: "GrafTech", ticker: "EAF", sic: 3620}
+"447011107": {name: "Huntsman", ticker: "HUN", sic: 2800}
+"44967H101": {name: "ILG", ticker: "ILG", sector: "Consumer discretionary", note: "Bought by Marriott Vacations in 2018."}
+"46113M108": {name: "ILG", ticker: "IILG", sector: "Consumer discretionary", note: "Called Interval Leisure Group until 2016. Bought by Marriott Vacations in 2018."}
+"47102X105": {name: "Janus Capital", ticker: "JNS", sector: "Financials & real estate", note: "Merged with Henderson in 2017."}
+"513847103": {name: "Lancaster Colony", ticker: "LANC", sector: "Consumer staples"}
+"535919203": {name: "Lionsgate", ticker: "LGF.A", sector: "Media & telecom"}
+"607494101": {name: "MOCON", ticker: "MOCO", sector: "Technology", note: "Bought by Ametek in 2017."}
+"553530106": {name: "MSC Industrial Direct", ticker: "MSM", sic: 5084}
+"573083102": {name: "Martha Stewart Living Omnimedia", ticker: "MSO", sector: "Media & telecom", note: "Bought by Sequential Brands in 2015."}
+"594837304": {name: "Micro Focus", ticker: "MFGP", sector: "Technology", note: "Bought by OpenText in 2023."}
+"635309107": {name: "National CineMedia", ticker: "NCMI", sic: 7310}
+"65248E203": {name: "News Corp", ticker: "NWS", sector: "Media & telecom"}
+"H5919C104": {name: "On Holding", ticker: "ONON", sector: "Consumer discretionary"}
+"688823301": {name: "Otelco", ticker: "OTEL", sector: "Media & telecom", note: "Taken private in 2021."}
+"19259P300": {name: "Outerwall", ticker: "OUTR", sector: "Consumer discretionary", note: "Called Coinstar until 2013. Taken private in 2016."}
+"703395103": {name: "Patterson Companies", ticker: "PDCO", sector: "Health care", note: "Taken private in 2025."}
+"715347100": {name: "Perspecta", ticker: "PRSP", sector: "Technology", note: "Taken private in 2021."}
+"729251108": {name: "Plum Creek Timber", ticker: "PCL", sector: "Financials & real estate", note: "Merged with Weyerhaeuser in 2016."}
+"74347X849": {name: "ProShares Short 20+ Year Treasury", ticker: "TBF", fund: yes}
+"749607107": {name: "RLI", ticker: "RLI", sic: 6331}
+"750940108": {name: "Ralliant", ticker: "RAL", sic: 3823}
+"758075402": {name: "Redwood Trust", ticker: "RWT", sector: "Financials & real estate"}
+"758075AC9": {name: "Redwood Trust", ticker: "RWT.CV", sector: "Financials & real estate", kind: "convertible notes"}
+"758075AD7": {name: "Redwood Trust", ticker: "RWT.CV", sector: "Financials & real estate", kind: "convertible notes"}
+"759916109": {name: "Repligen", ticker: "RGEN", sector: "Health care"}
+"761195205": {name: "Resource America", ticker: "REXI", sector: "Financials & real estate", note: "Bought by C-III Capital in 2016."}
+"Y74718100": {name: "Samsung Electronics", ticker: "SSNLF", sector: "Technology"}
+"803062108": {name: "Sapient", ticker: "SAPE", sector: "Technology", note: "Bought by Publicis in 2015."}
+"810186106": {name: "Scotts Miracle-Gro", ticker: "SMG", sic: 2870}
+"894648104": {name: "Trecora Resources", ticker: "TREC", sector: "Materials", note: "Taken private in 2022."}
+"899896104": {name: "Tupperware", ticker: "TUP", sector: "Consumer discretionary", note: "Bankrupt in 2024."}
+"904767803": {name: "Unilever", ticker: "UL", sic: 2840}
+"92338C103": {name: "Veralto", ticker: "VLTO", sector: "Industrials"}
+"92936U109": {name: "W. P. Carey", ticker: "WPC", sic: 6798}
+"930059100": {name: "Waddell & Reed", ticker: "WDR", sector: "Financials & real estate", note: "Bought by Macquarie in 2021."}
+"983772104": {name: "XO Group", ticker: "XOXO", sector: "Media & telecom", note: "Bought by WeddingWire in 2018."}
+"464286772": {name: "iShares MSCI South Korea ETF", ticker: "EWY", fund: yes}

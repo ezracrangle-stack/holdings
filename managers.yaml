@@ -323,3 +323,24 @@ managers:
     cik: 1358706
     letters: no
     why: "David worked under Seth Klarman at Baupost before starting Abrams Capital in 1999. Loar, the aerospace parts maker he backed before its 2024 IPO, is 41% of the 13F."
+
+  - id: thomas-gayner
+    name: Thomas Gayner
+    firm: Markel Group
+    cik: 1096343
+    letters: no
+    why: "Tom has run Markel's stock portfolio since 1990 and became CEO in 2023. He wants profitable businesses, honest and able managers, room to reinvest and a fair price; 14 stocks, Berkshire, Visa and Home Depot among them, are in every 13F since 2013."
+
+  - id: wallace-weitz
+    name: Wallace Weitz
+    firm: Weitz Investment Management
+    cik: 883965
+    letters: no
+    why: "Wally started Weitz in Omaha in 1983 and moved over the years from cheap stocks toward quality businesses. Berkshire, Alphabet, Aon and Texas Instruments are in every 13F since 2013."
+
+  - id: yacktman-asset-management
+    name: Yacktman Asset Management
+    firm: Yacktman Asset Management
+    cik: 905567
+    letters: no
+    why: "Don Yacktman founded the firm in 1992; his son Stephen and Jason Subotky run it now. They buy shareholder-friendly businesses at a discount, and Berkshire, Coca-Cola, PepsiCo and Procter & Gamble are in every 13F since 2013."

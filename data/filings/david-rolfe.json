@@ -16780,6 +16780,193 @@
    "table_total": 484433173,
    "first_seen": "2026-11-16T04:09:49+00:00",
    "backfill": false
+  },
+  {
+   "accession": "0000859804-26-000008",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 859804,
+   "url": "https://www.sec.gov/Archives/edgar/data/859804/000085980426000008/0000859804-26-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "WEDGEWOOD PARTNERS INC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 63801,
+     "unit": "SH",
+     "value": 46267474
+    },
+    {
+     "cusip": "874039100",
+     "put_call": null,
+     "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+     "class": "SPONSORED ADS",
+     "shares": 96645,
+     "unit": "SH",
+     "value": 44088587
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 81910,
+     "unit": "SH",
+     "value": 42011665
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 116464,
+     "unit": "SH",
+     "value": 40072883
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 119494,
+     "unit": "SH",
+     "value": 39793732
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 152234,
+     "unit": "SH",
+     "value": 37929101
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82347,
+     "unit": "SH",
+     "value": 29589690
+    },
+    {
+     "cusip": "620076307",
+     "put_call": null,
+     "issuer": "MOTOROLA SOLUTIONS INC",
+     "class": "COM NEW",
+     "shares": 60036,
+     "unit": "SH",
+     "value": 26774122
+    },
+    {
+     "cusip": "H1467J104",
+     "put_call": null,
+     "issuer": "CHUBB LIMITED",
+     "class": "COM",
+     "shares": 62262,
+     "unit": "SH",
+     "value": 20250732
+    },
+    {
+     "cusip": "743315103",
+     "put_call": null,
+     "issuer": "PROGRESSIVE CORP",
+     "class": "COM",
+     "shares": 97025,
+     "unit": "SH",
+     "value": 20114289
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 122067,
+     "unit": "SH",
+     "value": 19885982
+    },
+    {
+     "cusip": "679580100",
+     "put_call": null,
+     "issuer": "OLD DOMINION FREIGHT LINE IN",
+     "class": "COM",
+     "shares": 100890,
+     "unit": "SH",
+     "value": 17538738
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 15320,
+     "unit": "SH",
+     "value": 15331607
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "OREILLY AUTOMOTIVE INC",
+     "class": "COM",
+     "shares": 158029,
+     "unit": "SH",
+     "value": 13497257
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 151007,
+     "unit": "SH",
+     "value": 13034924
+    },
+    {
+     "cusip": "872540109",
+     "put_call": null,
+     "issuer": "TJX COS INC NEW",
+     "class": "COM",
+     "shares": 90105,
+     "unit": "SH",
+     "value": 11921793
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 28590,
+     "unit": "SH",
+     "value": 11277871
+    },
+    {
+     "cusip": "889478103",
+     "put_call": null,
+     "issuer": "TOLL BROTHERS INC",
+     "class": "COM",
+     "shares": 82265,
+     "unit": "SH",
+     "value": 11085162
+    },
+    {
+     "cusip": "464287614",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "RUS 1000 GRW ETF",
+     "shares": 2162,
+     "unit": "SH",
+     "value": 270812
+    }
+   ],
+   "table_total": 460736421,
+   "first_seen": "2026-11-16T21:09:18+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "WEDGEWOOD PARTNERS INC"

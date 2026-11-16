@@ -24585,6 +24585,292 @@
    "table_total": 299253556246,
    "first_seen": "2026-11-16T04:29:09+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001193125-26-463399",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1067983,
+   "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526463399/0001193125-26-463399-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Berkshire Hathaway Inc",
+   "holdings": [
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 227917808,
+     "unit": "SH",
+     "value": 75901188420
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 151610700,
+     "unit": "SH",
+     "value": 46104813870
+    },
+    {
+     "cusip": "191216100",
+     "put_call": null,
+     "issuer": "COCA COLA CO",
+     "class": "COM",
+     "shares": 400000000,
+     "unit": "SH",
+     "value": 34432000000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 78791167,
+     "unit": "SH",
+     "value": 27110464741
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMER CORP",
+     "class": "COM",
+     "shares": 455860908,
+     "unit": "SH",
+     "value": 24812509222
+    },
+    {
+     "cusip": "166764100",
+     "put_call": null,
+     "issuer": "CHEVRON CORPORATION",
+     "class": "COM",
+     "shares": 84375856,
+     "unit": "SH",
+     "value": 17230393553
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 264941431,
+     "unit": "SH",
+     "value": 14656559963
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 24669778,
+     "unit": "SH",
+     "value": 11203286284
+    },
+    {
+     "cusip": "H1467J104",
+     "put_call": null,
+     "issuer": "CHUBB LIMITED",
+     "class": "COM",
+     "shares": 34249183,
+     "unit": "SH",
+     "value": 11139546771
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 27188433,
+     "unit": "SH",
+     "value": 9264186660
+    },
+    {
+     "cusip": "500754106",
+     "put_call": null,
+     "issuer": "KRAFT HEINZ CO",
+     "class": "COM",
+     "shares": 325634818,
+     "unit": "SH",
+     "value": 7398423065
+    },
+    {
+     "cusip": "247361702",
+     "put_call": null,
+     "issuer": "DELTA AIR LINES INC",
+     "class": "COM NEW",
+     "shares": 64450000,
+     "unit": "SH",
+     "value": 5378997000
+    },
+    {
+     "cusip": "23918K108",
+     "put_call": null,
+     "issuer": "DAVITA INC",
+     "class": "COM",
+     "shares": 28697229,
+     "unit": "SH",
+     "value": 5019719296
+    },
+    {
+     "cusip": "829933100",
+     "put_call": null,
+     "issuer": "SIRIUSXM HOLDINGS INC",
+     "class": "COMMON STOCK",
+     "shares": 124807117,
+     "unit": "SH",
+     "value": 3230008188
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 26034436,
+     "unit": "SH",
+     "value": 2124149633
+    },
+    {
+     "cusip": "501044101",
+     "put_call": null,
+     "issuer": "KROGER CO",
+     "class": "COM",
+     "shares": 35000000,
+     "unit": "SH",
+     "value": 2051700000
+    },
+    {
+     "cusip": "92343E102",
+     "put_call": null,
+     "issuer": "VERISIGN INC",
+     "class": "COM",
+     "shares": 5922136,
+     "unit": "SH",
+     "value": 1670101573
+    },
+    {
+     "cusip": "530909308",
+     "put_call": null,
+     "issuer": "LIBERTY LIVE HOLDINGS INC",
+     "class": "COM SHS SER C",
+     "shares": 10587143,
+     "unit": "SH",
+     "value": 1029599657
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 27000000,
+     "unit": "SH",
+     "value": 1015740001
+    },
+    {
+     "cusip": "650111107",
+     "put_call": null,
+     "issuer": "NEW YORK TIMES CO MTN BE",
+     "class": "CL A",
+     "shares": 15700000,
+     "unit": "SH",
+     "value": 1000090000
+    },
+    {
+     "cusip": "T19377109",
+     "put_call": null,
+     "issuer": "BENDING SPOONS SPA",
+     "class": "COM SHS",
+     "shares": 20689655,
+     "unit": "SH",
+     "value": 689379305
+    },
+    {
+     "cusip": "530909100",
+     "put_call": null,
+     "issuer": "LIBERTY LIVE HOLDINGS INC",
+     "class": "COM SER A",
+     "shares": 4986588,
+     "unit": "SH",
+     "value": 471930689
+    },
+    {
+     "cusip": "670346105",
+     "put_call": null,
+     "issuer": "NUCOR CORP",
+     "class": "COM",
+     "shares": 1580776,
+     "unit": "SH",
+     "value": 369506390
+    },
+    {
+     "cusip": "546347105",
+     "put_call": null,
+     "issuer": "LOUISIANA PAC CORP",
+     "class": "COM",
+     "shares": 5664793,
+     "unit": "SH",
+     "value": 365662388
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 1150000,
+     "unit": "SH",
+     "value": 222030500
+    },
+    {
+     "cusip": "55616P104",
+     "put_call": null,
+     "issuer": "MACYS INC",
+     "class": "COM",
+     "shares": 7538800,
+     "unit": "SH",
+     "value": 171658476
+    },
+    {
+     "cusip": "62944T105",
+     "put_call": null,
+     "issuer": "NVR INC",
+     "class": "COM",
+     "shares": 11112,
+     "unit": "SH",
+     "value": 68387582
+    },
+    {
+     "cusip": "526057302",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL B",
+     "shares": 553000,
+     "unit": "SH",
+     "value": 44234470
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "COM",
+     "shares": 433558,
+     "unit": "SH",
+     "value": 19826607
+    },
+    {
+     "cusip": "23331A109",
+     "put_call": null,
+     "issuer": "D R HORTON INC",
+     "class": "COM",
+     "shares": 3564,
+     "unit": "SH",
+     "value": 487021
+    }
+   ],
+   "table_total": 304196581325,
+   "first_seen": "2026-11-16T21:09:21+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "BERKSHIRE HATHAWAY INC"

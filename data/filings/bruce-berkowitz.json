@@ -8248,6 +8248,148 @@
    "table_total": 1489888626,
    "first_seen": "2026-11-16T04:09:21+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0000919574-26-008096",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1056831,
+   "url": "https://www.sec.gov/Archives/edgar/data/1056831/000091957426008096/0000919574-26-008096-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "FAIRHOLME CAPITAL MANAGEMENT LLC",
+   "holdings": [
+    {
+     "cusip": "790148100",
+     "put_call": null,
+     "issuer": "ST JOE CO",
+     "class": "COM",
+     "shares": 18182367,
+     "unit": "SH",
+     "value": 1196036101
+    },
+    {
+     "cusip": "293792107",
+     "put_call": null,
+     "issuer": "ENTERPRISE PRODS PARTNERS L",
+     "class": "COM",
+     "shares": 5458600,
+     "unit": "SH",
+     "value": 194380746
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 100372,
+     "unit": "SH",
+     "value": 49980237
+    },
+    {
+     "cusip": "06417N103",
+     "put_call": null,
+     "issuer": "BANK OZK",
+     "class": "COM",
+     "shares": 921452,
+     "unit": "SH",
+     "value": 42349943
+    },
+    {
+     "cusip": "084423102",
+     "put_call": null,
+     "issuer": "WR BERKLEY CORP",
+     "class": "COM",
+     "shares": 256350,
+     "unit": "SH",
+     "value": 17313879
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 21,
+     "unit": "SH",
+     "value": 15687105
+    },
+    {
+     "cusip": "743315103",
+     "put_call": null,
+     "issuer": "PROGRESSIVE CORP",
+     "class": "COM",
+     "shares": 72200,
+     "unit": "SH",
+     "value": 14967782
+    },
+    {
+     "cusip": "717081103",
+     "put_call": null,
+     "issuer": "PFIZER INC",
+     "class": "COM",
+     "shares": 231000,
+     "unit": "SH",
+     "value": 6588120
+    },
+    {
+     "cusip": "500754106",
+     "put_call": null,
+     "issuer": "KRAFT HEINZ CO",
+     "class": "COM",
+     "shares": 202300,
+     "unit": "SH",
+     "value": 4596256
+    },
+    {
+     "cusip": "134429109",
+     "put_call": null,
+     "issuer": "THE CAMPBELLS COMPANY",
+     "class": "COM",
+     "shares": 116500,
+     "unit": "SH",
+     "value": 2310195
+    },
+    {
+     "cusip": "125269100",
+     "put_call": null,
+     "issuer": "CF INDUSTRIES HOLD",
+     "class": "COM",
+     "shares": 19900,
+     "unit": "SH",
+     "value": 2292480
+    },
+    {
+     "cusip": "911312106",
+     "put_call": null,
+     "issuer": "UNITED PARCEL SVCS INC",
+     "class": "CL B",
+     "shares": 23800,
+     "unit": "SH",
+     "value": 2223872
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 2400,
+     "unit": "SH",
+     "value": 799248
+    },
+    {
+     "cusip": "436893200",
+     "put_call": null,
+     "issuer": "HOME BANCSHARES INC",
+     "class": "COM",
+     "shares": 12100,
+     "unit": "SH",
+     "value": 340978
+    }
+   ],
+   "table_total": 1549866942,
+   "first_seen": "2026-11-16T21:09:20+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "FAIRHOLME CAPITAL MANAGEMENT LLC"
