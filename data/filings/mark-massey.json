@@ -1,0 +1,4146 @@
+{
+ "filings": [
+  {
+   "accession": "0001144204-15-009538",
+   "form": "13F-HR",
+   "filed": "2015-02-17",
+   "period": "2014-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420415009538/0001144204-15-009538-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM",
+     "class": "COMM",
+     "shares": 155084,
+     "unit": "SH",
+     "value": 30451000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL INC-SERIES C",
+     "class": "COMM",
+     "shares": 474707,
+     "unit": "SH",
+     "value": 22933000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC - CLASS A",
+     "class": "COMM",
+     "shares": 259690,
+     "unit": "SH",
+     "value": 22375000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 217416,
+     "unit": "SH",
+     "value": 20831000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC - CLASS A",
+     "class": "COMM",
+     "shares": 65344,
+     "unit": "SH",
+     "value": 17133000
+    },
+    {
+     "cusip": "25754A201",
+     "put_call": null,
+     "issuer": "DOMINOS PIZZA INC",
+     "class": "COMM",
+     "shares": 76498,
+     "unit": "SH",
+     "value": 7204000
+    }
+   ],
+   "table_total": 120927000,
+   "first_seen": "2026-11-16T18:41:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-15-030640",
+   "form": "13F-HR",
+   "filed": "2015-05-14",
+   "period": "2015-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420415030640/0001144204-15-030640-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM",
+     "class": "COMM",
+     "shares": 231750,
+     "unit": "SH",
+     "value": 50688000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 432216,
+     "unit": "SH",
+     "value": 44864000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL INC-SERIES C",
+     "class": "COMM",
+     "shares": 803394,
+     "unit": "SH",
+     "value": 40017000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC - CLASS A",
+     "class": "COMM",
+     "shares": 311690,
+     "unit": "SH",
+     "value": 26927000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC - CLASS A",
+     "class": "COMM",
+     "shares": 345076,
+     "unit": "SH",
+     "value": 22571000
+    },
+    {
+     "cusip": "16117M305",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 77850,
+     "unit": "SH",
+     "value": 15034000
+    }
+   ],
+   "table_total": 200101000,
+   "first_seen": "2026-11-16T18:41:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-15-049439",
+   "form": "13F-HR",
+   "filed": "2015-08-14",
+   "period": "2015-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420415049439/0001144204-15-049439-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 433621,
+     "unit": "SH",
+     "value": 97422000
+    },
+    {
+     "cusip": "16117M305",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 321085,
+     "unit": "SH",
+     "value": 54986000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 1057794,
+     "unit": "SH",
+     "value": 53556000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 466915,
+     "unit": "SH",
+     "value": 50408000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 395390,
+     "unit": "SH",
+     "value": 36961000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 280076,
+     "unit": "SH",
+     "value": 18807000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS",
+     "class": "COMM",
+     "shares": 33101,
+     "unit": "SH",
+     "value": 1376000
+    }
+   ],
+   "table_total": 313516000,
+   "first_seen": "2026-11-16T18:41:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-15-064631",
+   "form": "13F-HR",
+   "filed": "2015-11-12",
+   "period": "2015-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420415064631/0001144204-15-064631-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 619863,
+     "unit": "SH",
+     "value": 131665000
+    },
+    {
+     "cusip": "16117M305",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 501231,
+     "unit": "SH",
+     "value": 88141000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 734510,
+     "unit": "SH",
+     "value": 72129000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 1733964,
+     "unit": "SH",
+     "value": 71127000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 36381000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 250416,
+     "unit": "SH",
+     "value": 17444000
+    },
+    {
+     "cusip": "G5480U153",
+     "put_call": null,
+     "issuer": "LIBERTY LILAC GROUP - C",
+     "class": "COMM",
+     "shares": 46045,
+     "unit": "SH",
+     "value": 1577000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS",
+     "class": "COMM",
+     "shares": 27201,
+     "unit": "SH",
+     "value": 1074000
+    }
+   ],
+   "table_total": 419538000,
+   "first_seen": "2026-11-16T18:41:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-16-079521",
+   "form": "13F-HR",
+   "filed": "2016-02-08",
+   "period": "2015-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420416079521/0001144204-16-079521-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 695243,
+     "unit": "SH",
+     "value": 158828000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 2389833,
+     "unit": "SH",
+     "value": 97433000
+    },
+    {
+     "cusip": "16117M305",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 487331,
+     "unit": "SH",
+     "value": 89230000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 842370,
+     "unit": "SH",
+     "value": 84523000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 39303000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 250416,
+     "unit": "SH",
+     "value": 19420000
+    },
+    {
+     "cusip": "G5480U153",
+     "put_call": null,
+     "issuer": "LIBERTY LILAC GROUP - C",
+     "class": "COMM",
+     "shares": 46045,
+     "unit": "SH",
+     "value": 1980000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS",
+     "class": "COMM",
+     "shares": 27201,
+     "unit": "SH",
+     "value": 1186000
+    }
+   ],
+   "table_total": 491904000,
+   "first_seen": "2026-11-16T18:41:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-16-101496",
+   "form": "13F-HR",
+   "filed": "2016-05-13",
+   "period": "2016-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420416101496/0001144204-16-101496-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 730215,
+     "unit": "SH",
+     "value": 160896000
+    },
+    {
+     "cusip": "16117M305",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 557331,
+     "unit": "SH",
+     "value": 112821000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 2817133,
+     "unit": "SH",
+     "value": 105812000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1039799,
+     "unit": "SH",
+     "value": 100403000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 38149000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 21607000
+    },
+    {
+     "cusip": "G5480U153",
+     "put_call": null,
+     "issuer": "LIBERTY LILAC GROUP - C",
+     "class": "COMM",
+     "shares": 46045,
+     "unit": "SH",
+     "value": 1744000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS",
+     "class": "COMM",
+     "shares": 27201,
+     "unit": "SH",
+     "value": 1070000
+    }
+   ],
+   "table_total": 542500000,
+   "first_seen": "2026-11-16T18:41:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-16-119573",
+   "form": "13F-HR",
+   "filed": "2016-08-15",
+   "period": "2016-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420416119573/0001144204-16-119573-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 547937,
+     "unit": "SH",
+     "value": 125280000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 439148,
+     "unit": "SH",
+     "value": 115799000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 3527133,
+     "unit": "SH",
+     "value": 101052000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 992019,
+     "unit": "SH",
+     "value": 92962000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY CL B",
+     "class": "COMM",
+     "shares": 315375,
+     "unit": "SH",
+     "value": 45663000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 35549000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 20954000
+    },
+    {
+     "cusip": "G5480U153",
+     "put_call": null,
+     "issuer": "LIBERTY LILAC GROUP - C",
+     "class": "COMM",
+     "shares": 398745,
+     "unit": "SH",
+     "value": 12955000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS",
+     "class": "COMM",
+     "shares": 7201,
+     "unit": "SH",
+     "value": 255000
+    }
+   ],
+   "table_total": 550469000,
+   "first_seen": "2026-11-16T18:41:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-16-134252",
+   "form": "13F-HR",
+   "filed": "2016-11-14",
+   "period": "2016-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420416134252/0001144204-16-134252-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 547937,
+     "unit": "SH",
+     "value": 147927000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 439148,
+     "unit": "SH",
+     "value": 126966000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 965000,
+     "unit": "SH",
+     "value": 104490000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 3157834,
+     "unit": "SH",
+     "value": 104335000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 839826,
+     "unit": "SH",
+     "value": 68572000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 41084000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 23364000
+    },
+    {
+     "cusip": "G5480U153",
+     "put_call": null,
+     "issuer": "LIBERTY LILAC GROUP - C",
+     "class": "COMM",
+     "shares": 398745,
+     "unit": "SH",
+     "value": 11185000
+    }
+   ],
+   "table_total": 627923000,
+   "first_seen": "2026-11-16T18:41:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-17-008608",
+   "form": "13F-HR",
+   "filed": "2017-02-14",
+   "period": "2016-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420417008608/0001144204-17-008608-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 591504,
+     "unit": "SH",
+     "value": 147261000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 481637,
+     "unit": "SH",
+     "value": 138673000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1078336,
+     "unit": "SH",
+     "value": 101655000
+    },
+    {
+     "cusip": "741503403",
+     "put_call": null,
+     "issuer": "PRICELINE GROUP INC",
+     "class": "COMM",
+     "shares": 66213,
+     "unit": "SH",
+     "value": 97072000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 2585359,
+     "unit": "SH",
+     "value": 76785000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 689826,
+     "unit": "SH",
+     "value": 57269000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 403690,
+     "unit": "SH",
+     "value": 41681000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 22042000
+    }
+   ],
+   "table_total": 682438000,
+   "first_seen": "2026-11-16T18:41:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-17-027136",
+   "form": "13F-HR",
+   "filed": "2017-05-15",
+   "period": "2017-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420417027136/0001144204-17-027136-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "741503403",
+     "put_call": null,
+     "issuer": "PRICELINE GROUP INC",
+     "class": "COMM",
+     "shares": 79413,
+     "unit": "SH",
+     "value": 141353000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 385537,
+     "unit": "SH",
+     "value": 126194000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1082436,
+     "unit": "SH",
+     "value": 121276000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 536070,
+     "unit": "SH",
+     "value": 118021000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 686426,
+     "unit": "SH",
+     "value": 53541000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 44796000
+    },
+    {
+     "cusip": "G5480U120",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL CL C",
+     "class": "COMM",
+     "shares": 1254232,
+     "unit": "SH",
+     "value": 43948000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 25107000
+    }
+   ],
+   "table_total": 674236000,
+   "first_seen": "2026-11-16T18:41:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-17-042512",
+   "form": "13F-HR",
+   "filed": "2017-08-11",
+   "period": "2017-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420417042512/0001144204-17-042512-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 572164,
+     "unit": "SH",
+     "value": 153838000
+    },
+    {
+     "cusip": "741503403",
+     "put_call": null,
+     "issuer": "PRICELINE GROUP INC",
+     "class": "COMM",
+     "shares": 79413,
+     "unit": "SH",
+     "value": 148544000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 410537,
+     "unit": "SH",
+     "value": 138289000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1082436,
+     "unit": "SH",
+     "value": 131711000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 686426,
+     "unit": "SH",
+     "value": 62808000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 48372000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 26494000
+    }
+   ],
+   "table_total": 710056000,
+   "first_seen": "2026-11-16T18:41:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-17-058656",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420417058656/0001144204-17-058656-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 646531,
+     "unit": "SH",
+     "value": 165286000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1082436,
+     "unit": "SH",
+     "value": 150686000
+    },
+    {
+     "cusip": "741503403",
+     "put_call": null,
+     "issuer": "PRICELINE GROUP INC",
+     "class": "COMM",
+     "shares": 79413,
+     "unit": "SH",
+     "value": 145391000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 232573,
+     "unit": "SH",
+     "value": 84522000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 56239000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 686426,
+     "unit": "SH",
+     "value": 51997000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 29732000
+    }
+   ],
+   "table_total": 683853000,
+   "first_seen": "2026-11-16T18:41:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-18-007671",
+   "form": "13F-HR",
+   "filed": "2018-02-13",
+   "period": "2017-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420418007671/0001144204-18-007671-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "741503403",
+     "put_call": null,
+     "issuer": "PRICELINE GROUP INC",
+     "class": "COMM",
+     "shares": 94263,
+     "unit": "SH",
+     "value": 163805000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 579531,
+     "unit": "SH",
+     "value": 159151000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 438103,
+     "unit": "SH",
+     "value": 147185000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 966907,
+     "unit": "SH",
+     "value": 142725000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 60285000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 686426,
+     "unit": "SH",
+     "value": 55896000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 32212000
+    }
+   ],
+   "table_total": 761259000,
+   "first_seen": "2026-11-16T18:41:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-18-028197",
+   "form": "13F-HR",
+   "filed": "2018-05-14",
+   "period": "2018-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420418028197/0001144204-18-028197-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COMM",
+     "shares": 102183,
+     "unit": "SH",
+     "value": 212580000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 589514,
+     "unit": "SH",
+     "value": 183469000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 534431,
+     "unit": "SH",
+     "value": 164038000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 966907,
+     "unit": "SH",
+     "value": 155962000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 69764000
+    },
+    {
+     "cusip": "929740108",
+     "put_call": null,
+     "issuer": "WABTEC",
+     "class": "COMM",
+     "shares": 666426,
+     "unit": "SH",
+     "value": 54247000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 33795000
+    }
+   ],
+   "table_total": 873855000,
+   "first_seen": "2026-11-16T18:41:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-18-043728",
+   "form": "13F-HR",
+   "filed": "2018-08-13",
+   "period": "2018-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420418043728/0001144204-18-043728-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COMM",
+     "shares": 103483,
+     "unit": "SH",
+     "value": 209769000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 686398,
+     "unit": "SH",
+     "value": 201259000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 534431,
+     "unit": "SH",
+     "value": 184454000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 966907,
+     "unit": "SH",
+     "value": 164916000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 333079,
+     "unit": "SH",
+     "value": 91120000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 78272000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 37419000
+    }
+   ],
+   "table_total": 967209000,
+   "first_seen": "2026-11-16T18:41:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-18-059158",
+   "form": "13F-HR",
+   "filed": "2018-11-13",
+   "period": "2018-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420418059158/0001144204-18-059158-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 766598,
+     "unit": "SH",
+     "value": 249819000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COMM",
+     "shares": 120083,
+     "unit": "SH",
+     "value": 238245000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 534431,
+     "unit": "SH",
+     "value": 198969000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 966907,
+     "unit": "SH",
+     "value": 161667000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 313629,
+     "unit": "SH",
+     "value": 108930000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 398290,
+     "unit": "SH",
+     "value": 88663000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 42403000
+    }
+   ],
+   "table_total": 1088696000,
+   "first_seen": "2026-11-16T18:41:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-19-007801",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420419007801/0001144204-19-007801-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 859850,
+     "unit": "SH",
+     "value": 245031000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 642485,
+     "unit": "SH",
+     "value": 218483000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1130261,
+     "unit": "SH",
+     "value": 158282000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 308729,
+     "unit": "SH",
+     "value": 106305000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 396940,
+     "unit": "SH",
+     "value": 74883000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 37275000
+    }
+   ],
+   "table_total": 840259000,
+   "first_seen": "2026-11-16T18:41:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-19-026028",
+   "form": "13F-HR",
+   "filed": "2019-05-14",
+   "period": "2019-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420419026028/0001144204-19-026028-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 859850,
+     "unit": "SH",
+     "value": 298291000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 642485,
+     "unit": "SH",
+     "value": 291682000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1130261,
+     "unit": "SH",
+     "value": 204679000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 308729,
+     "unit": "SH",
+     "value": 119879000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 396940,
+     "unit": "SH",
+     "value": 93460000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 44126000
+    }
+   ],
+   "table_total": 1052117000,
+   "first_seen": "2026-11-16T18:41:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001144204-19-039893",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000114420419039893/0001144204-19-039893-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 954166,
+     "unit": "SH",
+     "value": 377067000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 605924,
+     "unit": "SH",
+     "value": 293146000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1130261,
+     "unit": "SH",
+     "value": 220751000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 308729,
+     "unit": "SH",
+     "value": 114020000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 396940,
+     "unit": "SH",
+     "value": 105003000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 282516,
+     "unit": "SH",
+     "value": 49031000
+    }
+   ],
+   "table_total": 1159018000,
+   "first_seen": "2026-11-16T18:41:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-19-064570",
+   "form": "13F-HR",
+   "filed": "2019-11-15",
+   "period": "2019-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465919064570/0001104659-19-064570-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1081554,
+     "unit": "SH",
+     "value": 445730000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 584924,
+     "unit": "SH",
+     "value": 304552000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1050261,
+     "unit": "SH",
+     "value": 215125000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 396940,
+     "unit": "SH",
+     "value": 107797000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 251516,
+     "unit": "SH",
+     "value": 43263000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 93918,
+     "unit": "SH",
+     "value": 37427000
+    }
+   ],
+   "table_total": 1153894000,
+   "first_seen": "2026-11-16T18:41:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-20-020035",
+   "form": "13F-HR",
+   "filed": "2020-02-13",
+   "period": "2019-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465920020035/0001104659-20-020035-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1081554,
+     "unit": "SH",
+     "value": 524640000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 584924,
+     "unit": "SH",
+     "value": 327557000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 230000,
+     "unit": "SH",
+     "value": 308060000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1050261,
+     "unit": "SH",
+     "value": 249342000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 396940,
+     "unit": "SH",
+     "value": 118522000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 251516,
+     "unit": "SH",
+     "value": 47260000
+    },
+    {
+     "cusip": "67103H107",
+     "put_call": null,
+     "issuer": "O'REILLY AUTO PARTS",
+     "class": "COMM",
+     "shares": 93918,
+     "unit": "SH",
+     "value": 41161000
+    }
+   ],
+   "table_total": 1616542000,
+   "first_seen": "2026-11-16T18:41:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-20-060577",
+   "form": "13F-HR",
+   "filed": "2020-05-13",
+   "period": "2020-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465920060577/0001104659-20-060577-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1095554,
+     "unit": "SH",
+     "value": 478001000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 290943,
+     "unit": "SH",
+     "value": 338061000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1010067,
+     "unit": "SH",
+     "value": 323413000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1485724,
+     "unit": "SH",
+     "value": 314231000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 361940,
+     "unit": "SH",
+     "value": 87430000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 208516,
+     "unit": "SH",
+     "value": 33596000
+    }
+   ],
+   "table_total": 1574732000,
+   "first_seen": "2026-11-16T18:41:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-20-094776",
+   "form": "13F-HR",
+   "filed": "2020-08-13",
+   "period": "2020-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465920094776/0001104659-20-094776-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1151106,
+     "unit": "SH",
+     "value": 587110000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1192332,
+     "unit": "SH",
+     "value": 527070000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 360243,
+     "unit": "SH",
+     "value": 510843000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 735494,
+     "unit": "SH",
+     "value": 202062000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 411940,
+     "unit": "SH",
+     "value": 121811000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8516,
+     "unit": "SH",
+     "value": 1645000
+    }
+   ],
+   "table_total": 1950541000,
+   "first_seen": "2026-11-16T18:41:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-20-125016",
+   "form": "13F-HR",
+   "filed": "2020-11-13",
+   "period": "2020-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465920125016/0001104659-20-125016-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1095411,
+     "unit": "SH",
+     "value": 683909000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1224961,
+     "unit": "SH",
+     "value": 582003000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 360885,
+     "unit": "SH",
+     "value": 528913000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 664855,
+     "unit": "SH",
+     "value": 192708000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 386940,
+     "unit": "SH",
+     "value": 130851000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8516,
+     "unit": "SH",
+     "value": 1703000
+    }
+   ],
+   "table_total": 2120087000,
+   "first_seen": "2026-11-16T18:41:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-022740",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465921022740/0001104659-21-022740-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1025525,
+     "unit": "SH",
+     "value": 634646000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 894688,
+     "unit": "SH",
+     "value": 591881000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 319916,
+     "unit": "SH",
+     "value": 560698000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "COMM",
+     "shares": 1711882,
+     "unit": "SH",
+     "value": 467618000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 228668,
+     "unit": "SH",
+     "value": 66369000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 176249,
+     "unit": "SH",
+     "value": 62910000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8514,
+     "unit": "SH",
+     "value": 1862000
+    }
+   ],
+   "table_total": 2385984000,
+   "first_seen": "2026-11-16T18:41:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-066668",
+   "form": "13F-HR",
+   "filed": "2021-05-14",
+   "period": "2021-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465921066668/0001104659-21-066668-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 319916,
+     "unit": "SH",
+     "value": 659833000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "COMM",
+     "shares": 2177682,
+     "unit": "SH",
+     "value": 641393000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1032139,
+     "unit": "SH",
+     "value": 636850000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 952563,
+     "unit": "SH",
+     "value": 560031000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 228668,
+     "unit": "SH",
+     "value": 68283000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 176249,
+     "unit": "SH",
+     "value": 62753000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8514,
+     "unit": "SH",
+     "value": 1803000
+    }
+   ],
+   "table_total": 2630946000,
+   "first_seen": "2026-11-16T18:41:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-104970",
+   "form": "13F-HR",
+   "filed": "2021-08-13",
+   "period": "2021-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465921104970/0001104659-21-104970-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1204513,
+     "unit": "SH",
+     "value": 868996000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1256182,
+     "unit": "SH",
+     "value": 813114000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 319916,
+     "unit": "SH",
+     "value": 781168000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "COMM",
+     "shares": 2235182,
+     "unit": "SH",
+     "value": 777195000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 823333,
+     "unit": "SH",
+     "value": 223041000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 228668,
+     "unit": "SH",
+     "value": 82862000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 176249,
+     "unit": "SH",
+     "value": 64347000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8514,
+     "unit": "SH",
+     "value": 1991000
+    }
+   ],
+   "table_total": 3612714000,
+   "first_seen": "2026-11-16T18:41:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-138975",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465921138975/0001104659-21-138975-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1189663,
+     "unit": "SH",
+     "value": 865551000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1326182,
+     "unit": "SH",
+     "value": 828293000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 285876,
+     "unit": "SH",
+     "value": 764295000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "COMM",
+     "shares": 1936038,
+     "unit": "SH",
+     "value": 657072000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1720176,
+     "unit": "SH",
+     "value": 484952000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 176249,
+     "unit": "SH",
+     "value": 61278000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 123310,
+     "unit": "SH",
+     "value": 43789000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 8514,
+     "unit": "SH",
+     "value": 1896000
+    }
+   ],
+   "table_total": 3707127000,
+   "first_seen": "2026-11-16T18:41:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-022401",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465922022401/0001104659-22-022401-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 1349477,
+     "unit": "SH",
+     "value": 879819000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1351054,
+     "unit": "SH",
+     "value": 859649000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 288376,
+     "unit": "SH",
+     "value": 835437000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1720176,
+     "unit": "SH",
+     "value": 578530000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 1496102,
+     "unit": "SH",
+     "value": 324220000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "COMM",
+     "shares": 529189,
+     "unit": "SH",
+     "value": 177993000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 251249,
+     "unit": "SH",
+     "value": 90279000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 123310,
+     "unit": "SH",
+     "value": 48162000
+    }
+   ],
+   "table_total": 3794089000,
+   "first_seen": "2026-11-16T18:41:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-060139",
+   "form": "13F-HR",
+   "filed": "2022-05-13",
+   "period": "2022-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465922060139/0001104659-22-060139-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 335110,
+     "unit": "SH",
+     "value": 932058000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP",
+     "class": "COMM",
+     "shares": 1421279,
+     "unit": "SH",
+     "value": 926020000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2635309,
+     "unit": "SH",
+     "value": 812492000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON",
+     "class": "COMM",
+     "shares": 127246,
+     "unit": "SH",
+     "value": 414816000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 640548,
+     "unit": "SH",
+     "value": 349432000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 1496102,
+     "unit": "SH",
+     "value": 331791000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 251249,
+     "unit": "SH",
+     "value": 89791000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 123310,
+     "unit": "SH",
+     "value": 41606000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META",
+     "class": "COMM",
+     "shares": 108039,
+     "unit": "SH",
+     "value": 24024000
+    }
+   ],
+   "table_total": 3922029000,
+   "first_seen": "2026-11-16T18:41:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-090086",
+   "form": "13F-HR",
+   "filed": "2022-08-12",
+   "period": "2022-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465922090086/0001104659-22-090086-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP",
+     "class": "COMM",
+     "shares": 1458679,
+     "unit": "SH",
+     "value": 782829000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 338130,
+     "unit": "SH",
+     "value": 736873000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2732009,
+     "unit": "SH",
+     "value": 701662000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON",
+     "class": "COMM",
+     "shares": 3064420,
+     "unit": "SH",
+     "value": 325472000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 1568402,
+     "unit": "SH",
+     "value": 308803000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 582551,
+     "unit": "SH",
+     "value": 272943000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 248449,
+     "unit": "SH",
+     "value": 78381000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 123310,
+     "unit": "SH",
+     "value": 33537000
+    }
+   ],
+   "table_total": 3240500000,
+   "first_seen": "2026-11-16T18:41:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-118063",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465922118063/0001104659-22-118063-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP",
+     "class": "COMM",
+     "shares": 1502379,
+     "unit": "SH",
+     "value": 788479000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC - CL A",
+     "class": "COMM",
+     "shares": 7003600,
+     "unit": "SH",
+     "value": 669894000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2818509,
+     "unit": "SH",
+     "value": 656431000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON",
+     "class": "COMM",
+     "shares": 3294034,
+     "unit": "SH",
+     "value": 372226000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC CL A",
+     "class": "COMM",
+     "shares": 1734105,
+     "unit": "SH",
+     "value": 308064000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS",
+     "class": "COMM",
+     "shares": 345405,
+     "unit": "SH",
+     "value": 104779000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC CL A",
+     "class": "COMM",
+     "shares": 328163,
+     "unit": "SH",
+     "value": 93310000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 252608,
+     "unit": "SH",
+     "value": 61412000
+    }
+   ],
+   "table_total": 3054595000,
+   "first_seen": "2026-11-16T18:41:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-019687",
+   "form": "13F-HR",
+   "filed": "2023-02-13",
+   "period": "2022-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465923019687/0001104659-23-019687-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1409724,
+     "unit": "SH",
+     "value": 887632717
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2560129,
+     "unit": "SH",
+     "value": 613970137
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK CL A",
+     "class": "COMM",
+     "shares": 6430417,
+     "unit": "SH",
+     "value": 567355692
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COMM",
+     "shares": 5644370,
+     "unit": "SH",
+     "value": 474127080
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM CL A",
+     "class": "COMM",
+     "shares": 1674124,
+     "unit": "SH",
+     "value": 347816002
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC NEW CL A",
+     "class": "COMM",
+     "shares": 334465,
+     "unit": "SH",
+     "value": 113417082
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED CL A",
+     "class": "COMM",
+     "shares": 301010,
+     "unit": "SH",
+     "value": 104670207
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 261534,
+     "unit": "SH",
+     "value": 72868603
+    }
+   ],
+   "table_total": 3181857520,
+   "first_seen": "2026-11-16T18:41:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-061059",
+   "form": "13F-HR",
+   "filed": "2023-05-16",
+   "period": "2023-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465923061059/0001104659-23-061059-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1383124,
+     "unit": "SH",
+     "value": 1019431544
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2331929,
+     "unit": "SH",
+     "value": 672295131
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK CL A",
+     "class": "COMM",
+     "shares": 6282417,
+     "unit": "SH",
+     "value": 651675115
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COMM",
+     "shares": 5864951,
+     "unit": "SH",
+     "value": 605790789
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM CL A",
+     "class": "COMM",
+     "shares": 1648124,
+     "unit": "SH",
+     "value": 371586037
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC NEW CL A",
+     "class": "COMM",
+     "shares": 399465,
+     "unit": "SH",
+     "value": 142852679
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED CL A",
+     "class": "COMM",
+     "shares": 294510,
+     "unit": "SH",
+     "value": 107027879
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 261534,
+     "unit": "SH",
+     "value": 80034635
+    }
+   ],
+   "table_total": 3650693809,
+   "first_seen": "2026-11-16T18:41:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-091497",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465923091497/0001104659-23-091497-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1357491,
+     "unit": "SH",
+     "value": 1213827727
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2272041,
+     "unit": "SH",
+     "value": 773720842
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK CL A",
+     "class": "COMM",
+     "shares": 5736600,
+     "unit": "SH",
+     "value": 686671020
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COMM",
+     "shares": 5106781,
+     "unit": "SH",
+     "value": 665719971
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM CL A",
+     "class": "COMM",
+     "shares": 1981276,
+     "unit": "SH",
+     "value": 470513424
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC NEW CL A",
+     "class": "COMM",
+     "shares": 399465,
+     "unit": "SH",
+     "value": 146751457
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED CL A",
+     "class": "COMM",
+     "shares": 294510,
+     "unit": "SH",
+     "value": 115830783
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 261534,
+     "unit": "SH",
+     "value": 90940602
+    }
+   ],
+   "table_total": 4163975826,
+   "first_seen": "2026-11-16T18:41:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-117428",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465923117428/0001104659-23-117428-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1310086,
+     "unit": "SH",
+     "value": 1104572809
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2211512,
+     "unit": "SH",
+     "value": 698284914
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK CL A",
+     "class": "COMM",
+     "shares": 5259222,
+     "unit": "SH",
+     "value": 688221791
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COMM",
+     "shares": 4600234,
+     "unit": "SH",
+     "value": 584781746
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM CL A",
+     "class": "COMM",
+     "shares": 2078020,
+     "unit": "SH",
+     "value": 477965380
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC NEW CL A",
+     "class": "COMM",
+     "shares": 497702,
+     "unit": "SH",
+     "value": 218899294
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED CL A",
+     "class": "COMM",
+     "shares": 280451,
+     "unit": "SH",
+     "value": 111033355
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 344434,
+     "unit": "SH",
+     "value": 108899698
+    }
+   ],
+   "table_total": 3992658987,
+   "first_seen": "2026-11-16T18:41:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-024107",
+   "form": "13F-HR",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465924024107/0001104659-24-024107-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1237622,
+     "unit": "SH",
+     "value": 1251978415
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1990714,
+     "unit": "SH",
+     "value": 748588093
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK CL A",
+     "class": "COMM",
+     "shares": 4859830,
+     "unit": "SH",
+     "value": 678869653
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COMM",
+     "shares": 4434634,
+     "unit": "SH",
+     "value": 673798290
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM CL A",
+     "class": "COMM",
+     "shares": 1827153,
+     "unit": "SH",
+     "value": 475699284
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 810635,
+     "unit": "SH",
+     "value": 316601606
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC NEW CL A",
+     "class": "COMM",
+     "shares": 573760,
+     "unit": "SH",
+     "value": 223009037
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED CL A",
+     "class": "COMM",
+     "shares": 268994,
+     "unit": "SH",
+     "value": 114728631
+    }
+   ],
+   "table_total": 4483273009,
+   "first_seen": "2026-11-16T18:41:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-061859",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465924061859/0001104659-24-061859-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LLC",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1156398,
+     "unit": "SH",
+     "value": 1424219777
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 4204460,
+     "unit": "SH",
+     "value": 758400495
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1754186,
+     "unit": "SH",
+     "value": 738021134
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 4285110,
+     "unit": "SH",
+     "value": 646751652
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 1778383,
+     "unit": "SH",
+     "value": 496311128
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 800135,
+     "unit": "SH",
+     "value": 314477059
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC-A",
+     "class": "COMM",
+     "shares": 504868,
+     "unit": "SH",
+     "value": 146729787
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 267033,
+     "unit": "SH",
+     "value": 128595082
+    }
+   ],
+   "table_total": 4653506114,
+   "first_seen": "2026-11-16T18:41:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-063732",
+   "form": "13F-HR/A",
+   "filed": "2024-05-21",
+   "period": "2024-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465924063732/0001104659-24-063732-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1156398,
+     "unit": "SH",
+     "value": 1424219777
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 4204460,
+     "unit": "SH",
+     "value": 758400495
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1754186,
+     "unit": "SH",
+     "value": 738021134
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 4285110,
+     "unit": "SH",
+     "value": 646751652
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 1778383,
+     "unit": "SH",
+     "value": 496311128
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 800135,
+     "unit": "SH",
+     "value": 314477059
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC-A",
+     "class": "COMM",
+     "shares": 504868,
+     "unit": "SH",
+     "value": 146729787
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 267033,
+     "unit": "SH",
+     "value": 128595082
+    }
+   ],
+   "table_total": 4653506114,
+   "first_seen": "2026-11-16T18:41:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-089560",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465924089560/0001104659-24-089560-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1073264,
+     "unit": "SH",
+     "value": 1371212819
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1934816,
+     "unit": "SH",
+     "value": 864766011
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 4129460,
+     "unit": "SH",
+     "value": 798018145
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 4002110,
+     "unit": "SH",
+     "value": 728984337
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 1778383,
+     "unit": "SH",
+     "value": 466772186
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1087080,
+     "unit": "SH",
+     "value": 457584584
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 267033,
+     "unit": "SH",
+     "value": 117804278
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 34652,
+     "unit": "SH",
+     "value": 51585046
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC-A",
+     "class": "COMM",
+     "shares": 6025,
+     "unit": "SH",
+     "value": 1801234
+    }
+   ],
+   "table_total": 4858528640,
+   "first_seen": "2026-11-16T18:41:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-117526",
+   "form": "13F-HR",
+   "filed": "2024-11-13",
+   "period": "2024-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465924117526/0001104659-24-117526-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1048264,
+     "unit": "SH",
+     "value": 1496009002
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 5402320,
+     "unit": "SH",
+     "value": 1006614286
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1934816,
+     "unit": "SH",
+     "value": 832551325
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 3333905,
+     "unit": "SH",
+     "value": 552928144
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 1066619,
+     "unit": "SH",
+     "value": 506206711
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 1118383,
+     "unit": "SH",
+     "value": 307499406
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 620033,
+     "unit": "SH",
+     "value": 306172295
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 34652,
+     "unit": "SH",
+     "value": 67346855
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC-A",
+     "class": "COMM",
+     "shares": 6025,
+     "unit": "SH",
+     "value": 1952582
+    }
+   ],
+   "table_total": 5077280606,
+   "first_seen": "2026-11-16T18:41:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-014306",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465925014306/0001104659-25-014306-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 1000604,
+     "unit": "SH",
+     "value": 1268045437
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 5278320,
+     "unit": "SH",
+     "value": 1158010625
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1891641,
+     "unit": "SH",
+     "value": 797326682
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 3480801,
+     "unit": "SH",
+     "value": 658915629
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 950905,
+     "unit": "SH",
+     "value": 450129900
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 586254,
+     "unit": "SH",
+     "value": 308703769
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 874912,
+     "unit": "SH",
+     "value": 276507188
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 91328,
+     "unit": "SH",
+     "value": 22572628
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC-A",
+     "class": "COMM",
+     "shares": 6025,
+     "unit": "SH",
+     "value": 2065189
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 670,
+     "unit": "SH",
+     "value": 1333923
+    }
+   ],
+   "table_total": 4943610970,
+   "first_seen": "2026-11-16T18:42:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-048610",
+   "form": "13F-HR",
+   "filed": "2025-05-14",
+   "period": "2025-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465925048610/0001104659-25-048610-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 979950,
+     "unit": "SH",
+     "value": 1355555036
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 5202415,
+     "unit": "SH",
+     "value": 989811478
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2578649,
+     "unit": "SH",
+     "value": 967999048
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 3454367,
+     "unit": "SH",
+     "value": 534183313
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 950905,
+     "unit": "SH",
+     "value": 442826949
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 586254,
+     "unit": "SH",
+     "value": 321337542
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 850412,
+     "unit": "SH",
+     "value": 298035390
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 273957,
+     "unit": "SH",
+     "value": 62338915
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 670,
+     "unit": "SH",
+     "value": 1235587
+    }
+   ],
+   "table_total": 4973323258,
+   "first_seen": "2026-11-16T18:42:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-078208",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465925078208/0001104659-25-078208-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 979950,
+     "unit": "SH",
+     "value": 1490151168
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 6275906,
+     "unit": "SH",
+     "value": 1376871017
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2578649,
+     "unit": "SH",
+     "value": 1282645799
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 952254,
+     "unit": "SH",
+     "value": 477641084
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 586254,
+     "unit": "SH",
+     "value": 329439573
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 535412,
+     "unit": "SH",
+     "value": 190098031
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 1045429,
+     "unit": "SH",
+     "value": 184235953
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 544596,
+     "unit": "SH",
+     "value": 145047699
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 670,
+     "unit": "SH",
+     "value": 1224733
+    }
+   ],
+   "table_total": 5477355057,
+   "first_seen": "2026-11-16T18:42:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-112002",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465925112002/0001104659-25-112002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 7558253,
+     "unit": "SH",
+     "value": 1659565611
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2569267,
+     "unit": "SH",
+     "value": 1330751843
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 976392,
+     "unit": "SH",
+     "value": 1286904184
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 948735,
+     "unit": "SH",
+     "value": 452053253
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 584086,
+     "unit": "SH",
+     "value": 332233958
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 533522,
+     "unit": "SH",
+     "value": 182133740
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 542613,
+     "unit": "SH",
+     "value": 140775517
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 344391,
+     "unit": "SH",
+     "value": 83721452
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC INC",
+     "class": "COMM",
+     "shares": 667,
+     "unit": "SH",
+     "value": 998186
+    }
+   ],
+   "table_total": 5469137744,
+   "first_seen": "2026-11-16T18:42:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-015359",
+   "form": "13F-HR",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465926015359/0001104659-26-015359-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 7314534,
+     "unit": "SH",
+     "value": 1688340738
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 969400,
+     "unit": "SH",
+     "value": 1289156590
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2082357,
+     "unit": "SH",
+     "value": 1007069492
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 814503,
+     "unit": "SH",
+     "value": 416088858
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 541836,
+     "unit": "SH",
+     "value": 309323336
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 516677,
+     "unit": "SH",
+     "value": 181203791
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 542613,
+     "unit": "SH",
+     "value": 155865584
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 169391,
+     "unit": "SH",
+     "value": 53019383
+    }
+   ],
+   "table_total": 5100067772,
+   "first_seen": "2026-11-16T18:42:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-062170",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465926062170/0001104659-26-062170-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 7567946,
+     "unit": "SH",
+     "value": 1576176113
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 909168,
+     "unit": "SH",
+     "value": 1053689345
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 1867537,
+     "unit": "SH",
+     "value": 691306171
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 862036,
+     "unit": "SH",
+     "value": 376063205
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 522836,
+     "unit": "SH",
+     "value": 261240236
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 498677,
+     "unit": "SH",
+     "value": 150720137
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 43391,
+     "unit": "SH",
+     "value": 12477516
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 15341,
+     "unit": "SH",
+     "value": 4664891
+    }
+   ],
+   "table_total": 4126337614,
+   "first_seen": "2026-11-16T18:42:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-097527",
+   "form": "13F-HR",
+   "filed": "2026-08-17",
+   "period": "2026-06-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465926097527/0001104659-26-097527-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 5729972,
+     "unit": "SH",
+     "value": 1365681526
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 875755,
+     "unit": "SH",
+     "value": 1166540690
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2334482,
+     "unit": "SH",
+     "value": 870808476
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 764507,
+     "unit": "SH",
+     "value": 392650795
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 836470,
+     "unit": "SH",
+     "value": 286984492
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 302624,
+     "unit": "SH",
+     "value": 137064462
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 41994,
+     "unit": "SH",
+     "value": 15007396
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 15202,
+     "unit": "SH",
+     "value": 5023653
+    }
+   ],
+   "table_total": 4239761490,
+   "first_seen": "2026-11-16T18:42:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-127198",
+   "form": "13F-HR",
+   "filed": "2026-11-13",
+   "period": "2026-09-30",
+   "cik": 1631014,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631014/000110465926127198/0001104659-26-127198-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTAROCK PARTNERS LP",
+   "holdings": [
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COMM",
+     "shares": 2641022,
+     "unit": "SH",
+     "value": 1354580184
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON.COM INC",
+     "class": "COMM",
+     "shares": 4824972,
+     "unit": "SH",
+     "value": 1202141774
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COMM",
+     "shares": 843256,
+     "unit": "SH",
+     "value": 912908946
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC-CLASS A",
+     "class": "COMM",
+     "shares": 704026,
+     "unit": "SH",
+     "value": 388249218
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC-CLASS A SHRS",
+     "class": "COMM",
+     "shares": 769712,
+     "unit": "SH",
+     "value": 276580613
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COMM",
+     "shares": 132969,
+     "unit": "SH",
+     "value": 60385212
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC-CL A",
+     "class": "COMM",
+     "shares": 39694,
+     "unit": "SH",
+     "value": 13657912
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE",
+     "class": "COMM",
+     "shares": 15202,
+     "unit": "SH",
+     "value": 4836060
+    }
+   ],
+   "table_total": 4213339919,
+   "first_seen": "2026-11-16T18:42:06+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "ALTAROCK PARTNERS LP"
+}

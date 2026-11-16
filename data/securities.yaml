@@ -2362,3 +2362,144 @@
 "983134107": {name: "Wynn Resorts", ticker: "WYNN", sic: 7011}
 "983793100": {name: "XPO", ticker: "XPO", sic: 4700}
 "87311L104": {name: "tw telecom", ticker: "TWTC", sector: "Media & telecom", note: "Bought by Level 3 in 2014."}
+
+# Mark Massey, Arnold Van Den Berg and Carl Icahn
+"000361105": {name: "AAR", ticker: "AIR", sic: 3720}
+"037411105": {name: "APA", ticker: "APA", sector: "Energy", note: "Called Apache until 2021."}
+"002474104": {name: "AZZ", ticker: "AZZ", sic: 3470}
+"013817101": {name: "Alcoa", ticker: "AA", sic: 3334}
+"02208R106": {name: "Altra Industrial Motion", ticker: "AIMC", sector: "Industrials", note: "Bought by Regal Rexnord in 2023."}
+"032359309": {name: "AmTrust Financial Services", ticker: "AFSI", sector: "Financials & real estate", note: "Taken private in 2018."}
+"025537101": {name: "American Electric Power", ticker: "AEP", sic: 4911}
+"02916P103": {name: "American Railcar Industries", ticker: "ARII", sector: "Industrials", note: "Bought by ITE Management in 2018."}
+"035128206": {name: "AngloGold Ashanti", ticker: "AU", sector: "Materials"}
+"037598109": {name: "Apogee Enterprises", ticker: "APOG", sic: 3231}
+"137833100": {name: "Apple", ticker: "AAPL", sic: 3571}
+"Y0207T100": {name: "Ardmore Shipping", ticker: "ASC", sic: 4412}
+"871565107": {name: "Ascent Industries", ticker: "SYNL", sector: "Materials", note: "Called Synalloy until 2022."}
+"046224101": {name: "Astec Industries", ticker: "ASTE", sic: 3531}
+"04638F108": {name: "AstroNova", ticker: "ALOT", sector: "Technology"}
+"05367P100": {name: "Avid Technology", ticker: "AVID", sector: "Technology", note: "Taken private in 2023."}
+"73179P106": {name: "Avient", ticker: "POL", sector: "Materials", note: "Called PolyOne until 2020."}
+"071705107": {name: "Bausch + Lomb", ticker: "BLCO", sector: "Health care"}
+"07317Q105": {name: "Baytex Energy", ticker: "BTE", sic: 1381}
+"08160H101": {name: "Benchmark Electronics", ticker: "BHE", sector: "Technology"}
+"11040G103": {name: "Bristow Group", ticker: "VTOL", sic: 4522}
+"204448104": {name: "Buenaventura", ticker: "BVN", sector: "Materials"}
+"125071100": {name: "CDI", ticker: "CDI", sector: "Industrials", note: "Taken private in 2017."}
+"126633205": {name: "CVR Partners", ticker: "UAN", sic: 2870}
+"12662P107": {name: "CVR Refining", ticker: "CVRR", sector: "Energy", note: "Bought by CVR Energy in 2019."}
+"12663P107": {name: "CVR Refining", ticker: "CVRR", sector: "Energy", note: "Bought by CVR Energy in 2019."}
+"12769G100": {name: "Caesars Entertainment", ticker: "CZR", sic: 7011}
+"144285103": {name: "Carpenter Technology", ticker: "CRS", sic: 3312}
+"155923105": {name: "Centuri", ticker: "CTRI", sic: 4923}
+"16150R104": {name: "Chase Corporation", ticker: "CCF", sector: "Materials", note: "Bought by KKR in 2023."}
+"16411R208": {name: "Cheniere Energy", ticker: "LNG", sic: 4924}
+"18911Q102": {name: "Cloud Peak Energy", ticker: "CLD", sector: "Energy", note: "Bankrupt in 2019."}
+"18914U100": {name: "Cloudera", ticker: "CLDR", sector: "Technology", note: "Taken private in 2021."}
+"199333105": {name: "Columbus McKinnon", ticker: "CMCO", sector: "Industrials"}
+"205750102": {name: "Comstock Inc.", ticker: "LODE", sector: "Materials", note: "Called Comstock Mining until 2021."}
+"205750300": {name: "Comstock Inc.", ticker: "LODE", sector: "Materials", note: "Called Comstock Mining until 2021."}
+"205768302": {name: "Comstock Resources", ticker: "CRK", sic: 1311}
+"218681104": {name: "Core-Mark", ticker: "CORE", sector: "Consumer staples", note: "Bought by Performance Food Group in 2021."}
+"44952J104": {name: "Crescent Energy", ticker: "CRGY", sic: 1311}
+"23291C103": {name: "DMC Global", ticker: "BOOM", sic: 3390}
+"267888105": {name: "DMC Global", ticker: "BOOM", sector: "Industrials", note: "Called Dynamic Materials until 2016."}
+"24665A103": {name: "Delek US", ticker: "DK", sic: 2911}
+"25402D102": {name: "DigitalOcean", ticker: "DOCN", sector: "Technology"}
+"93317W102": {name: "Ditech Holding", ticker: "DHCP", sector: "Financials & real estate", note: "Called Walter Investment Management until 2018."}
+"26884L109": {name: "EQT", ticker: "EQT", sic: 1311}
+"27032D304": {name: "Earthstone Energy", ticker: "ESTE", sector: "Energy", note: "Bought by Permian Resources in 2023."}
+"284902103": {name: "Eldorado Gold", ticker: "EGO", sector: "Materials"}
+"292562105": {name: "Encore Wire", ticker: "WIRE", sector: "Industrials", note: "Bought by Prysmian in 2024."}
+"29265N108": {name: "Energen", ticker: "EGN", sector: "Energy", note: "Bought by Diamondback in 2018."}
+"415864107": {name: "Enviri", ticker: "HSC", sector: "Industrials", note: "Called Harsco until 2023."}
+"293904108": {name: "Enzon Pharmaceuticals", ticker: "ENZN", sector: "Health care"}
+"296006109": {name: "Ero Copper", ticker: "ERO", sic: 1000}
+"297425100": {name: "Esterline Technologies", ticker: "ESL", sector: "Industrials", note: "Bought by TransDigm in 2019."}
+"302445101": {name: "FLIR Systems", ticker: "FLIR", sector: "Technology", note: "Bought by Teledyne in 2021."}
+"313549404": {name: "Federal-Mogul", ticker: "FDML", sector: "Consumer discretionary", note: "Bought by Icahn Enterprises in 2017; sold to Tenneco in 2018."}
+"31620R105": {name: "Fidelity National Financial", ticker: "FNF", sector: "Financials & real estate"}
+"337932107": {name: "FirstEnergy", ticker: "FE", sic: 4911}
+"345838106": {name: "Forest Laboratories", ticker: "FRX", sector: "Health care", note: "Bought by Actavis in 2014."}
+"387328107": {name: "Granite Construction", ticker: "GVA", sector: "Industrials"}
+"390607109": {name: "Great Lakes Dredge & Dock", ticker: "GLDD", sector: "Industrials"}
+"397624107": {name: "Greif", ticker: "GEF", sic: 3412}
+"422704106": {name: "Hecla Mining", ticker: "HL", sector: "Materials"}
+"422819102": {name: "Heidrick & Struggles", ticker: "HSII", sector: "Industrials"}
+"42328H109": {name: "Helios Technologies", ticker: "HLIO", sic: 3490}
+"42806J106": {name: "Hertz Global Holdings", ticker: "HTZ", sector: "Industrials"}
+"431571108": {name: "Hillenbrand", ticker: "HI", sector: "Industrials"}
+"44244K109": {name: "Houston Wire & Cable", ticker: "HWCC", sector: "Industrials", note: "Bought by Omni Cable in 2021."}
+"451100101": {name: "Icahn Enterprises", ticker: "IEP", sic: 2911}
+"45773Y105": {name: "InnerWorkings", ticker: "INWK", sector: "Industrials", note: "Bought by HH Global in 2020."}
+"45826H109": {name: "Integer Holdings", ticker: "ITGR", sector: "Health care"}
+"458685104": {name: "InterGroup", ticker: "INTG", sic: 6513}
+"477143101": {name: "JetBlue", ticker: "JBLU", sic: 4512}
+"492914106": {name: "Key Energy Services", ticker: "KEG", sector: "Energy"}
+"500643200": {name: "Korn Ferry", ticker: "KFY", sector: "Industrials"}
+"520776105": {name: "Lawson Products", ticker: "LAWS", sector: "Industrials", note: "Merged into Distribution Solutions Group in 2022."}
+"521050104": {name: "Layne Christensen", ticker: "LAYN", sector: "Industrials", note: "Bought by Granite Construction in 2018."}
+"550819106": {name: "Lydall", ticker: "LDL", sector: "Industrials", note: "Bought by Unifrax in 2021."}
+"56117J100": {name: "Malibu Boats", ticker: "MBUU", sic: 3730}
+"563571108": {name: "Manitowoc", ticker: "MTW", sic: 3531}
+"563571405": {name: "Manitowoc", ticker: "MTW", sic: 3531}
+"57060D108": {name: "MarketAxess", ticker: "MKTX", sector: "Financials & real estate"}
+"57686G105": {name: "Matson", ticker: "MATX", sic: 4400}
+"577767106": {name: "Maxwell Technologies", ticker: "MXWL", sector: "Technology", note: "Bought by Tesla in 2019."}
+"587200106": {name: "Mentor Graphics", ticker: "MENT", sector: "Technology", note: "Bought by Siemens in 2017."}
+"63861C109": {name: "Mr. Cooper", ticker: "COOP", sector: "Financials & real estate", note: "Called Nationstar Mortgage until 2018."}
+"63934E108": {name: "Navistar", ticker: "NAV", sector: "Industrials", note: "Bought by Traton in 2021."}
+"651824104": {name: "Newport", ticker: "NEWP", sector: "Technology", note: "Bought by MKS Instruments in 2016."}
+"G65773106": {name: "Nordic American Tankers", ticker: "NAT", sector: "Energy"}
+"665531307": {name: "Northern Oil and Gas", ticker: "NOG", sic: 1311}
+"67020Y100": {name: "Nuance Communications", ticker: "NUAN", sector: "Technology", note: "Bought by Microsoft in 2022."}
+"68628V308": {name: "Orion Group", ticker: "ORN", sic: 1600}
+"69327R101": {name: "PDC Energy", ticker: "PDCE", sector: "Energy", note: "Bought by Chevron in 2023."}
+"703481101": {name: "Patterson-UTI Energy", ticker: "PTEN", sic: 1381}
+"713278109": {name: "Pep Boys", ticker: "PBY", sector: "Consumer discretionary", note: "Bought by Icahn Enterprises in 2016."}
+"71424F105": {name: "Permian Resources", ticker: "PR", sic: 1311}
+"723664108": {name: "Pioneer Energy Services", ticker: "PES", sector: "Energy"}
+"737446104": {name: "Post Holdings", ticker: "POST", sector: "Consumer staples"}
+"73755L107": {name: "Potash Corp.", ticker: "POT", sector: "Materials", note: "Merged with Agrium into Nutrien in 2018."}
+"739128106": {name: "Powell Industries", ticker: "POWL", sic: 3613}
+"752344309": {name: "Randgold Resources", ticker: "GOLD", sector: "Materials", note: "Merged with Barrick in 2019."}
+"70788V102": {name: "Ranger Oil", ticker: "ROCC", sector: "Energy", note: "Merged with Baytex in 2023."}
+"754212108": {name: "Raven Industries", ticker: "RAVN", sector: "Industrials", note: "Bought by CNH Industrial in 2021."}
+"755408101": {name: "Reading International", ticker: "RDI", sic: 7830}
+"775133101": {name: "Rogers", ticker: "ROG", sic: 2821}
+"78468R556": {name: "SPDR S&P Oil & Gas Exploration & Production ETF", ticker: "XOP", fund: yes}
+"798241105": {name: "San Juan Basin Royalty Trust", ticker: "SJT", sector: "Energy"}
+"811916105": {name: "Seabridge Gold", ticker: "SA", sic: 1040}
+"811927102": {name: "Seabridge Gold", ticker: "SA", sic: 1040}
+"G8060N102": {name: "Sensata", ticker: "ST", sector: "Technology"}
+"818097107": {name: "Seventy Seven Energy", ticker: "SSE", sector: "Energy", note: "Bought by Patterson-UTI in 2017."}
+"82836G102": {name: "SilverBow Resources", ticker: "SBOW", sector: "Energy", note: "Bought by Crescent Energy in 2024."}
+"G8267P108": {name: "Smurfit Westrock", ticker: "SW", sic: 2650}
+"844895102": {name: "Southwest Gas", ticker: "SWX", sic: 4923}
+"85208R101": {name: "Sprott Physical Gold and Silver Trust", ticker: "CEF", fund: yes}
+"855030102": {name: "Staples", ticker: "SPLS", sector: "Consumer discretionary", note: "Taken private in 2017."}
+"85571B105": {name: "Starwood Property Trust", ticker: "STWD", sector: "Financials & real estate"}
+"858155203": {name: "Steelcase", ticker: "SCS", sector: "Industrials"}
+"868168105": {name: "Superior Industries", ticker: "SUP", sector: "Consumer discretionary"}
+"364730101": {name: "Tegna", ticker: "GCI", sector: "Media & telecom", note: "Old Gannett, renamed Tegna in 2015."}
+"89151E109": {name: "TotalEnergies", ticker: "TTE", sector: "Energy", note: "Called Total until 2021."}
+"913543104": {name: "UFP Industries", ticker: "UFPI", sector: "Industrials", note: "Called Universal Forest Products until 2020."}
+"909218109": {name: "Unit Corporation", ticker: "UNT", sector: "Energy"}
+"928563402": {name: "VMware", ticker: "VMW", sector: "Technology", note: "Bought by Broadcom in 2023."}
+"57061R544": {name: "VanEck Junior Gold Miners ETF", ticker: "GDXJ", fund: yes}
+"92189F791": {name: "VanEck Junior Gold Miners ETF", ticker: "GDXJ", fund: yes}
+"92189F643": {name: "VanEck Morningstar Wide Moat ETF", ticker: "MOAT", fund: yes}
+"921946406": {name: "Vanguard High Dividend Yield ETF", ticker: "VYM", fund: yes}
+"921946794": {name: "Vanguard International High Dividend Yield ETF", ticker: "VYMI", fund: yes}
+"921909768": {name: "Vanguard Total International Stock ETF", ticker: "VXUS", fund: yes}
+"92835K103": {name: "Vishay Precision Group", ticker: "VPG", sic: 3670}
+"516806205": {name: "Vital Energy", ticker: "VTLE", sector: "Energy", note: "Merged with Crescent Energy in 2025."}
+"92870X309": {name: "Voltari", ticker: "VLTC", sector: "Media & telecom", note: "Bought by Icahn in 2019."}
+"94770V102": {name: "WebMD", ticker: "WBMD", sector: "Health care", note: "Taken private in 2017."}
+"563568104": {name: "Welbilt", ticker: "WBT", sector: "Industrials", note: "Called Manitowoc Foodservice until 2017. Bought by Ali Group in 2022."}
+"984121608": {name: "Xerox Holdings", ticker: "XRX", sic: 3577}
+"98421M106": {name: "Xerox Holdings", ticker: "XRX", sic: 3577}
+"98462Y100": {name: "Yamana Gold", ticker: "AUY", sector: "Materials", note: "Split between Agnico Eagle and Pan American in 2023."}
+"464286871": {name: "iShares MSCI Hong Kong ETF", ticker: "EWH", fund: yes}
+"464287630": {name: "iShares Russell 2000 Value ETF", ticker: "IWN", fund: yes}

@@ -237,3 +237,24 @@ managers:
     firm: Turtle Creek Asset Management
     cik: 1484148
     letters: turtle-creek
+
+  - id: mark-massey
+    name: Mark Massey
+    firm: AltaRock Partners
+    cik: 1631014
+    letters: no
+    why: "AltaRock owns a handful of businesses and rarely sells. TransDigm, Mastercard, Visa and Moody's are in every 13F since the first, in 2014, and Microsoft and Amazon are now 60% of it."
+
+  - id: arnold-van-den-berg
+    name: Arnold Van Den Berg
+    firm: Century Management Financial Advisors
+    cik: 1142062
+    letters: no
+    why: "Arnold's 13F holds about 120 stocks, and gold has a steady place in it: the Sprott Physical Gold Trust is the biggest holding and Seabridge Gold has been there since 2013. Berkshire is in every 13F since 2013."
+
+  - id: carl-icahn
+    name: Carl Icahn
+    firm: Icahn Capital Management
+    cik: 921669
+    letters: no
+    why: "Most of Carl's 13F is his own companies: Icahn Enterprises and CVR Energy are 86% of it and in every filing since 2013. The rest is his activist stakes."
