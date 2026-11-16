@@ -41,6 +41,32 @@
 
 .pager { justify-content: space-between; }
 
+/* Manager chart: holdings by quarter */
+.hm { position: relative; margin: 14px 0 6px; }
+.hm-scroll { overflow-x: auto; padding-bottom: 6px; }
+.hm-grid { display: grid; grid-template-columns: minmax(110px, max-content) repeat(var(--cols), minmax(11px, 1fr));
+  gap: 2px; align-items: center; min-width: calc(130px + var(--cols) * 13px); }
+.hm-year { font: 10px/1 var(--head); letter-spacing: .04em; color: var(--mute); white-space: nowrap; overflow: visible; height: 14px; }
+.hm-name, .hm-corner { position: sticky; left: 0; z-index: 1; background: var(--paper); align-self: stretch; display: flex; align-items: center; }
+.hm-name { font-size: 13px; line-height: 1.2; padding-right: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+.hm-t { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hm-name a { text-decoration: none; }
+.hm-name a:hover { text-decoration: underline; }
+.hm-name.past { color: var(--mute); }
+.hm-c { display: block; height: 16px; border-radius: 2px; background: var(--ink); opacity: 0; }
+.hm-grid .hm-c:not(.s0) { cursor: default; }
+.hm-grid .hm-c.s0 { height: 2px; background: var(--hair); opacity: 1; border-radius: 0; }
+.hm-c.s1 { opacity: .18; } .hm-c.s2 { opacity: .28; } .hm-c.s3 { opacity: .45; }
+.hm-c.s4 { opacity: .62; } .hm-c.s5 { opacity: .8; } .hm-c.s6 { opacity: 1; }
+.hm-grid .hm-c[data-tip]:hover { outline: 2px solid var(--ink); outline-offset: 1px; }
+.hm-legend { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin: 8px 0 0;
+  font-size: 13px; color: var(--mute); }
+.hm-lt { font: 11px/1 var(--head); text-transform: uppercase; letter-spacing: .12em; color: var(--ink); }
+.hm-k { display: inline-flex; align-items: center; gap: 5px; }
+.hm-k .hm-c { width: 14px; height: 12px; }
+.hm-tip { position: absolute; z-index: 5; background: var(--ink); color: var(--paper); font: 13px/1.3 var(--body);
+  padding: 5px 8px; border-radius: 3px; pointer-events: none; white-space: nowrap; }
+
 @media (max-width: 560px) {
   .hide-s { display: none; }
   .htable { font-size: 14px; }
@@ -48,3 +74,5 @@
   .htable th { letter-spacing: .06em; }
   .moves li { grid-template-columns: 74px 1fr; }
 }
+
+@media (max-width: 560px) { .hm-grid { grid-template-columns: 120px repeat(var(--cols), minmax(11px, 1fr)); } }

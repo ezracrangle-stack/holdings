@@ -64,6 +64,31 @@ def move_label(c):
     return pct(c["pct"], signed=True)
 
 
+STEPS = [(0.20, 6), (0.15, 5), (0.10, 4), (0.05, 3), (0.025, 2), (0, 1)]
+STEP_LABELS = ["Under 2.5%", "2.5-5%", "5-10%", "10-15%", "15-20%", "20%+"]
+
+
+def timeline(m):
+    """Grid for the manager's chart: one row per holding, one column per quarter,
+    shaded by weight. Rows: current holdings by weight, then past ones, most recent first."""
+    quarters = m["quarters"]
+    rows = {}
+    for i, q in enumerate(quarters):
+        for p in q["positions"]:
+            key = p["slug"] + ("|" + p["put_call"] if p["put_call"] else "")
+            r = rows.setdefault(key, {"name": p["name"] + (f" ({p['put_call'].lower()}s)" if p["put_call"] else ""),
+                                      "slug": p["slug"], "fund": p["fund"], "ticker": p["ticker"],
+                                      "cells": [0.0] * len(quarters), "last": i})
+            r["cells"][i] += p["weight"]
+            r["last"] = i
+    last = len(quarters) - 1
+    out = sorted(rows.values(), key=lambda r: (r["last"] != last, -r["cells"][last] if r["last"] == last else -r["last"]))
+    for r in out:
+        r["steps"] = [next(n for t, n in STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
+        r["current"] = r["last"] == last
+    return out
+
+
 def load_managers():
     config = yaml.safe_load((ROOT / "managers.yaml").read_text(encoding="utf-8"))
     lpath = ROOT / "data" / "letters_index.json"
@@ -172,7 +197,8 @@ def build():
     render("about.html", "about.html", "")
     render("404.html", "404.html", "/")
     for m in managers:
-        render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies)
+        render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies,
+               grid=timeline(m), step_labels=STEP_LABELS)
         for q in m["quarters"]:
             render("quarter.html", f"m/{m['id']}/{q['slug']}.html", "../../", m=m, q=q, companies=companies)
     for c in companies.values():
