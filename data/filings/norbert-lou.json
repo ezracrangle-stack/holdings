@@ -2640,6 +2640,67 @@
    "table_total": 255951708,
    "first_seen": "2026-11-16T04:07:30+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001398344-26-020179",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834426020179/0001398344-26-020179-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 108315725
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 424370,
+     "unit": "SH",
+     "value": 49782845
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 385004,
+     "unit": "SH",
+     "value": 30007212
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 416407,
+     "unit": "SH",
+     "value": 21873860
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MTH TREASURY",
+     "shares": 188000,
+     "unit": "SH",
+     "value": 18927840
+    }
+   ],
+   "table_total": 228907482,
+   "first_seen": "2026-11-16T21:22:31+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "Punch Card Capital, L.P."

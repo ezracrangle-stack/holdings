@@ -2884,6 +2884,211 @@
    "table_total": 497191448,
    "first_seen": "2026-11-16T13:49:04+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001858353-26-000007",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835326000007/0001858353-26-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 1989758,
+     "unit": "SH",
+     "value": 87887611
+    },
+    {
+     "cusip": "16935C109",
+     "put_call": null,
+     "issuer": "CHIME FINL INC",
+     "class": "COM SHS CL A",
+     "shares": 2887865,
+     "unit": "SH",
+     "value": 76932724
+    },
+    {
+     "cusip": "M5216V106",
+     "put_call": null,
+     "issuer": "GLOBAL E ONLINE LTD",
+     "class": "SHS",
+     "shares": 1896700,
+     "unit": "SH",
+     "value": 75355891
+    },
+    {
+     "cusip": "10950A106",
+     "put_call": null,
+     "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+     "class": "COM",
+     "shares": 885100,
+     "unit": "SH",
+     "value": 50229425
+    },
+    {
+     "cusip": "96924N100",
+     "put_call": null,
+     "issuer": "WILLDAN GROUP INC",
+     "class": "COM",
+     "shares": 653706,
+     "unit": "SH",
+     "value": 48295799
+    },
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 902648,
+     "unit": "SH",
+     "value": 40781637
+    },
+    {
+     "cusip": "109696104",
+     "put_call": null,
+     "issuer": "BRINKS CO",
+     "class": "COM",
+     "shares": 324285,
+     "unit": "SH",
+     "value": 32749542
+    },
+    {
+     "cusip": "859241101",
+     "put_call": null,
+     "issuer": "STERLING INFRASTRUCTURE INC",
+     "class": "COM",
+     "shares": 58000,
+     "unit": "SH",
+     "value": 28523240
+    },
+    {
+     "cusip": "477839104",
+     "put_call": null,
+     "issuer": "JBT MAREL CORPORATION",
+     "class": "COM",
+     "shares": 268298,
+     "unit": "SH",
+     "value": 28329586
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1471715,
+     "unit": "SH",
+     "value": 25593124
+    },
+    {
+     "cusip": "55405W104",
+     "put_call": null,
+     "issuer": "MYR GROUP INC",
+     "class": "COM",
+     "shares": 79480,
+     "unit": "SH",
+     "value": 23244721
+    },
+    {
+     "cusip": "300426103",
+     "put_call": null,
+     "issuer": "EVERUS CONSTR GROUP",
+     "class": "COM",
+     "shares": 191500,
+     "unit": "SH",
+     "value": 22505080
+    },
+    {
+     "cusip": "44951W106",
+     "put_call": null,
+     "issuer": "IES HOLDINGS INC",
+     "class": "COM",
+     "shares": 69360,
+     "unit": "SH",
+     "value": 22270109
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 169400,
+     "unit": "SH",
+     "value": 17964870
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 71300,
+     "unit": "SH",
+     "value": 17764395
+    },
+    {
+     "cusip": "681116109",
+     "put_call": null,
+     "issuer": "OLLIES BARGAIN OUTLET HLDGS",
+     "class": "COM",
+     "shares": 206600,
+     "unit": "SH",
+     "value": 17695290
+    },
+    {
+     "cusip": "920253101",
+     "put_call": null,
+     "issuer": "VALMONT INDS INC",
+     "class": "COM",
+     "shares": 35828,
+     "unit": "SH",
+     "value": 16587647
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 97010,
+     "unit": "SH",
+     "value": 7757890
+    },
+    {
+     "cusip": "80517M109",
+     "put_call": null,
+     "issuer": "SAVERS VALUE VLG INC",
+     "class": "COM",
+     "shares": 800000,
+     "unit": "SH",
+     "value": 7368000
+    },
+    {
+     "cusip": "25960R105",
+     "put_call": null,
+     "issuer": "DOUGLAS DYNAMICS INC",
+     "class": "COM",
+     "shares": 187479,
+     "unit": "SH",
+     "value": 7358551
+    },
+    {
+     "cusip": "59739R104",
+     "put_call": null,
+     "issuer": "MIDERA FOOD PROCESSING INC",
+     "class": "COM",
+     "shares": 79600,
+     "unit": "SH",
+     "value": 3249272
+    }
+   ],
+   "table_total": 658444404,
+   "first_seen": "2026-11-16T21:22:38+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "ALTA FOX CAPITAL MANAGEMENT, LLC"
