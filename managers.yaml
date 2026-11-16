@@ -190,3 +190,23 @@ managers:
     cik: [1489933, 1079114]
     letters: no
     why: "Greenlight runs a long-short book with a macro sleeve, and the 13F shows only the longs. Green Brick Partners, the homebuilder David helped launch in 2014, is in every one since 2013 and is the biggest position at 19%."
+
+  - id: ed-wachenheim
+    name: Ed Wachenheim III
+    firm: Greenhaven Associates
+    cik: 846222
+    letters: no
+    why: "Ed looks for change nobody expects and for a gap between how a company is seen and what it is. He has owned homebuilders on and off since 1987; Lennar, Toll Brothers, PulteGroup and D.R. Horton are more than a third of the 13F."
+
+  - id: scott-miller
+    name: Scott Miller
+    firm: Greenhaven Road Capital
+    cik: 1741129
+    letters: greenhaven
+
+  - id: leon-cooperman
+    name: Leon Cooperman
+    firm: Omega Advisors
+    cik: [898382, 898202]
+    letters: no
+    why: "Lee ran Goldman Sachs Asset Management before he started Omega in 1991, and since 2019 the firm manages only his family's money. Vertiv, held since 2020, is 16% of the 13F."

@@ -54,3 +54,6 @@
 - {ticker: TLIS, date: 2023-08-07, ratio: 0.0666667}
 - {ticker: UHAL, date: 2022-11-10, ratio: 10}
 - {ticker: SNDK, date: 2026-06-30, ratio: 1}   # real sale, not a split
+- {ticker: MTH, date: 2025-01-02, ratio: 2}
+- {ticker: BALL, date: 2017-05-16, ratio: 2}
+- {ticker: NRZ, date: 2014-10-17, ratio: 0.5}

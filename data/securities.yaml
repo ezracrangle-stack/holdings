@@ -1821,3 +1821,358 @@
 # Q3 2026 filings
 "60744M106": {name: "Mobility Global", ticker: "MBGL", sic: 7389, sector: "Industrials", note: "Spun off from S&P Global in 2026."}
 "464288257": {name: "iShares MSCI ACWI ETF", ticker: "ACWI", fund: yes}
+
+# Ed Wachenheim, Scott Miller and Leon Cooperman
+"320551104": {name: "1stDibs", ticker: "DIBS", sic: 5961}
+"808194104": {name: "A. Schulman", ticker: "SHLM", sector: "Materials", note: "Bought by LyondellBasell in 2018."}
+"00101J106": {name: "ADT", ticker: "ADT", sic: 7381}
+"00130H105": {name: "AES", ticker: "AES", sic: 4991}
+"00123Q104": {name: "AGNC Investment", ticker: "AGNC", sector: "Financials & real estate"}
+"00164V103": {name: "AMC Networks", ticker: "AMCX", sector: "Media & telecom"}
+"009279100": {name: "Airbus", ticker: "EADSY", sector: "Industrials"}
+"009363102": {name: "Airgas", ticker: "ARG", sector: "Materials", note: "Bought by Air Liquide in 2016."}
+"G0190X126": {name: "Ajax Capital", ticker: "AJAX.WS", sector: "Financials & real estate", note: "SPAC that merged with Cazoo in 2021.", kind: "warrants"}
+"01407X112": {name: "Aldel Financial", ticker: "ADF.WS", sector: "Financials & real estate", note: "SPAC that merged with Hagerty in 2021.", kind: "warrants"}
+"G0083B108": {name: "Allergan", ticker: "AGN", sector: "Health care", note: "Called Actavis until 2015. Bought by AbbVie in 2020."}
+"M0854Q105": {name: "Allot", ticker: "ALLT", sic: 3576}
+"02128L106": {name: "Alta Equipment Group", ticker: "ALTG", sic: 5084}
+"L0175J104": {name: "Altisource Portfolio Solutions", ticker: "ASPS", sector: "Financials & real estate"}
+"L1075J104": {name: "Altisource Portfolio Solutions", ticker: "ASPS", sector: "Financials & real estate"}
+"026760405": {name: "American Independence", ticker: "AMIC", sector: "Financials & real estate", note: "Bought by Independence Holding in 2016."}
+"H2627K103": {name: "Amrize", ticker: "AMRZ", sic: 3241}
+"032724106": {name: "AnaptysBio", ticker: "ANAB", sic: 2834}
+"03349M105": {name: "Andeavor", ticker: "ANDV", sector: "Energy", note: "Bought by Marathon Petroleum in 2018."}
+"75605Y106": {name: "Anywhere Real Estate", ticker: "RLGY", sector: "Financials & real estate", note: "Called Realogy until 2022."}
+"G0411R114": {name: "Apollo Strategic Growth Capital", ticker: "APSG.WS", sector: "Financials & real estate", note: "SPAC that merged with American Express Global Business Travel in 2022.", kind: "warrants"}
+"G0412A128": {name: "Apollo Strategic Growth Capital II", ticker: "APGB.WS", sector: "Financials & real estate", kind: "warrants"}
+"038923108": {name: "Arbor Realty Trust", ticker: "ABR", sic: 6798}
+"G0477L118": {name: "Arctos NorthStar Acquisition", ticker: "ANAC.U", sector: "Financials & real estate", kind: "units"}
+"04272N102": {name: "ArriVent BioPharma", ticker: "AVBP", sic: 2834}
+"04351G101": {name: "Ascena Retail Group", ticker: "ASNA", sector: "Consumer discretionary", note: "Bankrupt in 2020."}
+"G05155117": {name: "Ascendant Digital Acquisition", ticker: "ACND.WS", sector: "Financials & real estate", note: "SPAC that merged with Beacon Street Group (MarketWise) in 2021.", kind: "warrants"}
+"044186104": {name: "Ashland", ticker: "ASH", sic: 5160}
+"044209104": {name: "Ashland", ticker: "ASH", sic: 5160}
+"04530L203": {name: "Aspen Group", ticker: "ASPU", sector: "Consumer discretionary"}
+"045528106": {name: "Associated Capital Group", ticker: "ACGP", sic: 6211}
+"G0585R106": {name: "Assured Guaranty", ticker: "AGO", sic: 6351}
+"04930A104": {name: "Atlas Energy", ticker: "ATLS", sector: "Energy", note: "Merged with Targa Resources in 2015."}
+"642045108": {name: "Atlas Energy Solutions", ticker: "AESI", sic: 1311}
+"049392103": {name: "Atlas Pipeline Partners", ticker: "APL", sector: "Energy", note: "Merged with Targa Resources in 2015."}
+"04941A101": {name: "Atlas Resource Partners", ticker: "ARP", sector: "Energy", note: "Bankrupt in 2016."}
+"049513104": {name: "Atmel", ticker: "ATML", sector: "Technology", note: "Bought by Microchip in 2016."}
+"050734201": {name: "AudioEye", ticker: "AEYE", sic: 7372}
+"G0682V125": {name: "Avanti Acquisition", ticker: "AVAN.WS", sector: "Financials & real estate", kind: "warrants"}
+"05352A100": {name: "Avantor", ticker: "AVTR", sector: "Health care"}
+"05508R106": {name: "B&G Foods", ticker: "BGS", sic: 2000}
+"GIR25Q113": {name: "BYTE Acquisition", ticker: "BYTS.WS", sector: "Financials & real estate", kind: "warrants"}
+"058498106": {name: "Ball", ticker: "BALL", sic: 3411}
+"90171V204": {name: "Bally's", ticker: "TRWH", sector: "Consumer discretionary", note: "Called Twin River Worldwide until 2020."}
+"06759L103": {name: "Barings BDC", ticker: "BBDC"}
+"06777U101": {name: "Barnes & Noble Education", ticker: "BNED", sector: "Consumer discretionary"}
+"06777U200": {name: "Barnes & Noble Education", ticker: "BNED", sector: "Consumer discretionary"}
+"071734107": {name: "Bausch Health", ticker: "BHC", sector: "Health care"}
+"08579W103": {name: "Berry Global", ticker: "BERY", sector: "Materials", note: "Merged into Amcor in 2025."}
+"08975B109": {name: "BigBear.ai", ticker: "BBAI", sector: "Technology"}
+"08975B959": {name: "BigBear.ai", ticker: "BBAI.WS", sector: "Technology", kind: "warrants"}
+"69121K104": {name: "Blue Owl Capital", ticker: "OWL", sic: 6282}
+"G1330M111": {name: "Blue Whale Acquisition Corp I", ticker: "BWC.U", sector: "Financials & real estate", kind: "units"}
+"G1330M129": {name: "Blue Whale Acquisition Corp I", ticker: "BWC.WS", sector: "Financials & real estate", kind: "warrants"}
+"09624H208": {name: "BlueLinx", ticker: "BXC", sector: "Industrials"}
+"10918L103": {name: "Brigham Minerals", ticker: "MNRL", sector: "Energy", note: "Merged with Sitio Royalties in 2022."}
+"G1192N126": {name: "CC Neuberger Principal Holdings I", ticker: "PCPL.WS", sector: "Financials & real estate", note: "SPAC that merged with E2open in 2021.", kind: "warrants"}
+"G3166T111": {name: "CC Neuberger Principal Holdings II", ticker: "PRPB.WS", sector: "Financials & real estate", note: "SPAC that merged with Getty Images in 2022.", kind: "warrants"}
+"12626K203": {name: "CRH", ticker: "CRH", sector: "Materials"}
+"G25508105": {name: "CRH", ticker: "CRH", sector: "Materials"}
+"23131L107": {name: "CURO Group", ticker: "CURO", sector: "Financials & real estate", note: "Bankrupt in 2024."}
+"127686103": {name: "Caesars Entertainment", ticker: "CZR", sic: 7011}
+"128195104": {name: "CalAtlantic Group", ticker: "CAA", sector: "Consumer discretionary", note: "Bought by Lennar in 2018."}
+"13342B105": {name: "Cameron International", ticker: "CAM", sector: "Energy", note: "Bought by Schlumberger in 2016."}
+"13710C107": {name: "Canam Group", ticker: "CNMGF", sector: "Industrials", note: "Taken private in 2017."}
+"14064F118": {name: "Capitol Investment Corp. V", ticker: "CAP.WS", sector: "Financials & real estate", note: "SPAC that merged with Doma in 2021.", kind: "warrants"}
+"G2007L113": {name: "Cazoo", ticker: "CZOO.WS", sector: "Consumer discretionary", note: "Bankrupt in 2024.", kind: "warrants"}
+"M2197Q107": {name: "Cellebrite", ticker: "CLBT", sic: 7372}
+"M2197Q115": {name: "Cellebrite", ticker: "CLBT.WS", sic: 7372, kind: "warrants"}
+"151290889": {name: "Cemex", ticker: "CX", sic: 3241}
+"16842Q100": {name: "Chicken Soup for the Soul Entertainment", ticker: "CSSE", sector: "Media & telecom", note: "Bankrupt in 2024."}
+"16934Q109": {name: "Chimera Investment", ticker: "CIM", sic: 6798}
+"16934Q208": {name: "Chimera Investment", ticker: "CIM", sic: 6798}
+"16934Q209": {name: "Chimera Investment", ticker: "CIM", sic: 6798}
+"17142R103": {name: "Churchill Capital Corp", ticker: "CCC", sector: "Financials & real estate", note: "SPAC that merged with Clarivate in 2019."}
+"17144T115": {name: "Churchill Capital Corp V", ticker: "CCV.WS", sector: "Financials & real estate", kind: "warrants"}
+"17143W119": {name: "Churchill Capital Corp VI", ticker: "CCVI.WS", sector: "Financials & real estate", kind: "warrants"}
+"17144M110": {name: "Churchill Capital Corp VII", ticker: "CVII.WS", sector: "Financials & real estate", kind: "warrants"}
+"18270P109": {name: "Clarus", ticker: "CLAR", sic: 3949}
+"19421R200": {name: "Collectors Universe", ticker: "CLCT", sector: "Consumer discretionary", note: "Taken private in 2021."}
+"20337X109": {name: "CommScope", ticker: "COMM", sector: "Technology"}
+"20451Q104": {name: "Compass Diversified Holdings", ticker: "CODI", sic: 2510}
+"20451Q904": {name: "Compass Diversified Holdings", ticker: "CODI", sic: 2510}
+"81369Y308": {name: "Consumer Staples Select Sector SPDR Fund", ticker: "XLP", fund: yes}
+"45816D100": {name: "CorCard", ticker: "CCRD", sector: "Financials & real estate"}
+"127097103": {name: "Coterra Energy", ticker: "CTRA", sector: "Energy"}
+"22282E102": {name: "Covanta", ticker: "CVA", sector: "Utilities", note: "Taken private in 2021."}
+"225655109": {name: "Crescent Capital BDC", ticker: "CCAP"}
+"23130Q115": {name: "CuriosityStream", ticker: "CURI.WS", sic: 7812, kind: "warrants"}
+"23258P105": {name: "CynergisTek", ticker: "CTEK", sector: "Technology", note: "Taken private in 2022."}
+"23305Q205": {name: "D and Z Media Acquisition", ticker: "DNZ.U", sector: "Financials & real estate", kind: "units"}
+"23345M107": {name: "DT Midstream", ticker: "DTM", sic: 4922}
+"237690102": {name: "Data I/O", ticker: "DAIO", sic: 3825}
+"24703L103": {name: "Dell Technologies", ticker: "DELL", sic: 3571}
+"247916208": {name: "Denbury", ticker: "DNR", sector: "Energy", note: "Bought by ExxonMobil in 2023."}
+"25253X207": {name: "DiaMedica Therapeutics", ticker: "DMAC", sic: 2834}
+"25400W102": {name: "Digital Turbine", ticker: "APPS", sic: 6794}
+"25400W902": {name: "Digital Turbine", ticker: "APPS", sic: 6794}
+"25501G105": {name: "Ditech Holding", ticker: "DHCP", sector: "Financials & real estate", note: "Bankrupt in 2019."}
+"260543103": {name: "Dow Chemical", ticker: "DOW", sector: "Materials", note: "Merged with DuPont in 2017."}
+"269246401": {name: "E*TRADE", ticker: "ETFC", sector: "Financials & real estate", note: "Bought by Morgan Stanley in 2020."}
+"29414B104": {name: "EPAM Systems", ticker: "EPAM", sector: "Technology"}
+"26929N102": {name: "EVI Industries", ticker: "EVI", sic: 7200}
+"277432100": {name: "Eastman Chemical", ticker: "EMN", sic: 2821}
+"010198208": {name: "Electrolux", ticker: "ELUXY", sector: "Consumer discretionary"}
+"288522303": {name: "Ellington Financial", ticker: "EFC", sic: 6500}
+"28852N109": {name: "Ellington Financial", ticker: "EFC", sic: 6500}
+"29273R109": {name: "Energy Transfer Partners", ticker: "ETP", sector: "Energy", note: "Merged into Energy Transfer in 2018."}
+"29278N103": {name: "Energy Transfer Partners", ticker: "ETP", sector: "Energy", note: "Merged into Energy Transfer in 2018."}
+"G10082140": {name: "Energy XXI", ticker: "EXXI", sector: "Energy", note: "Bankrupt in 2016."}
+"294600101": {name: "Equitrans Midstream", ticker: "ETRN", sector: "Energy", note: "Bought by EQT in 2024."}
+"29786A106": {name: "Etsy", ticker: "ETSY", sic: 7389}
+"302635107": {name: "FS KKR Capital", ticker: "FSK"}
+"30283W104": {name: "FTS International", ticker: "FTSI", sector: "Energy", note: "Bought by ProFrac in 2022."}
+"30607B109": {name: "Falcon Minerals", ticker: "FLMN", sector: "Energy", note: "Merged with Desert Peak into Sitio Royalties in 2022."}
+"30607B208": {name: "Falcon Minerals", ticker: "FLMN.WS", sector: "Energy", kind: "warrants"}
+"315293100": {name: "Ferrellgas Partners", ticker: "FGPR", sic: 5900}
+"315405100": {name: "Ferro", ticker: "FOE", sector: "Materials", note: "Taken private in 2022."}
+"315785105": {name: "Fidelity & Guaranty Life", ticker: "FGL", sector: "Financials & real estate", note: "Bought by CF Corporation in 2017."}
+"31738L107": {name: "Finance of America", ticker: "FOA", sector: "Financials & real estate"}
+"31738L206": {name: "Finance of America", ticker: "FOA", sector: "Financials & real estate"}
+"32008D106": {name: "First Data", ticker: "FDC", sector: "Technology", note: "Bought by Fiserv in 2019."}
+"26943B100": {name: "First Eagle Alternative Capital BDC", ticker: "FCRD", sector: "Financials & real estate", note: "Merged into Crescent Capital BDC in 2023."}
+"32076V103": {name: "First Majestic Silver", ticker: "AG", sic: 1040}
+"34962V106": {name: "Fortress Value Acquisition", ticker: "FVAC", sector: "Financials & real estate", note: "SPAC that merged with MP Materials in 2020."}
+"35473P827": {name: "Franklin FTSE Canada ETF", ticker: "FLCA", fund: yes}
+"35671D857": {name: "Freeport-McMoRan", ticker: "FCX", sic: 1000}
+"35904G107": {name: "Front Yard Residential", ticker: "RESI", sector: "Financials & real estate", note: "Taken private in 2021."}
+"361438104": {name: "GAMCO Investors", ticker: "GBL", sector: "Financials & real estate"}
+"36831E116": {name: "GCM Grosvenor", ticker: "GCMG.WS", sic: 6282, kind: "warrants"}
+"20459V105": {name: "GPGI", ticker: "GPGI", sic: 6199}
+"36197T103": {name: "GW Pharmaceuticals", ticker: "GWPH", sector: "Health care", note: "Bought by Jazz Pharmaceuticals in 2021."}
+"36467J108": {name: "Gaming & Leisure Properties", ticker: "GLPI", sic: 6798}
+"35045V100": {name: "General Motors", ticker: "GM", sector: "Consumer discretionary"}
+"375036118": {name: "GigCapital2", ticker: "GIX.WS", sector: "Financials & real estate", note: "SPAC that merged with UpHealth in 2021.", kind: "warrants"}
+"375036126": {name: "GigCapital2", ticker: "GIX.RT", sector: "Financials & real estate", note: "SPAC that merged with UpHealth in 2021.", kind: "rights"}
+"37518B102": {name: "Gigamon", ticker: "GIMO", sector: "Technology", note: "Taken private in 2017."}
+"37714P111": {name: "Glass Houses Acquisition", ticker: "GLHA.WS", sector: "Financials & real estate", kind: "warrants"}
+"37951D102": {name: "Global Eagle Entertainment", ticker: "ENT", sector: "Media & telecom", note: "Bankrupt in 2020."}
+"38046C109": {name: "Gogo", ticker: "GOGO", sic: 4899}
+"38286T119": {name: "Gores Holdings VII", ticker: "GSEV.WS", sector: "Financials & real estate", kind: "warrants"}
+"382870111": {name: "Gores Technology Partners", ticker: "GTPA.WS", sector: "Financials & real estate", kind: "warrants"}
+"38741L107": {name: "Granite Point Mortgage Trust", ticker: "GPMT", sic: 6798}
+"399473107": {name: "Groupon", ticker: "GRPN", sic: 7311}
+"41146A106": {name: "HRG Group", ticker: "HRG", sector: "Financials & real estate", note: "Called Harbinger Group until 2015. Merged with Spectrum Brands in 2018."}
+"405166109": {name: "Hagerty", ticker: "HGTY", sic: 6411}
+"405166117": {name: "Hagerty", ticker: "HGTY.WS", sic: 6411, kind: "warrants"}
+"41589C112": {name: "Hennessy Capital Acquisition Corp. IV", ticker: "HCAC.WS", sector: "Financials & real estate", note: "SPAC that merged with Canoo in 2020.", kind: "warrants"}
+"42809H107": {name: "Hess", ticker: "HES", sector: "Energy", note: "Bought by Chevron in 2025."}
+"43300A104": {name: "Hilton", ticker: "HLT", sic: 7011}
+"53656F623": {name: "Horizon Kinetics Inflation Beneficiaries ETF", ticker: "INFL", fund: yes}
+"G4627B103": {name: "Horizon Space Acquisition II", ticker: null, sector: "Financials & real estate"}
+"443761119": {name: "Hudson Executive Investment Corp. III", ticker: "HIII.WS", sector: "Financials & real estate", kind: "warrants"}
+"44376L115": {name: "Hudson Executive Investment Corp. III", ticker: "HIII.WS", sector: "Financials & real estate", kind: "warrants"}
+"44891N109": {name: "IAC", ticker: "IAC", sector: "Media & telecom"}
+"450913108": {name: "IAMGOLD", ticker: "IAG", sic: 1040}
+"451055107": {name: "Iconix Brand Group", ticker: "ICON", sector: "Consumer discretionary", note: "Taken private in 2021."}
+"81369Y704": {name: "Industrial Select Sector SPDR Fund", ticker: "XLI", fund: yes}
+"45686J112": {name: "Infrastructure and Energy Alternatives", ticker: "IEA.WS", sector: "Industrials", note: "Bought by MasTec in 2022.", kind: "warrants"}
+"46064Q116": {name: "InterPrivate II Acquisition", ticker: "IPVA.WS", sector: "Financials & real estate", kind: "warrants"}
+"459506101": {name: "International Flavors & Fragrances", ticker: "IFF", sic: 2860}
+"460146103": {name: "International Paper", ticker: "IP", sector: "Materials"}
+"46090E953": {name: "Invesco QQQ Trust", ticker: "QQQ", fund: yes}
+"G50737108": {name: "Jaws Mustang Acquisition", ticker: "JWSM", sector: "Financials & real estate"}
+"G50737124": {name: "Jaws Mustang Acquisition", ticker: "JWSM.WS", sector: "Financials & real estate", kind: "warrants"}
+"48666K109": {name: "KB Home", ticker: "KBH", sector: "Consumer discretionary"}
+"48242W106": {name: "KBR", ticker: "KBR", sic: 1600}
+"48253T117": {name: "KKR Acquisition Holdings I", ticker: "KAHC.WS", sector: "Financials & real estate", kind: "warrants"}
+"48248A306": {name: "KKR Financial", ticker: "KFN", sector: "Financials & real estate", note: "Bought by KKR in 2014."}
+"483379103": {name: "Kaleyra", ticker: "KLR", sector: "Technology", note: "Bought by Tata Communications in 2023."}
+"483379111": {name: "Kaleyra", ticker: "KLR.WS", sector: "Technology", kind: "warrants"}
+"48669G303": {name: "Kazia Therapeutics", ticker: "KZIA", sic: 2834}
+"496904202": {name: "Kingsway", ticker: "KWY", sic: 6331}
+"G54035111": {name: "Lazard Growth Acquisition", ticker: "LGAC.WS", sector: "Financials & real estate", kind: "warrants"}
+"52110H100": {name: "Lazydays", ticker: "LAZY", sector: "Consumer discretionary"}
+"526107107": {name: "Lennox International", ticker: "LII", sector: "Industrials"}
+"53073L112": {name: "Liberty Media Acquisition", ticker: "LMACA.WS", sector: "Financials & real estate", kind: "warrants"}
+"514766104": {name: "Lifecore Biomedical", ticker: "LFCR", sector: "Health care"}
+"53228T101": {name: "Lightning eMotors", ticker: "ZEV", sector: "Consumer discretionary", note: "Bankrupt in 2023."}
+"53228T119": {name: "Lightning eMotors", ticker: "ZEV.WS", sector: "Consumer discretionary", kind: "warrants"}
+"536020100": {name: "Linn Energy", ticker: "LINE", sector: "Energy", note: "Bankrupt in 2016."}
+"53838L100": {name: "LiveVox", ticker: "LVOX", sector: "Technology", note: "Bought by NICE in 2023."}
+"53838L118": {name: "LiveVox", ticker: "LVOX.WS", sector: "Technology", note: "Bought by NICE in 2023.", kind: "warrants"}
+"543881106": {name: "Loral Space & Communications", ticker: "LORL", sector: "Media & telecom", note: "Merged into Telesat in 2021."}
+"552676108": {name: "M.D.C. Holdings", ticker: "MDC", sector: "Consumer discretionary", note: "Bought by Sekisui House in 2024."}
+"552953101": {name: "MGM Resorts International", ticker: "MGM", sic: 7011}
+"553368101": {name: "MP Materials", ticker: "MP", sector: "Materials"}
+"553829102": {name: "MVC Capital", ticker: "MVC", sector: "Financials & real estate", note: "Merged into Barings BDC in 2020."}
+"559663109": {name: "Magnolia Oil & Gas", ticker: "MGY", sic: 1311}
+"57064P107": {name: "MarketWise", ticker: "MKTW", sic: 7372}
+"57064P115": {name: "MarketWise", ticker: "MKTW.WS", sic: 7372, kind: "warrants"}
+"576853105": {name: "Matrix Service", ticker: "MTRX", sic: 1700}
+"57776J100": {name: "MaxLinear", ticker: "MXL", sic: 3674}
+"585464100": {name: "Melco Resorts", ticker: "MLCO", sector: "Consumer discretionary", note: "Called Melco Crown until 2017."}
+"59001A102": {name: "Meritage Homes", ticker: "MTH", sector: "Consumer discretionary"}
+"590106100": {name: "Merlin", ticker: "MRLN", sic: 7373}
+"59156R108": {name: "MetLife", ticker: "MET", sic: 6311}
+"60471A101": {name: "Mirion Technologies", ticker: "MIR", sic: 3829}
+"608554101": {name: "Molex", ticker: "MOLX", sector: "Technology", note: "Bought by Koch Industries in 2013."}
+"608554200": {name: "Molex", ticker: "MOLXA", sector: "Technology", note: "Bought by Koch Industries in 2013."}
+"60938K106": {name: "MoneyLion", ticker: "ML", sector: "Financials & real estate"}
+"60938K114": {name: "MoneyLion", ticker: "ML.WS", sector: "Financials & real estate", kind: "warrants"}
+"62482R107": {name: "Mr. Cooper", ticker: "COOP", sector: "Financials & real estate"}
+"62955J103": {name: "NOV", ticker: "NOV", sector: "Energy"}
+"629491101": {name: "NYSE Euronext", ticker: "NYX", sector: "Financials & real estate", note: "Bought by ICE in 2013."}
+"G6359F103": {name: "Nabors Industries", ticker: "NBR", sic: 1381}
+"G6359F137": {name: "Nabors Industries", ticker: "NBR", sic: 1381}
+"G63907102": {name: "Nam Tai Property", ticker: "NTPIF", sic: 6500}
+"63938C108": {name: "Navient", ticker: "NAVI", sic: 6211}
+"64081V109": {name: "Nerdy", ticker: "NRDY", sic: 8200}
+"64704V106": {name: "New Media Investment Group", ticker: "NEWM", sector: "Media & telecom", note: "Merged with Gannett in 2019."}
+"648691103": {name: "New Senior Investment Group", ticker: "SNR", sector: "Financials & real estate", note: "Bought by Ventas in 2021."}
+"65105M108": {name: "Newcastle Investment", ticker: "NCT", sector: "Financials & real estate", note: "Called Drive Shack after 2016."}
+"48669A108": {name: "NexTier Oilfield Solutions", ticker: "FRAC", sector: "Energy", note: "Called Keane Group until 2019. Merged with Patterson-UTI in 2023."}
+"65345N106": {name: "NextNav", ticker: "NN", sic: 3812}
+"65345N906": {name: "NextNav", ticker: "NN", sic: 3812}
+"65345M108": {name: "Nextdoor", ticker: "NXDR", sic: 7370}
+"Y6366T112": {name: "Nordic American Offshore", ticker: "NAO", sector: "Energy"}
+"66516U200": {name: "Northern Genesis Acquisition", ticker: "NGA.U", sector: "Financials & real estate", note: "SPAC that merged with Lion Electric in 2021.", kind: "units"}
+"85172J101": {name: "OneMain", ticker: "OMF", sector: "Financials & real estate", note: "Called Springleaf Holdings until 2015."}
+"675746309": {name: "Onity Group", ticker: "OCN", sector: "Financials & real estate", note: "Called Ocwen Financial until 2024."}
+"675746606": {name: "Onity Group", ticker: "OCN", sector: "Financials & real estate", note: "Called Ocwen Financial until 2024."}
+"69888T207": {name: "PAR Pacific Holdings", ticker: "PARR", sic: 1311}
+"698884103": {name: "PAR Technology", ticker: "PAR", sic: 3578}
+"698884903": {name: "PAR Technology", ticker: "PAR", sic: 3578}
+"696429307": {name: "Pall", ticker: "PLL", sector: "Industrials", note: "Bought by Danaher in 2015."}
+"698354107": {name: "Pandora Media", ticker: "P", sector: "Media & telecom", note: "Bought by Sirius XM in 2019."}
+"701877102": {name: "Parsley Energy", ticker: "PE", sector: "Energy", note: "Bought by Pioneer Natural Resources in 2021."}
+"G6964L107": {name: "Paysafe", ticker: "PSFE", sic: 7389}
+"G3398L118": {name: "Pelagos Insurance Capital", ticker: null, sector: "Financials & real estate"}
+"70932B101": {name: "PennyMac Financial Services", ticker: "PFSI", sector: "Financials & real estate"}
+"70932M107": {name: "PennyMac Financial Services", ticker: "PFSI", sic: 6162}
+"70931T103": {name: "PennyMac Mortgage Investment Trust", ticker: "PMT", sector: "Financials & real estate"}
+"714157203": {name: "Perma-Fix Environmental Services", ticker: "PESI", sic: 4955}
+"15136A102": {name: "Permian Resources", ticker: "CDEV", sector: "Energy", note: "Called Centennial Resource Development until 2022."}
+"714266103": {name: "Perpetua Resources", ticker: "PPTA", sic: 1040}
+"06690B107": {name: "Pinstripes", ticker: "PNST", sector: "Consumer discretionary"}
+"73172K104": {name: "Polycom", ticker: "PLCM", sector: "Technology", note: "Taken private in 2016."}
+"G71707106": {name: "Pontem", ticker: "PNTM", sector: "Financials & real estate"}
+"733245104": {name: "Porch Group", ticker: "PRCH", sic: 6321}
+"74265M205": {name: "Pro-Dex", ticker: "PDEX", sector: "Health care"}
+"74733V100": {name: "QEP Resources", ticker: "QEP", sector: "Energy", note: "Bought by Diamondback in 2021."}
+"74834L100": {name: "Quest Diagnostics", ticker: "DGX", sic: 8071}
+"74836W203": {name: "Quest Resource", ticker: "QRHC", sector: "Industrials"}
+"74934Q108": {name: "RCI Hospitality", ticker: "RICK", sector: "Consumer discretionary"}
+"749561205": {name: "RHJ International", ticker: "RHJI", sector: "Financials & real estate"}
+"B06S4F0BE": {name: "RHJ International", ticker: "RHJI", sector: "Financials & real estate"}
+"74975N105": {name: "RTI Surgical", ticker: "RTIX", sector: "Health care", note: "Renamed Surgalign in 2020."}
+"758750103": {name: "Regal Rexnord", ticker: "RRX", sic: 3569}
+"G75130107": {name: "Replay Acquisition", ticker: "RPLA", sector: "Financials & real estate", note: "SPAC that merged with Finance of America in 2021."}
+"761025105": {name: "Research Solutions", ticker: "RSSS", sic: 7389}
+"762760106": {name: "Rice Energy", ticker: "RICE", sector: "Energy", note: "Bought by EQT in 2017."}
+"64828T102": {name: "Rithm Capital", ticker: "NRZ", sector: "Financials & real estate", note: "Called New Residential Investment until 2022."}
+"64828T201": {name: "Rithm Capital", ticker: "NRZ", sector: "Financials & real estate", note: "Called New Residential Investment until 2022."}
+"770323103": {name: "Robert Half", ticker: "RHI", sector: "Industrials"}
+"77311W101": {name: "Rocket Companies", ticker: "RKT", sector: "Financials & real estate"}
+"77879W204": {name: "Rotor Acquisition", ticker: "ROT.U", sector: "Financials & real estate", note: "SPAC that merged with Sarcos in 2021.", kind: "units"}
+"785135104": {name: "S&W Seed", ticker: "SANW", sector: "Consumer staples"}
+"78462F953": {name: "SPDR S&P 500 ETF", ticker: "SPY", fund: yes}
+"78464A730": {name: "SPDR S&P Oil & Gas Exploration & Production ETF", ticker: "XOP", fund: yes}
+"78464A698": {name: "SPDR S&P Regional Banking ETF", ticker: "KRE", fund: yes}
+"78574H904": {name: "Sable Offshore", ticker: "SOC", sic: 1311}
+"80007P307": {name: "SandRidge Energy", ticker: "SD", sic: 1311}
+"80007P869": {name: "SandRidge Energy", ticker: "SD", sic: 1311}
+"808524862": {name: "Schwab Short-Term U.S. Treasury ETF", ticker: "SCHO", fund: yes}
+"81720R208": {name: "SenesTech", ticker: "SNES", sic: 2870}
+"81720R505": {name: "SenesTech", ticker: "SNES", sic: 2870}
+"81723H116": {name: "Senior Connect Acquisition Corp. I", ticker: "SNRH.WS", sector: "Financials & real estate", kind: "warrants"}
+"820054104": {name: "SharpSpring", ticker: "SHSP", sector: "Technology", note: "Bought by Constant Contact in 2021."}
+"82481R106": {name: "Shire", ticker: "SHPG", sector: "Health care", note: "Bought by Takeda in 2019."}
+"82639W106": {name: "Sierra Metals", ticker: "SMTS", sector: "Materials"}
+"82655M107": {name: "Sify Technologies", ticker: "SIFY", sic: 7370}
+"G81355128": {name: "Silver Crest Acquisition", ticker: "SLCR.WS", sector: "Financials & real estate", kind: "warrants"}
+"829226109": {name: "Sinclair", ticker: "SBGI", sector: "Media & telecom"}
+"82967N108": {name: "Sirius XM", ticker: "SIRI", sector: "Media & telecom"}
+"G82220107": {name: "Skydeck Acquisition", ticker: "SKYA.WS", sector: "Financials & real estate", kind: "warrants"}
+"G82220115": {name: "Skydeck Acquisition", ticker: "SKYA.WS", sector: "Financials & real estate", kind: "warrants"}
+"G8251K115": {name: "Social Capital Hedosophia", ticker: "IPOA.WS", sector: "Financials & real estate", note: "SPAC that merged with Virgin Galactic in 2019.", kind: "warrants"}
+"G8250T125": {name: "Social Capital Hedosophia II", ticker: "IPOB.WS", sector: "Financials & real estate", note: "SPAC that merged with Opendoor in 2020.", kind: "warrants"}
+"75629F109": {name: "Societal CDMO", ticker: "REPH", sector: "Health care", note: "Called Recro Pharma until 2022."}
+"83422N105": {name: "Solid Power", ticker: "SLDP", sic: 3690}
+"55826T102": {name: "Sphere Entertainment", ticker: "SPHR", sic: 7900}
+"852061100": {name: "Sprint", ticker: "S", sector: "Media & telecom", note: "Merged with T-Mobile in 2020."}
+"85207U105": {name: "Sprint", ticker: "S", sector: "Media & telecom", note: "Merged with T-Mobile in 2020."}
+"552697104": {name: "Stagwell", ticker: "STGW", sector: "Media & telecom", note: "Called MDC Partners until 2021."}
+"857477103": {name: "State Street", ticker: "STT", sector: "Financials & real estate"}
+"859241101": {name: "Sterling Infrastructure", ticker: "STRL", sector: "Industrials", note: "Called Sterling Construction until 2022."}
+"G85094129": {name: "StoneBridge Acquisition", ticker: "APAC.WS", sector: "Financials & real estate", kind: "warrants"}
+"86944Q100": {name: "SuRo Capital", ticker: "SSSS", sector: "Financials & real estate", note: "Called Sutter Rock Capital until 2019."}
+"86614U100": {name: "Summit Materials", ticker: "SUM", sector: "Materials", note: "Bought by Quikrete in 2025."}
+"8676EP108": {name: "SunOpta", ticker: "STKL", sector: "Consumer staples"}
+"86765K109": {name: "Sunoco LP", ticker: "SUN", sic: 2911}
+"868157108": {name: "Superior Energy Services", ticker: "SPN", sector: "Energy", note: "Bankrupt in 2020."}
+"86882C105": {name: "Surgalign", ticker: "SRGA", sector: "Health care", note: "Bankrupt in 2023."}
+"86882C204": {name: "Surgalign", ticker: "SRGA", sector: "Health care", note: "Bankrupt in 2023."}
+"89353D107": {name: "TC Energy", ticker: "TRP", sector: "Energy", note: "Called TransCanada until 2019."}
+"87301L114": {name: "TCW Special Purpose Acquisition", ticker: "TSPQ.WS", sector: "Financials & real estate", kind: "warrants"}
+"872438106": {name: "THL Credit", ticker: "TCRD", sector: "Financials & real estate", note: "Renamed First Eagle Alternative Capital BDC in 2020."}
+"872656103": {name: "TPG Pace Energy", ticker: "TPGE", sector: "Financials & real estate", note: "SPAC that merged with Magnolia Oil & Gas in 2018."}
+"90117G113": {name: "TWC Tech Holdings II", ticker: "TWCT.WS", sector: "Financials & real estate", note: "SPAC that merged with Cellebrite in 2021.", kind: "warrants"}
+"87427V103": {name: "Talkspace", ticker: "TALK", sector: "Health care"}
+"87427V111": {name: "Talkspace", ticker: "TALK.WS", sector: "Health care", kind: "warrants"}
+"87612G101": {name: "Targa Resources", ticker: "TRGP", sic: 4922}
+"87611X105": {name: "Targa Resources Partners", ticker: "NGLS", sector: "Energy", note: "Bought by Targa Resources in 2016."}
+"87724P106": {name: "Taylor Morrison", ticker: "TMHC", sector: "Consumer discretionary"}
+"87918A105": {name: "Teladoc Health", ticker: "TDOC", sic: 8011}
+"879369106": {name: "Teleflex", ticker: "TFX", sector: "Health care"}
+"88331L116": {name: "The Beauty Health Company", ticker: "SKIN.WS", sector: "Consumer staples", kind: "warrants"}
+"68236X118": {name: "The Oncology Institute", ticker: "TOI.WS", sector: "Health care", kind: "warrants"}
+"89154L118": {name: "Tortoise Acquisition", ticker: "SHLL.WS", sector: "Financials & real estate", note: "SPAC that merged with Hyliion in 2020.", kind: "warrants"}
+"Y8977Y100": {name: "Transocean Partners", ticker: "RIGP", sector: "Energy", note: "Bought by Transocean in 2016."}
+"896047503": {name: "Tribune Media", ticker: "TRCO", sector: "Media & telecom", note: "Bought by Nexstar in 2019."}
+"G9103H110": {name: "Triterras", ticker: "TRIT.WS", sector: "Financials & real estate", kind: "warrants"}
+"90187B408": {name: "Two Harbors Investment", ticker: "TWO", sic: 6798}
+"36472T109": {name: "USA Today", ticker: "TDAY", sic: 2711}
+"91532B101": {name: "UpHealth", ticker: "UPH", sector: "Health care", note: "Bankrupt in 2023."}
+"91532B119": {name: "UpHealth", ticker: "UPH.WS", sector: "Health care", kind: "warrants"}
+"925652109": {name: "VICI Properties", ticker: "VICI", sic: 6798}
+"G9444H118": {name: "VY Global Growth", ticker: "VYGG.WS", sector: "Financials & real estate", kind: "warrants"}
+"922040845": {name: "Vanguard 0-3 Month Treasury Bill ETF", ticker: "VBIL", fund: yes}
+"922042874": {name: "Vanguard FTSE Europe ETF", ticker: "VGK", fund: yes}
+"92206C706": {name: "Vanguard Intermediate-Term Treasury ETF", ticker: "VGIT", fund: yes}
+"922907746": {name: "Vanguard Tax-Exempt Bond ETF", ticker: "VTEB", fund: yes}
+"92538T112": {name: "Vesper Healthcare Acquisition", ticker: "VSPR.WS", sector: "Financials & real estate", note: "SPAC that merged with Hydrafacial in 2021.", kind: "warrants"}
+"92719V100": {name: "Vimeo", ticker: "VMEO", sector: "Technology", note: "Bought by Bending Spoons in 2025."}
+"92771A101": {name: "Virgin Orbit", ticker: "VORB", sector: "Industrials", note: "Bankrupt in 2023."}
+"92771A119": {name: "Virgin Orbit", ticker: "VORB.WS", sector: "Industrials", kind: "warrants"}
+"928542117": {name: "Vivint Smart Home", ticker: "VVNT.WS", sector: "Consumer discretionary", note: "Bought by NRG in 2023.", kind: "warrants"}
+"G9460M124": {name: "Warburg Pincus Capital Corp. I-A", ticker: "WPCA.WS", sector: "Financials & real estate", kind: "warrants"}
+"G9461D115": {name: "Warburg Pincus Capital Corp. I-B", ticker: "WPCB.WS", sector: "Financials & real estate", kind: "warrants"}
+"96145D105": {name: "WestRock", ticker: "WRK", sector: "Materials", note: "Merged into Smurfit Westrock in 2024."}
+"828336107": {name: "Wheaton Precious Metals", ticker: "WPM", sector: "Materials", note: "Called Silver Wheaton until 2017."}
+"96524T101": {name: "WhiteHawk Minerals", ticker: "WHK", sic: 1311}
+"96684W126": {name: "Whole Earth Brands", ticker: "FREE.WS", sector: "Consumer staples", kind: "warrants"}
+"96812T102": {name: "WildHorse Resource Development", ticker: "WRD", sector: "Energy", note: "Bought by Chesapeake in 2019."}
+"96949L105": {name: "Williams Partners", ticker: "WPZ", sector: "Energy", note: "Bought by Williams in 2018."}
+"98138H101": {name: "Workday", ticker: "WDAY", sic: 7374}
+"G98290102": {name: "XL Group", ticker: "XL", sector: "Financials & real estate", note: "Bought by AXA in 2018."}
+"98980L101": {name: "Zoom Communications", ticker: "ZM", sic: 7370}
+"98986T108": {name: "Zynga", ticker: "ZNGA", sector: "Media & telecom", note: "Bought by Take-Two in 2022."}
+"464287432": {name: "iShares 20+ Year Treasury Bond ETF", ticker: "TLT", fund: yes}
+"464288661": {name: "iShares 3-7 Year Treasury Bond ETF", ticker: "IEI", fund: yes}
+"464287440": {name: "iShares 7-10 Year Treasury Bond ETF", ticker: "IEF", fund: yes}
+"46434V738": {name: "iShares Core MSCI Europe ETF", ticker: "IEUR", fund: yes}
+"464287507": {name: "iShares Core S&P Mid-Cap ETF", ticker: "IJH", fund: yes}
+"464287465": {name: "iShares MSCI EAFE ETF", ticker: "EFA", fund: yes}
+"464287234": {name: "iShares MSCI Emerging Markets ETF", ticker: "EEM", fund: yes}
+"46434G822": {name: "iShares MSCI Japan ETF", ticker: "EWJ", fund: yes}
+"464286665": {name: "iShares MSCI Pacific ex Japan ETF", ticker: "EPP", fund: yes}
+"464286392": {name: "iShares MSCI World ETF", ticker: "URTH", fund: yes}
+"464287309": {name: "iShares S&P 500 Growth ETF", ticker: "IVW", fund: yes}
+"464287739": {name: "iShares U.S. Real Estate ETF", ticker: "IYR", fund: yes}
+"54319Q113": {name: "Longview Acquisition Corp. II", ticker: "LGV.WS", sector: "Financials & real estate", kind: "warrants"}

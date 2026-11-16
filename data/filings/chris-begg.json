@@ -74272,6 +74272,724 @@
    "table_total": 510511876,
    "first_seen": "2026-11-16T13:28:26+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001579254-26-000030",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1579254,
+   "url": "https://www.sec.gov/Archives/edgar/data/1579254/000157925426000030/0001579254-26-000030-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "East Coast Asset Management, LLC.",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 295259,
+     "unit": "SH",
+     "value": 100606498
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 251346,
+     "unit": "SH",
+     "value": 89179986
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 67740,
+     "unit": "SH",
+     "value": 73335642
+    },
+    {
+     "cusip": "71385M107",
+     "put_call": null,
+     "issuer": "PERIMETER SOLUTIONS INC",
+     "class": "COMMON STOCK",
+     "shares": 2319913,
+     "unit": "SH",
+     "value": 61060117
+    },
+    {
+     "cusip": "278768106",
+     "put_call": null,
+     "issuer": "ECHOSTAR CORP",
+     "class": "CL A",
+     "shares": 470483,
+     "unit": "SH",
+     "value": 42065885
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 117405,
+     "unit": "SH",
+     "value": 29251456
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 38174,
+     "unit": "SH",
+     "value": 19008743
+    },
+    {
+     "cusip": "922475108",
+     "put_call": null,
+     "issuer": "VEEVA SYS INC",
+     "class": "CL A COM",
+     "shares": 59648,
+     "unit": "SH",
+     "value": 17026522
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 44658,
+     "unit": "SH",
+     "value": 14871856
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 26188,
+     "unit": "SH",
+     "value": 14441683
+    },
+    {
+     "cusip": "980745103",
+     "put_call": null,
+     "issuer": "WOODWARD INC",
+     "class": "COM",
+     "shares": 33864,
+     "unit": "SH",
+     "value": 11127408
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 14246,
+     "unit": "SH",
+     "value": 10330768
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 29401,
+     "unit": "SH",
+     "value": 10116269
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 13395,
+     "unit": "SH",
+     "value": 8995374
+    },
+    {
+     "cusip": "872540109",
+     "put_call": null,
+     "issuer": "TJX COS INC NEW",
+     "class": "COM",
+     "shares": 61961,
+     "unit": "SH",
+     "value": 8198106
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 17902,
+     "unit": "SH",
+     "value": 8129885
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 18971,
+     "unit": "SH",
+     "value": 6816983
+    },
+    {
+     "cusip": "808513105",
+     "put_call": null,
+     "issuer": "CHARLES SCHWAB CORP (THE)",
+     "class": "COM",
+     "shares": 58696,
+     "unit": "SH",
+     "value": 5736967
+    },
+    {
+     "cusip": "824348106",
+     "put_call": null,
+     "issuer": "SHERWIN WILLIAMS CO",
+     "class": "COM",
+     "shares": 15016,
+     "unit": "SH",
+     "value": 4854238
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9427,
+     "unit": "SH",
+     "value": 4834964
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 2614,
+     "unit": "SH",
+     "value": 4476772
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "STATE STR SPDR S&P 500 ETF T",
+     "class": "TR UNIT",
+     "shares": 5240,
+     "unit": "SH",
+     "value": 3996181
+    },
+    {
+     "cusip": "94106L109",
+     "put_call": null,
+     "issuer": "WASTE MGMT INC DEL",
+     "class": "COM",
+     "shares": 15083,
+     "unit": "SH",
+     "value": 3075801
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 10432,
+     "unit": "SH",
+     "value": 2838956
+    },
+    {
+     "cusip": "546347105",
+     "put_call": null,
+     "issuer": "LOUISIANA PAC CORP",
+     "class": "COM",
+     "shares": 37482,
+     "unit": "SH",
+     "value": 2419466
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 3,
+     "unit": "SH",
+     "value": 2241015
+    },
+    {
+     "cusip": "053015103",
+     "put_call": null,
+     "issuer": "AUTOMATIC DATA PROCESSING IN",
+     "class": "COM",
+     "shares": 8022,
+     "unit": "SH",
+     "value": 2070155
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 23351,
+     "unit": "SH",
+     "value": 1992344
+    },
+    {
+     "cusip": "922908512",
+     "put_call": null,
+     "issuer": "VANGUARD INDEX FDS",
+     "class": "MRNGSTR MD CP VA",
+     "shares": 8028,
+     "unit": "SH",
+     "value": 1569773
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 5864,
+     "unit": "SH",
+     "value": 1552534
+    },
+    {
+     "cusip": "871829107",
+     "put_call": null,
+     "issuer": "SYSCO CORP",
+     "class": "COM",
+     "shares": 18152,
+     "unit": "SH",
+     "value": 1415118
+    },
+    {
+     "cusip": "504922105",
+     "put_call": null,
+     "issuer": "LABCORP HOLDINGS INC",
+     "class": "COM SHS",
+     "shares": 4522,
+     "unit": "SH",
+     "value": 1393369
+    },
+    {
+     "cusip": "464287101",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "S&P 100 ETF",
+     "shares": 2746,
+     "unit": "SH",
+     "value": 1049192
+    },
+    {
+     "cusip": "46625H100",
+     "put_call": null,
+     "issuer": "JPMORGAN CHASE & CO",
+     "class": "COM",
+     "shares": 3143,
+     "unit": "SH",
+     "value": 1039871
+    },
+    {
+     "cusip": "704326107",
+     "put_call": null,
+     "issuer": "PAYCHEX INC",
+     "class": "COM",
+     "shares": 10173,
+     "unit": "SH",
+     "value": 1002041
+    },
+    {
+     "cusip": "459200101",
+     "put_call": null,
+     "issuer": "INTERNATIONAL BUSINESS MACHS",
+     "class": "COM",
+     "shares": 3884,
+     "unit": "SH",
+     "value": 854224
+    },
+    {
+     "cusip": "11133T103",
+     "put_call": null,
+     "issuer": "BROADRIDGE FINL SOLUTIONS IN",
+     "class": "COM",
+     "shares": 5238,
+     "unit": "SH",
+     "value": 843869
+    },
+    {
+     "cusip": "68389X105",
+     "put_call": null,
+     "issuer": "ORACLE CORP",
+     "class": "COM",
+     "shares": 6019,
+     "unit": "SH",
+     "value": 826387
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORP DEL",
+     "class": "COM",
+     "shares": 3579,
+     "unit": "SH",
+     "value": 792826
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER & GAMBLE CO",
+     "class": "COM",
+     "shares": 5411,
+     "unit": "SH",
+     "value": 786065
+    },
+    {
+     "cusip": "464287655",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "RUSSELL 2000 ETF",
+     "shares": 2797,
+     "unit": "SH",
+     "value": 777153
+    },
+    {
+     "cusip": "539830109",
+     "put_call": null,
+     "issuer": "LOCKHEED MARTIN CORP",
+     "class": "COM",
+     "shares": 1374,
+     "unit": "SH",
+     "value": 699710
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1765,
+     "unit": "SH",
+     "value": 693380
+    },
+    {
+     "cusip": "031162100",
+     "put_call": null,
+     "issuer": "AMGEN INC",
+     "class": "COM",
+     "shares": 1628,
+     "unit": "SH",
+     "value": 686218
+    },
+    {
+     "cusip": "74316P579",
+     "put_call": null,
+     "issuer": "PROFESIONALLY MANAGED PORTFO",
+     "class": "AKRE FOCUS ETF",
+     "shares": 12707,
+     "unit": "SH",
+     "value": 669278
+    },
+    {
+     "cusip": "75513E101",
+     "put_call": null,
+     "issuer": "RTX CORPORATION",
+     "class": "COM",
+     "shares": 3513,
+     "unit": "SH",
+     "value": 652152
+    },
+    {
+     "cusip": "315948109",
+     "put_call": null,
+     "issuer": "FIDELITY WISE ORIGIN BITCOIN",
+     "class": "SHS",
+     "shares": 8840,
+     "unit": "SH",
+     "value": 642138
+    },
+    {
+     "cusip": "88579Y101",
+     "put_call": null,
+     "issuer": "3M CO",
+     "class": "COM",
+     "shares": 3848,
+     "unit": "SH",
+     "value": 631586
+    },
+    {
+     "cusip": "84615Q103",
+     "put_call": null,
+     "issuer": "SPACE EXPLORATION TECHN CORP",
+     "class": "CLASS A COM STK",
+     "shares": 3924,
+     "unit": "SH",
+     "value": 591975
+    },
+    {
+     "cusip": "464286749",
+     "put_call": null,
+     "issuer": "ISHARES INC",
+     "class": "MSCI SWITZERLAND",
+     "shares": 9977,
+     "unit": "SH",
+     "value": 590159
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHN CORP",
+     "class": "COM",
+     "shares": 1600,
+     "unit": "SH",
+     "value": 494400
+    },
+    {
+     "cusip": "46138E354",
+     "put_call": null,
+     "issuer": "INVESCO EXCH TRADED FD TR II",
+     "class": "S&P500 LOW VOL",
+     "shares": 6887,
+     "unit": "SH",
+     "value": 485622
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 4445,
+     "unit": "SH",
+     "value": 466281
+    },
+    {
+     "cusip": "922042858",
+     "put_call": null,
+     "issuer": "VANGUARD INTL EQUITY INDEX F",
+     "class": "FTSE EMR MKT ETF",
+     "shares": 7734,
+     "unit": "SH",
+     "value": 458704
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1442,
+     "unit": "SH",
+     "value": 438512
+    },
+    {
+     "cusip": "464287325",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "GLOB HLTHCRE ETF",
+     "shares": 4293,
+     "unit": "SH",
+     "value": 438435
+    },
+    {
+     "cusip": "464287614",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "RUS 1000 GRW ETF",
+     "shares": 3476,
+     "unit": "SH",
+     "value": 435404
+    },
+    {
+     "cusip": "03027X100",
+     "put_call": null,
+     "issuer": "AMERICAN TOWER CORP",
+     "class": "COM",
+     "shares": 2638,
+     "unit": "SH",
+     "value": 431734
+    },
+    {
+     "cusip": "717081103",
+     "put_call": null,
+     "issuer": "PFIZER INC",
+     "class": "COM",
+     "shares": 13226,
+     "unit": "SH",
+     "value": 377206
+    },
+    {
+     "cusip": "36828A101",
+     "put_call": null,
+     "issuer": "GE VERNOVA INC",
+     "class": "COM",
+     "shares": 386,
+     "unit": "SH",
+     "value": 366889
+    },
+    {
+     "cusip": "922908736",
+     "put_call": null,
+     "issuer": "VANGUARD INDEX FDS",
+     "class": "MRNGSTR GRWT ETF",
+     "shares": 3954,
+     "unit": "SH",
+     "value": 356295
+    },
+    {
+     "cusip": "922908363",
+     "put_call": null,
+     "issuer": "VANGUARD INDEX FDS",
+     "class": "S&P 500 ETF SHS",
+     "shares": 500,
+     "unit": "SH",
+     "value": 350430
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1461,
+     "unit": "SH",
+     "value": 337403
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 15037,
+     "unit": "SH",
+     "value": 327207
+    },
+    {
+     "cusip": "464287200",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "CORE S&P500 ETF",
+     "shares": 373,
+     "unit": "SH",
+     "value": 285662
+    },
+    {
+     "cusip": "422806208",
+     "put_call": null,
+     "issuer": "HEICO CORP NEW",
+     "class": "CL A",
+     "shares": 1250,
+     "unit": "SH",
+     "value": 285413
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ELEVANCE HEALTH INC FORMERLY",
+     "class": "COM",
+     "shares": 730,
+     "unit": "SH",
+     "value": 283839
+    },
+    {
+     "cusip": "464287465",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "MSCI EAFE ETF",
+     "shares": 2680,
+     "unit": "SH",
+     "value": 278425
+    },
+    {
+     "cusip": "464287804",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "CORE S&P SCP ETF",
+     "shares": 2028,
+     "unit": "SH",
+     "value": 275842
+    },
+    {
+     "cusip": "G29183103",
+     "put_call": null,
+     "issuer": "EATON CORP PLC",
+     "class": "SHS",
+     "shares": 617,
+     "unit": "SH",
+     "value": 265131
+    },
+    {
+     "cusip": "760759100",
+     "put_call": null,
+     "issuer": "REPUBLIC SVCS INC",
+     "class": "COM",
+     "shares": 1238,
+     "unit": "SH",
+     "value": 259819
+    },
+    {
+     "cusip": "458140100",
+     "put_call": null,
+     "issuer": "INTEL CORP",
+     "class": "COM",
+     "shares": 2110,
+     "unit": "SH",
+     "value": 253707
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 1016,
+     "unit": "SH",
+     "value": 243779
+    },
+    {
+     "cusip": "17275R102",
+     "put_call": null,
+     "issuer": "CISCO SYS INC",
+     "class": "COM",
+     "shares": 2203,
+     "unit": "SH",
+     "value": 237109
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHOLESALE CORPORATION",
+     "class": "COM",
+     "shares": 242,
+     "unit": "SH",
+     "value": 220302
+    },
+    {
+     "cusip": "922908744",
+     "put_call": null,
+     "issuer": "VANGUARD INDEX FDS",
+     "class": "MRNGSTR VAL ETF",
+     "shares": 1002,
+     "unit": "SH",
+     "value": 216512
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 303,
+     "unit": "SH",
+     "value": 204540
+    },
+    {
+     "cusip": "805111101",
+     "put_call": null,
+     "issuer": "SAVARA INC",
+     "class": "COM",
+     "shares": 18703,
+     "unit": "SH",
+     "value": 96507
+    }
+   ],
+   "table_total": 592030167,
+   "first_seen": "2026-11-16T15:07:34+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "East Coast Asset Management, LLC."

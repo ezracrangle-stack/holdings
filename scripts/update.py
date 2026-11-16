@@ -101,6 +101,10 @@ def list_filings(edgar, cik):
 
 def read_filing(edgar, cik, f):
     base = f"https://www.sec.gov/Archives/edgar/data/{cik}/{f['accession'].replace('-', '')}/"
+    f["url"] = base + f"{f['accession']}-index.html"
+    if f["filed"] < "2013-05-20":                    # the XML format started then; no need to ask EDGAR
+        f["skipped"] = "Filed before the SEC's XML format (2013). Not read."
+        return f
     items = edgar.get(base + "index.json").json()["directory"]["item"]
     xmls = [i["name"] for i in items if i["name"].lower().endswith(".xml")]
     f["url"] = base + f"{f['accession']}-index.html"
