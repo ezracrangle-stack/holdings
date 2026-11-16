@@ -8,3 +8,7 @@
 - {ticker: SHOP, date: 2022-06-29, ratio: 10}
 - {ticker: GOOGL, date: 2022-07-18, ratio: 20}
 - {ticker: BN, date: 2025-10-09, ratio: 1.5}
+- {ticker: CMCSA, date: 2017-02-21, ratio: 2}
+- {ticker: CP, date: 2021-05-14, ratio: 5}
+- {ticker: GE, date: 2021-08-02, ratio: 0.125}
+- {ticker: GOOG, date: 2022-07-18, ratio: 20}

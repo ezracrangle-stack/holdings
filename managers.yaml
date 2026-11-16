@@ -25,3 +25,10 @@ managers:
     cik: 1766504
     letters: no
     why: "Josh runs Greenlea Lane alone, with no office, and buys every stock as if he'll own it forever. He writes about what a spreadsheet misses: culture, quality, why people want a product."
+
+  - id: tci
+    name: Chris Hohn
+    firm: TCI Fund Management
+    cik: 1647251
+    letters: no
+    why: "Chris throws out most of the market before he starts: banks, airlines, utilities, commodities. He owns a handful of what's left for years; Moody's is in every 13F TCI has filed, back to 2015."

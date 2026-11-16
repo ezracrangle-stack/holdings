@@ -1,0 +1,5099 @@
+{
+ "filings": [
+  {
+   "accession": "0001362598-15-000006",
+   "form": "13F-HR",
+   "filed": "2015-08-17",
+   "period": "2015-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000136259815000006/0001362598-15-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI Fund Management Ltd",
+   "holdings": [
+    {
+     "cusip": "88732J207",
+     "put_call": null,
+     "issuer": "TIME WARNER CABLE INC",
+     "class": "COM",
+     "shares": 16599787,
+     "unit": "SH",
+     "value": 2957584000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 13446161,
+     "unit": "SH",
+     "value": 808652000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 3894104,
+     "unit": "SH",
+     "value": 420407000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1346069,
+     "unit": "SH",
+     "value": 104616000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 33043000
+    }
+   ],
+   "table_total": 4324304000,
+   "first_seen": "2026-11-16T03:34:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-15-000009",
+   "form": "13F-HR",
+   "filed": "2015-11-12",
+   "period": "2015-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725115000009/0001647251-15-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "88732J207",
+     "put_call": null,
+     "issuer": "TIME WARNER CABLE INC",
+     "class": "COM",
+     "shares": 16599787,
+     "unit": "SH",
+     "value": 2977504000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 20880160,
+     "unit": "SH",
+     "value": 1187664000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 3894104,
+     "unit": "SH",
+     "value": 382401000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 4029792,
+     "unit": "SH",
+     "value": 298728000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 1466226,
+     "unit": "SH",
+     "value": 201474000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 28734000
+    }
+   ],
+   "table_total": 5076505000,
+   "first_seen": "2026-11-16T03:34:09+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-16-000011",
+   "form": "13F-HR",
+   "filed": "2016-02-11",
+   "period": "2015-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725116000011/0001647251-16-000011-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "88732J207",
+     "put_call": null,
+     "issuer": "TIME WARNER CABLE INC",
+     "class": "COM",
+     "shares": 16233532,
+     "unit": "SH",
+     "value": 3012781000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 20126160,
+     "unit": "SH",
+     "value": 1135719000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 3067555,
+     "unit": "SH",
+     "value": 307798000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 1161833,
+     "unit": "SH",
+     "value": 219633000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 2725004,
+     "unit": "SH",
+     "value": 189524000
+    },
+    {
+     "cusip": "G00349103",
+     "put_call": null,
+     "issuer": "ABENGOA YIELD PLC",
+     "class": "ORD SHS",
+     "shares": 4422584,
+     "unit": "SH",
+     "value": 85312000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 27980000
+    }
+   ],
+   "table_total": 4978747000,
+   "first_seen": "2026-11-16T03:34:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-16-000013",
+   "form": "13F-HR",
+   "filed": "2016-05-16",
+   "period": "2016-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725116000013/0001647251-16-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "88732J207",
+     "put_call": null,
+     "issuer": "TIME WARNER CABLE INC",
+     "class": "COM",
+     "shares": 16126180,
+     "unit": "SH",
+     "value": 3299739000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 19997460,
+     "unit": "SH",
+     "value": 1221445000
+    },
+    {
+     "cusip": "984332106",
+     "put_call": null,
+     "issuer": "YAHOO INC",
+     "class": "COM",
+     "shares": 14403985,
+     "unit": "SH",
+     "value": 530211000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 1194094,
+     "unit": "SH",
+     "value": 227929000
+    },
+    {
+     "cusip": "G00349103",
+     "put_call": null,
+     "issuer": "ABENGOA YIELD PLC",
+     "class": "ORD SHS",
+     "shares": 4422584,
+     "unit": "SH",
+     "value": 78634000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 31375000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 102239,
+     "unit": "SH",
+     "value": 9872000
+    }
+   ],
+   "table_total": 5399204000,
+   "first_seen": "2026-11-16T03:34:11+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-16-000017",
+   "form": "13F-HR",
+   "filed": "2016-08-15",
+   "period": "2016-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725116000017/0001647251-16-000017-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "984332106",
+     "put_call": null,
+     "issuer": "YAHOO INC",
+     "class": "COM",
+     "shares": 71206573,
+     "unit": "SH",
+     "value": 2674519000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 11592824,
+     "unit": "SH",
+     "value": 2650583000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 29092107,
+     "unit": "SH",
+     "value": 1896514000
+    },
+    {
+     "cusip": "G0751N103",
+     "put_call": null,
+     "issuer": "ATLANTICA YIELD PLC",
+     "class": "SHS",
+     "shares": 4422584,
+     "unit": "SH",
+     "value": 82172000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 32686000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 102239,
+     "unit": "SH",
+     "value": 9581000
+    }
+   ],
+   "table_total": 7346055000,
+   "first_seen": "2026-11-16T03:34:11+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-16-000020",
+   "form": "13F-HR",
+   "filed": "2016-11-14",
+   "period": "2016-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725116000020/0001647251-16-000020-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "984332106",
+     "put_call": null,
+     "issuer": "YAHOO INC",
+     "class": "COM",
+     "shares": 86224273,
+     "unit": "SH",
+     "value": 3716266000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 11973043,
+     "unit": "SH",
+     "value": 3232362000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 29092107,
+     "unit": "SH",
+     "value": 1929970000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 36519000
+    },
+    {
+     "cusip": "G0751N103",
+     "put_call": null,
+     "issuer": "ATLANTICA YIELD PLC",
+     "class": "SHS",
+     "shares": 1842903,
+     "unit": "SH",
+     "value": 35034000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 102239,
+     "unit": "SH",
+     "value": 11070000
+    }
+   ],
+   "table_total": 8961222000,
+   "first_seen": "2026-11-16T03:34:12+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-17-000004",
+   "form": "13F-HR",
+   "filed": "2017-02-14",
+   "period": "2016-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725117000004/0001647251-17-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 12679234,
+     "unit": "SH",
+     "value": 3650605000
+    },
+    {
+     "cusip": "984332106",
+     "put_call": null,
+     "issuer": "YAHOO INC",
+     "class": "COM",
+     "shares": 86224273,
+     "unit": "SH",
+     "value": 3334293000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 35780552,
+     "unit": "SH",
+     "value": 2470647000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 44680000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 10428,
+     "unit": "SH",
+     "value": 983000
+    }
+   ],
+   "table_total": 9501208000,
+   "first_seen": "2026-11-16T03:34:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-17-000007",
+   "form": "13F-HR",
+   "filed": "2017-05-15",
+   "period": "2017-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725117000007/0001647251-17-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC",
+     "class": "CL A",
+     "shares": 12679234,
+     "unit": "SH",
+     "value": 4150167000
+    },
+    {
+     "cusip": "984332106",
+     "put_call": null,
+     "issuer": "YAHOO INC",
+     "class": "COM",
+     "shares": 86224273,
+     "unit": "SH",
+     "value": 4001669000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CLA",
+     "shares": 90848233,
+     "unit": "SH",
+     "value": 3414985000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 666569,
+     "unit": "SH",
+     "value": 74682000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 37452000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM NEW",
+     "shares": 182929,
+     "unit": "SH",
+     "value": 23916000
+    },
+    {
+     "cusip": "887317303",
+     "put_call": null,
+     "issuer": "TIME WARNER INC",
+     "class": "COM NEW",
+     "shares": 52000,
+     "unit": "SH",
+     "value": 5081000
+    }
+   ],
+   "table_total": 11707952000,
+   "first_seen": "2026-11-16T03:34:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-17-000009",
+   "form": "13F-HR",
+   "filed": "2017-08-14",
+   "period": "2017-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725117000009/0001647251-17-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "021346101",
+     "put_call": null,
+     "issuer": "ALTABA INC",
+     "class": "COM",
+     "shares": 85923952,
+     "unit": "SH",
+     "value": 4681137000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 13849812,
+     "unit": "SH",
+     "value": 4665309000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 91565333,
+     "unit": "SH",
+     "value": 3563723000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1507939,
+     "unit": "SH",
+     "value": 183486000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 490729,
+     "unit": "SH",
+     "value": 71642000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 34453000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 283000,
+     "unit": "SH",
+     "value": 34441000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 21782000
+    },
+    {
+     "cusip": "887317303",
+     "put_call": null,
+     "issuer": "TIME WARNER INC",
+     "class": "COM NEW",
+     "shares": 204500,
+     "unit": "SH",
+     "value": 20534000
+    }
+   ],
+   "table_total": 13276507000,
+   "first_seen": "2026-11-16T03:34:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-17-000012",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725117000012/0001647251-17-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "021346101",
+     "put_call": null,
+     "issuer": "ALTABA INC",
+     "class": "COM",
+     "shares": 85923952,
+     "unit": "SH",
+     "value": 5691603000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 11741217,
+     "unit": "SH",
+     "value": 4266993000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 91942165,
+     "unit": "SH",
+     "value": 3537935000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 487477,
+     "unit": "SH",
+     "value": 467544000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1660123,
+     "unit": "SH",
+     "value": 231106000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 508500,
+     "unit": "SH",
+     "value": 67244000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 578500,
+     "unit": "SH",
+     "value": 67089000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 416619,
+     "unit": "SH",
+     "value": 65122000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 34275000
+    },
+    {
+     "cusip": "887317303",
+     "put_call": null,
+     "issuer": "TIME WARNER INC",
+     "class": "COM NEW",
+     "shares": 204500,
+     "unit": "SH",
+     "value": 20951000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 50000,
+     "unit": "SH",
+     "value": 5300000
+    }
+   ],
+   "table_total": 14455160000,
+   "first_seen": "2026-11-16T03:34:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-18-000002",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725118000002/0001647251-18-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "021346101",
+     "put_call": null,
+     "issuer": "ALTABA INC",
+     "class": "COM",
+     "shares": 85923952,
+     "unit": "SH",
+     "value": 6001788000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 9927834,
+     "unit": "SH",
+     "value": 3335355000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 70860571,
+     "unit": "SH",
+     "value": 2837966000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 1918527,
+     "unit": "SH",
+     "value": 2007547000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 8065349,
+     "unit": "SH",
+     "value": 689910000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 385600,
+     "unit": "SH",
+     "value": 406191000
+    },
+    {
+     "cusip": "90130A101",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL A",
+     "shares": 7415330,
+     "unit": "SH",
+     "value": 256051000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1660123,
+     "unit": "SH",
+     "value": 245051000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 642700,
+     "unit": "SH",
+     "value": 86186000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 593500,
+     "unit": "SH",
+     "value": 85998000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 416619,
+     "unit": "SH",
+     "value": 70575000
+    },
+    {
+     "cusip": "90130A200",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL B",
+     "shares": 1160100,
+     "unit": "SH",
+     "value": 39583000
+    },
+    {
+     "cusip": "023139884",
+     "put_call": null,
+     "issuer": "AMBAC FINL GROUP INC",
+     "class": "COM NEW",
+     "shares": 1985785,
+     "unit": "SH",
+     "value": 31733000
+    },
+    {
+     "cusip": "887317303",
+     "put_call": null,
+     "issuer": "TIME WARNER INC",
+     "class": "COM NEW",
+     "shares": 316500,
+     "unit": "SH",
+     "value": 28950000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 50000,
+     "unit": "SH",
+     "value": 5896000
+    }
+   ],
+   "table_total": 16128780000,
+   "first_seen": "2026-11-16T03:34:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-18-000004",
+   "form": "13F-HR",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725118000004/0001647251-18-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "021346101",
+     "put_call": null,
+     "issuer": "ALTABA INC",
+     "class": "COM",
+     "shares": 79773273,
+     "unit": "SH",
+     "value": 5906413000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10620701,
+     "unit": "SH",
+     "value": 3305375000
+    },
+    {
+     "cusip": "90130A101",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL A",
+     "shares": 71516090,
+     "unit": "SH",
+     "value": 2623925000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2359642,
+     "unit": "SH",
+     "value": 2434655000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 13810449,
+     "unit": "SH",
+     "value": 1260480000
+    },
+    {
+     "cusip": "887317303",
+     "put_call": null,
+     "issuer": "TIME WARNER INC",
+     "class": "COM NEW",
+     "shares": 7496849,
+     "unit": "SH",
+     "value": 709052000
+    },
+    {
+     "cusip": "90130A200",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL B",
+     "shares": 11572645,
+     "unit": "SH",
+     "value": 420897000
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 11897380,
+     "unit": "SH",
+     "value": 406533000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 380600,
+     "unit": "SH",
+     "value": 394735000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1692623,
+     "unit": "SH",
+     "value": 273020000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 444619,
+     "unit": "SH",
+     "value": 84949000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 593500,
+     "unit": "SH",
+     "value": 80585000
+    },
+    {
+     "cusip": "61166W101",
+     "put_call": null,
+     "issuer": "MONSANTO CO NEW",
+     "class": "COM",
+     "shares": 476500,
+     "unit": "SH",
+     "value": 55603000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 95200,
+     "unit": "SH",
+     "value": 16775000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 72000,
+     "unit": "SH",
+     "value": 9679000
+    }
+   ],
+   "table_total": 17982676000,
+   "first_seen": "2026-11-16T03:34:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-18-000006",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725118000006/0001647251-18-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "90130A101",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL A",
+     "shares": 114502969,
+     "unit": "SH",
+     "value": 5689653000
+    },
+    {
+     "cusip": "021346101",
+     "put_call": null,
+     "issuer": "ALTABA INC",
+     "class": "COM",
+     "shares": 57057273,
+     "unit": "SH",
+     "value": 4177163000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 13607841,
+     "unit": "SH",
+     "value": 3989955000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2772650,
+     "unit": "SH",
+     "value": 3093307000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 13810449,
+     "unit": "SH",
+     "value": 1361848000
+    },
+    {
+     "cusip": "90130A200",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL B",
+     "shares": 22189801,
+     "unit": "SH",
+     "value": 1093291000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 380600,
+     "unit": "SH",
+     "value": 429770000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 2311350,
+     "unit": "SH",
+     "value": 423987000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 2528088,
+     "unit": "SH",
+     "value": 381413000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1692623,
+     "unit": "SH",
+     "value": 288694000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 1743433,
+     "unit": "SH",
+     "value": 247010000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 444619,
+     "unit": "SH",
+     "value": 90653000
+    }
+   ],
+   "table_total": 21266744000,
+   "first_seen": "2026-11-16T03:34:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-18-000008",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725118000008/0001647251-18-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "90130A101",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL A",
+     "shares": 114502969,
+     "unit": "SH",
+     "value": 5304923000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 13573841,
+     "unit": "SH",
+     "value": 4423443000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2661688,
+     "unit": "SH",
+     "value": 3176645000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 13212107,
+     "unit": "SH",
+     "value": 1511069000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 4911693,
+     "unit": "SH",
+     "value": 1040233000
+    },
+    {
+     "cusip": "90130A200",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL B",
+     "shares": 22189801,
+     "unit": "SH",
+     "value": 1016737000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5088727,
+     "unit": "SH",
+     "value": 828597000
+    },
+    {
+     "cusip": "655844108",
+     "put_call": null,
+     "issuer": "NORFOLK SOUTHERN CORP",
+     "class": "COM",
+     "shares": 3753454,
+     "unit": "SH",
+     "value": 677498000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 380600,
+     "unit": "SH",
+     "value": 459415000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 2030192,
+     "unit": "SH",
+     "value": 339448000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 1772000,
+     "unit": "SH",
+     "value": 159088000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 444619,
+     "unit": "SH",
+     "value": 86874000
+    },
+    {
+     "cusip": "69331C108",
+     "put_call": null,
+     "issuer": "PG&E CORP",
+     "class": "COM",
+     "shares": 1400611,
+     "unit": "SH",
+     "value": 64442000
+    },
+    {
+     "cusip": "531229854",
+     "put_call": null,
+     "issuer": "LIBERTY MEDIA CORP DELAWARE",
+     "class": "COM SER C FRMLA",
+     "shares": 264987,
+     "unit": "SH",
+     "value": 9855000
+    }
+   ],
+   "table_total": 19098267000,
+   "first_seen": "2026-11-16T03:34:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-19-000002",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725119000002/0001647251-19-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "90130A101",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL A",
+     "shares": 114502969,
+     "unit": "SH",
+     "value": 5509883000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 11772411,
+     "unit": "SH",
+     "value": 3354784000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2787988,
+     "unit": "SH",
+     "value": 2887268000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 21817804,
+     "unit": "SH",
+     "value": 2216034000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 7835316,
+     "unit": "SH",
+     "value": 1391660000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 7698818,
+     "unit": "SH",
+     "value": 1064208000
+    },
+    {
+     "cusip": "90130A200",
+     "put_call": null,
+     "issuer": "TWENTY FIRST CENTY FOX INC",
+     "class": "CL B",
+     "shares": 22189801,
+     "unit": "SH",
+     "value": 1060229000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 5978677,
+     "unit": "SH",
+     "value": 837254000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 10720483,
+     "unit": "SH",
+     "value": 794635000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 430600,
+     "unit": "SH",
+     "value": 449960000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 2040954,
+     "unit": "SH",
+     "value": 346840000
+    },
+    {
+     "cusip": "531229854",
+     "put_call": null,
+     "issuer": "LIBERTY MEDIA CORP DELAWARE",
+     "class": "COM SER C FRMLA",
+     "shares": 2427057,
+     "unit": "SH",
+     "value": 74511000
+    }
+   ],
+   "table_total": 19987266000,
+   "first_seen": "2026-11-16T03:34:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-19-000004",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725119000004/0001647251-19-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 9878803,
+     "unit": "SH",
+     "value": 3427056000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2392176,
+     "unit": "SH",
+     "value": 2806764000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 17491574,
+     "unit": "SH",
+     "value": 2062956000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 9818894,
+     "unit": "SH",
+     "value": 2024562000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PACIFIC CORP",
+     "class": "COM",
+     "shares": 7683577,
+     "unit": "SH",
+     "value": 1284694000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 12857534,
+     "unit": "SH",
+     "value": 1151538000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6022912,
+     "unit": "SH",
+     "value": 1090689000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1982414,
+     "unit": "SH",
+     "value": 417397000
+    },
+    {
+     "cusip": "35137L105",
+     "put_call": null,
+     "issuer": "FOX CORP",
+     "class": "CL A COM",
+     "shares": 11050164,
+     "unit": "SH",
+     "value": 405652000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 195681,
+     "unit": "SH",
+     "value": 230295000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1634083,
+     "unit": "SH",
+     "value": 193639000
+    },
+    {
+     "cusip": "35137L204",
+     "put_call": null,
+     "issuer": "FOX CORP",
+     "class": "CL B COM",
+     "shares": 3516883,
+     "unit": "SH",
+     "value": 126186000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR INC",
+     "class": "COM",
+     "shares": 3616902,
+     "unit": "SH",
+     "value": 80151000
+    }
+   ],
+   "table_total": 15301579000,
+   "first_seen": "2026-11-16T03:34:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-19-000006",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725119000006/0001647251-19-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 9716058,
+     "unit": "SH",
+     "value": 3839592000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3476095,
+     "unit": "SH",
+     "value": 3757346000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 10157465,
+     "unit": "SH",
+     "value": 2391674000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 16425574,
+     "unit": "SH",
+     "value": 2200370000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 18992423,
+     "unit": "SH",
+     "value": 1757269000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6022912,
+     "unit": "SH",
+     "value": 1176335000
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ANTHEM INC",
+     "class": "COM",
+     "shares": 3012085,
+     "unit": "SH",
+     "value": 850041000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PACIFIC CORP",
+     "class": "COM",
+     "shares": 4727781,
+     "unit": "SH",
+     "value": 799515000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 549721,
+     "unit": "SH",
+     "value": 595238000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1982414,
+     "unit": "SH",
+     "value": 451574000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR INC",
+     "class": "COM",
+     "shares": 15764300,
+     "unit": "SH",
+     "value": 347445000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1634083,
+     "unit": "SH",
+     "value": 220993000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 870100,
+     "unit": "SH",
+     "value": 151006000
+    }
+   ],
+   "table_total": 18538398000,
+   "first_seen": "2026-11-16T03:34:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-19-000008",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725119000008/0001647251-19-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3546636,
+     "unit": "SH",
+     "value": 4323349000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10174272,
+     "unit": "SH",
+     "value": 4193021000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 10807584,
+     "unit": "SH",
+     "value": 2403593000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 19102713,
+     "unit": "SH",
+     "value": 1716468000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10679732,
+     "unit": "SH",
+     "value": 1484803000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6022912,
+     "unit": "SH",
+     "value": 1233673000
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ANTHEM INC",
+     "class": "COM",
+     "shares": 4080597,
+     "unit": "SH",
+     "value": 979751000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PACIFIC CORP",
+     "class": "COM",
+     "shares": 4882781,
+     "unit": "SH",
+     "value": 790913000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 754690000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1982414,
+     "unit": "SH",
+     "value": 485652000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR SOLUTIONS INC",
+     "class": "COM",
+     "shares": 16679200,
+     "unit": "SH",
+     "value": 346260000
+    },
+    {
+     "cusip": "755111507",
+     "put_call": null,
+     "issuer": "RAYTHEON CO",
+     "class": "COM NEW",
+     "shares": 1169860,
+     "unit": "SH",
+     "value": 229515000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1183542,
+     "unit": "SH",
+     "value": 203581000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 780639,
+     "unit": "SH",
+     "value": 109812000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 113000,
+     "unit": "SH",
+     "value": 16690000
+    }
+   ],
+   "table_total": 19271771000,
+   "first_seen": "2026-11-16T03:34:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-20-000002",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725120000002/0001647251-20-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10174272,
+     "unit": "SH",
+     "value": 4935336000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3119688,
+     "unit": "SH",
+     "value": 4171085000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 10978084,
+     "unit": "SH",
+     "value": 2797878000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 20480913,
+     "unit": "SH",
+     "value": 1852238000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10679732,
+     "unit": "SH",
+     "value": 1684194000
+    },
+    {
+     "cusip": "755111507",
+     "put_call": null,
+     "issuer": "RAYTHEON CO",
+     "class": "COM NEW",
+     "shares": 6815694,
+     "unit": "SH",
+     "value": 1491477000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6022912,
+     "unit": "SH",
+     "value": 1429900000
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ANTHEM INC",
+     "class": "COM",
+     "shares": 4000170,
+     "unit": "SH",
+     "value": 1208171000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PACIFIC CORP",
+     "class": "COM",
+     "shares": 5012781,
+     "unit": "SH",
+     "value": 906261000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 827771000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1982414,
+     "unit": "SH",
+     "value": 541298000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR SOLUTIONS INC",
+     "class": "COM",
+     "shares": 16679200,
+     "unit": "SH",
+     "value": 404304000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1183542,
+     "unit": "SH",
+     "value": 222388000
+    },
+    {
+     "cusip": "666807102",
+     "put_call": null,
+     "issuer": "NORTHROP GRUMMAN CORP",
+     "class": "COM",
+     "shares": 173700,
+     "unit": "SH",
+     "value": 59748000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 86480,
+     "unit": "SH",
+     "value": 48429000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 113000,
+     "unit": "SH",
+     "value": 20731000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 3430,
+     "unit": "SH",
+     "value": 1131000
+    }
+   ],
+   "table_total": 22602340000,
+   "first_seen": "2026-11-16T03:34:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-20-000004",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725120000004/0001647251-20-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10444772,
+     "unit": "SH",
+     "value": 4557158000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3098875,
+     "unit": "SH",
+     "value": 3603403000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 11229125,
+     "unit": "SH",
+     "value": 2475471000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 13996718,
+     "unit": "SH",
+     "value": 2207422000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 20911901,
+     "unit": "SH",
+     "value": 1630758000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6812696,
+     "unit": "SH",
+     "value": 1440885000
+    },
+    {
+     "cusip": "755111507",
+     "put_call": null,
+     "issuer": "RAYTHEON CO",
+     "class": "COM NEW",
+     "shares": 10428073,
+     "unit": "SH",
+     "value": 1367642000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 7361749,
+     "unit": "SH",
+     "value": 1186125000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6004644,
+     "unit": "SH",
+     "value": 846895000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 718110000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 2424946,
+     "unit": "SH",
+     "value": 594233000
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ANTHEM INC",
+     "class": "COM",
+     "shares": 861377,
+     "unit": "SH",
+     "value": 195567000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR SOLUTIONS INC",
+     "class": "COM",
+     "shares": 15843001,
+     "unit": "SH",
+     "value": 169837000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 167130,
+     "unit": "SH",
+     "value": 28913000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 97450,
+     "unit": "SH",
+     "value": 23540000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 5700,
+     "unit": "SH",
+     "value": 11113000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 3430,
+     "unit": "SH",
+     "value": 1092000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 5000,
+     "unit": "SH",
+     "value": 781000
+    }
+   ],
+   "table_total": 21058945000,
+   "first_seen": "2026-11-16T03:34:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-20-000006",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725120000006/0001647251-20-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10444772,
+     "unit": "SH",
+     "value": 5327252000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2984174,
+     "unit": "SH",
+     "value": 4218458000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14455440,
+     "unit": "SH",
+     "value": 2941827000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 11243124,
+     "unit": "SH",
+     "value": 2862812000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 11215385,
+     "unit": "SH",
+     "value": 2166476000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6793240,
+     "unit": "SH",
+     "value": 1866307000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 21002370,
+     "unit": "SH",
+     "value": 1858970000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6016539,
+     "unit": "SH",
+     "value": 1017216000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 876385000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 2424946,
+     "unit": "SH",
+     "value": 798971000
+    },
+    {
+     "cusip": "75513E101",
+     "put_call": null,
+     "issuer": "RAYTHEON TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 11551993,
+     "unit": "SH",
+     "value": 711834000
+    },
+    {
+     "cusip": "91336L107",
+     "put_call": null,
+     "issuer": "UNIVAR SOLUTIONS INC",
+     "class": "COM",
+     "shares": 12632780,
+     "unit": "SH",
+     "value": 212989000
+    },
+    {
+     "cusip": "929042109",
+     "put_call": null,
+     "issuer": "VORNADO RLTY TR",
+     "class": "SH BEN INT",
+     "shares": 4189142,
+     "unit": "SH",
+     "value": 160067000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 1540193,
+     "unit": "SH",
+     "value": 139203000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 97450,
+     "unit": "SH",
+     "value": 28816000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 5700,
+     "unit": "SH",
+     "value": 15725000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 3430,
+     "unit": "SH",
+     "value": 1493000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 5000,
+     "unit": "SH",
+     "value": 1196000
+    }
+   ],
+   "table_total": 25205997000,
+   "first_seen": "2026-11-16T03:34:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-20-000008",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725120000008/0001647251-20-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10410705,
+     "unit": "SH",
+     "value": 6499820000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2953720,
+     "unit": "SH",
+     "value": 4340787000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 11172077,
+     "unit": "SH",
+     "value": 3398174000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14314499,
+     "unit": "SH",
+     "value": 3010769000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 14057890,
+     "unit": "SH",
+     "value": 2811156000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 20802265,
+     "unit": "SH",
+     "value": 2214569000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6553490,
+     "unit": "SH",
+     "value": 1899529000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6016539,
+     "unit": "SH",
+     "value": 1184476000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 905772000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 2362294,
+     "unit": "SH",
+     "value": 851843000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 5186802,
+     "unit": "SH",
+     "value": 416500000
+    },
+    {
+     "cusip": "929042109",
+     "put_call": null,
+     "issuer": "VORNADO RLTY TR",
+     "class": "SH BEN INT",
+     "shares": 9926516,
+     "unit": "SH",
+     "value": 334623000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 2800,
+     "unit": "SH",
+     "value": 8816000
+    }
+   ],
+   "table_total": 27876834000,
+   "first_seen": "2026-11-16T03:34:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-21-000002",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725121000002/0001647251-21-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10410705,
+     "unit": "SH",
+     "value": 6887202000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2952307,
+     "unit": "SH",
+     "value": 5172088000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 11172077,
+     "unit": "SH",
+     "value": 3873604000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14314499,
+     "unit": "SH",
+     "value": 3183831000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 14057890,
+     "unit": "SH",
+     "value": 3074882000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 20773418,
+     "unit": "SH",
+     "value": 2282520000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6553490,
+     "unit": "SH",
+     "value": 1902085000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6016539,
+     "unit": "SH",
+     "value": 1252764000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 1083168000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 8362038,
+     "unit": "SH",
+     "value": 790463000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 2362294,
+     "unit": "SH",
+     "value": 776557000
+    },
+    {
+     "cusip": "929042109",
+     "put_call": null,
+     "issuer": "VORNADO RLTY TR",
+     "class": "SH BEN INT",
+     "shares": 4904776,
+     "unit": "SH",
+     "value": 183144000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 2800,
+     "unit": "SH",
+     "value": 9119000
+    }
+   ],
+   "table_total": 30471427000,
+   "first_seen": "2026-11-16T03:34:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-21-000005",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725121000005/0001647251-21-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10252881,
+     "unit": "SH",
+     "value": 6326233000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2952307,
+     "unit": "SH",
+     "value": 6107231000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 20483405,
+     "unit": "SH",
+     "value": 4829372000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 11172077,
+     "unit": "SH",
+     "value": 4260709000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 14057890,
+     "unit": "SH",
+     "value": 2976477000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 20773418,
+     "unit": "SH",
+     "value": 2410839000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 5853460,
+     "unit": "SH",
+     "value": 2065510000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6562790,
+     "unit": "SH",
+     "value": 1959715000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6016539,
+     "unit": "SH",
+     "value": 1326105000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 1274681000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 8753638,
+     "unit": "SH",
+     "value": 886393000
+    },
+    {
+     "cusip": "512807108",
+     "put_call": null,
+     "issuer": "LAM RESEARCH CORP",
+     "class": "COM",
+     "shares": 17300,
+     "unit": "SH",
+     "value": 10298000
+    },
+    {
+     "cusip": "482480100",
+     "put_call": null,
+     "issuer": "KLA CORP",
+     "class": "COM NEW",
+     "shares": 30600,
+     "unit": "SH",
+     "value": 10110000
+    }
+   ],
+   "table_total": 34443673000,
+   "first_seen": "2026-11-16T03:34:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-21-000008",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725121000008/0001647251-21-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10385430,
+     "unit": "SH",
+     "value": 7492568000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2952307,
+     "unit": "SH",
+     "value": 7399426000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 20483405,
+     "unit": "SH",
+     "value": 5548954000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4295203000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 14057890,
+     "unit": "SH",
+     "value": 3287016000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 30107803,
+     "unit": "SH",
+     "value": 3176525000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 5853460,
+     "unit": "SH",
+     "value": 2402553000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6562790,
+     "unit": "SH",
+     "value": 2378158000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 1509077000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 11432392,
+     "unit": "SH",
+     "value": 1310038000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5721210,
+     "unit": "SH",
+     "value": 1258266000
+    },
+    {
+     "cusip": "015271109",
+     "put_call": null,
+     "issuer": "ALEXANDRIA REAL ESTATE EQ IN",
+     "class": "COM",
+     "shares": 163000,
+     "unit": "SH",
+     "value": 29656000
+    },
+    {
+     "cusip": "49427F108",
+     "put_call": null,
+     "issuer": "KILROY RLTY CORP",
+     "class": "COM",
+     "shares": 120083,
+     "unit": "SH",
+     "value": 8363000
+    }
+   ],
+   "table_total": 40095803000,
+   "first_seen": "2026-11-16T03:34:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-21-000010",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725121000010/0001647251-21-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2952307,
+     "unit": "SH",
+     "value": 7868813000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 10359092,
+     "unit": "SH",
+     "value": 7536861000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 16683044,
+     "unit": "SH",
+     "value": 4703284000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19939311,
+     "unit": "SH",
+     "value": 4441482000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4246357000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 3640850000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6562790,
+     "unit": "SH",
+     "value": 2330512000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 4813438,
+     "unit": "SH",
+     "value": 2045182000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 1652292000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 12988749,
+     "unit": "SH",
+     "value": 1407331000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5721210,
+     "unit": "SH",
+     "value": 1121414000
+    },
+    {
+     "cusip": "G47567105",
+     "put_call": null,
+     "issuer": "IHS MARKIT LTD",
+     "class": "SHS",
+     "shares": 3839242,
+     "unit": "SH",
+     "value": 447732000
+    },
+    {
+     "cusip": "015271109",
+     "put_call": null,
+     "issuer": "ALEXANDRIA REAL ESTATE EQ IN",
+     "class": "COM",
+     "shares": 1044359,
+     "unit": "SH",
+     "value": 199546000
+    }
+   ],
+   "table_total": 41641656000,
+   "first_seen": "2026-11-16T03:34:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-22-000002",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725122000002/0001647251-22-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2952307,
+     "unit": "SH",
+     "value": 8542766000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 9800605,
+     "unit": "SH",
+     "value": 6389700000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 16683044,
+     "unit": "SH",
+     "value": 5610841000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 23094422,
+     "unit": "SH",
+     "value": 5004792000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4510742000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4020373000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 6562790,
+     "unit": "SH",
+     "value": 2563295000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 618021,
+     "unit": "SH",
+     "value": 1790432000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 3747284,
+     "unit": "SH",
+     "value": 1768456000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 6145915,
+     "unit": "SH",
+     "value": 1548340000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 12458851,
+     "unit": "SH",
+     "value": 1435010000
+    },
+    {
+     "cusip": "G47567105",
+     "put_call": null,
+     "issuer": "IHS MARKIT LTD",
+     "class": "SHS",
+     "shares": 7660706,
+     "unit": "SH",
+     "value": 1018261000
+    },
+    {
+     "cusip": "015271109",
+     "put_call": null,
+     "issuer": "ALEXANDRIA REAL ESTATE EQ IN",
+     "class": "COM",
+     "shares": 1044359,
+     "unit": "SH",
+     "value": 232850000
+    }
+   ],
+   "table_total": 44435858000,
+   "first_seen": "2026-11-16T03:34:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-22-000004",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725122000004/0001647251-22-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2370340,
+     "unit": "SH",
+     "value": 6620336000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 17264766,
+     "unit": "SH",
+     "value": 5322900000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4921414000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4608767000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19924121,
+     "unit": "SH",
+     "value": 4418572000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 6823072,
+     "unit": "SH",
+     "value": 2798688000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 7285832,
+     "unit": "SH",
+     "value": 2458313000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 573021,
+     "unit": "SH",
+     "value": 1593772000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 11711196,
+     "unit": "SH",
+     "value": 1508402000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5252148,
+     "unit": "SH",
+     "value": 1434939000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 2111453,
+     "unit": "SH",
+     "value": 1151840000
+    }
+   ],
+   "table_total": 36837943000,
+   "first_seen": "2026-11-16T03:34:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-22-000006",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725122000006/0001647251-22-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2475787,
+     "unit": "SH",
+     "value": 5415660000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 19629035,
+     "unit": "SH",
+     "value": 5041325000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4127697000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19924121,
+     "unit": "SH",
+     "value": 3922860000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 3901375000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 8768321,
+     "unit": "SH",
+     "value": 2955450000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 8246207,
+     "unit": "SH",
+     "value": 2242721000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 768021,
+     "unit": "SH",
+     "value": 1673717000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5252148,
+     "unit": "SH",
+     "value": 1120178000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 10564496,
+     "unit": "SH",
+     "value": 940029000
+    },
+    {
+     "cusip": "038222105",
+     "put_call": null,
+     "issuer": "APPLIED MATLS INC",
+     "class": "COM",
+     "shares": 1897488,
+     "unit": "SH",
+     "value": 172633000
+    },
+    {
+     "cusip": "482480100",
+     "put_call": null,
+     "issuer": "KLA CORP",
+     "class": "COM NEW",
+     "shares": 155441,
+     "unit": "SH",
+     "value": 49598000
+    },
+    {
+     "cusip": "512807108",
+     "put_call": null,
+     "issuer": "LAM RESEARCH CORP",
+     "class": "COM",
+     "shares": 89545,
+     "unit": "SH",
+     "value": 38160000
+    }
+   ],
+   "table_total": 31601403000,
+   "first_seen": "2026-11-16T03:34:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-22-000008",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725122000008/0001647251-22-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 52430790,
+     "unit": "SH",
+     "value": 5041220000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 19877677,
+     "unit": "SH",
+     "value": 4629511000
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 3960442000
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 3725245000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19936821,
+     "unit": "SH",
+     "value": 3541776000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 8768321,
+     "unit": "SH",
+     "value": 2677407000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 8246207,
+     "unit": "SH",
+     "value": 2004735000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 15961420,
+     "unit": "SH",
+     "value": 1526710000
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5534098,
+     "unit": "SH",
+     "value": 1078153000
+    },
+    {
+     "cusip": "101121101",
+     "put_call": null,
+     "issuer": "BOSTON PROPERTIES INC",
+     "class": "COM",
+     "shares": 5220997,
+     "unit": "SH",
+     "value": 391418000
+    }
+   ],
+   "table_total": 28576617000,
+   "first_seen": "2026-11-16T03:34:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-23-000005",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725123000005/0001647251-23-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 22268951,
+     "unit": "SH",
+     "value": 5340539829
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 54540690,
+     "unit": "SH",
+     "value": 4839395424
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4357886581
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4162157208
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19936821,
+     "unit": "SH",
+     "value": 4142073931
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9184573,
+     "unit": "SH",
+     "value": 3076280881
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 9212287,
+     "unit": "SH",
+     "value": 2566727404
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 15961420,
+     "unit": "SH",
+     "value": 1408276087
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 63770,
+     "unit": "SH",
+     "value": 35117501
+    },
+    {
+     "cusip": "907818108",
+     "put_call": null,
+     "issuer": "UNION PAC CORP",
+     "class": "COM",
+     "shares": 5191,
+     "unit": "SH",
+     "value": 1074900
+    }
+   ],
+   "table_total": 29929529746,
+   "first_seen": "2026-11-16T03:34:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-23-000007",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725123000007/0001647251-23-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 15299188,
+     "unit": "SH",
+     "value": 4410755900
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19291821,
+     "unit": "SH",
+     "value": 4349533963
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 36699825,
+     "unit": "SH",
+     "value": 4329617168
+    },
+    {
+     "cusip": "13645T100",
+     "put_call": null,
+     "issuer": "CANADIAN PAC RY LTD",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4299986681
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9329611,
+     "unit": "SH",
+     "value": 3216569984
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 10369479,
+     "unit": "SH",
+     "value": 3173267964
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 26112747,
+     "unit": "SH",
+     "value": 2496378613
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 23528462,
+     "unit": "SH",
+     "value": 2446960048
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 834150,
+     "unit": "SH",
+     "value": 480779036
+    }
+   ],
+   "table_total": 29203849357,
+   "first_seen": "2026-11-16T03:34:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-23-000010",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725123000010/0001647251-23-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 40888953,
+     "unit": "SH",
+     "value": 4952547380
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 41650076,
+     "unit": "SH",
+     "value": 4575260849
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4513334435
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 17786169,
+     "unit": "SH",
+     "value": 4223859414
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11845241,
+     "unit": "SH",
+     "value": 4033778370
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9329611,
+     "unit": "SH",
+     "value": 3740147754
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 10520317,
+     "unit": "SH",
+     "value": 3658124627
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 18502456,
+     "unit": "SH",
+     "value": 2238242102
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 3173182,
+     "unit": "SH",
+     "value": 1655607709
+    },
+    {
+     "cusip": "G3421J106",
+     "put_call": null,
+     "issuer": "FERGUSON PLC NEW",
+     "class": "SHS",
+     "shares": 490669,
+     "unit": "SH",
+     "value": 77187140
+    }
+   ],
+   "table_total": 33668089780,
+   "first_seen": "2026-11-16T03:34:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-23-000012",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725123000012/0001647251-23-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 41650076,
+     "unit": "SH",
+     "value": 4604415902
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 40888953,
+     "unit": "SH",
+     "value": 4427183227
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 55860385,
+     "unit": "SH",
+     "value": 4151920207
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 3863520982
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9058611,
+     "unit": "SH",
+     "value": 3310107046
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 10371017,
+     "unit": "SH",
+     "value": 3279004445
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16927056,
+     "unit": "SH",
+     "value": 2231832334
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 3193182,
+     "unit": "SH",
+     "value": 1616292933
+    },
+    {
+     "cusip": "G3421J106",
+     "put_call": null,
+     "issuer": "FERGUSON PLC NEW",
+     "class": "SHS",
+     "shares": 490669,
+     "unit": "SH",
+     "value": 80326441
+    }
+   ],
+   "table_total": 27564603517,
+   "first_seen": "2026-11-16T03:34:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-24-000002",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725124000002/0001647251-24-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 41650076,
+     "unit": "SH",
+     "value": 5315799200
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 40072313,
+     "unit": "SH",
+     "value": 5037819252
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 12049611,
+     "unit": "SH",
+     "value": 4706096072
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 55514385,
+     "unit": "SH",
+     "value": 4393255694
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 4373147635
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10638165,
+     "unit": "SH",
+     "value": 4000375567
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9032611,
+     "unit": "SH",
+     "value": 3979045798
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16927056,
+     "unit": "SH",
+     "value": 2385530002
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 3146382,
+     "unit": "SH",
+     "value": 1670068102
+    },
+    {
+     "cusip": "G3421J106",
+     "put_call": null,
+     "issuer": "FERGUSON PLC NEW",
+     "class": "SHS",
+     "shares": 436695,
+     "unit": "SH",
+     "value": 84312704
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 157400,
+     "unit": "SH",
+     "value": 21987206
+    }
+   ],
+   "table_total": 35967437232,
+   "first_seen": "2026-11-16T03:34:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-24-000004",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725124000004/0001647251-24-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 46809215,
+     "unit": "SH",
+     "value": 8216421509
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 39488385,
+     "unit": "SH",
+     "value": 5201441009
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 54913285,
+     "unit": "SH",
+     "value": 4842877121
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 12198911,
+     "unit": "SH",
+     "value": 4794537990
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 4687758948
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10531890,
+     "unit": "SH",
+     "value": 4430976761
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 9032611,
+     "unit": "SH",
+     "value": 3842924350
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16927056,
+     "unit": "SH",
+     "value": 2577313547
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 1517639,
+     "unit": "SH",
+     "value": 882066963
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 1210591,
+     "unit": "SH",
+     "value": 182714500
+    }
+   ],
+   "table_total": 39659032698,
+   "first_seen": "2026-11-16T03:34:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-24-000007",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725124000007/0001647251-24-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 48180376,
+     "unit": "SH",
+     "value": 7659234373
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13246769,
+     "unit": "SH",
+     "value": 5575962475
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10531890,
+     "unit": "SH",
+     "value": 4707228236
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 39488385,
+     "unit": "SH",
+     "value": 4665902111
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 10400077,
+     "unit": "SH",
+     "value": 4638434342
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 4408757672
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 54913285,
+     "unit": "SH",
+     "value": 4324450705
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16927056,
+     "unit": "SH",
+     "value": 3104760612
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 6027410,
+     "unit": "SH",
+     "value": 1097892732
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19095244,
+     "unit": "SH",
+     "value": 741761207
+    }
+   ],
+   "table_total": 40924384465,
+   "first_seen": "2026-11-16T03:34:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-24-000011",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725124000011/0001647251-24-000011-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 48180376,
+     "unit": "SH",
+     "value": 9085855306
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13246769,
+     "unit": "SH",
+     "value": 6286784100
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 10400077,
+     "unit": "SH",
+     "value": 5372887780
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11990590,
+     "unit": "SH",
+     "value": 5159550877
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 54913285,
+     "unit": "SH",
+     "value": 4696733365
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 4618386566
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 35437277,
+     "unit": "SH",
+     "value": 4150341855
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16927056,
+     "unit": "SH",
+     "value": 2830034493
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 6027410,
+     "unit": "SH",
+     "value": 999645949
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19095244,
+     "unit": "SH",
+     "value": 820309341
+    }
+   ],
+   "table_total": 44020529632,
+   "first_seen": "2026-11-16T03:34:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-25-000003",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725125000003/0001647251-25-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 45999876,
+     "unit": "SH",
+     "value": 7672319318
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13246769,
+     "unit": "SH",
+     "value": 6270623042
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 13993637,
+     "unit": "SH",
+     "value": 5898317996
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16797187,
+     "unit": "SH",
+     "value": 5308582979
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 10400077,
+     "unit": "SH",
+     "value": 5179550348
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 54913285,
+     "unit": "SH",
+     "value": 3973526128
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16507056,
+     "unit": "SH",
+     "value": 3143603745
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 29693764,
+     "unit": "SH",
+     "value": 3013663064
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 6027410,
+     "unit": "SH",
+     "value": 1140988713
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19333428,
+     "unit": "SH",
+     "value": 812723953
+    }
+   ],
+   "table_total": 42413899286,
+   "first_seen": "2026-11-16T03:34:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-25-000005",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725125000005/0001647251-25-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47570947,
+     "unit": "SH",
+     "value": 9521325042
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 17299881,
+     "unit": "SH",
+     "value": 6494202329
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13163107,
+     "unit": "SH",
+     "value": 6129927299
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 16637562,
+     "unit": "SH",
+     "value": 5830799979
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 10361269,
+     "unit": "SH",
+     "value": 5264560779
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 54913285,
+     "unit": "SH",
+     "value": 3854575745
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 26899078,
+     "unit": "SH",
+     "value": 2619619831
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 13855735,
+     "unit": "SH",
+     "value": 2164681479
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19333428,
+     "unit": "SH",
+     "value": 861116451
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 4085110,
+     "unit": "SH",
+     "value": 631721410
+    }
+   ],
+   "table_total": 43372530344,
+   "first_seen": "2026-11-16T03:34:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-25-000009",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725125000009/0001647251-25-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47510431,
+     "unit": "SH",
+     "value": 12228709835
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 17565231,
+     "unit": "SH",
+     "value": 8737121552
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 19067558,
+     "unit": "SH",
+     "value": 6769936468
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13246979,
+     "unit": "SH",
+     "value": 6644552197
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 11091623,
+     "unit": "SH",
+     "value": 5848501892
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 52826885,
+     "unit": "SH",
+     "value": 4188853262
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 22989066,
+     "unit": "SH",
+     "value": 2394409913
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12966235,
+     "unit": "SH",
+     "value": 2300080427
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19470666,
+     "unit": "SH",
+     "value": 1038720350
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 3155110,
+     "unit": "SH",
+     "value": 556025035
+    }
+   ],
+   "table_total": 50706910931,
+   "first_seen": "2026-11-16T03:34:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-25-000014",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725125000014/0001647251-25-000014-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47510431,
+     "unit": "SH",
+     "value": 14292087853
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 28057351,
+     "unit": "SH",
+     "value": 9578218484
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 16592204,
+     "unit": "SH",
+     "value": 8593932062
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13308479,
+     "unit": "SH",
+     "value": 6341224074
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 11189870,
+     "unit": "SH",
+     "value": 5446221628
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 49865735,
+     "unit": "SH",
+     "value": 3713514827
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 7596819,
+     "unit": "SH",
+     "value": 1850205267
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 18767774,
+     "unit": "SH",
+     "value": 1769673250
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 19470666,
+     "unit": "SH",
+     "value": 1114470781
+    }
+   ],
+   "table_total": 52699548227,
+   "first_seen": "2026-11-16T03:34:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-26-000002",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000002/0001647251-26-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47510431,
+     "unit": "SH",
+     "value": 14634638061
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 27724233,
+     "unit": "SH",
+     "value": 9723165755
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 16781953,
+     "unit": "SH",
+     "value": 8116088110
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 13308479,
+     "unit": "SH",
+     "value": 6798636497
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 11790310,
+     "unit": "SH",
+     "value": 6161498103
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 47654423,
+     "unit": "SH",
+     "value": 3508630329
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 7596819,
+     "unit": "SH",
+     "value": 2383881802
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 20740214,
+     "unit": "SH",
+     "value": 1348162940
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9849934,
+     "unit": "SH",
+     "value": 974114657
+    }
+   ],
+   "table_total": 53648816254,
+   "first_seen": "2026-11-16T03:34:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-26-000004",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000004/0001647251-26-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47510431,
+     "unit": "SH",
+     "value": 13482035005
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 30468133,
+     "unit": "SH",
+     "value": 9208688518
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 14334027,
+     "unit": "SH",
+     "value": 6253219279
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 14035310,
+     "unit": "SH",
+     "value": 5969778755
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 46521923,
+     "unit": "SH",
+     "value": 3659637907
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 8854019,
+     "unit": "SH",
+     "value": 2539863890
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL SE",
+     "class": "ORD SHS",
+     "shares": 20740214,
+     "unit": "SH",
+     "value": 1327927999
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9849934,
+     "unit": "SH",
+     "value": 1013208255
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 2728412,
+     "unit": "SH",
+     "value": 1009976270
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2457000,
+     "unit": "SH",
+     "value": 706534920
+    }
+   ],
+   "table_total": 45170870798,
+   "first_seen": "2026-11-16T03:34:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001647251-26-000007",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000007/0001647251-26-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47428233,
+     "unit": "SH",
+     "value": 17725353519
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 30494133,
+     "unit": "SH",
+     "value": 10462232091
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 14334027,
+     "unit": "SH",
+     "value": 6492167509
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 14081957,
+     "unit": "SH",
+     "value": 5735017808
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 45325726,
+     "unit": "SH",
+     "value": 3925911608
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9938819,
+     "unit": "SH",
+     "value": 3511682917
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL NV",
+     "class": "ORD SHS",
+     "shares": 20940441,
+     "unit": "SH",
+     "value": 1434611939
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9433422,
+     "unit": "SH",
+     "value": 1124534915
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2457000,
+     "unit": "SH",
+     "value": 878058090
+    },
+    {
+     "cusip": "573284106",
+     "put_call": null,
+     "issuer": "MARTIN MARIETTA MATLS INC",
+     "class": "COM",
+     "shares": 1315109,
+     "unit": "SH",
+     "value": 758423360
+    },
+    {
+     "cusip": "929160109",
+     "put_call": null,
+     "issuer": "VULCAN MATLS CO",
+     "class": "COM",
+     "shares": 2447004,
+     "unit": "SH",
+     "value": 721890650
+    }
+   ],
+   "table_total": 52769884406,
+   "first_seen": "2026-11-16T03:34:43+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "TCI Fund Management Ltd"
+}

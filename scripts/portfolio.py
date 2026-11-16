@@ -64,7 +64,7 @@ def positions(filing, securities, unknown):
         if sec is None:
             unknown.setdefault(r["cusip"], r["issuer"])
             sec = {"name": clean_issuer(r["issuer"]), "ticker": None}
-        key = (sec.get("ticker") or r["cusip"], r["put_call"])
+        key = (sec.get("ticker") or r["cusip"], r["put_call"], slugify(sec["name"]))
         p = out.setdefault(key, {"key": "|".join(x or "" for x in key), "name": sec["name"],
                                   "slug": slugify(sec["name"]), "ticker": sec.get("ticker"),
                                   "fund": bool(sec.get("fund")), "put_call": r["put_call"],

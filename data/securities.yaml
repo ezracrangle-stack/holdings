@@ -43,3 +43,57 @@
 "90184LAD4": {name: Twitter, ticker: TWTR, sic: 7370, note: "Filed with a bond CUSIP by mistake; the line is common shares. Taken private in 2022."}
 "90184L102": {name: Twitter, ticker: TWTR, sic: 7370, note: "Taken private in 2022."}
 "94419L101": {name: Wayfair, ticker: W, sic: 5961}
+
+# Chris Hohn, TCI Fund Management
+"G00349103": {name: Atlantica Sustainable Infrastructure, ticker: AY, sic: 4911, note: "Called Abengoa Yield until 2016. Taken private in 2024."}
+"G0751N103": {name: Atlantica Sustainable Infrastructure, ticker: AY, sic: 4911, note: "Taken private in 2024."}
+"00724F101": {name: Adobe, ticker: ADBE, sic: 7372}
+"015271109": {name: Alexandria Real Estate Equities, ticker: ARE, sic: 6798}
+"02079K107": {name: Alphabet, ticker: GOOG, sic: 7370}
+"984332106": {name: Yahoo, ticker: YHOO, sic: 7370, note: "Became Altaba in 2017."}
+"021346101": {name: Yahoo, ticker: AABA, sic: 7370, note: "Altaba, the fund left from Yahoo in 2017 to hold its Alibaba and Yahoo Japan stakes. Liquidated from 2019."}
+"023139884": {name: Ambac Financial Group, ticker: AMBC, sic: 6351}
+"025816109": {name: American Express, ticker: AXP, sic: 6199}
+"036752103": {name: Elevance Health, ticker: ELV, sic: 6324, sector: Health care, note: "Called Anthem until 2022."}
+"038222105": {name: Applied Materials, ticker: AMAT, sic: 3674}
+"052769106": {name: Autodesk, ticker: ADSK, sic: 7372}
+"056752108": {name: Baidu, ticker: BIDU, sic: 7370}
+"101121101": {name: BXP, ticker: BXP, sic: 6798, note: "Called Boston Properties until 2025."}
+"136375102": {name: Canadian National Railway, ticker: CNI, sic: 4011}
+"13645T100": {name: Canadian Pacific Kansas City, ticker: CP, sic: 4011, note: "Canadian Pacific Railway until it bought Kansas City Southern in 2023."}
+"13646K108": {name: Canadian Pacific Kansas City, ticker: CP, sic: 4011}
+"16119P108": {name: Charter Communications, ticker: CHTR, sic: 4841}
+"20030N101": {name: Comcast, ticker: CMCSA, sic: 4841}
+"294429105": {name: Equifax, ticker: EFX, sic: 7320}
+"G3421J106": {name: Ferguson, ticker: FERG, sic: 5070}
+"N3168P101": {name: Ferrovial, ticker: FER, sic: 1600}
+"35137L105": {name: Fox Corporation, ticker: FOXA, sic: 4833}
+"35137L204": {name: Fox Corporation, ticker: FOX, sic: 4833}
+"90130A101": {name: Twenty-First Century Fox, ticker: FOXA, sic: 4841, note: "Most of it was sold to Disney in 2019; the rest became Fox Corporation."}
+"90130A200": {name: Twenty-First Century Fox, ticker: FOX, sic: 4841}
+"369604301": {name: General Electric, ticker: GE, sic: 3600, sector: Industrials, note: "Now GE Aerospace, after spinning off GE HealthCare (2023) and GE Vernova (2024)."}
+"G47567105": {name: IHS Markit, ticker: INFO, sic: 7370, note: "Merged with S&P Global in 2022."}
+"49427F108": {name: Kilroy Realty, ticker: KRC, sic: 6798}
+"482480100": {name: KLA, ticker: KLAC, sic: 3827}
+"512807108": {name: Lam Research, ticker: LRCX, sic: 3559, sector: Technology}
+"531229854": {name: Liberty Media, ticker: FWONK, sic: 4833, note: "Formula One tracking stock."}
+"G5494J103": {name: Linde, ticker: LIN, sic: 2810}
+"573284106": {name: Martin Marietta, ticker: MLM, sic: 1400}
+"57636Q104": {name: Mastercard, ticker: MA, sic: 7389, sector: Financials & real estate}
+"61166W101": {name: Monsanto, ticker: MON, sic: 2870, note: "Bought by Bayer in 2018."}
+"615369105": {name: Moody's, ticker: MCO, sic: 7320, sector: Financials & real estate}
+"655844108": {name: Norfolk Southern, ticker: NSC, sic: 4011}
+"666807102": {name: Northrop Grumman, ticker: NOC, sic: 3812}
+"69331C108": {name: PG&E, ticker: PCG, sic: 4931}
+"755111507": {name: Raytheon, ticker: RTN, sic: 3812, note: "Merged with United Technologies in 2020 to form RTX."}
+"75513E101": {name: RTX, ticker: RTX, sic: 3724}
+"78409V104": {name: S&P Global, ticker: SPGI, sic: 7320, sector: Financials & real estate}
+"883556102": {name: Thermo Fisher Scientific, ticker: TMO, sic: 3829, sector: Health care}
+"88732J207": {name: Time Warner Cable, ticker: TWC, sic: 4841, note: "Bought by Charter in 2016."}
+"887317303": {name: Time Warner, ticker: TWX, sic: 4841, note: "Bought by AT&T in 2018."}
+"893641100": {name: TransDigm, ticker: TDG, sic: 3728}
+"907818108": {name: Union Pacific, ticker: UNP, sic: 4011}
+"91336L107": {name: Univar Solutions, ticker: UNVR, sic: 5160}
+"92826C839": {name: Visa, ticker: V, sic: 7389, sector: Financials & real estate}
+"929042109": {name: Vornado Realty Trust, ticker: VNO, sic: 6798}
+"929160109": {name: Vulcan Materials, ticker: VMC, sic: 1400}
