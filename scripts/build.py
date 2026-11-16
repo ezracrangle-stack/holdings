@@ -256,7 +256,7 @@ def build():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
     env.filters.update(money=money, pct=pct, date=pretty_date, short=short_date, move=move_label, price=price)
     asset_v = hashlib.md5(b"".join((ROOT / "static" / f).read_bytes()
-                                   for f in ("style.css", "holdings.css"))).hexdigest()[:8]
+                                   for f in ("style.css", "holdings.css", "search.js"))).hexdigest()[:8]
     common = dict(asset_v=asset_v, ga_id=GA_ID, site_url=SITE_URL, letters_url=LETTERS_URL,
                   newsletter_url=NEWSLETTER_URL, subscribe_url=SUBSCRIBE_URL, updated=pretty_date(last_run),
                   manager_count=len(managers))
@@ -278,6 +278,13 @@ def build():
     render("directory.html", "managers.html", "", managers=managers)
     render("companies.html", "companies.html", "", shared=shared, former=former)
     render("about.html", "about.html", "")
+    render("search.html", "search.html", "")
+    (OUT / "search.json").write_text(json.dumps({
+        "managers": [{"n": m["name"], "f": m["firm"], "s": m.get("why") or "", "u": f"m/{m['id']}.html"}
+                     for m in managers],
+        "companies": [{"n": c["name"], "t": " ".join(c["tickers"]), "h": c["holders"], "u": f"c/{c['slug']}.html"}
+                      for c in sorted(companies.values(), key=lambda c: (-c["holders"], c["name"]))],
+    }, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     render("404.html", "404.html", "/")
     for m in managers:
         render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies,
