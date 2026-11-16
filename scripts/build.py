@@ -115,6 +115,8 @@ def timeline(m):
             r["last"] = i
     last = len(quarters) - 1
     out = sorted(rows.values(), key=lambda r: (r["last"] != last, -r["cells"][last] if r["last"] == last else -r["last"]))
+    if m.get("top"):                       # diversified 13Fs: only today's biggest positions
+        out = [r for r in out if r["last"] == last][:m["top"]]
     cols = calendar(m)
     for r in out:
         r["cells"] = spread(m, cols, r["cells"])
