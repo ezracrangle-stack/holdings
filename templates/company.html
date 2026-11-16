@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}{{ c.name }}{% if c.tickers %} ({{ c.tickers|join(", ") }}){% endif %}: who owns it{% endblock %}
+{% block description %}{% if c.holders %}{{ c.holders }} of the value investors I follow own {{ c.name }}, by their latest 13F.{% else %}Value investors I follow who owned {{ c.name }} in past 13F filings.{% endif %}{% endblock %}
+{% block main %}
+<p class="crumb"><a href="{{ root }}companies.html">&larr; All companies</a></p>
+<h1 class="page-title">{{ c.name }}</h1>
+{% if c.tickers %}<p class="best-for"><span>Ticker</span> {{ c.tickers|join(", ") }}</p>{% endif %}
+
+<h2 class="rule-head">Who owns it now</h2>
+{% if c.now %}
+<table class="htable">
+  <thead><tr><th scope="col">Manager</th><th scope="col" class="num">Weight</th><th scope="col" class="num hide-s">Value</th><th scope="col" class="num">Held since</th><th scope="col" class="num">Last move</th></tr></thead>
+  <tbody>
+  {% for r in c.now %}
+    <tr>
+      <td class="co"><a href="{{ root }}m/{{ r.m.id }}.html">{{ r.m.name }}</a><span class="tick">{{ r.m.firm }} · {{ r.m.latest.label }}</span></td>
+      <td class="num w"><span class="bar" style="width: {{ (r.weight / c.now[0].weight * 70)|round|int }}px"></span><span class="wv">{{ r.weight|pct }}</span></td>
+      <td class="num hide-s">{{ r.value|money }}</td>
+      <td class="num">{{ r.since_label }}{% if r.first_filing %} or earlier{% endif %}</td>
+      <td class="num">{{ r.move }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="small">Weight is the position's share of the manager's latest 13F. "Or earlier" means it was already there in the first 13F on file.</p>
+{% else %}
+<p>None of the managers I follow owns it, by their latest 13F.</p>
+{% endif %}
+
+{% if c.past %}
+<h2 class="rule-head">Owned it before</h2>
+<ul class="moves">
+{% for r in c.past %}
+  <li><span class="mw"><a href="{{ root }}m/{{ r.m.id }}.html">{{ r.m.name }}</a> <span class="tick">{{ r.m.firm }}</span></span>
+    <span class="mx">last in the {{ r.last.label }} 13F · <a href="{{ root }}m/{{ r.m.id }}/{{ r.last.slug }}.html">see that quarter</a></span></li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if c.letters_url %}<p class="crosslink"><a href="{{ c.letters_url }}">What managers wrote about {{ c.name }} &rarr;</a></p>{% endif %}
+
+{% include "_caveat.html" %}
+{% set share_text = "Know someone who follows " ~ c.name ~ "? Send them this page." %}
+{% set share_title = c.name ~ ": which value investors own it, from their 13F filings" %}
+{% include "_share.html" %}
+{% endblock %}

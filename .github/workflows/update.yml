@@ -1,0 +1,88 @@
+name: Check EDGAR for new 13Fs
+
+on:
+  schedule:
+    - cron: "17 */3 1-20 2,5,8,11 *"   # every 3 hours, days 1-20 of Feb, May, Aug and Nov (13F season)
+    - cron: "17 13 * * 1"              # every Monday, 13:17 UTC (7:17 am in Mexico City), all year
+  workflow_dispatch:                   # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:                             # rebuild right away when you edit these
+      - managers.yaml
+      - data/securities.yaml
+      - data/splits.yaml
+      - templates/**
+      - static/**
+      - scripts/**
+
+permissions:
+  contents: write                      # save new filings and the rebuilt site
+  issues: write                        # open an issue when something needs a look
+
+concurrency:
+  group: holdings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check EDGAR for new filings
+        id: edgar
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python scripts/update.py
+        continue-on-error: true
+
+      - name: Note if the EDGAR step itself broke
+        if: steps.edgar.outcome == 'failure'
+        run: |
+          printf '%s\n' "The EDGAR step stopped with an error. Open the run in the Actions tab to see it." \
+            "If it says SEC_USER_AGENT is missing, add it in Settings > Secrets and variables > Actions." \
+            "Nothing was deleted; the site shows the last good data." >> alert.md
+
+      - name: Build the site
+        run: python scripts/build.py
+
+      - name: Save changes
+        run: |
+          git config user.name  "holdings-bot"
+          git config user.email "holdings-bot@users.noreply.github.com"
+          git add data docs
+          # last_run.json changes on every run, so there is always a commit.
+          # That keeps the repository active and the schedule alive.
+          git commit -m "EDGAR check $(date -u +%F)" || echo "Nothing to commit"
+          git pull --rebase --autostash && git push
+
+      - name: Alert Ezra if something needs a look
+        if: hashFiles('alert.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create holdings-alert --color B60205 --description "EDGAR check problems" 2>/dev/null || true
+          OPEN=$(gh issue list --label holdings-alert --state open --json number --jq '.[0].number')
+          if [ -n "$OPEN" ]; then
+            gh issue comment "$OPEN" --body-file alert.md
+          else
+            gh issue create --title "Holdings check: something needs a look" --label holdings-alert --body-file alert.md
+          fi
+
+      - name: Close the alert when everything works again
+        if: hashFiles('alert.md') == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          OPEN=$(gh issue list --label holdings-alert --state open --json number --jq '.[0].number' 2>/dev/null || true)
+          if [ -n "$OPEN" ]; then
+            gh issue close "$OPEN" --comment "No problems that need your attention as of $(date -u +%F)."
+          fi

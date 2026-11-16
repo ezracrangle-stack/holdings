@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}{{ m.name }}, {{ m.firm }}: 13F portfolio{% endblock %}
+{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{% endblock %}
+{% block main %}
+<p class="crumb"><a href="{{ root }}managers.html">&larr; All managers</a></p>
+<h1 class="page-title">{{ m.name }}</h1>
+<p class="firm-line big">{{ m.firm }}</p>
+
+{% if m.why %}
+<blockquote class="take">
+  <p class="take-label">Why I follow {{ m.name.split()[0] }}</p>
+  <p>{{ m.why }}</p>
+</blockquote>
+{% endif %}
+
+<h2 class="rule-head">Portfolio at the end of {{ q.label }}</h2>
+<p class="source">From the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
+{% include "_portfolio.html" %}
+
+{% if m.letters_url %}<p class="crosslink"><a href="{{ m.letters_url }}">Read his letters &rarr;</a></p>{% endif %}
+
+<h2 class="rule-head">What changed{% if q.prev %} from {{ q.prev.label }}{% endif %}</h2>
+{% include "_changes.html" %}
+
+<h2 class="rule-head">Every quarter on file</h2>
+<table class="htable history">
+  <thead><tr><th scope="col">Quarter</th><th scope="col" class="hide-s">Top holdings</th><th scope="col" class="num">Positions</th><th scope="col" class="num">Value</th></tr></thead>
+  <tbody>
+  {% for h in m.quarters|reverse %}
+    <tr>
+      <td class="co"><a href="{{ root }}m/{{ m.id }}/{{ h.slug }}.html">{{ h.label }}</a><span class="tick">filed {{ h.filed|short }}</span></td>
+      <td class="hide-s top3">{% for p in h.positions[:3] %}{{ p.name }} {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}</td>
+      <td class="num">{{ h.positions|length }}</td>
+      <td class="num">{{ h.total|money }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% include "_caveat.html" %}
+
+{% set share_text = "Know someone who follows " ~ m.name ~ "? Send them this page." %}
+{% set share_title = m.name ~ " (" ~ m.firm ~ "): 13F portfolio, quarter by quarter" %}
+{% include "_share.html" %}
+
+<aside class="cta slim">
+  <p class="cta-text">Ezra's Notes: investing with a long-term mindset, seeing companies the way an owner does. Free.</p>
+  <a class="button" href="{{ subscribe_url }}">Subscribe</a>
+</aside>
+{% endblock %}

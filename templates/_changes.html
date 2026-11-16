@@ -1,0 +1,15 @@
+{# What changed in quarter q against the one before #}
+{% set moved = q.changes|rejectattr("kind", "equalto", "same")|list %}
+{% if not q.prev %}
+  <p>This is the first 13F on file for {{ m.firm }}, so there's nothing to compare it with.</p>
+{% elif not moved %}
+  <p>No changes in share counts from {{ q.prev.label }}.</p>
+{% else %}
+  <ul class="moves">
+  {% for c in moved %}
+    <li class="{{ c.kind }}"><span class="mv">{{ c|move }}</span>
+      <span class="mw">{% if not c.fund and c.slug in companies %}<a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.ticker %} <span class="tick">{{ c.ticker }}</span>{% endif %}</span>
+      <span class="mx">{% if c.kind == "sold" %}was {{ c.prev_weight|pct }}{% elif c.kind == "new" %}{{ c.weight|pct }} of the 13F{% else %}{{ c.prev_weight|pct }} &rarr; {{ c.weight|pct }}{% endif %}</span></li>
+  {% endfor %}
+  </ul>
+{% endif %}

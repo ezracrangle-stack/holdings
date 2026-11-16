@@ -1,0 +1,10 @@
+# Stock splits, so a split doesn't look like a big buy on the site.
+# ticker, date the split took effect, and ratio (20 = 20-for-1, 1.5 = 3-for-2, 0.1 = 1-for-10).
+# The weekly check tells you when a position's share count jumps in a way that looks
+# like a split that isn't listed here.
+
+- {ticker: BN, date: 2020-04-01, ratio: 1.5}
+- {ticker: AMZN, date: 2022-06-06, ratio: 20}
+- {ticker: SHOP, date: 2022-06-29, ratio: 10}
+- {ticker: GOOGL, date: 2022-07-18, ratio: 20}
+- {ticker: BN, date: 2025-10-09, ratio: 1.5}

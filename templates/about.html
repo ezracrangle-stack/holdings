@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+{% block description %}What this site shows, where the numbers come from and what a 13F leaves out.{% endblock %}
+{% block main %}
+<h1 class="page-title">About</h1>
+<div class="prose">
+  <p>I'm Ezra Crangle. I write <a href="{{ newsletter_url }}">Ezra's Notes</a>, a newsletter on value investing. Every quarter, US investment firms with more than $100 million in US-listed stocks file a 13F with the SEC listing what they own. It's public and free, but it sits on EDGAR as raw XML. This site takes the 13Fs of the managers I follow and lays them out quarter by quarter.</p>
+  <p>The list of managers is mine. The numbers come straight from each filing. The only adjustment is for stock splits, so a 20-for-1 split doesn't look like a big buy.</p>
+
+  <h2>What a 13F shows, and what it leaves out</h2>
+  <p>It lists long positions in US-listed stocks, including ADRs of foreign companies, plus some options and convertible bonds, as of the last day of the quarter.</p>
+  <p>Firms have 45 days after the quarter ends to file. By the time a 13F is public, the manager may have sold.</p>
+  <p>Short positions, cash, bonds, private investments and stocks that only trade outside the US don't appear. A manager with half the fund in Europe shows up here as a smaller, US-only portfolio. Read every page on this site as a partial view.</p>
+
+  <h2>How the numbers work</h2>
+  <p><strong>Weight</strong> is a position's value divided by the total value of that 13F. Because the 13F leaves things out, a 10% weight here can be a smaller share of the real fund.</p>
+  <p><strong>Held since</strong> is the first quarter of the current unbroken run. "Or earlier" means the position was already in the first 13F on file. If a manager sells and buys back, the count starts again.</p>
+  <p><strong>Changes</strong> compare the number of shares with the previous quarter. A change in value alone, from the price moving, doesn't count as a move. When a firm amends a 13F, the site uses the amended version.</p>
+
+  <h2>When it updates</h2>
+  <p>The site checks EDGAR several times a day in the weeks when 13Fs are due (the first half of February, May, August and November) and every Monday the rest of the year. Late filings and amendments come in the same way. Nothing already published gets deleted.</p>
+
+  <h2>Investor Letters</h2>
+  <p>Many of these managers also write to their investors. <a href="{{ letters_url }}/">Investor Letters</a> collects those letters, and each manager and company uses the same web address on both sites. When there's a page there, you'll find a link to it here.</p>
+
+  <h2>Corrections</h2>
+  <p>Found a wrong ticker, a company under the wrong name or a split that isn't accounted for? Write to <a class="mail" data-u="letters" data-d="ezrasnotes.com" href="{{ newsletter_url }}">letters [at] ezrasnotes [dot] com</a> and I'll fix it.</p>
+
+  <h2>Stay in the loop</h2>
+  <p>New 13Fs show up in the <a href="{{ root }}feed.xml">RSS feed</a>. I also keep <a href="https://gd.ezrasnotes.com/">The G&amp;D Index</a>, a searchable index of Graham &amp; Doddsville, the Columbia Business School investing newsletter.</p>
+  <p class="small">Nothing on this site is investment advice.</p>
+</div>
+{% endblock %}

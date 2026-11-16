@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+{% if ga_id %}<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_id }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ ga_id }}');</script>
+{% endif %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}if(t!=='dark'&&t!=='light'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();</script>
+<title>{% block title %}Investor Holdings{% endblock %} · Ezra's Notes</title>
+<meta name="description" content="{% block description %}The 13F portfolios of the value investors I follow, quarter by quarter, straight from SEC EDGAR. Free, no sign-up.{% endblock %}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ root }}static/style.css?v={{ asset_v }}">
+<link rel="stylesheet" href="{{ root }}static/holdings.css?v={{ asset_v }}">
+<link rel="alternate" type="application/rss+xml" title="Investor Holdings · Ezra's Notes" href="{{ root }}feed.xml">
+<meta property="og:title" content="{{ self.title() }} · Ezra's Notes">
+<meta property="og:description" content="{{ self.description() }}">
+{% set page_url = site_url ~ "/" ~ ("" if page == "index.html" else page) %}
+<meta property="og:url" content="{{ page_url }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Investor Holdings · Ezra's Notes">
+<meta property="og:image" content="{{ site_url }}/static/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Investor Holdings by Ezra Crangle. The 13F portfolios of the value investors I follow.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ezracrangle">
+<meta name="twitter:creator" content="@ezracrangle">
+<meta name="twitter:title" content="{{ self.title() }} · Ezra's Notes">
+<meta name="twitter:description" content="{{ self.description() }}">
+<meta name="twitter:image" content="{{ site_url }}/static/og-image.png">
+<link rel="icon" href="{{ root }}static/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ root }}static/icon-512.png">
+<link rel="apple-touch-icon" href="{{ root }}static/apple-touch-icon.png">
+<link rel="canonical" href="{{ page_url }}">
+</head>
+<body>
+<header class="masthead">
+  <div class="topline">
+    <a href="{{ newsletter_url }}">Ezra's Notes</a>
+    <span class="topright">
+      <span class="checked">{% if updated %}Checked {{ updated }}{% endif %}</span>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark mode">Dark</button>
+    </span>
+  </div>
+  <a class="nameplate" href="{{ root }}index.html">Investor Holdings</a>
+  <p class="byline">By <a href="https://x.com/ezracrangle">@ezracrangle</a></p>
+  <nav>
+    <a href="{{ root }}index.html"{% if page == 'index.html' %} aria-current="page"{% endif %}>Latest</a>
+    <a href="{{ root }}managers.html"{% if page == 'managers.html' or page.startswith('m/') %} aria-current="page"{% endif %}>Managers</a>
+    <a href="{{ root }}companies.html"{% if page == 'companies.html' or page.startswith('c/') %} aria-current="page"{% endif %}>Companies</a>
+    <a href="{{ root }}about.html"{% if page == 'about.html' %} aria-current="page"{% endif %}>About</a>
+    <a href="{{ subscribe_url }}" class="nav-cta">Subscribe</a>
+  </nav>
+</header>
+
+<main>
+{% block main %}{% endblock %}
+</main>
+
+<footer>
+  <p class="footer-links">
+    <a href="{{ newsletter_url }}">Ezra's Notes</a>
+    <a href="{{ letters_url }}/">Investor Letters</a>
+    <a href="https://gd.ezrasnotes.com/">The G&amp;D Index</a>
+    <a href="{{ root }}feed.xml">RSS</a>
+    <a href="{{ root }}about.html">About</a>
+  </p>
+  <p class="rights">Data from 13F filings on SEC EDGAR, as filed. A 13F is a partial, delayed view of a portfolio. Nothing here is investment advice.</p>
+</footer>
+<script>document.querySelectorAll('a.mail').forEach(function(a){var e=a.dataset.u+'@'+a.dataset.d;a.href='mailto:'+e;a.textContent=e;});</script>
+<script>(function(){var b=document.getElementById('theme-toggle'),r=document.documentElement;function label(){b.textContent=r.getAttribute('data-theme')==='dark'?'Light':'Dark'}label();b.addEventListener('click',function(){var t=r.getAttribute('data-theme')==='dark'?'light':'dark';r.setAttribute('data-theme',t);try{localStorage.setItem('theme',t)}catch(e){}label()})})();</script>
+<script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

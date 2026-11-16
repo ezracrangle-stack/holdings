@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}The managers{% endblock %}
+{% block description %}The value investors whose 13F filings I follow, with their latest portfolio.{% endblock %}
+{% block main %}
+<h1 class="page-title">The managers</h1>
+<p class="dek">Whose 13Fs I follow. Click a name for the current portfolio, what changed and every quarter on file.</p>
+<table class="mtable">
+  <thead>
+    <tr><th scope="col">Manager</th><th scope="col">Top holdings</th><th scope="col" class="num">Latest 13F</th></tr>
+  </thead>
+  <tbody>
+  {% for m in managers %}
+    <tr>
+      <td class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }}</span></td>
+      <td class="style">{% for p in m.latest.positions[:4] %}{{ p.name }} {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}</td>
+      <td class="num">{{ m.latest.label }}<span class="latest">{{ m.latest.positions|length }} positions · {{ m.latest.total|money }}</span></td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% include "_caveat.html" %}
+{% endblock %}

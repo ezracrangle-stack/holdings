@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────
+#  EZRA'S NOTES · INVESTOR HOLDINGS
+#  This is the only file you need to edit (see COMO-EDITAR.md).
+#
+#  To ADD a manager: copy one block (from "- id:" down to the
+#  next "- id:"), paste it at the end and change the values.
+#  To REMOVE a manager: delete its block. Its filings stay in
+#  data/ but stop showing on the site.
+#
+#  id:         same id as on letters.ezrasnotes.com when the manager is
+#              there, so both sites use the same web address.
+#  cik:        the firm's number at the SEC (EDGAR). Ask Claude for it.
+#  letters:    yes if the manager has a page on letters.ezrasnotes.com.
+#              Then "why" is taken from that site and you can leave it out.
+#
+#  Keep the two spaces of indentation. Text with a colon (:)
+#  inside must go between double quotes.
+# ─────────────────────────────────────────────────────────────
+
+managers:
+
+  - id: greenlea-lane
+    name: Josh Tarasoff
+    firm: Greenlea Lane Capital
+    cik: 1766504
+    letters: no
+    why: "Eight to twelve stocks, and the big ones stay for years. Amazon, Brookfield and Trupanion are in every 13F the firm has filed, starting with the end of 2018."   # DRAFT by Claude: replace with your own line

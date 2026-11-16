@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Investor Holdings{% endblock %}
+{% block main %}
+<section class="lede">
+  <p class="dek">What the value investors I follow own, quarter by quarter, taken from the 13F filings they send the SEC.</p>
+  <p class="free">Free, no sign-up. The list of managers is mine; every number comes from the filing on EDGAR.</p>
+  <p class="small">{{ manager_count }} manager{{ "s" if manager_count != 1 }} so far. The site checks EDGAR several times a day in filing season and every week the rest of the year.</p>
+</section>
+
+<section>
+  <h2 class="rule-head">Latest 13F filings</h2>
+  <ol class="letters filings">
+  {% for m, q in latest_filings %}
+    <li>
+      <span class="period">{{ q.label }}</span>
+      <span class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }} · filed {{ q.filed|short }} · {{ q.positions|length }} positions · {{ q.total|money }}</span></span>
+      <a class="read" href="{{ root }}m/{{ m.id }}/{{ q.slug }}.html">See it<span class="sr"> : {{ m.name }}, {{ q.label }}</span> &rarr;</a>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2 class="rule-head">The big moves</h2>
+  <p class="small">From each manager's latest 13F: new positions, positions sold out, and changes of 25% or more in the number of shares.</p>
+  {% if not has_moves %}<p>No big moves in the latest filings.</p>{% endif %}
+  {% for kind, label, items in groups if items %}
+    <h3 class="move-head">{{ label }}</h3>
+    <ul class="moves">
+    {% for x in items %}
+      <li class="{{ kind }}"><span class="mv">{{ x.c|move }}</span>
+        <span class="mw">{% if not x.c.fund %}<a href="{{ root }}c/{{ x.c.slug }}.html">{{ x.c.name }}</a>{% else %}{{ x.c.name }}{% endif %}{% if x.c.ticker %} <span class="tick">{{ x.c.ticker }}</span>{% endif %}</span>
+        <span class="mx"><a href="{{ root }}m/{{ x.m.id }}.html">{{ x.m.name }}</a>, {{ x.q.label }} · {% if kind == "sold" %}was {{ x.c.prev_weight|pct }}{% elif kind == "new" %}{{ x.c.weight|pct }}{% else %}{{ x.c.prev_weight|pct }} &rarr; {{ x.c.weight|pct }}{% endif %}</span></li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+</section>
+
+{% if shared %}
+<section>
+  <h2 class="rule-head">Most widely held</h2>
+  <ol class="clist top10">
+  {% for c in shared %}
+    <li><a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a><span class="ccount">{{ c.holders }} manager{{ "s" if c.holders != 1 }}</span></li>
+  {% endfor %}
+  </ol>
+  <p><a class="more" href="{{ root }}companies.html">All companies &rarr;</a></p>
+</section>
+{% endif %}
+
+{% include "_caveat.html" %}
+
+{% set share_text = "Know someone who follows what value investors buy? Send them this page." %}
+{% set share_title = "Investor Holdings: the 13F portfolios of the value investors Ezra Crangle follows" %}
+{% include "_share.html" %}
+
+<aside class="cta">
+  <p class="cta-kicker">Ezra's Notes</p>
+  <p class="cta-text">Investing with a true long-term mindset: seeing companies beyond the numbers, the way an owner does.</p>
+  <p class="cta-sub">Ezra's Notes is free.</p>
+  <a class="button" href="{{ subscribe_url }}">Subscribe free</a>
+</aside>
+
+{% include "_sister.html" %}
+{% endblock %}

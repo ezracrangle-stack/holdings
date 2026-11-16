@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Companies{% endblock %}
+{% block description %}The companies the value investors I follow own, by their latest 13F, ranked by how many of them hold each one.{% endblock %}
+{% block main %}
+<h1 class="page-title">Companies</h1>
+<p class="dek">What the managers own by their latest 13F. The ones held by the most managers come first.</p>
+<table class="htable">
+  <thead><tr><th scope="col">Company</th><th scope="col" class="num">Managers</th><th scope="col" class="num">Avg. weight</th><th scope="col" class="hide-s">Who</th></tr></thead>
+  <tbody>
+  {% for c in shared %}
+    <tr>
+      <td class="co"><a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a><span class="tick">{{ c.tickers|join(", ") }}</span></td>
+      <td class="num">{{ c.holders }}</td>
+      <td class="num">{{ c.avg_weight|pct }}</td>
+      <td class="hide-s top3">{% for r in c.now %}{{ r.m.name }}{% if not loop.last %} · {% endif %}{% endfor %}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="small">Average weight is the mean of each holder's weight. ETFs and other funds are left out of this list.</p>
+{% if former %}
+<h2 class="section-head">Owned before, not now</h2>
+<ol class="clist">
+{% for c in former %}
+  <li><a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a><span class="ccount">{{ c.tickers|join(", ") }}</span></li>
+{% endfor %}
+</ol>
+{% endif %}
+{% include "_caveat.html" %}
+{% endblock %}

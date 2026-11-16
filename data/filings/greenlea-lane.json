@@ -1,0 +1,3194 @@
+{
+ "filings": [
+  {
+   "accession": "0001387131-19-001178",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713119001178/0001387131-19-001178-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 550950,
+     "unit": "SH",
+     "value": 21129000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 12380,
+     "unit": "SH",
+     "value": 18595000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "CL A",
+     "shares": 709260,
+     "unit": "SH",
+     "value": 13923000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 495859,
+     "unit": "SH",
+     "value": 12625000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 44585,
+     "unit": "SH",
+     "value": 11933000
+    },
+    {
+     "cusip": "819047101",
+     "put_call": null,
+     "issuer": "SHAKE SHACK INC",
+     "class": "CL A",
+     "shares": 223040,
+     "unit": "SH",
+     "value": 10130000
+    },
+    {
+     "cusip": "94419L101",
+     "put_call": null,
+     "issuer": "WAYFAIR INC",
+     "class": "CL A",
+     "shares": 106130,
+     "unit": "SH",
+     "value": 9560000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 42990,
+     "unit": "SH",
+     "value": 4880000
+    }
+   ],
+   "table_total": 102775000,
+   "first_seen": "2026-11-16T01:32:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-003641",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713119003641/0001387131-19-003641-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 686350,
+     "unit": "SH",
+     "value": 32018000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 14910,
+     "unit": "SH",
+     "value": 26551000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 597972,
+     "unit": "SH",
+     "value": 19577000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 54685,
+     "unit": "SH",
+     "value": 19499000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "CL A",
+     "shares": 772260,
+     "unit": "SH",
+     "value": 18140000
+    },
+    {
+     "cusip": "94419L101",
+     "put_call": null,
+     "issuer": "WAYFAIR INC",
+     "class": "CL A",
+     "shares": 112430,
+     "unit": "SH",
+     "value": 16690000
+    },
+    {
+     "cusip": "819047101",
+     "put_call": null,
+     "issuer": "SHAKE SHACK INC",
+     "class": "CL A",
+     "shares": 254940,
+     "unit": "SH",
+     "value": 15080000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 97290,
+     "unit": "SH",
+     "value": 13504000
+    },
+    {
+     "cusip": "860897107",
+     "put_call": null,
+     "issuer": "STITCH FIX INC",
+     "class": "COM CL A",
+     "shares": 251400,
+     "unit": "SH",
+     "value": 7097000
+    }
+   ],
+   "table_total": 168156000,
+   "first_seen": "2026-11-16T01:32:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-006054",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713119006054/0001387131-19-006054-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 724870,
+     "unit": "SH",
+     "value": 34634000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 15740,
+     "unit": "SH",
+     "value": 29806000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 631472,
+     "unit": "SH",
+     "value": 22816000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "CL A",
+     "shares": 901660,
+     "unit": "SH",
+     "value": 22784000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 61495,
+     "unit": "SH",
+     "value": 22589000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 88660,
+     "unit": "SH",
+     "value": 17112000
+    },
+    {
+     "cusip": "819047101",
+     "put_call": null,
+     "issuer": "SHAKE SHACK INC",
+     "class": "CL A",
+     "shares": 167760,
+     "unit": "SH",
+     "value": 12112000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 71820,
+     "unit": "SH",
+     "value": 10501000
+    },
+    {
+     "cusip": "860897107",
+     "put_call": null,
+     "issuer": "STITCH FIX INC",
+     "class": "COM CL A",
+     "shares": 294950,
+     "unit": "SH",
+     "value": 9435000
+    }
+   ],
+   "table_total": 181789000,
+   "first_seen": "2026-11-16T01:32:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-008675",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713119008675/0001387131-19-008675-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 724870,
+     "unit": "SH",
+     "value": 38483000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 15740,
+     "unit": "SH",
+     "value": 27323000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 88375,
+     "unit": "SH",
+     "value": 23651000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "CL A",
+     "shares": 757900,
+     "unit": "SH",
+     "value": 20349000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 631472,
+     "unit": "SH",
+     "value": 16052000
+    },
+    {
+     "cusip": "02079KAB3",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 12735,
+     "unit": "SH",
+     "value": 15552000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 52280,
+     "unit": "SH",
+     "value": 9310000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 51505,
+     "unit": "SH",
+     "value": 5872000
+    },
+    {
+     "cusip": "860897107",
+     "put_call": null,
+     "issuer": "STITCH FIX INC",
+     "class": "COM CL A",
+     "shares": 304480,
+     "unit": "SH",
+     "value": 5861000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC COM",
+     "class": "CL A",
+     "shares": 240045,
+     "unit": "SH",
+     "value": 5697000
+    },
+    {
+     "cusip": "90184LAD4",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 88750,
+     "unit": "SH",
+     "value": 3657000
+    }
+   ],
+   "table_total": 171807000,
+   "first_seen": "2026-11-16T01:32:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-001603",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713120001603/0001387131-20-001603-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 692215,
+     "unit": "SH",
+     "value": 40010000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 796372,
+     "unit": "SH",
+     "value": 29832000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 91245,
+     "unit": "SH",
+     "value": 29524000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 14025,
+     "unit": "SH",
+     "value": 25916000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "CL A",
+     "shares": 686455,
+     "unit": "SH",
+     "value": 20024000
+    },
+    {
+     "cusip": "02079KAB3",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 12675,
+     "unit": "SH",
+     "value": 16977000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 51955,
+     "unit": "SH",
+     "value": 10664000
+    },
+    {
+     "cusip": "860897107",
+     "put_call": null,
+     "issuer": "STITCH FIX INC",
+     "class": "COM CL A",
+     "shares": 302590,
+     "unit": "SH",
+     "value": 7764000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 51160,
+     "unit": "SH",
+     "value": 7651000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 284570,
+     "unit": "SH",
+     "value": 6397000
+    },
+    {
+     "cusip": "90184LAD4",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "NOTE 1.000% 9/1",
+     "shares": 197025,
+     "unit": "SH",
+     "value": 6315000
+    }
+   ],
+   "table_total": 201074000,
+   "first_seen": "2026-11-16T01:32:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-004802",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713120004802/0001387131-20-004802-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 14025,
+     "unit": "SH",
+     "value": 27345000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 586595,
+     "unit": "SH",
+     "value": 25956000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 796372,
+     "unit": "SH",
+     "value": 20729000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 50335,
+     "unit": "SH",
+     "value": 18901000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 15767,
+     "unit": "SH",
+     "value": 18320000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 113684,
+     "unit": "SH",
+     "value": 16369000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 69365,
+     "unit": "SH",
+     "value": 11570000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 79705,
+     "unit": "SH",
+     "value": 9680000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 127790,
+     "unit": "SH",
+     "value": 3430000
+    }
+   ],
+   "table_total": 152300000,
+   "first_seen": "2026-11-16T01:32:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-007460",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713120007460/0001387131-20-007460-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 796372,
+     "unit": "SH",
+     "value": 33998000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 168329,
+     "unit": "SH",
+     "value": 31533000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 10192,
+     "unit": "SH",
+     "value": 28118000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 771877,
+     "unit": "SH",
+     "value": 25395000
+    },
+    {
+     "cusip": "02079KAB3",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 15767,
+     "unit": "SH",
+     "value": 22358000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 48008,
+     "unit": "SH",
+     "value": 21846000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 79705,
+     "unit": "SH",
+     "value": 20579000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 69365,
+     "unit": "SH",
+     "value": 15751000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 313845,
+     "unit": "SH",
+     "value": 9758000
+    }
+   ],
+   "table_total": 209336000,
+   "first_seen": "2026-11-16T01:32:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-009942",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713120009942/0001387131-20-009942-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 183059,
+     "unit": "SH",
+     "value": 46006000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 408500,
+     "unit": "SH",
+     "value": 32231000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 934678,
+     "unit": "SH",
+     "value": 30901000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 8940,
+     "unit": "SH",
+     "value": 28149000
+    },
+    {
+     "cusip": "02079KAB3",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 17147,
+     "unit": "SH",
+     "value": 25131000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 46715,
+     "unit": "SH",
+     "value": 23359000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 86663,
+     "unit": "SH",
+     "value": 21022000
+    },
+    {
+     "cusip": "443573100",
+     "put_call": null,
+     "issuer": "HUBSPOT INC",
+     "class": "COM",
+     "shares": 68073,
+     "unit": "SH",
+     "value": 19893000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 75424,
+     "unit": "SH",
+     "value": 19753000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 504192,
+     "unit": "SH",
+     "value": 13543000
+    }
+   ],
+   "table_total": 259988000,
+   "first_seen": "2026-11-16T01:32:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-21-002424",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000138713121002424/0001387131-21-002424-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 408500,
+     "unit": "SH",
+     "value": 48902000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 1013251,
+     "unit": "SH",
+     "value": 41817000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 180598,
+     "unit": "SH",
+     "value": 40188000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 85313,
+     "unit": "SH",
+     "value": 26845000
+    },
+    {
+     "cusip": "443573100",
+     "put_call": null,
+     "issuer": "HUBSPOT INC",
+     "class": "COM",
+     "shares": 67200,
+     "unit": "SH",
+     "value": 26640000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 7341,
+     "unit": "SH",
+     "value": 23909000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 13208,
+     "unit": "SH",
+     "value": 23149000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 36215,
+     "unit": "SH",
+     "value": 19583000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 381132,
+     "unit": "SH",
+     "value": 16099000
+    }
+   ],
+   "table_total": 267132000,
+   "first_seen": "2026-11-16T01:32:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-000807",
+   "form": "13F-HR",
+   "filed": "2021-05-21",
+   "period": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050621000807/0001420506-21-000807-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 986706,
+     "unit": "SH",
+     "value": 43909000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 201338,
+     "unit": "SH",
+     "value": 42658000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 408500,
+     "unit": "SH",
+     "value": 31131000
+    },
+    {
+     "cusip": "443573100",
+     "put_call": null,
+     "issuer": "HUBSPOT INC",
+     "class": "COM",
+     "shares": 65440,
+     "unit": "SH",
+     "value": 29723000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 7148,
+     "unit": "SH",
+     "value": 22117000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 10119,
+     "unit": "SH",
+     "value": 20871000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 35273,
+     "unit": "SH",
+     "value": 18401000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 371182,
+     "unit": "SH",
+     "value": 15081000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 54878,
+     "unit": "SH",
+     "value": 14705000
+    }
+   ],
+   "table_total": 238596000,
+   "first_seen": "2026-11-16T01:32:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-001179",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050621001179/0001420506-21-001179-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 224468,
+     "unit": "SH",
+     "value": 54831000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 412175,
+     "unit": "SH",
+     "value": 47441000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 779081,
+     "unit": "SH",
+     "value": 39718000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 143673,
+     "unit": "SH",
+     "value": 39595000
+    },
+    {
+     "cusip": "443573100",
+     "put_call": null,
+     "issuer": "HUBSPOT INC",
+     "class": "COM",
+     "shares": 58008,
+     "unit": "SH",
+     "value": 33802000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 9437,
+     "unit": "SH",
+     "value": 32465000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 371250,
+     "unit": "SH",
+     "value": 25546000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 43413,
+     "unit": "SH",
+     "value": 22931000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 8963,
+     "unit": "SH",
+     "value": 21886000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 329002,
+     "unit": "SH",
+     "value": 14575000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT REINS",
+     "class": "CL A EXCH LT VTG",
+     "shares": 5371,
+     "unit": "SH",
+     "value": 279000
+    }
+   ],
+   "table_total": 333069000,
+   "first_seen": "2026-11-16T01:32:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-001584",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050621001584/0001420506-21-001584-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 249997,
+     "unit": "SH",
+     "value": 67804000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 870936,
+     "unit": "SH",
+     "value": 46604000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 143673,
+     "unit": "SH",
+     "value": 32375000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 412175,
+     "unit": "SH",
+     "value": 32014000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 9437,
+     "unit": "SH",
+     "value": 31001000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 43413,
+     "unit": "SH",
+     "value": 26497000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 428950,
+     "unit": "SH",
+     "value": 25904000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 8963,
+     "unit": "SH",
+     "value": 23963000
+    },
+    {
+     "cusip": "443573100",
+     "put_call": null,
+     "issuer": "HUBSPOT INC",
+     "class": "COM",
+     "shares": 29213,
+     "unit": "SH",
+     "value": 19751000
+    }
+   ],
+   "table_total": 305913000,
+   "first_seen": "2026-11-16T01:32:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-000333",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050622000333/0001420506-22-000333-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 262607,
+     "unit": "SH",
+     "value": 66736000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 914376,
+     "unit": "SH",
+     "value": 55210000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 151553,
+     "unit": "SH",
+     "value": 35468000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 9917,
+     "unit": "SH",
+     "value": 33067000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 243418,
+     "unit": "SH",
+     "value": 32138000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 45613,
+     "unit": "SH",
+     "value": 27479000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 9413,
+     "unit": "SH",
+     "value": 27270000
+    },
+    {
+     "cusip": "70614W100",
+     "put_call": null,
+     "issuer": "PELOTON INTERACTIVE INC",
+     "class": "CL A COM",
+     "shares": 759205,
+     "unit": "SH",
+     "value": 27149000
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 355382,
+     "unit": "SH",
+     "value": 3753000
+    }
+   ],
+   "table_total": 308270000,
+   "first_seen": "2026-11-16T01:32:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-000958",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050622000958/0001420506-22-000958-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 20683,
+     "unit": "SH",
+     "value": 67426000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 303197,
+     "unit": "SH",
+     "value": 64375000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 944388,
+     "unit": "SH",
+     "value": 53424000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 61876,
+     "unit": "SH",
+     "value": 41826000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 10869,
+     "unit": "SH",
+     "value": 30230000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 65725,
+     "unit": "SH",
+     "value": 24620000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 159885,
+     "unit": "SH",
+     "value": 24146000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 261124,
+     "unit": "SH",
+     "value": 23271000
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 83020,
+     "unit": "SH",
+     "value": 13123000
+    },
+    {
+     "cusip": "70614W100",
+     "put_call": null,
+     "issuer": "PELOTON INTERACTIVE INC",
+     "class": "CL A COM",
+     "shares": 432593,
+     "unit": "SH",
+     "value": 11429000
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 548724,
+     "unit": "SH",
+     "value": 5043000
+    }
+   ],
+   "table_total": 358913000,
+   "first_seen": "2026-11-16T01:32:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-001634",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050622001634/0001420506-22-001634-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 540555,
+     "unit": "SH",
+     "value": 57412000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 280255,
+     "unit": "SH",
+     "value": 46253000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 872765,
+     "unit": "SH",
+     "value": 38812000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 13390,
+     "unit": "SH",
+     "value": 29180000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 678550,
+     "unit": "SH",
+     "value": 21198000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 95855,
+     "unit": "SH",
+     "value": 16762000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 240159,
+     "unit": "SH",
+     "value": 14472000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 147770,
+     "unit": "SH",
+     "value": 13865000
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 76395,
+     "unit": "SH",
+     "value": 7881000
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 526705,
+     "unit": "SH",
+     "value": 5314000
+    }
+   ],
+   "table_total": 251149000,
+   "first_seen": "2026-11-16T01:32:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-002083",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050622002083/0001420506-22-002083-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 573670,
+     "unit": "SH",
+     "value": 64825000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 310455,
+     "unit": "SH",
+     "value": 44656000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 878290,
+     "unit": "SH",
+     "value": 35913000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 336215,
+     "unit": "SH",
+     "value": 32159000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 95855,
+     "unit": "SH",
+     "value": 22568000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 789035,
+     "unit": "SH",
+     "value": 21257000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 221545,
+     "unit": "SH",
+     "value": 19119000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 286175,
+     "unit": "SH",
+     "value": 17007000
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 110615,
+     "unit": "SH",
+     "value": 12537000
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 651417,
+     "unit": "SH",
+     "value": 4886000
+    }
+   ],
+   "table_total": 274927000,
+   "first_seen": "2026-11-16T01:32:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-000511",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050623000511/0001420506-23-000511-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 554510,
+     "unit": "SH",
+     "value": 46578840
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 943600,
+     "unit": "SH",
+     "value": 29685656
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 214405,
+     "unit": "SH",
+     "value": 28427959
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 284650,
+     "unit": "SH",
+     "value": 25114670
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 30070,
+     "unit": "SH",
+     "value": 19865650
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 447740,
+     "unit": "SH",
+     "value": 15541055
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 152985,
+     "unit": "SH",
+     "value": 12078166
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 489790,
+     "unit": "SH",
+     "value": 11331129
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 66820,
+     "unit": "SH",
+     "value": 11091000
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGMT LTD",
+     "class": "CL A LMT VTG SHS",
+     "shares": 215923,
+     "unit": "SH",
+     "value": 6190512
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 88805,
+     "unit": "SH",
+     "value": 4220902
+    }
+   ],
+   "table_total": 210125539,
+   "first_seen": "2026-11-16T01:32:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-001048",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050623001048/0001420506-23-001048-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 554510,
+     "unit": "SH",
+     "value": 57275338
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 943600,
+     "unit": "SH",
+     "value": 30751924
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 284650,
+     "unit": "SH",
+     "value": 29526745
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 90870,
+     "unit": "SH",
+     "value": 26197821
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 119595,
+     "unit": "SH",
+     "value": 23892689
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 152985,
+     "unit": "SH",
+     "value": 20441856
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 342990,
+     "unit": "SH",
+     "value": 16442941
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 114285,
+     "unit": "SH",
+     "value": 16314184
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 803268,
+     "unit": "SH",
+     "value": 8884144
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL CORP",
+     "class": "COM",
+     "shares": 6230,
+     "unit": "SH",
+     "value": 7958264
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGMT LTD",
+     "class": "CL A LMT VTG SHS",
+     "shares": 215923,
+     "unit": "SH",
+     "value": 7065001
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 135665,
+     "unit": "SH",
+     "value": 5818672
+    }
+   ],
+   "table_total": 250569579,
+   "first_seen": "2026-11-16T01:32:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-001538",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050623001538/0001420506-23-001538-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 548165,
+     "unit": "SH",
+     "value": 71458789
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1309230,
+     "unit": "SH",
+     "value": 44055590
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 24125,
+     "unit": "SH",
+     "value": 33369218
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 89640,
+     "unit": "SH",
+     "value": 30526006
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 194925,
+     "unit": "SH",
+     "value": 23332523
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 122045,
+     "unit": "SH",
+     "value": 19594325
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 112940,
+     "unit": "SH",
+     "value": 19337587
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 262880,
+     "unit": "SH",
+     "value": 16982048
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 785758,
+     "unit": "SH",
+     "value": 9570532
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 301470,
+     "unit": "SH",
+     "value": 5932930
+    }
+   ],
+   "table_total": 274159548,
+   "first_seen": "2026-11-16T01:32:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-002082",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050623002082/0001420506-23-002082-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 548165,
+     "unit": "SH",
+     "value": 69682735
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1560009,
+     "unit": "SH",
+     "value": 48781481
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 32425,
+     "unit": "SH",
+     "value": 47745488
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 229410,
+     "unit": "SH",
+     "value": 30020593
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 89640,
+     "unit": "SH",
+     "value": 28303830
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 112940,
+     "unit": "SH",
+     "value": 17982307
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 262880,
+     "unit": "SH",
+     "value": 14345362
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 984468,
+     "unit": "SH",
+     "value": 13782552
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 301470,
+     "unit": "SH",
+     "value": 8501454
+    }
+   ],
+   "table_total": 279145802,
+   "first_seen": "2026-11-16T01:32:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-000337",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050624000337/0001420506-24-000337-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 485375,
+     "unit": "SH",
+     "value": 73747878
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1615220,
+     "unit": "SH",
+     "value": 64802626
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 71,
+     "unit": "SH",
+     "value": 38526377
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 89165,
+     "unit": "SH",
+     "value": 33529607
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22135,
+     "unit": "SH",
+     "value": 31429487
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 261490,
+     "unit": "SH",
+     "value": 20370071
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 138140,
+     "unit": "SH",
+     "value": 19296777
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 86165,
+     "unit": "SH",
+     "value": 16182649
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1017470,
+     "unit": "SH",
+     "value": 15872532
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 299870,
+     "unit": "SH",
+     "value": 9149034
+    }
+   ],
+   "table_total": 322907038,
+   "first_seen": "2026-11-16T01:32:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-000906",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050624000906/0001420506-24-000906-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 483850,
+     "unit": "SH",
+     "value": 87276863
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1547135,
+     "unit": "SH",
+     "value": 64778542
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 71,
+     "unit": "SH",
+     "value": 45045240
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 89165,
+     "unit": "SH",
+     "value": 37513499
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22135,
+     "unit": "SH",
+     "value": 33677960
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 259940,
+     "unit": "SH",
+     "value": 20059570
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 86165,
+     "unit": "SH",
+     "value": 19462089
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 112780,
+     "unit": "SH",
+     "value": 17021885
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1035380,
+     "unit": "SH",
+     "value": 16535019
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 425070,
+     "unit": "SH",
+     "value": 11736183
+    }
+   ],
+   "table_total": 353106850,
+   "first_seen": "2026-11-16T01:32:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-001499",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050624001499/0001420506-24-001499-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 483850,
+     "unit": "SH",
+     "value": 93504013
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1547135,
+     "unit": "SH",
+     "value": 64267988
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 71,
+     "unit": "SH",
+     "value": 43469111
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 89165,
+     "unit": "SH",
+     "value": 39852297
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22760,
+     "unit": "SH",
+     "value": 35862022
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 1100000,
+     "unit": "SH",
+     "value": 32340000
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 116600,
+     "unit": "SH",
+     "value": 23072808
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 112780,
+     "unit": "SH",
+     "value": 20542877
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1035380,
+     "unit": "SH",
+     "value": 13511709
+    }
+   ],
+   "table_total": 366422825,
+   "first_seen": "2026-11-16T01:32:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-002439",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050624002439/0001420506-24-002439-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 374300,
+     "unit": "SH",
+     "value": 69743319
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1036115,
+     "unit": "SH",
+     "value": 55069512
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 71,
+     "unit": "SH",
+     "value": 49073780
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 1087910,
+     "unit": "SH",
+     "value": 45670462
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22470,
+     "unit": "SH",
+     "value": 35245993
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 97270,
+     "unit": "SH",
+     "value": 25448750
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 111520,
+     "unit": "SH",
+     "value": 18495592
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 39350,
+     "unit": "SH",
+     "value": 16932305
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1042755,
+     "unit": "SH",
+     "value": 13826931
+    }
+   ],
+   "table_total": 329506644,
+   "first_seen": "2026-11-16T01:32:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-000474",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050625000474/0001420506-25-000474-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 360065,
+     "unit": "SH",
+     "value": 78994660
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 994895,
+     "unit": "SH",
+     "value": 57156718
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 70,
+     "unit": "SH",
+     "value": 47664400
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 933655,
+     "unit": "SH",
+     "value": 45002171
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 21720,
+     "unit": "SH",
+     "value": 37493716
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 83370,
+     "unit": "SH",
+     "value": 33668141
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 107770,
+     "unit": "SH",
+     "value": 20400861
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 884405,
+     "unit": "SH",
+     "value": 11276164
+    }
+   ],
+   "table_total": 331656831,
+   "first_seen": "2026-11-16T01:33:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-001012",
+   "form": "13F-HR",
+   "filed": "2025-05-13",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050625001012/0001420506-25-001012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 324640,
+     "unit": "SH",
+     "value": 61766006
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 67,
+     "unit": "SH",
+     "value": 53495587
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 967425,
+     "unit": "SH",
+     "value": 50702744
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22455,
+     "unit": "SH",
+     "value": 41982093
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 907835,
+     "unit": "SH",
+     "value": 33835010
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 81060,
+     "unit": "SH",
+     "value": 21007510
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 104770,
+     "unit": "SH",
+     "value": 16201633
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 790405,
+     "unit": "SH",
+     "value": 10441250
+    }
+   ],
+   "table_total": 289431833,
+   "first_seen": "2026-11-16T01:33:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-001997",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050625001997/0001420506-25-001997-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 324640,
+     "unit": "SH",
+     "value": 71222770
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP CL A LTD VT SH",
+     "class": "CL A LTD VT SH",
+     "shares": 952215,
+     "unit": "SH",
+     "value": 58894498
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 67,
+     "unit": "SH",
+     "value": 48829600
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAPITAL LTD",
+     "class": "ORD SHS",
+     "shares": 3362322,
+     "unit": "SH",
+     "value": 45723630
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL CORP COM",
+     "class": "COM",
+     "shares": 22455,
+     "unit": "SH",
+     "value": 44850719
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 764095,
+     "unit": "SH",
+     "value": 42292658
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC COM",
+     "class": "COM",
+     "shares": 79335,
+     "unit": "SH",
+     "value": 25201556
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 104770,
+     "unit": "SH",
+     "value": 18463617
+    }
+   ],
+   "table_total": 355479048,
+   "first_seen": "2026-11-16T01:33:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-002187",
+   "form": "13F-HR/A",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050625002187/0001420506-25-002187-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 324640,
+     "unit": "SH",
+     "value": 71222770
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP CL A LTD VT SH",
+     "class": "CL A LTD VT SH",
+     "shares": 952215,
+     "unit": "SH",
+     "value": 58894498
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 67,
+     "unit": "SH",
+     "value": 48829600
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAPITAL LTD",
+     "class": "ORD SHS",
+     "shares": 3362322,
+     "unit": "SH",
+     "value": 45723630
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL CORP COM",
+     "class": "COM",
+     "shares": 22455,
+     "unit": "SH",
+     "value": 44850719
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 764095,
+     "unit": "SH",
+     "value": 42292658
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC COM",
+     "class": "COM",
+     "shares": 79335,
+     "unit": "SH",
+     "value": 25201556
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "CL A",
+     "shares": 104770,
+     "unit": "SH",
+     "value": 18463617
+    }
+   ],
+   "table_total": 355479048,
+   "first_seen": "2026-11-16T01:33:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-003244",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050625003244/0001420506-25-003244-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 321895,
+     "unit": "SH",
+     "value": 70678485
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 952215,
+     "unit": "SH",
+     "value": 65302905
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 67,
+     "unit": "SH",
+     "value": 50531400
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22455,
+     "unit": "SH",
+     "value": 42919589
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 79335,
+     "unit": "SH",
+     "value": 35281861
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 764095,
+     "unit": "SH",
+     "value": 33070032
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 104770,
+     "unit": "SH",
+     "value": 25469587
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1835072,
+     "unit": "SH",
+     "value": 19708948
+    }
+   ],
+   "table_total": 342962807,
+   "first_seen": "2026-11-16T01:33:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-26-000460",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050626000460/0001420506-26-000460-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 316285,
+     "unit": "SH",
+     "value": 73004904
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1413462,
+     "unit": "SH",
+     "value": 64863771
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 67,
+     "unit": "SH",
+     "value": 50571600
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22905,
+     "unit": "SH",
+     "value": 49237733
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 101155,
+     "unit": "SH",
+     "value": 31661515
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 776490,
+     "unit": "SH",
+     "value": 29017431
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 62100,
+     "unit": "SH",
+     "value": 27927701
+    },
+    {
+     "cusip": "G17977110",
+     "put_call": null,
+     "issuer": "BURFORD CAP LTD",
+     "class": "ORD SHS",
+     "shares": 1835072,
+     "unit": "SH",
+     "value": 16368842
+    }
+   ],
+   "table_total": 342653497,
+   "first_seen": "2026-11-16T01:33:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-26-000887",
+   "form": "13F-HR",
+   "filed": "2026-05-11",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050626000887/0001420506-26-000887-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 312530,
+     "unit": "SH",
+     "value": 65090623
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1392742,
+     "unit": "SH",
+     "value": 56364269
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 63,
+     "unit": "SH",
+     "value": 45242820
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 22555,
+     "unit": "SH",
+     "value": 43171849
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 383000,
+     "unit": "SH",
+     "value": 38552780
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 100035,
+     "unit": "SH",
+     "value": 28766064
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC.",
+     "class": "COM",
+     "shares": 279480,
+     "unit": "SH",
+     "value": 26872002
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 54735,
+     "unit": "SH",
+     "value": 20347736
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 776490,
+     "unit": "SH",
+     "value": 19885909
+    }
+   ],
+   "table_total": 344294052,
+   "first_seen": "2026-11-16T01:33:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-26-001649",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050626001649/0001420506-26-001649-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 280350,
+     "unit": "SH",
+     "value": 66818619
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1392742,
+     "unit": "SH",
+     "value": 59316882
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 63,
+     "unit": "SH",
+     "value": 47177550
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 20305,
+     "unit": "SH",
+     "value": 39655868
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MTH TREASURY",
+     "shares": 383000,
+     "unit": "SH",
+     "value": 38556610
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 100035,
+     "unit": "SH",
+     "value": 35749508
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 47390,
+     "unit": "SH",
+     "value": 19932234
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC.",
+     "class": "COM",
+     "shares": 275835,
+     "unit": "SH",
+     "value": 19694619
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 776490,
+     "unit": "SH",
+     "value": 19233657
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 39370,
+     "unit": "SH",
+     "value": 18075948
+    }
+   ],
+   "table_total": 364211495,
+   "first_seen": "2026-11-16T01:33:05+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC"
+}
