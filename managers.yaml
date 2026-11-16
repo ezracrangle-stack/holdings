@@ -10,7 +10,8 @@
 #  id:         the manager's name in lowercase with hyphens (josh-tarasoff).
 #              When the firm has no single star manager, the firm's name.
 #              It's the page's address: holdings.ezrasnotes.com/m/josh-tarasoff.html
-#  cik:        the firm's number at the SEC (EDGAR). Ask Claude for it.
+#  cik:        the firm's number at the SEC (EDGAR). Ask Claude for it. If the firm
+#              filed under more than one entity over the years: [newest, older].
 #  letters:    the manager's id on letters.ezrasnotes.com, if he has a page there
 #              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
 #              Then "why" is taken from that site and you can leave it out. Otherwise: no.
@@ -43,3 +44,23 @@ managers:
     cik: 1709323
     letters: no
     why: "Li Lu says you'll probably have five or ten real insights in your life, and he bets big on the few he has. Most quarters his 13F holds nine stocks or fewer."
+
+  - id: david-rolfe
+    name: David Rolfe
+    firm: Wedgewood Partners
+    cik: 859804
+    letters: wedgewood
+
+  - id: norbert-lou
+    name: Norbert Lou
+    firm: Punch Card Capital
+    cik: [1631664, 1419050]
+    letters: no
+    why: "Norbert started Punch Card in 2004 and named it after Buffett's punch card: a few big decisions in a lifetime. His 13F has never held more than seven stocks, and Berkshire is usually the biggest."
+
+  - id: bruce-berkowitz
+    name: Bruce Berkowitz
+    firm: Fairholme Capital Management
+    cik: 1056831
+    letters: no
+    why: "St. Joe, the Florida land company, is 76% of Bruce's 13F. It's in every one since 2013, and it went from 7% of the portfolio to as much as 99%."

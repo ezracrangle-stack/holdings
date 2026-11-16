@@ -45,6 +45,22 @@ def load_securities():
     return {str(k).upper(): v for k, v in raw.items()}
 
 
+def fix_units(f):
+    """The SEC moved 13F values from thousands to whole dollars in January 2023, and not
+    every firm switched on time (some switched early). Check the implied share prices:
+    if the typical one is under $1, the filing is in thousands; over $1,000,000, it's dollars
+    times a thousand. (Berkshire class A trades in the hundreds of thousands, so the bar is high.)"""
+    prices = sorted(r["value"] / r["shares"] for r in f["holdings"]
+                    if r["shares"] and r["unit"] == "SH" and not r["put_call"] and r["value"])
+    if not prices:
+        return f
+    mid = prices[(len(prices) - 1) // 2]
+    k = 1000 if mid < 1 else 1 / 1000 if mid > 1_000_000 else 1
+    if k == 1:
+        return f
+    return dict(f, units_fixed=True, holdings=[dict(r, value=round(r["value"] * k)) for r in f["holdings"]])
+
+
 def effective_filings(filings):
     """One holdings list per quarter: the original 13F, then amendments in the order filed.
     A restatement replaces the quarter; a 'new holdings' amendment adds lines to it."""
@@ -52,6 +68,7 @@ def effective_filings(filings):
     for f in sorted(filings, key=lambda f: (f["filed"], f["accession"])):
         if not f["form"].startswith("13F-HR") or f.get("skipped"):
             continue
+        f = fix_units(f)
         cur = by_period.get(f["period"])
         if cur is None or f["form"] == "13F-HR" or f.get("amendment_type") == "RESTATEMENT":
             by_period[f["period"]] = dict(f, holdings=list(f["holdings"]), amended=cur is not None)
@@ -66,14 +83,17 @@ def positions(filing, securities, unknown):
     """Lines of one quarter merged by company, ticker and put/call."""
     out = {}
     for r in filing["holdings"]:
+        r = dict(r, cusip=r["cusip"].zfill(9))     # some filers drop leading zeros
         sec = securities.get(r["cusip"])
+        if sec and sec.get("skip"):
+            continue
         if sec is None:
             unknown.setdefault(r["cusip"], r["issuer"])
             sec = {"name": clean_issuer(r["issuer"]), "ticker": None}
         key = (sec.get("ticker") or r["cusip"], r["put_call"], slugify(sec["name"]))
         p = out.setdefault(key, {"key": "|".join(x or "" for x in key), "name": sec["name"],
                                   "slug": slugify(sec["name"]), "ticker": sec.get("ticker"),
-                                  "fund": bool(sec.get("fund")), "put_call": r["put_call"],
+                                  "fund": bool(sec.get("fund")), "put_call": r["put_call"], "kind": sec.get("kind"),
                                   "sector": sector_of(securities.get(r["cusip"])),
                                   "class": r["class"], "unit": r["unit"], "shares": 0, "value": 0,
                                   "cusips": set()})

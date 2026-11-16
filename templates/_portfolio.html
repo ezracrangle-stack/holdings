@@ -9,7 +9,7 @@
     {% set chg = q.changes|selectattr("key", "equalto", p.key)|first %}
     <tr>
       <td class="co">{% if not p.fund and p.slug in companies %}<a href="{{ root }}c/{{ p.slug }}.html">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
-        <span class="tick">{{ p.ticker or p.cusips|join(", ") }}{% if p.put_call %} · {{ p.put_call }} options{% endif %}{% if p.fund %} · fund{% endif %} · <a class="hist" href="{{ root }}m/{{ m.id }}/stock/{{ p.slug }}.html">history</a></span></td>
+        <span class="tick">{{ p.ticker or p.cusips|join(", ") }}{% if p.kind %} · {{ p.kind }}{% endif %}{% if p.put_call %} · {{ p.put_call }} options{% endif %}{% if p.fund %} · fund{% endif %} · <a class="hist" href="{{ root }}m/{{ m.id }}/stock/{{ p.slug }}.html">history</a></span></td>
       <td class="num w"><span class="bar" style="width: {{ (p.weight / maxw * 70)|round|int }}px"></span><span class="wv">{{ p.weight|pct }}</span></td>
       <td class="num hide-s">{{ p.value|money }}</td>
       <td class="num hide-s">{{ "{:,}".format(p.shares) }}{% if p.unit == "PRN" %} prn{% endif %}</td>

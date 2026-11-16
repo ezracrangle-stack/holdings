@@ -52,7 +52,13 @@ class Edgar:
             if wait > 0:
                 time.sleep(wait)
             self.last = time.time()
-            r = self.s.get(url, timeout=TIMEOUT)
+            try:
+                r = self.s.get(url, timeout=TIMEOUT)
+            except (requests.ConnectionError, requests.Timeout):
+                if attempt == 3:
+                    raise
+                time.sleep(5 * (attempt + 1))     # network hiccup: wait and try again
+                continue
             if r.status_code in (429, 503):       # SEC says slow down
                 time.sleep(10 * (attempt + 1))
                 continue
@@ -204,12 +210,16 @@ def main():
         saved = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {"filings": []}
         have = {f["accession"] for f in saved["filings"]}
         try:
-            name, listed = list_filings(edgar, int(m["cik"]))
+            ciks = m["cik"] if isinstance(m["cik"], list) else [m["cik"]]   # a firm can file under more than one entity over time
+            listed = []
+            for cik in ciks:
+                name, found = list_filings(edgar, int(cik))
+                listed += [dict(f, cik=int(cik)) for f in found]
             saved["sec_name"] = name
-            for f in listed:
+            for f in sorted(listed, key=lambda f: (f["filed"], f["accession"])):
                 if f["accession"] in have:
                     continue
-                saved["filings"].append(read_filing(edgar, int(m["cik"]), f))
+                saved["filings"].append(read_filing(edgar, f["cik"], f))
                 f["first_seen"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
                 f["backfill"] = not have
                 new.append((m, f))

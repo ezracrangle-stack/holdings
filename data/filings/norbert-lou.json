@@ -1,0 +1,2646 @@
+{
+ "filings": [
+  {
+   "accession": "0001279148-08-000015",
+   "form": "13F-HR",
+   "filed": "2008-02-14",
+   "period": "2007-12-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914808000015/0001279148-08-000015-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:05:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-08-000029",
+   "form": "13F-HR",
+   "filed": "2008-05-15",
+   "period": "2008-03-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914808000029/0001279148-08-000029-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-08-000044",
+   "form": "13F-HR",
+   "filed": "2008-08-14",
+   "period": "2008-06-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914808000044/0001279148-08-000044-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-08-000057",
+   "form": "13F-HR",
+   "filed": "2008-11-14",
+   "period": "2008-09-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914808000057/0001279148-08-000057-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-09-000009",
+   "form": "13F-HR",
+   "filed": "2009-02-17",
+   "period": "2008-12-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914809000009/0001279148-09-000009-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-09-000020",
+   "form": "13F-HR",
+   "filed": "2009-05-15",
+   "period": "2009-03-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914809000020/0001279148-09-000020-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-09-000030",
+   "form": "13F-HR",
+   "filed": "2009-08-14",
+   "period": "2009-06-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914809000030/0001279148-09-000030-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001279148-09-000038",
+   "form": "13F-HR",
+   "filed": "2009-11-16",
+   "period": "2009-09-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000127914809000038/0001279148-09-000038-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T04:06:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-14-001083",
+   "form": "13F-HR",
+   "filed": "2014-02-14",
+   "period": "2013-12-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000139834414001083/0001398344-14-001083-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Capital, L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 66356000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 167594,
+     "unit": "SH",
+     "value": 29811000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 23206000
+    }
+   ],
+   "table_total": 119373000,
+   "first_seen": "2026-11-16T04:06:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-14-002835",
+   "form": "13F-HR",
+   "filed": "2014-05-15",
+   "period": "2014-03-31",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000139834414002835/0001398344-14-002835-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Capital, L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 62882000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 27205000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 32594,
+     "unit": "SH",
+     "value": 4963000
+    }
+   ],
+   "table_total": 95050000,
+   "first_seen": "2026-11-16T04:06:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-14-004204",
+   "form": "13F-HR",
+   "filed": "2014-08-14",
+   "period": "2014-06-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000139834414004204/0001398344-14-004204-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Capital, L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 70833000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 31496000
+    }
+   ],
+   "table_total": 102329000,
+   "first_seen": "2026-11-16T04:06:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-14-005931",
+   "form": "13F-HR",
+   "filed": "2014-11-14",
+   "period": "2014-09-30",
+   "cik": 1419050,
+   "url": "https://www.sec.gov/Archives/edgar/data/1419050/000139834414005931/0001398344-14-005931-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Capital, L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 77174000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 29409000
+    }
+   ],
+   "table_total": 106582947000,
+   "first_seen": "2026-11-16T04:06:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-15-001079",
+   "form": "13F-HR",
+   "filed": "2015-02-17",
+   "period": "2014-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834415001079/0001398344-15-001079-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 84298000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 31175000
+    },
+    {
+     "cusip": "12642X106",
+     "put_call": null,
+     "issuer": "CTC MEDIA INC",
+     "class": "COM",
+     "shares": 2669630,
+     "unit": "SH",
+     "value": 13001000
+    }
+   ],
+   "table_total": 128474000,
+   "first_seen": "2026-11-16T04:06:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-15-003334",
+   "form": "13F-HR",
+   "filed": "2015-05-15",
+   "period": "2015-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834415003334/0001398344-15-003334-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 81128000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 29905000
+    },
+    {
+     "cusip": "12642X106",
+     "put_call": null,
+     "issuer": "CTC MEDIA INC",
+     "class": "COM",
+     "shares": 2669630,
+     "unit": "SH",
+     "value": 10572000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 500,
+     "unit": "SH",
+     "value": 72000
+    }
+   ],
+   "table_total": 121677000,
+   "first_seen": "2026-11-16T04:06:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-15-005366",
+   "form": "13F-HR",
+   "filed": "2015-08-14",
+   "period": "2015-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834415005366/0001398344-15-005366-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 76409000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 32824000
+    },
+    {
+     "cusip": "12642X106",
+     "put_call": null,
+     "issuer": "CTC MEDIA INC",
+     "class": "COM",
+     "shares": 2669630,
+     "unit": "SH",
+     "value": 6060000
+    },
+    {
+     "cusip": "141633107",
+     "put_call": null,
+     "issuer": "CARE COM INC",
+     "class": "COM",
+     "shares": 93198,
+     "unit": "SH",
+     "value": 552000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 500,
+     "unit": "SH",
+     "value": 68000
+    }
+   ],
+   "table_total": 115913000,
+   "first_seen": "2026-11-16T04:06:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-15-007697",
+   "form": "13F-HR",
+   "filed": "2015-11-16",
+   "period": "2015-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834415007697/0001398344-15-007697-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 72825000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 351759,
+     "unit": "SH",
+     "value": 48335000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 26403000
+    },
+    {
+     "cusip": "74144T108",
+     "put_call": null,
+     "issuer": "PRICE T ROWE GROUP INC",
+     "class": "COM",
+     "shares": 232800,
+     "unit": "SH",
+     "value": 16180000
+    },
+    {
+     "cusip": "141633107",
+     "put_call": null,
+     "issuer": "CARE COM INC",
+     "class": "COM",
+     "shares": 322178,
+     "unit": "SH",
+     "value": 1656000
+    },
+    {
+     "cusip": "12642X106",
+     "put_call": null,
+     "issuer": "CTC MEDIA INC",
+     "class": "COM",
+     "shares": 776580,
+     "unit": "SH",
+     "value": 1359000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 500,
+     "unit": "SH",
+     "value": 65000
+    }
+   ],
+   "table_total": 166823000,
+   "first_seen": "2026-11-16T04:06:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-16-010081",
+   "form": "13F-HR",
+   "filed": "2016-02-16",
+   "period": "2015-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834416010081/0001398344-16-010081-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 73779000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 351759,
+     "unit": "SH",
+     "value": 66497000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 29905000
+    },
+    {
+     "cusip": "74144T108",
+     "put_call": null,
+     "issuer": "PRICE T ROWE GROUP INC",
+     "class": "COM",
+     "shares": 232800,
+     "unit": "SH",
+     "value": 16643000
+    },
+    {
+     "cusip": "141633107",
+     "put_call": null,
+     "issuer": "CARE COM INC",
+     "class": "COM",
+     "shares": 322178,
+     "unit": "SH",
+     "value": 2307000
+    }
+   ],
+   "table_total": 189131000,
+   "first_seen": "2026-11-16T04:06:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-16-013462",
+   "form": "13F-HR",
+   "filed": "2016-05-16",
+   "period": "2016-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834416013462/0001398344-16-013462-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 546179,
+     "unit": "SH",
+     "value": 104255000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 79617000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 22841000
+    }
+   ],
+   "table_total": 206713000,
+   "first_seen": "2026-11-16T04:06:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-16-016778",
+   "form": "13F-HR",
+   "filed": "2016-08-15",
+   "period": "2016-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834416016778/0001398344-16-016778-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 546179,
+     "unit": "SH",
+     "value": 90201000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 80932000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1459516,
+     "unit": "SH",
+     "value": 19879000
+    }
+   ],
+   "table_total": 191012000,
+   "first_seen": "2026-11-16T04:06:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-16-020752",
+   "form": "13F-HR",
+   "filed": "2016-11-14",
+   "period": "2016-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834416020752/0001398344-16-020752-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 546179,
+     "unit": "SH",
+     "value": 99443000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 80650000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1563795,
+     "unit": "SH",
+     "value": 19516000
+    }
+   ],
+   "table_total": 199609000,
+   "first_seen": "2026-11-16T04:06:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-002081",
+   "form": "13F-HR",
+   "filed": "2017-02-14",
+   "period": "2016-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834417002081/0001398344-17-002081-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 91057000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 546179,
+     "unit": "SH",
+     "value": 89797000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 1563795,
+     "unit": "SH",
+     "value": 33356000
+    }
+   ],
+   "table_total": 214210000,
+   "first_seen": "2026-11-16T04:06:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-006445",
+   "form": "13F-HR",
+   "filed": "2017-05-15",
+   "period": "2017-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834417006445/0001398344-17-006445-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 546179,
+     "unit": "SH",
+     "value": 94227000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 93194000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 982224,
+     "unit": "SH",
+     "value": 21796000
+    }
+   ],
+   "table_total": 209216000,
+   "first_seen": "2026-11-16T04:06:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-010316",
+   "form": "13F-HR",
+   "filed": "2017-08-14",
+   "period": "2017-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834417010316/0001398344-17-010316-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 95003000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 227159,
+     "unit": "SH",
+     "value": 40630000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 982224,
+     "unit": "SH",
+     "value": 21805000
+    }
+   ],
+   "table_total": 157438000,
+   "first_seen": "2026-11-16T04:06:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-014701",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834417014701/0001398344-17-014701-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 102478000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 165577,
+     "unit": "SH",
+     "value": 41012000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 982224,
+     "unit": "SH",
+     "value": 21177000
+    }
+   ],
+   "table_total": 164667000,
+   "first_seen": "2026-11-16T04:06:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-002370",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834418002370/0001398344-18-002370-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 111005000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 165577,
+     "unit": "SH",
+     "value": 38780000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 982224,
+     "unit": "SH",
+     "value": 27003000
+    }
+   ],
+   "table_total": 176788000,
+   "first_seen": "2026-11-16T04:06:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-007608",
+   "form": "13F-HR",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834418007608/0001398344-18-007608-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 111564000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 165577,
+     "unit": "SH",
+     "value": 36955000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 278005,
+     "unit": "SH",
+     "value": 5338000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 75112,
+     "unit": "SH",
+     "value": 1722000
+    }
+   ],
+   "table_total": 155579000,
+   "first_seen": "2026-11-16T04:07:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-011880",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834418011880/0001398344-18-011880-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 105201000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 165577,
+     "unit": "SH",
+     "value": 40235000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 277905,
+     "unit": "SH",
+     "value": 6119000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 75112,
+     "unit": "SH",
+     "value": 3125000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 38,
+     "unit": "SH",
+     "value": 2000
+    }
+   ],
+   "table_total": 154682000,
+   "first_seen": "2026-11-16T04:07:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-016592",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834418016592/0001398344-18-016592-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 119360000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 165577,
+     "unit": "SH",
+     "value": 37864000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "*W EXP 10/28/201",
+     "shares": 277905,
+     "unit": "SH",
+     "value": 5355000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 38,
+     "unit": "SH",
+     "value": 2000
+    }
+   ],
+   "table_total": 162581000,
+   "first_seen": "2026-11-16T04:07:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-002958",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834419002958/0001398344-19-002958-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 114138000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 266295,
+     "unit": "SH",
+     "value": 42234000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 96746,
+     "unit": "SH",
+     "value": 4458000
+    }
+   ],
+   "table_total": 160830000,
+   "first_seen": "2026-11-16T04:07:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-008980",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834419008980/0001398344-19-008980-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 112353000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 266295,
+     "unit": "SH",
+     "value": 43899000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1068193,
+     "unit": "SH",
+     "value": 33274000
+    },
+    {
+     "cusip": "69331C108",
+     "put_call": null,
+     "issuer": "PG&E CORP",
+     "class": "COM",
+     "shares": 1257938,
+     "unit": "SH",
+     "value": 22391000
+    }
+   ],
+   "table_total": 211917000,
+   "first_seen": "2026-11-16T04:07:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-014421",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834419014421/0001398344-19-014421-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 118745000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1391550,
+     "unit": "SH",
+     "value": 53783000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 316295,
+     "unit": "SH",
+     "value": 37120000
+    }
+   ],
+   "table_total": 209648000,
+   "first_seen": "2026-11-16T04:07:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-020350",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834419020350/0001398344-19-020350-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 116313000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1391550,
+     "unit": "SH",
+     "value": 53366000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 316295,
+     "unit": "SH",
+     "value": 32502000
+    }
+   ],
+   "table_total": 202182000,
+   "first_seen": "2026-11-16T04:07:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-003588",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834420003588/0001398344-20-003588-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 373,
+     "unit": "SH",
+     "value": 126667000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1391550,
+     "unit": "SH",
+     "value": 73724000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 316295,
+     "unit": "SH",
+     "value": 39980000
+    }
+   ],
+   "table_total": 240371000,
+   "first_seen": "2026-11-16T04:07:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-010559",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834420010559/0001398344-20-010559-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 367,
+     "unit": "SH",
+     "value": 99824000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 2385740,
+     "unit": "SH",
+     "value": 66347000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 1783553,
+     "unit": "SH",
+     "value": 25737000
+    },
+    {
+     "cusip": "62944T105",
+     "put_call": null,
+     "issuer": "NVR INC",
+     "class": "COM",
+     "shares": 2531,
+     "unit": "SH",
+     "value": 6502000
+    }
+   ],
+   "table_total": 198411000,
+   "first_seen": "2026-11-16T04:07:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-015883",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834420015883/0001398344-20-015883-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 93288000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 68149000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 65247000
+    }
+   ],
+   "table_total": 226683000,
+   "first_seen": "2026-11-16T04:07:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-022727",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834420022727/0001398344-20-022727-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 111680000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 82488000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 52856000
+    }
+   ],
+   "table_total": 247024000,
+   "first_seen": "2026-11-16T04:07:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-003564",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834421003564/0001398344-21-003564-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 121387000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 117332000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 61316000
+    }
+   ],
+   "table_total": 300035000,
+   "first_seen": "2026-11-16T04:07:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-010973",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834421010973/0001398344-21-010973-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 148754000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 134610000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 78471000
+    }
+   ],
+   "table_total": 361835000,
+   "first_seen": "2026-11-16T04:07:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-016331",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834421016331/0001398344-21-016331-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 163989000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 146092000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 69520000
+    }
+   ],
+   "table_total": 379601000,
+   "first_seen": "2026-11-16T04:07:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-021565",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834421021565/0001398344-21-021565-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 167970000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 143571000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 74113000
+    }
+   ],
+   "table_total": 385654000,
+   "first_seen": "2026-11-16T04:07:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-003287",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834422003287/0001398344-22-003287-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 157281000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 156651000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1022953,
+     "unit": "SH",
+     "value": 76640000
+    }
+   ],
+   "table_total": 390572000,
+   "first_seen": "2026-11-16T04:07:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-009745",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834422009745/0001398344-22-009745-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 184593000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3290300,
+     "unit": "SH",
+     "value": 143062000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1155374,
+     "unit": "SH",
+     "value": 62425000
+    }
+   ],
+   "table_total": 390081000,
+   "first_seen": "2026-11-16T04:07:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-015665",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834422015665/0001398344-22-015665-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 142724000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3489438,
+     "unit": "SH",
+     "value": 116931000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 1157274,
+     "unit": "SH",
+     "value": 56197000
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 524000,
+     "unit": "SH",
+     "value": 6880000
+    }
+   ],
+   "table_total": 322732000,
+   "first_seen": "2026-11-16T04:07:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-022111",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834422022111/0001398344-22-022111-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 141858000
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3489438,
+     "unit": "SH",
+     "value": 97111000
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 53028000
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 8711000
+    }
+   ],
+   "table_total": 300708000,
+   "first_seen": "2026-11-16T04:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-003385",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834423003385/0001398344-23-003385-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 163580125
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3489438,
+     "unit": "SH",
+     "value": 85316759
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 52519397
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 7291530
+    }
+   ],
+   "table_total": 308707811,
+   "first_seen": "2026-11-16T04:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-009836",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834423009836/0001398344-23-009836-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 162494400
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3489438,
+     "unit": "SH",
+     "value": 88945775
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 57502262
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 10340868
+    }
+   ],
+   "table_total": 319283305,
+   "first_seen": "2026-11-16T04:07:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-014860",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834423014860/0001398344-23-014860-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 180715690
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3297917,
+     "unit": "SH",
+     "value": 89076738
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 66461453
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 10954096
+    }
+   ],
+   "table_total": 347207977,
+   "first_seen": "2026-11-16T04:07:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-020705",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834423020705/0001398344-23-020705-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 185485473
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3297917,
+     "unit": "SH",
+     "value": 87988426
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 59246265
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 10844891
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 25100,
+     "unit": "SH",
+     "value": 2526817
+    }
+   ],
+   "table_total": 346091872,
+   "first_seen": "2026-11-16T04:07:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-003178",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834424003178/0001398344-24-003178-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 189376135
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 3009736,
+     "unit": "SH",
+     "value": 105099981
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 72630240
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 11390915
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 25100,
+     "unit": "SH",
+     "value": 2516777
+    }
+   ],
+   "table_total": 381014048,
+   "first_seen": "2026-11-16T04:07:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-009709",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834424009709/0001398344-24-009709-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 221419560
+    },
+    {
+     "cusip": "02005N100",
+     "put_call": null,
+     "issuer": "ALLY FINL INC",
+     "class": "COM",
+     "shares": 2160534,
+     "unit": "SH",
+     "value": 87696075
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 73746402
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 14583060
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 25100,
+     "unit": "SH",
+     "value": 2527821
+    }
+   ],
+   "table_total": 399972918,
+   "first_seen": "2026-11-16T04:07:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-014692",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834424014692/0001398344-24-014692-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 213672109
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 581100,
+     "unit": "SH",
+     "value": 58522581
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 996573,
+     "unit": "SH",
+     "value": 54014257
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 12046145
+    }
+   ],
+   "table_total": 338255092,
+   "first_seen": "2026-11-16T04:07:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-020870",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834424020870/0001398344-24-020870-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 241221820
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 581100,
+     "unit": "SH",
+     "value": 58528392
+    },
+    {
+     "cusip": "974637100",
+     "put_call": null,
+     "issuer": "WINNEBAGO INDS INC",
+     "class": "COM",
+     "shares": 411480,
+     "unit": "SH",
+     "value": 23911103
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 840038,
+     "unit": "SH",
+     "value": 10903693
+    }
+   ],
+   "table_total": 334565008,
+   "first_seen": "2026-11-16T04:07:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-002912",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834425002912/0001398344-25-002912-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 349,
+     "unit": "SH",
+     "value": 237641080
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 581100,
+     "unit": "SH",
+     "value": 58295952
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 130000,
+     "unit": "SH",
+     "value": 12608700
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 648956,
+     "unit": "SH",
+     "value": 6557700
+    }
+   ],
+   "table_total": 315103432,
+   "first_seen": "2026-11-16T04:07:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-009646",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834425009646/0001398344-25-009646-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 115774032
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 581100,
+     "unit": "SH",
+     "value": 58499337
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 306751,
+     "unit": "SH",
+     "value": 36303981
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 648956,
+     "unit": "SH",
+     "value": 6048270
+    }
+   ],
+   "table_total": 216625620,
+   "first_seen": "2026-11-16T04:07:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-015669",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834425015669/0001398344-25-015669-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 105676000
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 566000,
+     "unit": "SH",
+     "value": 56990540
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 531108,
+     "unit": "SH",
+     "value": 53790618
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 650447,
+     "unit": "SH",
+     "value": 48341221
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 415004,
+     "unit": "SH",
+     "value": 43434319
+    },
+    {
+     "cusip": "831754106",
+     "put_call": null,
+     "issuer": "SMITH & WESSON BRANDS INC",
+     "class": "COM",
+     "shares": 189933,
+     "unit": "SH",
+     "value": 1648618
+    }
+   ],
+   "table_total": 309881316,
+   "first_seen": "2026-11-16T04:07:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-020995",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834425020995/0001398344-25-020995-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 109359000
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 566000,
+     "unit": "SH",
+     "value": 56996200
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 415004,
+     "unit": "SH",
+     "value": 54851079
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 632250,
+     "unit": "SH",
+     "value": 52824488
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 650447,
+     "unit": "SH",
+     "value": 43618976
+    },
+    {
+     "cusip": "337738108",
+     "put_call": null,
+     "issuer": "FISERV INC",
+     "class": "COM",
+     "shares": 37000,
+     "unit": "SH",
+     "value": 4770410
+    }
+   ],
+   "table_total": 322420153,
+   "first_seen": "2026-11-16T04:07:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-003291",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834426003291/0001398344-26-003291-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 109446000
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 566000,
+     "unit": "SH",
+     "value": 56815080
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 594570,
+     "unit": "SH",
+     "value": 50847626
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 415004,
+     "unit": "SH",
+     "value": 47057304
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 628907,
+     "unit": "SH",
+     "value": 36715591
+    }
+   ],
+   "table_total": 300881601,
+   "first_seen": "2026-11-16T04:07:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-009301",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834426009301/0001398344-26-009301-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 104130300
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 594570,
+     "unit": "SH",
+     "value": 49361201
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 460000,
+     "unit": "SH",
+     "value": 46303600
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 415004,
+     "unit": "SH",
+     "value": 42405109
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 628907,
+     "unit": "SH",
+     "value": 28445464
+    }
+   ],
+   "table_total": 270645674,
+   "first_seen": "2026-11-16T04:07:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-014658",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1631664,
+   "url": "https://www.sec.gov/Archives/edgar/data/1631664/000139834426014658/0001398344-26-014658-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Punch Card Management L.P.",
+   "holdings": [
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 145,
+     "unit": "SH",
+     "value": 108583250
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 577170,
+     "unit": "SH",
+     "value": 69629789
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 415004,
+     "unit": "SH",
+     "value": 31656505
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 628907,
+     "unit": "SH",
+     "value": 27156204
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MTH TREASURY",
+     "shares": 188000,
+     "unit": "SH",
+     "value": 18925960
+    }
+   ],
+   "table_total": 255951708,
+   "first_seen": "2026-11-16T04:07:30+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Punch Card Capital, L.P."
+}

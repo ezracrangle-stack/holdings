@@ -115,3 +115,215 @@
 "G81477104": {name: Sina, ticker: SINA, sic: 7370, note: "Taken private in 2021."}
 "88034P109": {name: Tencent Music Entertainment, ticker: TME, sic: 4832}
 "948596101": {name: Weibo, ticker: WB, sic: 7370}
+
+# David Rolfe, Norbert Lou and Bruce Berkowitz
+"282539105": {name: "8point3 Energy Partners", ticker: "CAFD", sic: 4911}
+"G3156P103": {name: "ASA Gold and Precious Metals", ticker: "ASA", fund: yes}
+"00206R102": {name: "AT&T", ticker: "T", sic: 4813}
+"003654100": {name: "Abiomed", ticker: "ABMD", sic: 3841, note: "Bought by Johnson & Johnson in 2022."}
+"H01301128": {name: "Alcon", ticker: "ALC", sic: 3851}
+"02005N100": {name: "Ally Financial", ticker: "ALLY", sic: 6022}
+"38259P508": {name: "Alphabet", ticker: "GOOGL", sic: 7370, note: "Google until the Alphabet reorganization in 2015."}
+"38259P706": {name: "Alphabet", ticker: "GOOG", sic: 7370, note: "Google until the Alphabet reorganization in 2015."}
+"02209S103": {name: "Altria", ticker: "MO", sic: 2111}
+"023608102": {name: "Ameren", ticker: "AEE", sic: 4931}
+"026874156": {name: "American International Group", ticker: "AIG.WS", sic: 6331, kind: "warrants"}
+"026874784": {name: "American International Group", ticker: "AIG", sic: 6331}
+"035710409": {name: "Annaly Capital Management", ticker: "NLY", sic: 6798}
+"035710839": {name: "Annaly Capital Management", ticker: "NLY", sic: 6798, note: "New CUSIP after a 1-for-4 reverse split in 2022."}
+"055622104": {name: "BP", ticker: "BP", sic: 2911}
+"06417N103": {name: "Bank OZK", ticker: "OZK", sic: 6022}
+"060505146": {name: "Bank of America", ticker: "BAC.WS.A", sic: 6021, kind: "warrants"}
+"060505153": {name: "Bank of America", ticker: "BAC.WS.B", sic: 6021, kind: "warrants"}
+"09253U108": {name: "Blackstone", ticker: "BX", sic: 6282, note: "A partnership until it became a corporation in 2019."}
+"09260D107": {name: "Blackstone", ticker: "BX", sic: 6282}
+"097023105": {name: "Boeing", ticker: "BA", sic: 3721}
+"09857L108": {name: "Booking Holdings", ticker: "BKNG", sic: 4700}
+"741503403": {name: "Booking Holdings", ticker: "BKNG", sic: 4700, note: "Called Priceline Group until 2018."}
+"110122108": {name: "Bristol-Myers Squibb", ticker: "BMY", sic: 2834}
+"110122157": {name: "Bristol-Myers Squibb", ticker: "BMY.RT", sic: 2834, kind: "rights", note: "Contingent value rights from the Celgene deal."}
+"12541W209": {name: "C.H. Robinson", ticker: "CHRW", sic: 4731}
+"12514G108": {name: "CDW", ticker: "CDW", sic: 5961, sector: "Technology"}
+"125269100": {name: "CF Industries", ticker: "CF", sic: 2870}
+"12642X106": {name: "CTC Media", ticker: "CTCM", sic: 4833}
+"126650100": {name: "CVS Health", ticker: "CVS", sic: 5912, sector: "Health care"}
+"134429109": {name: "Campbell's", ticker: "CPB", sic: 2000}
+"136385101": {name: "Canadian Natural Resources", ticker: "CNQ", sic: 1311}
+"141633107": {name: "Care.com", ticker: "CRCM", sic: 7370, note: "Bought by IAC in 2020."}
+"146869102": {name: "Carvana", ticker: "CVNA", sic: 5500}
+"151020104": {name: "Celgene", ticker: "CELG", sic: 2836, note: "Bought by Bristol-Myers Squibb in 2019."}
+"808513105": {name: "Charles Schwab", ticker: "SCHW", sic: 6211}
+"165167107": {name: "Chesapeake Energy", ticker: "CHK", sic: 1311, note: "Now Expand Energy."}
+"H1467J104": {name: "Chubb", ticker: "CB", sic: 6331}
+"172062101": {name: "Cincinnati Financial", ticker: "CINF", sic: 6331}
+"172967424": {name: "Citigroup", ticker: "C", sic: 6021}
+"18885T306": {name: "Clipper Realty", ticker: "CLPR", sic: 6798}
+"192446102": {name: "Cognizant", ticker: "CTSH", sic: 7371}
+"L0C990030": {name: "Collateral line", ticker: "", skip: yes, note: "An internal line in a Wedgewood filing, not a security."}
+"200340107": {name: "Comerica", ticker: "CMA", sic: 6022}
+"201723103": {name: "Commercial Metals", ticker: "CMC", sic: 3312}
+"209115104": {name: "Consolidated Edison", ticker: "ED", sic: 4931}
+"217204106": {name: "Copart", ticker: "CPRT", sic: 5500}
+"N22717107": {name: "Core Laboratories", ticker: "CLB", sic: 1389}
+"218937100": {name: "Core Natural Resources", ticker: "CNR", sic: 1220}
+"339041105": {name: "Corpay", ticker: "CPAY", sic: 7389, sector: "Financials & real estate", note: "Called Fleetcor until 2024."}
+"231021106": {name: "Cummins", ticker: "CMI", sic: 3510}
+"23331A109": {name: "D.R. Horton", ticker: "DHI", sic: 1531}
+"25271C102": {name: "Diamond Offshore Drilling", ticker: "DO", sic: 1381}
+"25278X109": {name: "Diamondback Energy", ticker: "FANG", sic: 1311}
+"254687106": {name: "Disney", ticker: "DIS", sic: 7990, sector: "Media & telecom"}
+"260557103": {name: "Dow", ticker: "DOW", sic: 2821}
+"268648102": {name: "EMC", ticker: "EMC", sic: 3572, note: "Bought by Dell in 2016."}
+"26875P101": {name: "EOG Resources", ticker: "EOG", sic: 1311}
+"278865100": {name: "Ecolab", ticker: "ECL", sic: 2840, sector: "Materials"}
+"28176E108": {name: "Edwards Lifesciences", ticker: "EW", sic: 3842, sector: "Health care"}
+"285512109": {name: "Electronic Arts", ticker: "EA", sic: 7372}
+"29250N105": {name: "Enbridge", ticker: "ENB", sic: 4610, sector: "Energy"}
+"29273V100": {name: "Energy Transfer", ticker: "ET", sic: 4922}
+"293792107": {name: "Enterprise Products Partners", ticker: "EPD", sic: 4922}
+"30219G108": {name: "Express Scripts", ticker: "ESRX", sic: 5912, sector: "Health care", note: "Bought by Cigna in 2018."}
+"30231G102": {name: "Exxon Mobil", ticker: "XOM", sic: 2911}
+"313586109": {name: "Fannie Mae", ticker: "FNMA", sic: 6111}
+"313586752": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586760": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586778": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586786": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586794": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586802": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"313586877": {name: "Fannie Mae", ticker: "FNMA.PR", sic: 6111, kind: "preferred"}
+"311900104": {name: "Fastenal", ticker: "FAST", sic: 5200, sector: "Industrials"}
+"316773100": {name: "Fifth Third Bancorp", ticker: "FITB", sic: 6022}
+"33616C100": {name: "First Republic Bank", ticker: "FRC", sic: 6022, note: "Failed in 2023."}
+"337738108": {name: "Fiserv", ticker: "FI", sic: 7389, sector: "Financials & real estate"}
+"649445103": {name: "Flagstar Financial", ticker: "FLG", sic: 6036, note: "New York Community Bancorp until 2024."}
+"345370860": {name: "Ford", ticker: "F", sic: 3711}
+"313400301": {name: "Freddie Mac", ticker: "FMCC", sic: 6111}
+"313400608": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400624": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400640": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400657": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400665": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400673": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400681": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400699": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400715": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400731": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400749": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400772": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400780": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400798": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400830": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400855": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"313400863": {name: "Freddie Mac", ticker: "FMCC.PR", sic: 6111, kind: "preferred"}
+"37247D106": {name: "Genworth Financial", ticker: "GNW", sic: 6311}
+"375558103": {name: "Gilead Sciences", ticker: "GILD", sic: 2836}
+"40434J100": {name: "HRG Group", ticker: "HRG", sic: 6719, sector: "Consumer staples", note: "Merged with Spectrum Brands in 2018."}
+"416515104": {name: "Hartford Financial Services", ticker: "HIG", sic: 6331}
+"416515120": {name: "Hartford Financial Services", ticker: "HIG.WS", sic: 6331, kind: "warrants"}
+"436893200": {name: "Home Bancshares", ticker: "HOMB", sic: 6022}
+"459200101": {name: "IBM", ticker: "IBM", sic: 3570}
+"458140100": {name: "Intel", ticker: "INTC", sic: 3674}
+"46090E103": {name: "Invesco QQQ Trust", ticker: "QQQ", fund: yes}
+"46634E114": {name: "JPMorgan Chase", ticker: "JPM.WS", sic: 6021, kind: "warrants"}
+"469814107": {name: "Jacobs Solutions", ticker: "J", sic: 8711, sector: "Industrials"}
+"47233W109": {name: "Jefferies Financial Group", ticker: "JEF", sic: 6211}
+"527288104": {name: "Jefferies Financial Group", ticker: "JEF", sic: 6211, note: "Called Leucadia National until 2018."}
+"478160104": {name: "Johnson & Johnson", ticker: "JNJ", sic: 2834}
+"48248M102": {name: "KKR", ticker: "KKR", sic: 6282}
+"493267108": {name: "KeyCorp", ticker: "KEY", sic: 6021}
+"49338L103": {name: "Keysight Technologies", ticker: "KEYS", sic: 3823}
+"49456B101": {name: "Kinder Morgan", ticker: "KMI", sic: 4922}
+"500754106": {name: "Kraft Heinz", ticker: "KHC", sic: 2030}
+"501889208": {name: "LKQ", ticker: "LKQ", sic: 5010, sector: "Consumer discretionary"}
+"51509F105": {name: "Lands' End", ticker: "LE", sic: 5651}
+"534187109": {name: "Lincoln National", ticker: "LNC", sic: 6311}
+"534187117": {name: "Lincoln National", ticker: "LNC.WS", sic: 6311, kind: "warrants"}
+"N53745100": {name: "LyondellBasell", ticker: "LYB", sic: 2860}
+"55261F104": {name: "M&T Bank", ticker: "MTB", sic: 6022}
+"55345K103": {name: "MRC Global", ticker: "MRC", sic: 5051, sector: "Industrials"}
+"559080106": {name: "Magellan Midstream Partners", ticker: "MMP", sic: 4610, sector: "Energy", note: "Bought by ONEOK in 2023."}
+"56382Q102": {name: "Manning & Napier", ticker: "MN", sic: 6282, note: "Taken private in 2022."}
+"582839106": {name: "Mead Johnson Nutrition", ticker: "MJN", sic: 2000, note: "Bought by Reckitt in 2017."}
+"589400100": {name: "Mercury General", ticker: "MCY", sic: 6331}
+"611740101": {name: "Monster Beverage", ticker: "MNST", sic: 2086}
+"620076307": {name: "Motorola Solutions", ticker: "MSI", sic: 3663}
+"637071101": {name: "NOV", ticker: "NOV", sic: 3533, sector: "Energy", note: "Called National Oilwell Varco until 2021."}
+"67011P100": {name: "NOW Inc.", ticker: "DNOW", sic: 5084, sector: "Industrials", note: "Spun off from National Oilwell Varco in 2014."}
+"62944T105": {name: "NVR", ticker: "NVR", sic: 1531, sector: "Consumer discretionary"}
+"63900P608": {name: "Natural Resource Partners", ticker: "NRP", sic: 1221}
+"67077M108": {name: "Nutrien", ticker: "NTR", sic: 2870}
+"67066G104": {name: "Nvidia", ticker: "NVDA", sic: 3674}
+"67103H107": {name: "O'Reilly Automotive", ticker: "ORLY", sic: 5531}
+"674001201": {name: "Oaktree Capital Group", ticker: "OAK", sic: 6282, note: "Bought by Brookfield in 2019."}
+"674599162": {name: "Occidental Petroleum", ticker: "OXY.WS", sic: 1311, kind: "warrants"}
+"679580100": {name: "Old Dominion Freight Line", ticker: "ODFL", sic: 4213}
+"680223104": {name: "Old Republic International", ticker: "ORI", sic: 6351}
+"72201R833": {name: "PIMCO Enhanced Short Maturity Active ETF", ticker: "MINT", fund: yes}
+"70450Y103": {name: "PayPal", ticker: "PYPL", sic: 7389, sector: "Financials & real estate"}
+"704326107": {name: "Paychex", ticker: "PAYX", sic: 8700}
+"713448108": {name: "PepsiCo", ticker: "PEP", sic: 2080}
+"714290103": {name: "Perrigo", ticker: "PRGO", sic: 2834, note: "Before its move to Ireland in December 2013."}
+"G97822103": {name: "Perrigo", ticker: "PRGO", sic: 2834}
+"717081103": {name: "Pfizer", ticker: "PFE", sic: 2834}
+"718172109": {name: "Philip Morris International", ticker: "PM", sic: 2111}
+"726503105": {name: "Plains All American Pipeline", ticker: "PAA", sic: 4610, sector: "Energy"}
+"73278L105": {name: "Pool Corporation", ticker: "POOL", sic: 5090, sector: "Consumer discretionary"}
+"742718109": {name: "Procter & Gamble", ticker: "PG", sic: 2840}
+"743315103": {name: "Progressive", ticker: "PGR", sic: 6331}
+"747525103": {name: "Qualcomm", ticker: "QCOM", sic: 3674}
+"761713106": {name: "Reynolds American", ticker: "RAI", sic: 2111, note: "Bought by British American Tobacco in 2017."}
+"778296103": {name: "Ross Stores", ticker: "ROST", sic: 5651}
+"806857108": {name: "SLB", ticker: "SLB", sic: 1389, note: "Called Schlumberger until 2022."}
+"800013104": {name: "Sanderson Farms", ticker: "SAFM", sic: 2015, note: "Taken private in 2022."}
+"81234D109": {name: "Sears Canada", ticker: "SCC", sic: 5311, note: "Liquidated in 2017."}
+"812350106": {name: "Sears Holdings", ticker: "SHLD", sic: 5311, note: "Bankrupt in 2018."}
+"812350155": {name: "Sears Holdings", ticker: "SHLD.WS", sic: 5311, kind: "warrants"}
+"812362101": {name: "Sears Hometown and Outlet Stores", ticker: "SHOS", sic: 5311}
+"81752R100": {name: "Seritage Growth Properties", ticker: "SRG", sic: 6798}
+"828806109": {name: "Simon Property Group", ticker: "SPG", sic: 6798}
+"831754106": {name: "Smith & Wesson", ticker: "SWBI", sic: 3480, sector: "Consumer discretionary"}
+"84763R101": {name: "Spectrum Brands", ticker: "SPB", sic: 3690, sector: "Consumer staples"}
+"84790A105": {name: "Spectrum Brands", ticker: "SPB", sic: 3690, sector: "Consumer staples"}
+"790148100": {name: "St. Joe", ticker: "JOE", sic: 6552}
+"855244109": {name: "Starbucks", ticker: "SBUX", sic: 5810}
+"858912108": {name: "Stericycle", ticker: "SRCL", sic: 4955, sector: "Industrials", note: "Bought by Waste Management in 2024."}
+"74144T108": {name: "T. Rowe Price", ticker: "TROW", sic: 6282}
+"87807B107": {name: "TC Energy", ticker: "TRP", sic: 4922}
+"872540109": {name: "TJX", ticker: "TJX", sic: 5651}
+"874039100": {name: "TSMC", ticker: "TSM", sic: 3674}
+"189754104": {name: "Tapestry", ticker: "TPR", sic: 3100, note: "Called Coach until 2017."}
+"876030107": {name: "Tapestry", ticker: "TPR", sic: 3100}
+"87612E106": {name: "Target", ticker: "TGT", sic: 5331}
+"88262P102": {name: "Texas Pacific Land", ticker: "TPL", sic: 6792}
+"889478103": {name: "Toll Brothers", ticker: "TOL", sic: 1531, sector: "Consumer discretionary"}
+"891160509": {name: "Toronto-Dominion Bank", ticker: "TD", sic: 6029}
+"892356106": {name: "Tractor Supply", ticker: "TSCO", sic: 5200}
+"H8817H100": {name: "Transocean", ticker: "RIG", sic: 1381}
+"89469A104": {name: "TreeHouse Foods", ticker: "THS", sic: 2030}
+"902973304": {name: "U.S. Bancorp", ticker: "USB", sic: 6021}
+"911312106": {name: "UPS", ticker: "UPS", sic: 4210}
+"90384S303": {name: "Ulta Beauty", ticker: "ULTA", sic: 5990}
+"911363109": {name: "United Rentals", ticker: "URI", sic: 7359}
+"91324P102": {name: "UnitedHealth", ticker: "UNH", sic: 6324, sector: "Health care"}
+"921943858": {name: "Vanguard FTSE Developed Markets ETF", ticker: "VEA", fund: yes}
+"922908736": {name: "Vanguard Growth ETF", ticker: "VUG", fund: yes}
+"92220P105": {name: "Varian Medical Systems", ticker: "VAR", sic: 3845, note: "Bought by Siemens Healthineers in 2021."}
+"92345Y106": {name: "Verisk Analytics", ticker: "VRSK", sic: 7374, sector: "Industrials"}
+"92343V104": {name: "Verizon", ticker: "VZ", sic: 4813}
+"928377100": {name: "Vista Outdoor", ticker: "VSTO", sic: 3480, sector: "Consumer discretionary"}
+"92840M102": {name: "Vistra", ticker: "VST", sic: 4911}
+"92857W308": {name: "Vodafone", ticker: "VOD", sic: 4812}
+"084423102": {name: "W. R. Berkley", ticker: "WRB", sic: 6331}
+"931427108": {name: "Walgreens Boots Alliance", ticker: "WBA", sic: 5912, sector: "Consumer staples"}
+"934423104": {name: "Warner Bros. Discovery", ticker: "WBD", sic: 4841}
+"93964W108": {name: "Washington Prime Group", ticker: "WPG", sic: 6798}
+"949746101": {name: "Wells Fargo", ticker: "WFC", sic: 6021}
+"949746119": {name: "Wells Fargo", ticker: "WFC.WS", sic: 6021, kind: "warrants"}
+"952845105": {name: "West Fraser Timber", ticker: "WFG", sic: 2421}
+"958669103": {name: "Western Midstream Partners", ticker: "WES", sic: 4922}
+"969457100": {name: "Williams", ticker: "WMB", sic: 4922}
+"974637100": {name: "Winnebago", ticker: "WGO", sic: 3716}
+"98978V103": {name: "Zoetis", ticker: "ZTS", sic: 2834}
+"464287200": {name: "iShares Core S&P 500 ETF", ticker: "IVV", fund: yes}
+"464288570": {name: "iShares MSCI KLD 400 Social ETF", ticker: "DSI", fund: yes}
+"464287614": {name: "iShares Russell 1000 Growth ETF", ticker: "IWF", fund: yes}
