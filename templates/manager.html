@@ -1,8 +1,6 @@
 {% extends "base.html" %}
-{% block title %}{{ m.name }}, {{ m.firm }}: 13F portfolio{{ heat_script() }}
-{% endblock %}
-{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{{ heat_script() }}
-{% endblock %}
+{% block title %}{{ m.name }}, {{ m.firm }}: 13F portfolio{% endblock %}
+{% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{% endblock %}
 {% from "_charts.html" import heat, heat_script, sector_bars %}
 {% block main %}
 <p class="crumb"><a href="{{ root }}managers.html">&larr; All managers</a></p>
