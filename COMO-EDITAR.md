@@ -8,9 +8,9 @@ Todo se hace en un solo archivo: `managers.yaml`. Lo editas en la página de Git
 2. En GitHub abre `managers.yaml` y haz clic en el lápiz (Edit) arriba a la derecha.
 3. Copia un bloque completo, desde `- id:` hasta la línea `why:`, y pégalo al final.
 4. Cambia los datos:
-   - `id`: el mismo que usa en letters.ezrasnotes.com, si está ahí (lo ves en la dirección, por ejemplo `/m/hayden.html` → `hayden`). Si no está, usa el nombre de la firma en minúsculas y con guiones.
+   - `id`: el nombre del gestor en minúsculas y con guiones (`josh-tarasoff`). Si la firma no tiene un gestor estrella, el nombre de la firma. Es la dirección de su página.
    - `name`, `firm`, `cik`.
-   - `letters: yes` si tiene página en el sitio de cartas. Así su línea "why" se toma de ese sitio y aparece "Read his letters →".
+   - `letters`: si tiene página en el sitio de cartas, su id de allá (la última parte de la dirección: `/m/hayden.html` → `hayden`). Así su línea "why" se toma de ese sitio y aparece "Read his letters →". Si no, `no`.
    - `why`: tu línea, entre comillas dobles. No hace falta si pusiste `letters: yes`.
 5. Haz clic en **Commit changes**. En 2 o 3 minutos el sitio baja todos sus 13F y publica su página.
 

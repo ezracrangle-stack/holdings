@@ -138,10 +138,12 @@ def load_managers():
     managers = []
     for m in config["managers"]:
         m = dict(m)
-        on_letters = m.get("letters") in (True, "yes") and m["id"] in letters["managers"]
-        m["letters_url"] = f"{LETTERS_URL}/m/{m['id']}.html" if on_letters else None
+        lid = m.get("letters")
+        lid = m["id"] if lid in (True, "yes") else lid if isinstance(lid, str) and lid != "no" else None
+        on_letters = lid in letters["managers"]
+        m["letters_url"] = f"{LETTERS_URL}/m/{lid}.html" if on_letters else None
         if on_letters and not m.get("why"):
-            m["why"] = letters["managers"][m["id"]]["why"]
+            m["why"] = letters["managers"][lid]["why"]
         managers.append(m)
     unknown, warnings = P.load(managers)
     managers = [m for m in managers if m["latest"]]
@@ -258,6 +260,19 @@ def build():
     for c in companies.values():
         render("company.html", f"c/{c['slug']}.html", "../", c=c)
 
+    for m in managers:                       # old addresses keep working
+        for old in m.get("old_ids") or []:
+            for src, dst in [(f"m/{old}.html", f"/m/{m['id']}.html"),
+                             (f"m/{old}/activity.html", f"/m/{m['id']}/activity.html")] + \
+                            [(f"m/{old}/{q['slug']}.html", f"/m/{m['id']}/{q['slug']}.html") for q in m["quarters"]] + \
+                            [(f"m/{old}/stock/{h}.html", f"/m/{m['id']}/stock/{h}.html") for h in m["history"]]:
+                out = OUT / src
+                out.parent.mkdir(parents=True, exist_ok=True)
+                out.write_text(f'<!DOCTYPE html><meta charset="utf-8"><title>Moved</title>'
+                               f'<link rel="canonical" href="{SITE_URL}{dst}">'
+                               f'<meta name="robots" content="noindex">'
+                               f'<meta http-equiv="refresh" content="0; url={dst}">'
+                               f'<p>This page moved to <a href="{dst}">{SITE_URL}{dst}</a>.</p>\n', encoding="utf-8")
     write_feed(filings)
     write_sitemap()
     (OUT / "CNAME").write_text("holdings.ezrasnotes.com\n")
@@ -288,7 +303,7 @@ def write_sitemap():
     urls = []
     for f in sorted(OUT.rglob("*.html")):
         rel = f.relative_to(OUT).as_posix()
-        if rel != "404.html":
+        if rel != "404.html" and 'http-equiv="refresh"' not in f.read_text(encoding="utf-8")[:400]:
             urls.append(f"{SITE_URL}/" + ("" if rel == "index.html" else rel))
     body = "\n".join(f"  <url><loc>{escape(u)}</loc></url>" for u in urls)
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n'

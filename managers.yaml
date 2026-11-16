@@ -7,11 +7,14 @@
 #  To REMOVE a manager: delete its block. Its filings stay in
 #  data/ but stop showing on the site.
 #
-#  id:         same id as on letters.ezrasnotes.com when the manager is
-#              there, so both sites use the same web address.
+#  id:         the manager's name in lowercase with hyphens (josh-tarasoff).
+#              When the firm has no single star manager, the firm's name.
+#              It's the page's address: holdings.ezrasnotes.com/m/josh-tarasoff.html
 #  cik:        the firm's number at the SEC (EDGAR). Ask Claude for it.
-#  letters:    yes if the manager has a page on letters.ezrasnotes.com.
-#              Then "why" is taken from that site and you can leave it out.
+#  letters:    the manager's id on letters.ezrasnotes.com, if he has a page there
+#              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
+#              Then "why" is taken from that site and you can leave it out. Otherwise: no.
+#  old_ids:    earlier addresses of the page, so old links still land here.
 #
 #  Keep the two spaces of indentation. Text with a colon (:)
 #  inside must go between double quotes.
@@ -19,7 +22,8 @@
 
 managers:
 
-  - id: greenlea-lane
+  - id: josh-tarasoff
+    old_ids: [greenlea-lane]
     name: Josh Tarasoff
     firm: Greenlea Lane Capital
     cik: 1766504
