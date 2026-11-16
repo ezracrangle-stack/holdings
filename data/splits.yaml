@@ -31,3 +31,9 @@
 - {ticker: IBKR, date: 2025-06-18, ratio: 4}
 - {ticker: DVA, date: 2013-09-06, ratio: 2}
 - {ticker: GL, date: 2014-07-01, ratio: 1.5}
+- {ticker: CL, date: 2013-05-15, ratio: 2}
+- {ticker: DISCK, date: 2014-08-06, ratio: 2}
+- {ticker: IDXX, date: 2015-06-15, ratio: 2}
+- {ticker: MKC, date: 2020-12-01, ratio: 2}
+- {ticker: CSGP, date: 2021-06-25, ratio: 10}
+- {ticker: FTNT, date: 2022-06-22, ratio: 5}

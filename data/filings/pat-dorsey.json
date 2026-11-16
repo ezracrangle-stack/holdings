@@ -1,0 +1,4279 @@
+{
+ "filings": [
+  {
+   "accession": "0001398344-17-000586",
+   "form": "13F-HR",
+   "filed": "2017-01-17",
+   "period": "2016-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834417000586/0001398344-17-000586-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 187015,
+     "unit": "SH",
+     "value": 21516000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 227890,
+     "unit": "SH",
+     "value": 20877000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 524826,
+     "unit": "SH",
+     "value": 17325000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 92223,
+     "unit": "SH",
+     "value": 16884000
+    },
+    {
+     "cusip": "249906108",
+     "put_call": null,
+     "issuer": "DESCARTES SYS GROUP INC",
+     "class": "COM",
+     "shares": 751707,
+     "unit": "SH",
+     "value": 16046000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 154357,
+     "unit": "SH",
+     "value": 14276000
+    }
+   ],
+   "table_total": 106925000,
+   "first_seen": "2026-11-16T04:49:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-006366",
+   "form": "13F-HR",
+   "filed": "2017-05-15",
+   "period": "2017-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834417006366/0001398344-17-006366-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 228559,
+     "unit": "SH",
+     "value": 32467000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 257326,
+     "unit": "SH",
+     "value": 22179000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 278400,
+     "unit": "SH",
+     "value": 19413000
+    },
+    {
+     "cusip": "249906108",
+     "put_call": null,
+     "issuer": "DESCARTES SYS GROUP INC",
+     "class": "COM",
+     "shares": 842740,
+     "unit": "SH",
+     "value": 19258000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 23061,
+     "unit": "SH",
+     "value": 19130000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 520454,
+     "unit": "SH",
+     "value": 18976000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 90253,
+     "unit": "SH",
+     "value": 18636000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 155651,
+     "unit": "SH",
+     "value": 16634000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 645973,
+     "unit": "SH",
+     "value": 10109000
+    }
+   ],
+   "table_total": 176804000,
+   "first_seen": "2026-11-16T04:49:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-009858",
+   "form": "13F-HR",
+   "filed": "2017-08-08",
+   "period": "2017-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834417009858/0001398344-17-009858-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 264159,
+     "unit": "SH",
+     "value": 39883000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 257326,
+     "unit": "SH",
+     "value": 24325000
+    },
+    {
+     "cusip": "985817105",
+     "put_call": null,
+     "issuer": "YELP INC",
+     "class": "CL A",
+     "shares": 736000,
+     "unit": "SH",
+     "value": 22095000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 23061,
+     "unit": "SH",
+     "value": 20956000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A LTD VT SH",
+     "shares": 520454,
+     "unit": "SH",
+     "value": 20407000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 278400,
+     "unit": "SH",
+     "value": 20070000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 155651,
+     "unit": "SH",
+     "value": 18940000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 78305,
+     "unit": "SH",
+     "value": 18130000
+    },
+    {
+     "cusip": "249906108",
+     "put_call": null,
+     "issuer": "DESCARTES SYS GROUP INC",
+     "class": "COM",
+     "shares": 658340,
+     "unit": "SH",
+     "value": 15993000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 645973,
+     "unit": "SH",
+     "value": 12306000
+    }
+   ],
+   "table_total": 213104000,
+   "first_seen": "2026-11-16T04:49:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-17-014620",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834417014620/0001398344-17-014620-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 264087,
+     "unit": "SH",
+     "value": 45125000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 257245,
+     "unit": "SH",
+     "value": 25123000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 1138749,
+     "unit": "SH",
+     "value": 23743000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 278325,
+     "unit": "SH",
+     "value": 22558000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 23055,
+     "unit": "SH",
+     "value": 22112000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 155606,
+     "unit": "SH",
+     "value": 19098000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 78287,
+     "unit": "SH",
+     "value": 19055000
+    },
+    {
+     "cusip": "985817105",
+     "put_call": null,
+     "issuer": "YELP INC",
+     "class": "CL A",
+     "shares": 416874,
+     "unit": "SH",
+     "value": 18051000
+    },
+    {
+     "cusip": "249906108",
+     "put_call": null,
+     "issuer": "DESCARTES SYS GROUP INC",
+     "class": "COM",
+     "shares": 658158,
+     "unit": "SH",
+     "value": 17908000
+    },
+    {
+     "cusip": "163092109",
+     "put_call": null,
+     "issuer": "CHEGG INC",
+     "class": "COM",
+     "shares": 1200700,
+     "unit": "SH",
+     "value": 17818000
+    }
+   ],
+   "table_total": 230591000,
+   "first_seen": "2026-11-16T04:49:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-002277",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834418002277/0001398344-18-002277-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 370017,
+     "unit": "SH",
+     "value": 65293000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 269645,
+     "unit": "SH",
+     "value": 32325000
+    },
+    {
+     "cusip": "163092109",
+     "put_call": null,
+     "issuer": "CHEGG INC",
+     "class": "COM",
+     "shares": 1800400,
+     "unit": "SH",
+     "value": 29383000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 291725,
+     "unit": "SH",
+     "value": 27133000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 1193539,
+     "unit": "SH",
+     "value": 25542000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 24165,
+     "unit": "SH",
+     "value": 25286000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 82047,
+     "unit": "SH",
+     "value": 21250000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 140856,
+     "unit": "SH",
+     "value": 20789000
+    },
+    {
+     "cusip": "985817105",
+     "put_call": null,
+     "issuer": "YELP INC",
+     "class": "CL A",
+     "shares": 436934,
+     "unit": "SH",
+     "value": 18334000
+    },
+    {
+     "cusip": "82982L103",
+     "put_call": null,
+     "issuer": "SITEONE LANDSCAPE SUPPLY INC",
+     "class": "COM",
+     "shares": 155033,
+     "unit": "SH",
+     "value": 11891000
+    }
+   ],
+   "table_total": 277226000,
+   "first_seen": "2026-11-16T04:49:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-007541",
+   "form": "13F-HR",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834418007541/0001398344-18-007541-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 442182,
+     "unit": "SH",
+     "value": 70656000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 905600,
+     "unit": "SH",
+     "value": 36441000
+    },
+    {
+     "cusip": "82982L103",
+     "put_call": null,
+     "issuer": "SITEONE LANDSCAPE SUPPLY INC",
+     "class": "COM",
+     "shares": 415269,
+     "unit": "SH",
+     "value": 31992000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 29531,
+     "unit": "SH",
+     "value": 30470000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 312275,
+     "unit": "SH",
+     "value": 29213000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 184938,
+     "unit": "SH",
+     "value": 28610000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 1003789,
+     "unit": "SH",
+     "value": 23790000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 150672,
+     "unit": "SH",
+     "value": 23609000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 74214,
+     "unit": "SH",
+     "value": 20831000
+    }
+   ],
+   "table_total": 295613000,
+   "first_seen": "2026-11-16T04:49:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-011830",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834418011830/0001398344-18-011830-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 422382,
+     "unit": "SH",
+     "value": 82077000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 465375,
+     "unit": "SH",
+     "value": 45886000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 37411,
+     "unit": "SH",
+     "value": 41738000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 432105,
+     "unit": "SH",
+     "value": 35981000
+    },
+    {
+     "cusip": "82982L103",
+     "put_call": null,
+     "issuer": "SITEONE LANDSCAPE SUPPLY INC",
+     "class": "COM",
+     "shares": 415378,
+     "unit": "SH",
+     "value": 34879000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 102739,
+     "unit": "SH",
+     "value": 28347000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "COM CL A",
+     "shares": 286708,
+     "unit": "SH",
+     "value": 26893000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 184980,
+     "unit": "SH",
+     "value": 26815000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 150704,
+     "unit": "SH",
+     "value": 26250000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 698448,
+     "unit": "SH",
+     "value": 17042000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 351761,
+     "unit": "SH",
+     "value": 12755000
+    }
+   ],
+   "table_total": 378663000,
+   "first_seen": "2026-11-16T04:49:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-18-016482",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834418016482/0001398344-18-016482-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 482132,
+     "unit": "SH",
+     "value": 79291000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 395433,
+     "unit": "SH",
+     "value": 43221000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 454717,
+     "unit": "SH",
+     "value": 39942000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 32186,
+     "unit": "SH",
+     "value": 38413000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "COM CL A",
+     "shares": 248154,
+     "unit": "SH",
+     "value": 37449000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 293877,
+     "unit": "SH",
+     "value": 35177000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 100607,
+     "unit": "SH",
+     "value": 29801000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 751481,
+     "unit": "SH",
+     "value": 29683000
+    },
+    {
+     "cusip": "82982L103",
+     "put_call": null,
+     "issuer": "SITEONE LANDSCAPE SUPPLY INC",
+     "class": "COM",
+     "shares": 387315,
+     "unit": "SH",
+     "value": 29180000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 194346,
+     "unit": "SH",
+     "value": 26550000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 138579,
+     "unit": "SH",
+     "value": 25870000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 370106,
+     "unit": "SH",
+     "value": 12221000
+    }
+   ],
+   "table_total": 426799000,
+   "first_seen": "2026-11-16T04:49:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-002811",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834419002811/0001398344-19-002811-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 641674,
+     "unit": "SH",
+     "value": 84117000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 597595,
+     "unit": "SH",
+     "value": 53987000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 477944,
+     "unit": "SH",
+     "value": 40190000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "COM CL A",
+     "shares": 337646,
+     "unit": "SH",
+     "value": 39187000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 34348,
+     "unit": "SH",
+     "value": 35571000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 242459,
+     "unit": "SH",
+     "value": 26205000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 217373,
+     "unit": "SH",
+     "value": 22481000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 155006,
+     "unit": "SH",
+     "value": 22157000
+    },
+    {
+     "cusip": "776696106",
+     "put_call": null,
+     "issuer": "ROPER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 59212,
+     "unit": "SH",
+     "value": 15781000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 413971,
+     "unit": "SH",
+     "value": 11620000
+    },
+    {
+     "cusip": "98139A105",
+     "put_call": null,
+     "issuer": "WORKIVA INC",
+     "class": "COM CL A",
+     "shares": 237389,
+     "unit": "SH",
+     "value": 8520000
+    }
+   ],
+   "table_total": 359816000,
+   "first_seen": "2026-11-16T04:49:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-008896",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834419008896/0001398344-19-008896-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 487971,
+     "unit": "SH",
+     "value": 81340000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 628814,
+     "unit": "SH",
+     "value": 75980000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 503552,
+     "unit": "SH",
+     "value": 52289000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 36194,
+     "unit": "SH",
+     "value": 42467000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 2323766,
+     "unit": "SH",
+     "value": 34624000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 404051,
+     "unit": "SH",
+     "value": 32377000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 856313,
+     "unit": "SH",
+     "value": 31803000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "COM CL A",
+     "shares": 155465,
+     "unit": "SH",
+     "value": 30774000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 89927,
+     "unit": "SH",
+     "value": 16431000
+    }
+   ],
+   "table_total": 398084000,
+   "first_seen": "2026-11-16T04:49:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-014247",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834419014247/0001398344-19-014247-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 491351,
+     "unit": "SH",
+     "value": 94831000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 1093272,
+     "unit": "SH",
+     "value": 78934000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 420761,
+     "unit": "SH",
+     "value": 59790000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 3107036,
+     "unit": "SH",
+     "value": 43157000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 36458,
+     "unit": "SH",
+     "value": 39408000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 314249,
+     "unit": "SH",
+     "value": 35969000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 862208,
+     "unit": "SH",
+     "value": 34057000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 281853,
+     "unit": "SH",
+     "value": 25618000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 90565,
+     "unit": "SH",
+     "value": 18550000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "COM CL A",
+     "shares": 74957,
+     "unit": "SH",
+     "value": 17074000
+    }
+   ],
+   "table_total": 447387000,
+   "first_seen": "2026-11-16T04:49:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-020235",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834419020235/0001398344-19-020235-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 492902,
+     "unit": "SH",
+     "value": 87776000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 948414,
+     "unit": "SH",
+     "value": 63819000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 510539,
+     "unit": "SH",
+     "value": 59600000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4136242,
+     "unit": "SH",
+     "value": 46822000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 36573,
+     "unit": "SH",
+     "value": 44582000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 402901,
+     "unit": "SH",
+     "value": 41737000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 864932,
+     "unit": "SH",
+     "value": 33715000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 189480,
+     "unit": "SH",
+     "value": 24981000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 214649,
+     "unit": "SH",
+     "value": 23060000
+    }
+   ],
+   "table_total": 426092000,
+   "first_seen": "2026-11-16T04:49:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-003505",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834420003505/0001398344-20-003505-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 448037,
+     "unit": "SH",
+     "value": 91960000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 1231614,
+     "unit": "SH",
+     "value": 90216000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 551405,
+     "unit": "SH",
+     "value": 67481000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4999428,
+     "unit": "SH",
+     "value": 67392000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 363488,
+     "unit": "SH",
+     "value": 48671000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 477906,
+     "unit": "SH",
+     "value": 47824000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 435147,
+     "unit": "SH",
+     "value": 47070000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 934115,
+     "unit": "SH",
+     "value": 33731000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 10343,
+     "unit": "SH",
+     "value": 13829000
+    }
+   ],
+   "table_total": 508173000,
+   "first_seen": "2026-11-16T04:49:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-010237",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834420010237/0001398344-20-010237-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 605377,
+     "unit": "SH",
+     "value": 100977000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 555291,
+     "unit": "SH",
+     "value": 55984000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 46803,
+     "unit": "SH",
+     "value": 54423000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 691309,
+     "unit": "SH",
+     "value": 51572000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 492874,
+     "unit": "SH",
+     "value": 43117000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 5890786,
+     "unit": "SH",
+     "value": 33401000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 340895,
+     "unit": "SH",
+     "value": 32443000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 253557,
+     "unit": "SH",
+     "value": 24276000
+    }
+   ],
+   "table_total": 396192000,
+   "first_seen": "2026-11-16T04:49:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-015802",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834420015802/0001398344-20-015802-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 640771,
+     "unit": "SH",
+     "value": 145500000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 1635037,
+     "unit": "SH",
+     "value": 83256000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 316348,
+     "unit": "SH",
+     "value": 81055000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 45948,
+     "unit": "SH",
+     "value": 64953000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 3786489,
+     "unit": "SH",
+     "value": 54677000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 248927,
+     "unit": "SH",
+     "value": 43371000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 342401,
+     "unit": "SH",
+     "value": 39900000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 287138,
+     "unit": "SH",
+     "value": 38215000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 212858,
+     "unit": "SH",
+     "value": 34968000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4592541,
+     "unit": "SH",
+     "value": 32974000
+    }
+   ],
+   "table_total": 618869000,
+   "first_seen": "2026-11-16T04:49:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-022484",
+   "form": "13F-HR",
+   "filed": "2020-11-13",
+   "period": "2020-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834420022484/0001398344-20-022484-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 606612,
+     "unit": "SH",
+     "value": 158872000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 410415,
+     "unit": "SH",
+     "value": 104594000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 46947,
+     "unit": "SH",
+     "value": 68993000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 3950351,
+     "unit": "SH",
+     "value": 68894000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 303373,
+     "unit": "SH",
+     "value": 57277000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 254341,
+     "unit": "SH",
+     "value": 50113000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 871076,
+     "unit": "SH",
+     "value": 45383000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 889987,
+     "unit": "SH",
+     "value": 43983000
+    },
+    {
+     "cusip": "05338G106",
+     "put_call": null,
+     "issuer": "AVALARA INC",
+     "class": "COM",
+     "shares": 293390,
+     "unit": "SH",
+     "value": 37360000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4223698,
+     "unit": "SH",
+     "value": 26863000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 94189,
+     "unit": "SH",
+     "value": 10695000
+    }
+   ],
+   "table_total": 673027000,
+   "first_seen": "2026-11-16T04:49:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-003317",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834421003317/0001398344-21-003317-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 611130,
+     "unit": "SH",
+     "value": 166936000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 500446,
+     "unit": "SH",
+     "value": 125091000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 1287190,
+     "unit": "SH",
+     "value": 89189000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 47293,
+     "unit": "SH",
+     "value": 82852000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 1551307,
+     "unit": "SH",
+     "value": 77953000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 1886146,
+     "unit": "SH",
+     "value": 65110000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 256241,
+     "unit": "SH",
+     "value": 60012000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4255213,
+     "unit": "SH",
+     "value": 54509000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 128601,
+     "unit": "SH",
+     "value": 42698000
+    }
+   ],
+   "table_total": 764351000,
+   "first_seen": "2026-11-16T04:49:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-010692",
+   "form": "13F-HR",
+   "filed": "2021-05-14",
+   "period": "2021-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834421010692/0001398344-21-010692-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 746378,
+     "unit": "SH",
+     "value": 219831000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2720798,
+     "unit": "SH",
+     "value": 173913000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 426002,
+     "unit": "SH",
+     "value": 118948000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 1935576,
+     "unit": "SH",
+     "value": 118535000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 465266,
+     "unit": "SH",
+     "value": 112985000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 1829472,
+     "unit": "SH",
+     "value": 81905000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 32271,
+     "unit": "SH",
+     "value": 66757000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 4639434,
+     "unit": "SH",
+     "value": 63235000
+    }
+   ],
+   "table_total": 956110000,
+   "first_seen": "2026-11-16T04:49:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-016218",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834421016218/0001398344-21-016218-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 676536,
+     "unit": "SH",
+     "value": 235238000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3202198,
+     "unit": "SH",
+     "value": 231583000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 630815,
+     "unit": "SH",
+     "value": 183113000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 2283476,
+     "unit": "SH",
+     "value": 160323000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 548880,
+     "unit": "SH",
+     "value": 159988000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2151378,
+     "unit": "SH",
+     "value": 125404000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 709571,
+     "unit": "SH",
+     "value": 124721000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 24717,
+     "unit": "SH",
+     "value": 61949000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM CORP",
+     "class": "ORD SHS",
+     "shares": 3320397,
+     "unit": "SH",
+     "value": 43862000
+    }
+   ],
+   "table_total": 1326181000,
+   "first_seen": "2026-11-16T04:49:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-021455",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834421021455/0001398344-21-021455-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 575491,
+     "unit": "SH",
+     "value": 195316000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2773894,
+     "unit": "SH",
+     "value": 190899000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 847847,
+     "unit": "SH",
+     "value": 166153000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 568745,
+     "unit": "SH",
+     "value": 147993000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 777753,
+     "unit": "SH",
+     "value": 131572000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 1658432,
+     "unit": "SH",
+     "value": 115543000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 1619966,
+     "unit": "SH",
+     "value": 72947000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 24909,
+     "unit": "SH",
+     "value": 66390000
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2550725,
+     "unit": "SH",
+     "value": 58820000
+    }
+   ],
+   "table_total": 1145633000,
+   "first_seen": "2026-11-16T04:49:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-002914",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834422002914/0001398344-22-002914-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1485198,
+     "unit": "SH",
+     "value": 234349000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2805457,
+     "unit": "SH",
+     "value": 217283000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 577985,
+     "unit": "SH",
+     "value": 194405000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 571209,
+     "unit": "SH",
+     "value": 107719000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 685261,
+     "unit": "SH",
+     "value": 106140000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 1197424,
+     "unit": "SH",
+     "value": 79629000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 25018,
+     "unit": "SH",
+     "value": 72392000
+    },
+    {
+     "cusip": "73739W104",
+     "put_call": null,
+     "issuer": "POSHMARK INC",
+     "class": "COM CL A",
+     "shares": 3306561,
+     "unit": "SH",
+     "value": 56311000
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2616838,
+     "unit": "SH",
+     "value": 54561000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 1443618,
+     "unit": "SH",
+     "value": 49314000
+    }
+   ],
+   "table_total": 1172102000,
+   "first_seen": "2026-11-16T04:49:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-009480",
+   "form": "13F-HR",
+   "filed": "2022-05-13",
+   "period": "2022-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834422009480/0001398344-22-009480-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 755957,
+     "unit": "SH",
+     "value": 168095000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3009153,
+     "unit": "SH",
+     "value": 164841000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1566047,
+     "unit": "SH",
+     "value": 163589000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 739610,
+     "unit": "SH",
+     "value": 101445000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 738996,
+     "unit": "SH",
+     "value": 85465000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 677215,
+     "unit": "SH",
+     "value": 84835000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC.",
+     "class": "COM",
+     "shares": 1292392,
+     "unit": "SH",
+     "value": 74002000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 23582,
+     "unit": "SH",
+     "value": 65864000
+    },
+    {
+     "cusip": "73739W104",
+     "put_call": null,
+     "issuer": "POSHMARK INC",
+     "class": "COM CL A",
+     "shares": 4193327,
+     "unit": "SH",
+     "value": 53088000
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3445361,
+     "unit": "SH",
+     "value": 41138000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 1558109,
+     "unit": "SH",
+     "value": 36210000
+    }
+   ],
+   "table_total": 1038572000,
+   "first_seen": "2026-11-16T04:49:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-015545",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834422015545/0001398344-22-015545-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1878181,
+     "unit": "SH",
+     "value": 123115000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 756594,
+     "unit": "SH",
+     "value": 122001000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1421597,
+     "unit": "SH",
+     "value": 116770000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3438052,
+     "unit": "SH",
+     "value": 108058000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 740164,
+     "unit": "SH",
+     "value": 69871000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 28317,
+     "unit": "SH",
+     "value": 61942000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2667136,
+     "unit": "SH",
+     "value": 55156000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 739616,
+     "unit": "SH",
+     "value": 51655000
+    },
+    {
+     "cusip": "73739W104",
+     "put_call": null,
+     "issuer": "POSHMARK INC",
+     "class": "COM CL A",
+     "shares": 4740775,
+     "unit": "SH",
+     "value": 47929000
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3448221,
+     "unit": "SH",
+     "value": 44585000
+    }
+   ],
+   "table_total": 801083000,
+   "first_seen": "2026-11-16T04:49:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-021940",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834422021940/0001398344-22-021940-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1880107,
+     "unit": "SH",
+     "value": 147081000
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3441486,
+     "unit": "SH",
+     "value": 118249000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 757556,
+     "unit": "SH",
+     "value": 102785000
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1423046,
+     "unit": "SH",
+     "value": 80260000
+    },
+    {
+     "cusip": "73739W104",
+     "put_call": null,
+     "issuer": "POSHMARK INC",
+     "class": "COM CL A",
+     "shares": 4745573,
+     "unit": "SH",
+     "value": 74363000
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 741105,
+     "unit": "SH",
+     "value": 69908000
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 740556,
+     "unit": "SH",
+     "value": 63740000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 566919,
+     "unit": "SH",
+     "value": 54509000
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3452605,
+     "unit": "SH",
+     "value": 38704000
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2669800,
+     "unit": "SH",
+     "value": 36363000
+    }
+   ],
+   "table_total": 785962000,
+   "first_seen": "2026-11-16T04:49:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-003149",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423003149/0001398344-23-003149-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3846551,
+     "unit": "SH",
+     "value": 151400247
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1603578,
+     "unit": "SH",
+     "value": 123202898
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 992042,
+     "unit": "SH",
+     "value": 119382334
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1677711,
+     "unit": "SH",
+     "value": 68282838
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 746469,
+     "unit": "SH",
+     "value": 64853227
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 745950,
+     "unit": "SH",
+     "value": 53126559
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 570922,
+     "unit": "SH",
+     "value": 50657909
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3548943,
+     "unit": "SH",
+     "value": 28888396
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2688611,
+     "unit": "SH",
+     "value": 28069099
+    }
+   ],
+   "table_total": 687863507,
+   "first_seen": "2026-11-16T04:49:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-009688",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423009688/0001398344-23-009688-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 899204,
+     "unit": "SH",
+     "value": 190577296
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3421117,
+     "unit": "SH",
+     "value": 163529393
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1453409,
+     "unit": "SH",
+     "value": 145050218
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 769451,
+     "unit": "SH",
+     "value": 80022904
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1093272,
+     "unit": "SH",
+     "value": 71959163
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 676613,
+     "unit": "SH",
+     "value": 67749260
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 676141,
+     "unit": "SH",
+     "value": 51346148
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3151483,
+     "unit": "SH",
+     "value": 31672404
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2437027,
+     "unit": "SH",
+     "value": 27587146
+    }
+   ],
+   "table_total": 829493932,
+   "first_seen": "2026-11-16T04:49:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-013279",
+   "form": "13F-HR/A",
+   "filed": "2023-07-20",
+   "period": "2022-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423013279/0001398344-23-013279-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1974991,
+     "unit": "SH",
+     "value": 154503546
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3615172,
+     "unit": "SH",
+     "value": 124217310
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 795803,
+     "unit": "SH",
+     "value": 107974551
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1494862,
+     "unit": "SH",
+     "value": 84310217
+    },
+    {
+     "cusip": "73739W104",
+     "put_call": null,
+     "issuer": "POSHMARK INC",
+     "class": "COM CL A",
+     "shares": 4984927,
+     "unit": "SH",
+     "value": 78113806
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 778502,
+     "unit": "SH",
+     "value": 73436094
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 777909,
+     "unit": "SH",
+     "value": 66954628
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 595532,
+     "unit": "SH",
+     "value": 57260402
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3584582,
+     "unit": "SH",
+     "value": 40183164
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2804661,
+     "unit": "SH",
+     "value": 38199483
+    }
+   ],
+   "table_total": 825153201,
+   "first_seen": "2026-11-16T04:49:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-013281",
+   "form": "13F-HR/A",
+   "filed": "2023-07-20",
+   "period": "2023-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423013281/0001398344-23-013281-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 956098,
+     "unit": "SH",
+     "value": 202635410
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3637598,
+     "unit": "SH",
+     "value": 173877184
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1545370,
+     "unit": "SH",
+     "value": 154227926
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 818148,
+     "unit": "SH",
+     "value": 85087392
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 1162463,
+     "unit": "SH",
+     "value": 76513315
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 719424,
+     "unit": "SH",
+     "value": 72035925
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 718922,
+     "unit": "SH",
+     "value": 54594937
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3350938,
+     "unit": "SH",
+     "value": 33676927
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2591208,
+     "unit": "SH",
+     "value": 29332475
+    }
+   ],
+   "table_total": 881981491,
+   "first_seen": "2026-11-16T04:49:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-014736",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423014736/0001398344-23-014736-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 626299,
+     "unit": "SH",
+     "value": 179735287
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 3280603,
+     "unit": "SH",
+     "value": 125515871
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1393679,
+     "unit": "SH",
+     "value": 109041445
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 738119,
+     "unit": "SH",
+     "value": 89290255
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 648816,
+     "unit": "SH",
+     "value": 57926292
+    },
+    {
+     "cusip": "77543R102",
+     "put_call": null,
+     "issuer": "ROKU INC",
+     "class": "COM CL A",
+     "shares": 781185,
+     "unit": "SH",
+     "value": 49964593
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 4691358,
+     "unit": "SH",
+     "value": 43817284
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 648363,
+     "unit": "SH",
+     "value": 43265263
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3021897,
+     "unit": "SH",
+     "value": 28919554
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 202804,
+     "unit": "SH",
+     "value": 27753727
+    }
+   ],
+   "table_total": 755229571,
+   "first_seen": "2026-11-16T04:49:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-020605",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834423020605/0001398344-23-020605-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 469184,
+     "unit": "SH",
+     "value": 140853729
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 907610,
+     "unit": "SH",
+     "value": 119668379
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 1229627,
+     "unit": "SH",
+     "value": 112879759
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2694296,
+     "unit": "SH",
+     "value": 109011216
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1300303,
+     "unit": "SH",
+     "value": 76015713
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 433139,
+     "unit": "SH",
+     "value": 51517553
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 627314,
+     "unit": "SH",
+     "value": 50843800
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 4474286,
+     "unit": "SH",
+     "value": 50827889
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 272822,
+     "unit": "SH",
+     "value": 28864568
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2986788,
+     "unit": "SH",
+     "value": 25387698
+    }
+   ],
+   "table_total": 765870304,
+   "first_seen": "2026-11-16T04:49:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-002904",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834424002904/0001398344-24-002904-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 386133,
+     "unit": "SH",
+     "value": 136675637
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2546032,
+     "unit": "SH",
+     "value": 121751250
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 857647,
+     "unit": "SH",
+     "value": 120868192
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 765585,
+     "unit": "SH",
+     "value": 94182267
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 516894,
+     "unit": "SH",
+     "value": 76960348
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1228720,
+     "unit": "SH",
+     "value": 75455695
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 314516,
+     "unit": "SH",
+     "value": 72760131
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2797446,
+     "unit": "SH",
+     "value": 41598022
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2760039,
+     "unit": "SH",
+     "value": 37702133
+    }
+   ],
+   "table_total": 777953675,
+   "first_seen": "2026-11-16T04:49:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-009633",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834424009633/0001398344-24-009633-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 287226,
+     "unit": "SH",
+     "value": 139471201
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 846297,
+     "unit": "SH",
+     "value": 128857181
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 755440,
+     "unit": "SH",
+     "value": 103857891
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2512328,
+     "unit": "SH",
+     "value": 96724628
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1212462,
+     "unit": "SH",
+     "value": 81222829
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 310364,
+     "unit": "SH",
+     "value": 77504098
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 444769,
+     "unit": "SH",
+     "value": 74854623
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 23282,
+     "unit": "SH",
+     "value": 73376715
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3805121,
+     "unit": "SH",
+     "value": 50455904
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2760387,
+     "unit": "SH",
+     "value": 33842345
+    }
+   ],
+   "table_total": 860167415,
+   "first_seen": "2026-11-16T04:49:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-014603",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834424014603/0001398344-24-014603-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 239724,
+     "unit": "SH",
+     "value": 120873635
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 2480389,
+     "unit": "SH",
+     "value": 109335547
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 570859,
+     "unit": "SH",
+     "value": 90806541
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 30351,
+     "unit": "SH",
+     "value": 89963399
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 465268,
+     "unit": "SH",
+     "value": 85339457
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 306420,
+     "unit": "SH",
+     "value": 76559037
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1197048,
+     "unit": "SH",
+     "value": 69464695
+    },
+    {
+     "cusip": "85209W109",
+     "put_call": null,
+     "issuer": "SPROUT SOCIAL INC",
+     "class": "COM CL A",
+     "shares": 1725977,
+     "unit": "SH",
+     "value": 61582859
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 439118,
+     "unit": "SH",
+     "value": 58530038
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 3558820,
+     "unit": "SH",
+     "value": 47652600
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2725293,
+     "unit": "SH",
+     "value": 29296900
+    }
+   ],
+   "table_total": 839404708,
+   "first_seen": "2026-11-16T04:49:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-020708",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834424020708/0001398344-24-020708-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 232669,
+     "unit": "SH",
+     "value": 133189042
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 29458,
+     "unit": "SH",
+     "value": 92793878
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 553894,
+     "unit": "SH",
+     "value": 92594460
+    },
+    {
+     "cusip": "03831W108",
+     "put_call": null,
+     "issuer": "APPLOVIN CORP",
+     "class": "COM CL A",
+     "shares": 698796,
+     "unit": "SH",
+     "value": 91227818
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1162523,
+     "unit": "SH",
+     "value": 90711670
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 297492,
+     "unit": "SH",
+     "value": 82708726
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 1493286,
+     "unit": "SH",
+     "value": 82668313
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 451618,
+     "unit": "SH",
+     "value": 75506013
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 426060,
+     "unit": "SH",
+     "value": 67926746
+    },
+    {
+     "cusip": "85209W109",
+     "put_call": null,
+     "issuer": "SPROUT SOCIAL INC",
+     "class": "COM CL A",
+     "shares": 1975994,
+     "unit": "SH",
+     "value": 57442146
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2113947,
+     "unit": "SH",
+     "value": 33210107
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 2647145,
+     "unit": "SH",
+     "value": 27662665
+    }
+   ],
+   "table_total": 927641584,
+   "first_seen": "2026-11-16T04:49:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-002824",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834425002824/0001398344-25-002824-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 578741,
+     "unit": "SH",
+     "value": 124168882
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 208247,
+     "unit": "SH",
+     "value": 121930701
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 639218,
+     "unit": "SH",
+     "value": 121732676
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 37570,
+     "unit": "SH",
+     "value": 120299140
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 1301183,
+     "unit": "SH",
+     "value": 111055969
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 394791,
+     "unit": "SH",
+     "value": 90624274
+    },
+    {
+     "cusip": "83200N103",
+     "put_call": null,
+     "issuer": "SMARTSHEET INC",
+     "class": "COM CL A",
+     "shares": 1447727,
+     "unit": "SH",
+     "value": 81116144
+    },
+    {
+     "cusip": "85209W109",
+     "put_call": null,
+     "issuer": "SPROUT SOCIAL INC",
+     "class": "COM CL A",
+     "shares": 2306149,
+     "unit": "SH",
+     "value": 70821836
+    },
+    {
+     "cusip": "42704L104",
+     "put_call": null,
+     "issuer": "HERC HLDGS INC",
+     "class": "COM",
+     "shares": 272903,
+     "unit": "SH",
+     "value": 51668725
+    },
+    {
+     "cusip": "91688F104",
+     "put_call": null,
+     "issuer": "UPWORK INC",
+     "class": "COM",
+     "shares": 3045142,
+     "unit": "SH",
+     "value": 49788072
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2258481,
+     "unit": "SH",
+     "value": 26830754
+    }
+   ],
+   "table_total": 970037173,
+   "first_seen": "2026-11-16T04:49:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-009457",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834425009457/0001398344-25-009457-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 37543,
+     "unit": "SH",
+     "value": 143143200
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 247057,
+     "unit": "SH",
+     "value": 142393773
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 691304,
+     "unit": "SH",
+     "value": 141717320
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 1138542,
+     "unit": "SH",
+     "value": 116324836
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 638751,
+     "unit": "SH",
+     "value": 99792069
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 15969,
+     "unit": "SH",
+     "value": 73567746
+    },
+    {
+     "cusip": "70450Y103",
+     "put_call": null,
+     "issuer": "PAYPAL HLDGS INC",
+     "class": "COM",
+     "shares": 858231,
+     "unit": "SH",
+     "value": 55999573
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 319382,
+     "unit": "SH",
+     "value": 52180631
+    },
+    {
+     "cusip": "85209W109",
+     "put_call": null,
+     "issuer": "SPROUT SOCIAL INC",
+     "class": "COM CL A",
+     "shares": 2304414,
+     "unit": "SH",
+     "value": 50674064
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 70571,
+     "unit": "SH",
+     "value": 46762462
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2256733,
+     "unit": "SH",
+     "value": 21055319
+    }
+   ],
+   "table_total": 943610993,
+   "first_seen": "2026-11-16T04:49:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-015394",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834425015394/0001398344-25-015394-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 926992,
+     "unit": "SH",
+     "value": 183118000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 245108,
+     "unit": "SH",
+     "value": 180911764
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 1361118,
+     "unit": "SH",
+     "value": 159250806
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 35667,
+     "unit": "SH",
+     "value": 132404107
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 661990,
+     "unit": "SH",
+     "value": 117430406
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 139989,
+     "unit": "SH",
+     "value": 112185785
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 18290,
+     "unit": "SH",
+     "value": 105885200
+    },
+    {
+     "cusip": "194014502",
+     "put_call": null,
+     "issuer": "ENOVIS CORPORATION",
+     "class": "COM",
+     "shares": 2553180,
+     "unit": "SH",
+     "value": 80067725
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 146777,
+     "unit": "SH",
+     "value": 23258283
+    },
+    {
+     "cusip": "81686C104",
+     "put_call": null,
+     "issuer": "SEMRUSH HLDGS INC",
+     "class": "CL A COM",
+     "shares": 2284578,
+     "unit": "SH",
+     "value": 20675431
+    }
+   ],
+   "table_total": 1115187507,
+   "first_seen": "2026-11-16T04:50:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-020887",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834425020887/0001398344-25-020887-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORP",
+     "class": "COM",
+     "shares": 860850,
+     "unit": "SH",
+     "value": 170672121
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N.V.",
+     "class": "N Y REGISTRY SHS",
+     "shares": 173226,
+     "unit": "SH",
+     "value": 167698358
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP",
+     "class": "SHS",
+     "shares": 1263998,
+     "unit": "SH",
+     "value": 152943758
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 192224,
+     "unit": "SH",
+     "value": 141165461
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE",
+     "class": "COM",
+     "shares": 29878,
+     "unit": "SH",
+     "value": 128183791
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC CLASS C",
+     "class": "CAP STK CL C",
+     "shares": 429318,
+     "unit": "SH",
+     "value": 104560399
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS",
+     "class": "COM",
+     "shares": 16975,
+     "unit": "SH",
+     "value": 91652608
+    },
+    {
+     "cusip": "G7709Q104",
+     "put_call": null,
+     "issuer": "ROYALTY PHARMA PLC",
+     "class": "SHS CLASS A",
+     "shares": 2350449,
+     "unit": "SH",
+     "value": 82923841
+    },
+    {
+     "cusip": "194014502",
+     "put_call": null,
+     "issuer": "ENOVIS CORPORATION",
+     "class": "COM",
+     "shares": 2399322,
+     "unit": "SH",
+     "value": 72795429
+    }
+   ],
+   "table_total": 1112595766,
+   "first_seen": "2026-11-16T04:50:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-003214",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834426003214/0001398344-26-003214-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 192343,
+     "unit": "SH",
+     "value": 205780082
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 827520,
+     "unit": "SH",
+     "value": 189435878
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 1215059,
+     "unit": "SH",
+     "value": 174676882
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 160450,
+     "unit": "SH",
+     "value": 105911441
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 16317,
+     "unit": "SH",
+     "value": 87382920
+    },
+    {
+     "cusip": "G7709Q104",
+     "put_call": null,
+     "issuer": "ROYALTY PHARMA PLC",
+     "class": "SHS CLASS A",
+     "shares": 2259469,
+     "unit": "SH",
+     "value": 87305882
+    },
+    {
+     "cusip": "538034109",
+     "put_call": null,
+     "issuer": "LIVE NATION ENTERTAINMENT IN",
+     "class": "COM",
+     "shares": 602973,
+     "unit": "SH",
+     "value": 85923653
+    },
+    {
+     "cusip": "053332102",
+     "put_call": null,
+     "issuer": "AUTOZONE INC",
+     "class": "COM",
+     "shares": 25121,
+     "unit": "SH",
+     "value": 85197872
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 216906,
+     "unit": "SH",
+     "value": 68065103
+    },
+    {
+     "cusip": "194014502",
+     "put_call": null,
+     "issuer": "ENOVIS CORPORATION",
+     "class": "COM",
+     "shares": 2279200,
+     "unit": "SH",
+     "value": 60717888
+    }
+   ],
+   "table_total": 1150397601,
+   "first_seen": "2026-11-16T04:50:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-009218",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834426009218/0001398344-26-009218-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HLDG NV",
+     "class": "N Y REGISTRY SHS",
+     "shares": 140295,
+     "unit": "SH",
+     "value": 185305845
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 1123489,
+     "unit": "SH",
+     "value": 154120221
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 2204996,
+     "unit": "SH",
+     "value": 143523190
+    },
+    {
+     "cusip": "03831W108",
+     "put_call": null,
+     "issuer": "APPLOVIN CORP",
+     "class": "COM CL A",
+     "shares": 316952,
+     "unit": "SH",
+     "value": 126146896
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORP DEL",
+     "class": "COM",
+     "shares": 580240,
+     "unit": "SH",
+     "value": 110013504
+    },
+    {
+     "cusip": "G7709Q104",
+     "put_call": null,
+     "issuer": "ROYALTY PHARMA PLC",
+     "class": "SHS CLASS A",
+     "shares": 2276570,
+     "unit": "SH",
+     "value": 109207063
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 222683,
+     "unit": "SH",
+     "value": 94715987
+    },
+    {
+     "cusip": "538034109",
+     "put_call": null,
+     "issuer": "LIVE NATION ENTERTAINMENT IN",
+     "class": "COM",
+     "shares": 607609,
+     "unit": "SH",
+     "value": 92666449
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 161683,
+     "unit": "SH",
+     "value": 92503695
+    },
+    {
+     "cusip": "90353T100",
+     "put_call": null,
+     "issuer": "UBER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 1090281,
+     "unit": "SH",
+     "value": 78423912
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 16444,
+     "unit": "SH",
+     "value": 69234502
+    }
+   ],
+   "table_total": 1255861264,
+   "first_seen": "2026-11-16T04:50:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-014470",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834426014470/0001398344-26-014470-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HLDG NV",
+     "class": "N Y REGISTRY SHS",
+     "shares": 130364,
+     "unit": "SH",
+     "value": 259351356
+    },
+    {
+     "cusip": "03831W108",
+     "put_call": null,
+     "issuer": "APPLOVIN CORP",
+     "class": "COM CL A",
+     "shares": 439313,
+     "unit": "SH",
+     "value": 226347237
+    },
+    {
+     "cusip": "G7709Q104",
+     "put_call": null,
+     "issuer": "ROYALTY PHARMA PLC",
+     "class": "SHS CLASS A",
+     "shares": 2456528,
+     "unit": "SH",
+     "value": 137737525
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 741500,
+     "unit": "SH",
+     "value": 132164960
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 316413,
+     "unit": "SH",
+     "value": 128862358
+    },
+    {
+     "cusip": "90353T100",
+     "put_call": null,
+     "issuer": "UBER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 1761941,
+     "unit": "SH",
+     "value": 127141663
+    },
+    {
+     "cusip": "538034109",
+     "put_call": null,
+     "issuer": "LIVE NATION ENTERTAINMENT IN",
+     "class": "COM",
+     "shares": 655658,
+     "unit": "SH",
+     "value": 120057536
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORP DEL",
+     "class": "COM",
+     "shares": 626211,
+     "unit": "SH",
+     "value": 119280671
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 199901,
+     "unit": "SH",
+     "value": 112602234
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 766828,
+     "unit": "SH",
+     "value": 111788186
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 1150578,
+     "unit": "SH",
+     "value": 86074740
+    }
+   ],
+   "table_total": 1561408466,
+   "first_seen": "2026-11-16T04:50:03+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Dorsey Asset Management, LLC"
+}

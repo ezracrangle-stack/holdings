@@ -86,3 +86,23 @@ managers:
     cik: 1657335
     letters: no
     why: "Bryan buys great businesses (a natural monopoly, a rational duopoly or the low-cost operator) when a crisis of confidence cuts the price. Interactive Brokers is in every 13F since his first, in 2017."
+
+  - id: pat-dorsey
+    name: Pat Dorsey
+    firm: Dorsey Asset Management
+    cik: 1671657
+    letters: no
+    why: "Pat wrote the book on moats at Morningstar. His fund holds 10 to 15 businesses with a moat, a long runway and managers who allocate capital well; Meta is in every 13F since his first, in 2016."
+
+  - id: terry-smith
+    name: Terry Smith
+    firm: Fundsmith
+    cik: [1569205, 1868537]
+    letters: fundsmith
+
+  - id: akre-capital
+    name: Akre Capital Management
+    firm: John Neff, CEO and CIO
+    cik: 1112520
+    letters: no
+    why: "Chuck Akre's three-legged stool (a great business, great managers, great reinvestment) still runs the firm under John Neff. Mastercard and Moody's are in every 13F since mid-2013, and Mastercard is still the biggest position."

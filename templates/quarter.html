@@ -6,7 +6,7 @@
 <p class="crumb"><a href="{{ root }}m/{{ m.id }}.html">&larr; {{ m.name }}, latest 13F</a></p>
 <h1 class="page-title">{{ m.name }} · {{ q.label }}</h1>
 <p class="firm-line big">{{ m.firm }}</p>
-<p class="source">Portfolio at the end of {{ q.label }}, from the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
+<p class="source">Portfolio at the end of {{ q.label }}, from the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}{% if q.filers > 1 %}, adding up the {{ q.filers }} reports the firm files{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
 {% include "_portfolio.html" %}
 
 <h2 class="rule-head">Sector weighting</h2>

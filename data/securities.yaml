@@ -510,3 +510,146 @@
 "92852X103": {name: "Vitesse Energy", ticker: "VTS", sic: 1311}
 "92927K102": {name: "WABCO", ticker: "WBC", sic: 3714, sector: "Industrials", note: "Bought by ZF in 2020."}
 "931142103": {name: "Walmart", ticker: "WMT", sic: 5331, sector: "Consumer staples"}
+
+# Pat Dorsey, Terry Smith and Akre Capital
+"88579Y101": {name: "3M", ticker: "MMM", sic: 3841, sector: "Industrials"}
+"831865209": {name: "A. O. Smith", ticker: "AOS", sic: 3630, sector: "Industrials"}
+"000899104": {name: "ADMA Biologics", ticker: "ADMA", sic: 2836}
+"053015103": {name: "ADP", ticker: "ADP", sic: 7374, sector: "Industrials"}
+"N07059210": {name: "ASML", ticker: "ASML", sic: 3559, sector: "Technology"}
+"N00985106": {name: "AerCap", ticker: "AER", sic: 7359}
+"00846U101": {name: "Agilent", ticker: "A", sic: 3826, sector: "Health care"}
+"009066101": {name: "Airbnb", ticker: "ABNB", sic: 7340, sector: "Consumer discretionary"}
+"011642105": {name: "Alarm.com", ticker: "ALRM", sic: 7372}
+"02364W105": {name: "America Movil", ticker: "AMX", sic: 4813}
+"03027X100": {name: "American Tower", ticker: "AMT", sic: 6798}
+"03027X308": {name: "American Tower", ticker: "AMT.PR", sic: 6798, kind: "preferred"}
+"03027X407": {name: "American Tower", ticker: "AMT.PR", sic: 6798, kind: "preferred"}
+"032095101": {name: "Amphenol", ticker: "APH", sic: 3678}
+"03662Q105": {name: "Ansys", ticker: "ANSS", sic: 7372, note: "Bought by Synopsys in 2025."}
+"03831W108": {name: "AppLovin", ticker: "APP", sic: 7370}
+"041356205": {name: "Arlington Asset Investment", ticker: "AI", sic: 6798, note: "Merged into Ellington Financial in 2023."}
+"053332102": {name: "AutoZone", ticker: "AZO", sic: 5531}
+"05338G106": {name: "Avalara", ticker: "AVLR", sic: 7372, note: "Taken private in 2022."}
+"056525108": {name: "Badger Meter", ticker: "BMI", sic: 3824, sector: "Industrials"}
+"075887109": {name: "Becton Dickinson", ticker: "BDX", sic: 3841}
+"101044105": {name: "Boston Omaha", ticker: "BOC", sic: 6510}
+"115637209": {name: "Brown-Forman", ticker: "BF.B", sic: 2085}
+"067383109": {name: "C. R. Bard", ticker: "BCR", sic: 3841, note: "Bought by Becton Dickinson in 2017."}
+"12510Q100": {name: "CCC Intelligent Solutions", ticker: "CCCS", sic: 7372}
+"126408103": {name: "CSX", ticker: "CSX", sic: 4011}
+"14888U101": {name: "Catalyst Pharmaceuticals", ticker: "CPRX", sic: 2834}
+"M22465104": {name: "Check Point Software", ticker: "CHKP", sic: 7372}
+"163092109": {name: "Chegg", ticker: "CHGG", sic: 8200, sector: "Consumer discretionary"}
+"169905106": {name: "Choice Hotels", ticker: "CHH", sic: 7011}
+"171340102": {name: "Church & Dwight", ticker: "CHD", sic: 2840}
+"189054109": {name: "Clorox", ticker: "CLX", sic: 2842}
+"22160N109": {name: "CoStar", ticker: "CSGP", sic: 7389, sector: "Financials & real estate"}
+"192422103": {name: "Cognex", ticker: "CGNX", sic: 3823}
+"194162103": {name: "Colgate-Palmolive", ticker: "CL", sic: 2844}
+"22266T109": {name: "Coupang", ticker: "CPNG", sic: 5961}
+"228227500": {name: "Crown Castle", ticker: "CCI.PR", sic: 6798, kind: "preferred"}
+"22822V200": {name: "Crown Castle", ticker: "CCI.PR", sic: 6798, kind: "preferred"}
+"235851102": {name: "Danaher", ticker: "DHR", sic: 3826, sector: "Health care"}
+"249906108": {name: "Descartes Systems", ticker: "DSGX", sic: 7372}
+"G27358103": {name: "Despegar", ticker: "DESP", sic: 4700, sector: "Consumer discretionary", note: "Bought by Prosus in 2025."}
+"25264R207": {name: "Diamond Hill", ticker: "DHIL", sic: 6282}
+"19626G108": {name: "DigitalBridge", ticker: "CLNY", sic: 6282, note: "Called Colony Capital until 2021."}
+"25401T108": {name: "DigitalBridge", ticker: "DBRG", sic: 6282}
+"25401T603": {name: "DigitalBridge", ticker: "DBRG", sic: 6282, note: "New CUSIP after a 1-for-4 reverse split in 2022."}
+"25470F302": {name: "Discovery", ticker: "DISCK", sic: 4841, note: "Merged with WarnerMedia in 2022 to form Warner Bros. Discovery."}
+"256677105": {name: "Dollar General", ticker: "DG", sic: 5331}
+"26622P107": {name: "Doximity", ticker: "DOCS", sic: 7371, sector: "Health care"}
+"26138E109": {name: "Dr Pepper Snapple", ticker: "DPS", sic: 2080, note: "Merged with Keurig in 2018."}
+"26443V101": {name: "Duluth Holdings", ticker: "DLTH", sic: 5600}
+"265504100": {name: "Dunkin' Brands", ticker: "DNKN", sic: 5810, note: "Taken private in 2020."}
+"194014106": {name: "Enovis", ticker: "CFX", sic: 3842, note: "Called Colfax until 2022."}
+"194014502": {name: "Enovis", ticker: "ENOV", sic: 3842}
+"G3075P101": {name: "Enstar", ticker: "ESGR", sic: 6331, note: "Taken private in 2025."}
+"518439104": {name: "Estée Lauder", ticker: "EL", sic: 2844}
+"30214U102": {name: "Exponent", ticker: "EXPO", sic: 8742, sector: "Industrials"}
+"303075105": {name: "FactSet", ticker: "FDS", sic: 7374, sector: "Financials & real estate"}
+"303250104": {name: "Fair Isaac", ticker: "FICO", sic: 7389, sector: "Technology"}
+"31946M103": {name: "First Citizens BancShares", ticker: "FCNCA", sic: 6022}
+"34417P100": {name: "Focus Financial Partners", ticker: "FOCS", sic: 6282, note: "Taken private in 2023."}
+"34959E109": {name: "Fortinet", ticker: "FTNT", sic: 3577, sector: "Technology"}
+"34959J108": {name: "Fortive", ticker: "FTV", sic: 3823, sector: "Industrials"}
+"36828A101": {name: "GE Vernova", ticker: "GEV", sic: 3600, sector: "Industrials"}
+"G3922B107": {name: "Genpact", ticker: "G", sic: 8742, sector: "Industrials"}
+"37950E259": {name: "Global X MSCI Argentina ETF", ticker: "ARGT", fund: yes}
+"38267D109": {name: "Goosehead Insurance", ticker: "GSHD", sic: 6411}
+"384109104": {name: "Graco", ticker: "GGG", sic: 3561}
+"42704L104": {name: "Herc Holdings", ticker: "HRI", sic: 7350}
+"437076102": {name: "Home Depot", ticker: "HD", sic: 5211}
+"45167R104": {name: "IDEX", ticker: "IEX", sic: 3561}
+"45168D104": {name: "IDEXX Laboratories", ticker: "IDXX", sic: 2835, sector: "Health care"}
+"44951W106": {name: "IES Holdings", ticker: "IESC", sic: 1731}
+"44980X109": {name: "IPG Photonics", ticker: "IPGP", sic: 3674}
+"45867G101": {name: "InterDigital", ticker: "IDCC", sic: 6794, sector: "Technology"}
+"461202103": {name: "Intuit", ticker: "INTU", sic: 7372}
+"832696405": {name: "J.M. Smucker", ticker: "SJM", sic: 2033}
+"50212V100": {name: "LPL Financial", ticker: "LPLA", sic: 6211}
+"512815101": {name: "Lamar Advertising", ticker: "LAMR", sic: 6798}
+"538034109": {name: "Live Nation", ticker: "LYV", sic: 7900, sector: "Media & telecom"}
+"562750109": {name: "Manhattan Associates", ticker: "MANH", sic: 7372}
+"570759100": {name: "MarkWest Energy Partners", ticker: "MWE", sic: 4922, note: "Bought by MPLX in 2015."}
+"574795100": {name: "Masimo", ticker: "MASI", sic: 3845, sector: "Health care"}
+"579780206": {name: "McCormick", ticker: "MKC", sic: 2090}
+"580135101": {name: "McDonald's", ticker: "MCD", sic: 5812}
+"58506Q109": {name: "Medpace", ticker: "MEDP", sic: 8731, sector: "Health care"}
+"58733R102": {name: "MercadoLibre", ticker: "MELI", sic: 7389, sector: "Consumer discretionary"}
+"592688105": {name: "Mettler-Toledo", ticker: "MTD", sic: 3826, sector: "Health care"}
+"610236101": {name: "Monro", ticker: "MNRO", sic: 7500, sector: "Consumer discretionary"}
+"92936P100": {name: "Mr. Cooper", ticker: "WMIH", sic: 6199, note: "WMIH Corp, which bought Nationstar in 2018 and became Mr. Cooper."}
+"630402105": {name: "Napco Security", ticker: "NSSC", sic: 3669}
+"65290E101": {name: "Nextpower", ticker: "NXT", sic: 3674, sector: "Industrials"}
+"654106103": {name: "Nike", ticker: "NKE", sic: 3021}
+"67058H102": {name: "NuStar Energy", ticker: "NS", sic: 4610, sector: "Energy"}
+"67059L102": {name: "NuStar GP Holdings", ticker: "NSH", sic: 4610, sector: "Energy", note: "Folded into NuStar Energy in 2018."}
+"67059N108": {name: "Nutanix", ticker: "NTNX", sic: 7372}
+"M7518J104": {name: "Oddity Tech", ticker: "ODD", sic: 2844}
+"681116109": {name: "Ollie's Bargain Outlet", ticker: "OLLI", sic: 5331}
+"68902V107": {name: "Otis", ticker: "OTIS", sic: 3534, sector: "Industrials"}
+"70432V102": {name: "Paycom", ticker: "PAYC", sic: 7372}
+"71385M107": {name: "Perimeter Solutions", ticker: "PRM", sic: 2800}
+"73739W104": {name: "Poshmark", ticker: "POSH", sic: 5961, note: "Bought by Naver in 2023."}
+"74165N105": {name: "Primo Water", ticker: "PRMW", sic: 2086, note: "Cott until 2020."}
+"74167P108": {name: "Primo Water", ticker: "PRMW", sic: 2086}
+"74758T303": {name: "Qualys", ticker: "QLYS", sic: 7372}
+"53071M880": {name: "Qurate Retail", ticker: "QVCA", sic: 5961, note: "Liberty Interactive, QVC Group tracking stock."}
+"75734B100": {name: "Reddit", ticker: "RDDT", sic: 7374, sector: "Media & telecom"}
+"77543R102": {name: "Roku", ticker: "ROKU", sic: 4841}
+"775711104": {name: "Rollins", ticker: "ROL", sic: 7340, sector: "Industrials"}
+"776696106": {name: "Roper Technologies", ticker: "ROP", sic: 3823}
+"78388J106": {name: "SBA Communications", ticker: "SBAC", sic: 6798}
+"78410G104": {name: "SBA Communications", ticker: "SBAC", sic: 6798}
+"78573M104": {name: "Sabre", ticker: "SABR", sic: 7370}
+"81686C104": {name: "Semrush", ticker: "SEMR", sic: 7372}
+"81762P102": {name: "ServiceNow", ticker: "NOW", sic: 7372}
+"824348106": {name: "Sherwin-Williams", ticker: "SHW", sic: 2851, sector: "Materials"}
+"826552101": {name: "Sigma-Aldrich", ticker: "SIAL", sic: 2860, note: "Bought by Merck KGaA in 2015."}
+"82982L103": {name: "SiteOne Landscape Supply", ticker: "SITE", sic: 5040, sector: "Industrials"}
+"83200N103": {name: "Smartsheet", ticker: "SMAR", sic: 7372, note: "Taken private in 2025."}
+"H82027105": {name: "Sophia Genetics", ticker: "SOPH", sic: 7374, sector: "Health care"}
+"85209W109": {name: "Sprout Social", ticker: "SPT", sic: 7372}
+"863667101": {name: "Stryker", ticker: "SYK", sic: 3841, sector: "Health care"}
+"871607107": {name: "Synopsys", ticker: "SNPS", sic: 7372}
+"87236Y108": {name: "TD Ameritrade", ticker: "AMTD", sic: 6211, note: "Bought by Charles Schwab in 2020."}
+"88339J105": {name: "The Trade Desk", ticker: "TTD", sic: 7370}
+"88556E102": {name: "ThredUp", ticker: "TDUP", sic: 5961}
+"90353T100": {name: "Uber", ticker: "UBER", sic: 7389, sector: "Industrials"}
+"90347A100": {name: "Ubiquiti", ticker: "UI", sic: 3663}
+"91688F104": {name: "Upwork", ticker: "UPWK", sic: 7374, sector: "Industrials"}
+"922475108": {name: "Veeva Systems", ticker: "VEEV", sic: 7372, sector: "Health care"}
+"92537N108": {name: "Vertiv", ticker: "VRT", sic: 3679, sector: "Industrials"}
+"92932M101": {name: "WNS", ticker: "WNS", sic: 7374, sector: "Industrials"}
+"94106B101": {name: "Waste Connections", ticker: "WCN", sic: 4953, sector: "Industrials"}
+"94106L109": {name: "Waste Management", ticker: "WM", sic: 4953, sector: "Industrials"}
+"941848103": {name: "Waters", ticker: "WAT", sic: 3826, sector: "Health care"}
+"974155103": {name: "Wingstop", ticker: "WING", sic: 5812}
+"M98068105": {name: "Wix.com", ticker: "WIX", sic: 7370}
+"98139A105": {name: "Workiva", ticker: "WK", sic: 7372}
+"G98239109": {name: "XP", ticker: "XP", sic: 6211}
+"985817105": {name: "Yelp", ticker: "YELP", sic: 7370, sector: "Media & telecom"}
+"988498101": {name: "Yum! Brands", ticker: "YUM", sic: 5812}
+"278642103": {name: "eBay", ticker: "EBAY", sic: 7389, sector: "Consumer discretionary"}

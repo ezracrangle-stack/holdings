@@ -17,7 +17,7 @@
 {% set posts = m.posts %}{% set heading = "I wrote about " ~ m.name.split()[0] %}{% include "_posts.html" %}
 
 <h2 class="rule-head">Portfolio at the end of {{ q.label }}</h2>
-<p class="source">From the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
+<p class="source">From the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}{% if q.filers > 1 %}, adding up the {{ q.filers }} reports the firm files{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
 {% include "_portfolio.html" %}
 
 

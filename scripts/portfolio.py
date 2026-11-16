@@ -62,20 +62,32 @@ def fix_units(f):
 
 
 def effective_filings(filings):
-    """One holdings list per quarter: the original 13F, then amendments in the order filed.
-    A restatement replaces the quarter; a 'new holdings' amendment adds lines to it."""
-    by_period = {}
+    """One holdings list per quarter. For each filer: the original 13F, then amendments
+    in the order filed (a restatement replaces the quarter; a 'new holdings' amendment adds
+    lines). When a firm reports through more than one entity in the same quarter
+    (Fundsmith LLP and Fundsmith Investment Services, say), their lines are added up."""
+    by_filer = {}
     for f in sorted(filings, key=lambda f: (f["filed"], f["accession"])):
         if not f["form"].startswith("13F-HR") or f.get("skipped"):
             continue
         f = fix_units(f)
-        cur = by_period.get(f["period"])
+        key = (f.get("cik"), f["period"])
+        cur = by_filer.get(key)
         if cur is None or f["form"] == "13F-HR" or f.get("amendment_type") == "RESTATEMENT":
-            by_period[f["period"]] = dict(f, holdings=list(f["holdings"]), amended=cur is not None)
+            by_filer[key] = dict(f, holdings=list(f["holdings"]), amended=cur is not None)
         else:
             cur["holdings"] = cur["holdings"] + f["holdings"]
             cur["amended"] = True
-            cur["filed_amendment"] = f["filed"]
+    by_period = {}
+    for (cik, period), f in sorted(by_filer.items(), key=lambda x: (x[0][1], str(x[0][0]))):
+        cur = by_period.get(period)
+        if cur is None:
+            by_period[period] = dict(f, filers=1)
+        else:
+            cur["holdings"] = cur["holdings"] + f["holdings"]
+            cur["filers"] += 1
+            cur["filed"] = max(cur["filed"], f["filed"])
+            cur["amended"] = cur["amended"] or f["amended"]
     return [by_period[p] for p in sorted(by_period)]
 
 
@@ -178,6 +190,7 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
         pos, total = positions(f, securities, unknown)
         quarters.append({"period": f["period"], "label": quarter_label(f["period"]),
                          "slug": quarter_slug(f["period"]), "filed": f["filed"], "url": f["url"],
+                         "filers": f.get("filers", 1),
                          "amended": f.get("amended"), "positions": pos, "total": total,
                          "first_seen": f.get("first_seen"), "backfill": f.get("backfill", True)})
     if quarters:
