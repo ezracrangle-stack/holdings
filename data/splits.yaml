@@ -37,3 +37,7 @@
 - {ticker: MKC, date: 2020-12-01, ratio: 2}
 - {ticker: CSGP, date: 2021-06-25, ratio: 10}
 - {ticker: FTNT, date: 2022-06-22, ratio: 5}
+- {ticker: BF.A, date: 2016-08-01, ratio: 2}
+- {ticker: BF.B, date: 2016-08-01, ratio: 2}
+- {ticker: ANET, date: 2024-12-04, ratio: 4}
+- {ticker: NFLX, date: 2025-11-17, ratio: 10}

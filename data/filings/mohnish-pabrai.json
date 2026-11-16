@@ -1,0 +1,3465 @@
+{
+ "filings": [
+  {
+   "accession": "0000950137-05-001749",
+   "form": "13F-HR",
+   "filed": "2005-02-15",
+   "period": "2004-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013705001749/0000950137-05-001749-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-05-002080",
+   "form": "13F-HR/A",
+   "filed": "2005-02-22",
+   "period": "2004-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013705002080/0000950137-05-002080-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-05-006058",
+   "form": "13F-HR",
+   "filed": "2005-05-16",
+   "period": "2005-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013705006058/0000950137-05-006058-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-05-010281",
+   "form": "13F-HR",
+   "filed": "2005-08-15",
+   "period": "2005-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013705010281/0000950137-05-010281-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-05-013811",
+   "form": "13F-HR",
+   "filed": "2005-11-14",
+   "period": "2005-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013705013811/0000950137-05-013811-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-06-001860",
+   "form": "13F-HR",
+   "filed": "2006-02-15",
+   "period": "2005-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013706001860/0000950137-06-001860-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-06-005869",
+   "form": "13F-HR",
+   "filed": "2006-05-12",
+   "period": "2006-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013706005869/0000950137-06-005869-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-06-009230",
+   "form": "13F-HR",
+   "filed": "2006-08-15",
+   "period": "2006-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013706009230/0000950137-06-009230-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-06-012387",
+   "form": "13F-HR",
+   "filed": "2006-11-14",
+   "period": "2006-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013706012387/0000950137-06-012387-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-07-002249",
+   "form": "13F-HR",
+   "filed": "2007-02-14",
+   "period": "2006-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013707002249/0000950137-07-002249-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-07-007545",
+   "form": "13F-HR",
+   "filed": "2007-05-15",
+   "period": "2007-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013707007545/0000950137-07-007545-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-07-012316",
+   "form": "13F-HR",
+   "filed": "2007-08-14",
+   "period": "2007-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013707012316/0000950137-07-012316-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-07-017167",
+   "form": "13F-HR",
+   "filed": "2007-11-14",
+   "period": "2007-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013707017167/0000950137-07-017167-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-08-002293",
+   "form": "13F-HR",
+   "filed": "2008-02-14",
+   "period": "2007-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013708002293/0000950137-08-002293-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:06:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-08-007509",
+   "form": "13F-HR",
+   "filed": "2008-05-15",
+   "period": "2008-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013708007509/0000950137-08-007509-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950134-08-015162",
+   "form": "13F-HR",
+   "filed": "2008-08-14",
+   "period": "2008-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013408015162/0000950134-08-015162-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-08-015335",
+   "form": "13F-HR",
+   "filed": "2008-11-14",
+   "period": "2008-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012308015335/0000950123-08-015335-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950137-09-001091",
+   "form": "13F-HR",
+   "filed": "2009-02-17",
+   "period": "2008-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095013709001091/0000950137-09-001091-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-09-008906",
+   "form": "13F-HR",
+   "filed": "2009-05-15",
+   "period": "2009-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012309008906/0000950123-09-008906-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-09-035327",
+   "form": "13F-HR",
+   "filed": "2009-08-14",
+   "period": "2009-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012309035327/0000950123-09-035327-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:11+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-09-062946",
+   "form": "13F-HR",
+   "filed": "2009-11-16",
+   "period": "2009-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012309062946/0000950123-09-062946-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-10-012088",
+   "form": "13F-HR",
+   "filed": "2010-02-12",
+   "period": "2009-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012310012088/0000950123-10-012088-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-10-050299",
+   "form": "13F-HR",
+   "filed": "2010-05-17",
+   "period": "2010-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012310050299/0000950123-10-050299-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-10-077095",
+   "form": "13F-HR",
+   "filed": "2010-08-13",
+   "period": "2010-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012310077095/0000950123-10-077095-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-10-105572",
+   "form": "13F-HR",
+   "filed": "2010-11-15",
+   "period": "2010-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012310105572/0000950123-10-105572-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-11-012592",
+   "form": "13F-HR",
+   "filed": "2011-02-11",
+   "period": "2010-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012311012592/0000950123-11-012592-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-11-045783",
+   "form": "13F-HR/A",
+   "filed": "2011-05-05",
+   "period": "2010-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012311045783/0000950123-11-045783-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-11-050749",
+   "form": "13F-HR",
+   "filed": "2011-05-16",
+   "period": "2011-03-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012311050749/0000950123-11-050749-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000950123-11-077493",
+   "form": "13F-HR",
+   "filed": "2011-08-15",
+   "period": "2011-06-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000095012311077493/0000950123-11-077493-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001193125-11-310619",
+   "form": "13F-HR",
+   "filed": "2011-11-14",
+   "period": "2011-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000119312511310619/0001193125-11-310619-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001193125-11-317251",
+   "form": "13F-HR/A",
+   "filed": "2011-11-18",
+   "period": "2011-09-30",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000119312511317251/0001193125-11-317251-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001193125-12-060916",
+   "form": "13F-HR",
+   "filed": "2012-02-14",
+   "period": "2011-12-31",
+   "cik": 1173334,
+   "url": "https://www.sec.gov/Archives/edgar/data/1173334/000119312512060916/0001193125-12-060916-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-12-000017",
+   "form": "13F-HR",
+   "filed": "2012-05-11",
+   "period": "2012-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692712000017/0001546927-12-000017-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-12-000045",
+   "form": "13F-HR",
+   "filed": "2012-08-10",
+   "period": "2012-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692712000045/0001546927-12-000045-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-12-000070",
+   "form": "13F-HR",
+   "filed": "2012-11-13",
+   "period": "2012-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692712000070/0001546927-12-000070-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-13-000027",
+   "form": "13F-HR",
+   "filed": "2013-02-12",
+   "period": "2012-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692713000027/0001546927-13-000027-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-13-000069",
+   "form": "13F-HR/A",
+   "filed": "2013-05-06",
+   "period": "2012-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692713000069/0001546927-13-000069-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-13-000077",
+   "form": "13F-HR",
+   "filed": "2013-05-13",
+   "period": "2013-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692713000077/0001546927-13-000077-index.html",
+   "skipped": "Filed before the SEC's XML format (2013). Not read.",
+   "first_seen": "2026-11-16T05:07:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-13-000141",
+   "form": "13F-HR",
+   "filed": "2013-08-12",
+   "period": "2013-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692713000141/0001546927-13-000141-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "* W EXP 07/10/201",
+     "shares": 5928876,
+     "unit": "SH",
+     "value": 96937000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORPORATION",
+     "class": "COM",
+     "shares": 7502000,
+     "unit": "SH",
+     "value": 96476000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1560000,
+     "unit": "SH",
+     "value": 74833000
+    },
+    {
+     "cusip": "165167107",
+     "put_call": null,
+     "issuer": "CHESAPEAKE ENERGY CORP",
+     "class": "COM",
+     "shares": 3268145,
+     "unit": "SH",
+     "value": 66605000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 5070000,
+     "unit": "SH",
+     "value": 64947000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 141863,
+     "unit": "SH",
+     "value": 21457000
+    }
+   ],
+   "table_total": 421255000,
+   "first_seen": "2026-11-16T05:07:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-13-000203",
+   "form": "13F-HR",
+   "filed": "2013-11-12",
+   "period": "2013-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692713000203/0001546927-13-000203-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "* W EXP 07/10/201",
+     "shares": 5928876,
+     "unit": "SH",
+     "value": 110277000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORPORATION",
+     "class": "COM",
+     "shares": 7502000,
+     "unit": "SH",
+     "value": 103528000
+    },
+    {
+     "cusip": "165167107",
+     "put_call": null,
+     "issuer": "CHESAPEAKE ENERGY CORP",
+     "class": "COM",
+     "shares": 3268145,
+     "unit": "SH",
+     "value": 84580000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1560000,
+     "unit": "SH",
+     "value": 75676000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 5070000,
+     "unit": "SH",
+     "value": 63172000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 141863,
+     "unit": "SH",
+     "value": 22444000
+    }
+   ],
+   "table_total": 459677000,
+   "first_seen": "2026-11-16T05:07:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001546927-14-000056",
+   "form": "13F-HR",
+   "filed": "2014-02-13",
+   "period": "2013-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154692714000056/0001546927-14-000056-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "* W EXP 07/10/201",
+     "shares": 5929529,
+     "unit": "SH",
+     "value": 137091000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORPORATION",
+     "class": "COM",
+     "shares": 7401000,
+     "unit": "SH",
+     "value": 115234000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 102663000
+    },
+    {
+     "cusip": "165167107",
+     "put_call": null,
+     "issuer": "CHESAPEAKE ENERGY CORP",
+     "class": "COM",
+     "shares": 3268145,
+     "unit": "SH",
+     "value": 88697000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1560000,
+     "unit": "SH",
+     "value": 81292000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 106863,
+     "unit": "SH",
+     "value": 18943000
+    }
+   ],
+   "table_total": 543920000,
+   "first_seen": "2026-11-16T05:07:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-14-000002",
+   "form": "13F-HR",
+   "filed": "2014-05-13",
+   "period": "2014-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957514000002/0001549575-14-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 106526000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "* W EXP 7/10/201",
+     "shares": 5935015,
+     "unit": "SH",
+     "value": 103329000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORPORATION",
+     "class": "COM",
+     "shares": 4875000,
+     "unit": "SH",
+     "value": 83850000
+    },
+    {
+     "cusip": "165167107",
+     "put_call": null,
+     "issuer": "CHESAPEAKE ENERGY CORP",
+     "class": "COM",
+     "shares": 3262545,
+     "unit": "SH",
+     "value": 83586000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 1420000,
+     "unit": "SH",
+     "value": 67592000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 106863,
+     "unit": "SH",
+     "value": 17510000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 7025,
+     "unit": "SH",
+     "value": 878000
+    },
+    {
+     "cusip": "37045V100",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "COM",
+     "shares": 23305,
+     "unit": "SH",
+     "value": 802000
+    }
+   ],
+   "table_total": 464073000,
+   "first_seen": "2026-11-16T05:07:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-14-000006",
+   "form": "13F-HR",
+   "filed": "2014-08-13",
+   "period": "2014-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957514000006/0001549575-14-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 115646000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "* W EXP 7/10/201",
+     "shares": 5935015,
+     "unit": "SH",
+     "value": 110154000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORPORATION",
+     "class": "COM",
+     "shares": 4875000,
+     "unit": "SH",
+     "value": 74929000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 977634,
+     "unit": "SH",
+     "value": 72775000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1420000,
+     "unit": "SH",
+     "value": 66882000
+    },
+    {
+     "cusip": "165167107",
+     "put_call": null,
+     "issuer": "CHESAPEAKE ENERGY CORP",
+     "class": "COM",
+     "shares": 668000,
+     "unit": "SH",
+     "value": 20761000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 106863,
+     "unit": "SH",
+     "value": 17893000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 7025,
+     "unit": "SH",
+     "value": 889000
+    },
+    {
+     "cusip": "37045V100",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "COM",
+     "shares": 23305,
+     "unit": "SH",
+     "value": 846000
+    }
+   ],
+   "table_total": 480775000,
+   "first_seen": "2026-11-16T05:07:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-14-000010",
+   "form": "13F-HR",
+   "filed": "2014-11-12",
+   "period": "2014-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957514000010/0001549575-14-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 104689000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W Exp 7/10/201",
+     "shares": 5935015,
+     "unit": "SH",
+     "value": 85820000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 4504000,
+     "unit": "SH",
+     "value": 76793000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1420000,
+     "unit": "SH",
+     "value": 73584000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 932634,
+     "unit": "SH",
+     "value": 70787000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 7025,
+     "unit": "SH",
+     "value": 970000
+    },
+    {
+     "cusip": "37045V100",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "COM",
+     "shares": 23305,
+     "unit": "SH",
+     "value": 744000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM",
+     "shares": 41144,
+     "unit": "SH",
+     "value": 407000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT",
+     "shares": 14711,
+     "unit": "SH",
+     "value": 157000
+    }
+   ],
+   "table_total": 413951000,
+   "first_seen": "2026-11-16T05:07:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-15-000002",
+   "form": "13F-HR",
+   "filed": "2015-02-12",
+   "period": "2014-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957515000002/0001549575-15-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13908569,
+     "unit": "SH",
+     "value": 161061000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W Exp 7/10/201",
+     "shares": 5935175,
+     "unit": "SH",
+     "value": 100898000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 100256000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 1269000,
+     "unit": "SH",
+     "value": 68666000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 3146000,
+     "unit": "SH",
+     "value": 56282000
+    },
+    {
+     "cusip": "38259P706",
+     "put_call": null,
+     "issuer": "GOOGLE INC",
+     "class": "CL C",
+     "shares": 69000,
+     "unit": "SH",
+     "value": 36322000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 301770,
+     "unit": "SH",
+     "value": 19256000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT",
+     "shares": 453538,
+     "unit": "SH",
+     "value": 5261000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 245670,
+     "unit": "SH",
+     "value": 2521000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 7025,
+     "unit": "SH",
+     "value": 1055000
+    },
+    {
+     "cusip": "37045V100",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "COM",
+     "shares": 23762,
+     "unit": "SH",
+     "value": 830000
+    }
+   ],
+   "table_total": 552408000,
+   "first_seen": "2026-11-16T05:07:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-15-000004",
+   "form": "13F-HR",
+   "filed": "2015-05-12",
+   "period": "2015-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957515000004/0001549575-15-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13800220,
+     "unit": "SH",
+     "value": 225082000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W Exp 7/10/201",
+     "shares": 5986470,
+     "unit": "SH",
+     "value": 117634000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 80180000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 983680,
+     "unit": "SH",
+     "value": 53768000
+    },
+    {
+     "cusip": "38259P706",
+     "put_call": null,
+     "issuer": "GOOGLE INC",
+     "class": "CL C",
+     "shares": 69000,
+     "unit": "SH",
+     "value": 37812000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT 06/11/2019",
+     "shares": 1485188,
+     "unit": "SH",
+     "value": 15565000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 310386,
+     "unit": "SH",
+     "value": 3104000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM",
+     "shares": 53000,
+     "unit": "SH",
+     "value": 2731000
+    }
+   ],
+   "table_total": 535876000,
+   "first_seen": "2026-11-16T05:07:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-15-000007",
+   "form": "13F-HR",
+   "filed": "2015-08-11",
+   "period": "2015-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957515000007/0001549575-15-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13800220,
+     "unit": "SH",
+     "value": 200517000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 7/10/201",
+     "shares": 5988977,
+     "unit": "SH",
+     "value": 95524000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 74226000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 982280,
+     "unit": "SH",
+     "value": 48220000
+    },
+    {
+     "cusip": "38259P706",
+     "put_call": null,
+     "issuer": "GOOGLE INC",
+     "class": "CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 36013000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT 06/11/2019",
+     "shares": 1485288,
+     "unit": "SH",
+     "value": 16888000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 310386,
+     "unit": "SH",
+     "value": 3231000
+    }
+   ],
+   "table_total": 474619000,
+   "first_seen": "2026-11-16T05:07:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-15-000010",
+   "form": "13F-HR",
+   "filed": "2015-11-12",
+   "period": "2015-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957515000010/0001549575-15-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13794920,
+     "unit": "SH",
+     "value": 182231000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 7/10/201",
+     "shares": 5990747,
+     "unit": "SH",
+     "value": 79198000
+    },
+    {
+     "cusip": "38259P706",
+     "put_call": null,
+     "issuer": "GOOGLE INC",
+     "class": "CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 42095000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 982280,
+     "unit": "SH",
+     "value": 34399000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 19253000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT 06/11/2019",
+     "shares": 1485288,
+     "unit": "SH",
+     "value": 16680000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 310386,
+     "unit": "SH",
+     "value": 3222000
+    }
+   ],
+   "table_total": 377078000,
+   "first_seen": "2026-11-16T05:07:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-16-000012",
+   "form": "13F-HR",
+   "filed": "2016-02-12",
+   "period": "2015-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957516000012/0001549575-16-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13787920,
+     "unit": "SH",
+     "value": 192893000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 7/10/201",
+     "shares": 5986448,
+     "unit": "SH",
+     "value": 97543000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 52505000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HLDG CORP",
+     "class": "COM",
+     "shares": 6333296,
+     "unit": "SH",
+     "value": 12983000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 87006,
+     "unit": "SH",
+     "value": 11488000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT 06/11/2019",
+     "shares": 895374,
+     "unit": "SH",
+     "value": 9178000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 247870,
+     "unit": "SH",
+     "value": 2469000
+    }
+   ],
+   "table_total": 379059000,
+   "first_seen": "2026-11-16T05:07:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-16-000015",
+   "form": "13F-HR",
+   "filed": "2016-05-13",
+   "period": "2016-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957516000015/0001549575-16-000015-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13785930,
+     "unit": "SH",
+     "value": 111115000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W Exp 7/10/201",
+     "shares": 5986448,
+     "unit": "SH",
+     "value": 81775000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1277192,
+     "unit": "SH",
+     "value": 53122000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 51542000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 530653,
+     "unit": "SH",
+     "value": 26517000
+    },
+    {
+     "cusip": "92939D203",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "UNIT 06/11/2019",
+     "shares": 990534,
+     "unit": "SH",
+     "value": 10391000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 72506,
+     "unit": "SH",
+     "value": 10287000
+    },
+    {
+     "cusip": "92939D104",
+     "put_call": null,
+     "issuer": "WL ROSS HLDG CORP",
+     "class": "COM SHS",
+     "shares": 35890,
+     "unit": "SH",
+     "value": 360000
+    }
+   ],
+   "table_total": 345109000,
+   "first_seen": "2026-11-16T05:07:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-16-000018",
+   "form": "13F-HR",
+   "filed": "2016-08-12",
+   "period": "2016-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957516000018/0001549575-16-000018-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13784930,
+     "unit": "SH",
+     "value": 84364000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 07/10/201",
+     "shares": 5984447,
+     "unit": "SH",
+     "value": 62657000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 47885000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1069038,
+     "unit": "SH",
+     "value": 43527000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 529113,
+     "unit": "SH",
+     "value": 26371000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 624160,
+     "unit": "SH",
+     "value": 20966000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 72500,
+     "unit": "SH",
+     "value": 10497000
+    }
+   ],
+   "table_total": 296267000,
+   "first_seen": "2026-11-16T05:07:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-16-000021",
+   "form": "13F-HR",
+   "filed": "2016-11-10",
+   "period": "2016-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957516000021/0001549575-16-000021-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13771930,
+     "unit": "SH",
+     "value": 88140000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 7/10/201",
+     "shares": 5984447,
+     "unit": "SH",
+     "value": 83543000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 53779000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 675138,
+     "unit": "SH",
+     "value": 35075000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 529113,
+     "unit": "SH",
+     "value": 26815000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 624160,
+     "unit": "SH",
+     "value": 24024000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 512220,
+     "unit": "SH",
+     "value": 19920000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B",
+     "shares": 47400,
+     "unit": "SH",
+     "value": 6848000
+    }
+   ],
+   "table_total": 338144000,
+   "first_seen": "2026-11-16T05:07:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-17-000003",
+   "form": "13F-HR",
+   "filed": "2017-02-13",
+   "period": "2016-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957517000003/0001549575-17-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 11971930,
+     "unit": "SH",
+     "value": 109184000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "*W EXP 7/10/201",
+     "shares": 5578837,
+     "unit": "SH",
+     "value": 95733000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 69188,
+     "unit": "SH",
+     "value": 53401000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 671685,
+     "unit": "SH",
+     "value": 27949000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 23222000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 529113,
+     "unit": "SH",
+     "value": 22598000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 300975,
+     "unit": "SH",
+     "value": 15001000
+    }
+   ],
+   "table_total": 347088000,
+   "first_seen": "2026-11-16T05:07:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-17-000006",
+   "form": "13F-HR",
+   "filed": "2017-05-12",
+   "period": "2017-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957517000006/0001549575-17-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 12922130,
+     "unit": "SH",
+     "value": 141239000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 7/10/201",
+     "shares": 6053822,
+     "unit": "SH",
+     "value": 108073000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 66228,
+     "unit": "SH",
+     "value": 54940000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 819185,
+     "unit": "SH",
+     "value": 37658000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 29701000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 300975,
+     "unit": "SH",
+     "value": 16180000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 27002,
+     "unit": "SH",
+     "value": 1165000
+    }
+   ],
+   "table_total": 388956000,
+   "first_seen": "2026-11-16T05:07:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-17-000009",
+   "form": "13F-HR",
+   "filed": "2017-08-11",
+   "period": "2017-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957517000009/0001549575-17-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 139352000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 7/10/201",
+     "shares": 6079051,
+     "unit": "SH",
+     "value": 105715000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 66228,
+     "unit": "SH",
+     "value": 60183000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 999935,
+     "unit": "SH",
+     "value": 46427000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 34125000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 300975,
+     "unit": "SH",
+     "value": 18703000
+    }
+   ],
+   "table_total": 404505000,
+   "first_seen": "2026-11-16T05:07:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-17-000014",
+   "form": "13F-HR",
+   "filed": "2017-11-13",
+   "period": "2017-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957517000014/0001549575-17-000014-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 234788000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 66228,
+     "unit": "SH",
+     "value": 63520000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 1047160,
+     "unit": "SH",
+     "value": 53520000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 44008000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 300975,
+     "unit": "SH",
+     "value": 16849000
+    }
+   ],
+   "table_total": 412685000,
+   "first_seen": "2026-11-16T05:07:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-18-000003",
+   "form": "13F-HR",
+   "filed": "2018-02-13",
+   "period": "2017-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957518000003/0001549575-18-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 233870000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 45828,
+     "unit": "SH",
+     "value": 47954000
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 807721,
+     "unit": "SH",
+     "value": 42494000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 41808000
+    },
+    {
+     "cusip": "844741108",
+     "put_call": null,
+     "issuer": "SOUTHWEST AIRLS CO",
+     "class": "COM",
+     "shares": 300975,
+     "unit": "SH",
+     "value": 19699000
+    }
+   ],
+   "table_total": 385825000,
+   "first_seen": "2026-11-16T05:07:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-18-000005",
+   "form": "13F-HR",
+   "filed": "2018-05-14",
+   "period": "2018-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957518000005/0001549575-18-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 269003000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 47760000
+    }
+   ],
+   "table_total": 316763000,
+   "first_seen": "2026-11-16T05:07:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-18-000007",
+   "form": "13F-HR",
+   "filed": "2018-08-13",
+   "period": "2018-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957518000007/0001549575-18-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 247635000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 398138,
+     "unit": "SH",
+     "value": 54154000
+    }
+   ],
+   "table_total": 301789000,
+   "first_seen": "2026-11-16T05:07:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-18-000013",
+   "form": "13F-HR",
+   "filed": "2018-11-13",
+   "period": "2018-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957518000013/0001549575-18-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13109310,
+     "unit": "SH",
+     "value": 229544000
+    }
+   ],
+   "table_total": 229544000,
+   "first_seen": "2026-11-16T05:07:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-19-000003",
+   "form": "13F-HR",
+   "filed": "2019-02-13",
+   "period": "2018-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957519000003/0001549575-19-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13098390,
+     "unit": "SH",
+     "value": 189403000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 546847,
+     "unit": "SH",
+     "value": 17351000
+    }
+   ],
+   "table_total": 206754000,
+   "first_seen": "2026-11-16T05:07:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-19-000005",
+   "form": "13F-HR",
+   "filed": "2019-05-14",
+   "period": "2019-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957519000005/0001549575-19-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 13105047,
+     "unit": "SH",
+     "value": 194610000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1699265,
+     "unit": "SH",
+     "value": 70231000
+    }
+   ],
+   "table_total": 264841000,
+   "first_seen": "2026-11-16T05:07:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-19-000008",
+   "form": "13F-HR",
+   "filed": "2019-08-13",
+   "period": "2019-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957519000008/0001549575-19-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 12866047,
+     "unit": "SH",
+     "value": 177809000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1785745,
+     "unit": "SH",
+     "value": 68912000
+    },
+    {
+     "cusip": "384313508",
+     "put_call": null,
+     "issuer": "GRAFTECH INTL LTD",
+     "class": "COM",
+     "shares": 4123538,
+     "unit": "SH",
+     "value": 47421000
+    }
+   ],
+   "table_total": 294142000,
+   "first_seen": "2026-11-16T05:07:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-19-000010",
+   "form": "13F-HR",
+   "filed": "2019-11-13",
+   "period": "2019-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957519000010/0001549575-19-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 8757463,
+     "unit": "SH",
+     "value": 113409000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1793935,
+     "unit": "SH",
+     "value": 76870000
+    },
+    {
+     "cusip": "384313508",
+     "put_call": null,
+     "issuer": "GRAFTECH INTL LTD",
+     "class": "COM",
+     "shares": 5547101,
+     "unit": "SH",
+     "value": 71003000
+    }
+   ],
+   "table_total": 261282000,
+   "first_seen": "2026-11-16T05:07:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-20-000002",
+   "form": "13F-HR",
+   "filed": "2020-02-13",
+   "period": "2019-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957520000002/0001549575-20-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 8250711,
+     "unit": "SH",
+     "value": 121203000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1828076,
+     "unit": "SH",
+     "value": 98314000
+    },
+    {
+     "cusip": "384313508",
+     "put_call": null,
+     "issuer": "GRAFTECH INTL LTD",
+     "class": "COM",
+     "shares": 4450134,
+     "unit": "SH",
+     "value": 51711000
+    }
+   ],
+   "table_total": 271228000,
+   "first_seen": "2026-11-16T05:07:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-20-000005",
+   "form": "13F-HR",
+   "filed": "2020-05-14",
+   "period": "2020-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957520000005/0001549575-20-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1804199,
+     "unit": "SH",
+     "value": 75885000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 680045,
+     "unit": "SH",
+     "value": 4889000
+    }
+   ],
+   "table_total": 80774000,
+   "first_seen": "2026-11-16T05:07:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-20-000010",
+   "form": "13F-HR",
+   "filed": "2020-08-13",
+   "period": "2020-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957520000010/0001549575-20-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1820248,
+     "unit": "SH",
+     "value": 93779000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733118,
+     "unit": "SH",
+     "value": 53958000
+    }
+   ],
+   "table_total": 147737000,
+   "first_seen": "2026-11-16T05:07:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-20-000012",
+   "form": "13F-HR",
+   "filed": "2020-11-13",
+   "period": "2020-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957520000012/0001549575-20-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1820322,
+     "unit": "SH",
+     "value": 85482000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733118,
+     "unit": "SH",
+     "value": 63661000
+    }
+   ],
+   "table_total": 149143000,
+   "first_seen": "2026-11-16T05:07:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-21-000004",
+   "form": "13F-HR",
+   "filed": "2021-02-12",
+   "period": "2020-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957521000004/0001549575-21-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1820322,
+     "unit": "SH",
+     "value": 136852000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733149,
+     "unit": "SH",
+     "value": 69482000
+    }
+   ],
+   "table_total": 206334000,
+   "first_seen": "2026-11-16T05:07:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-21-000008",
+   "form": "13F-HR",
+   "filed": "2021-05-14",
+   "period": "2021-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957521000008/0001549575-21-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1552000,
+     "unit": "SH",
+     "value": 136902000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733118,
+     "unit": "SH",
+     "value": 86853000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 168843,
+     "unit": "SH",
+     "value": 38282000
+    }
+   ],
+   "table_total": 262037000,
+   "first_seen": "2026-11-16T05:07:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-21-000010",
+   "form": "13F-HR",
+   "filed": "2021-08-13",
+   "period": "2021-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957521000010/0001549575-21-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1552000,
+     "unit": "SH",
+     "value": 131889000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733118,
+     "unit": "SH",
+     "value": 87089000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 258721,
+     "unit": "SH",
+     "value": 58673000
+    }
+   ],
+   "table_total": 277651000,
+   "first_seen": "2026-11-16T05:07:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-21-000013",
+   "form": "13F-HR",
+   "filed": "2021-11-12",
+   "period": "2021-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957521000013/0001549575-21-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1579150,
+     "unit": "SH",
+     "value": 112088000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 4733118,
+     "unit": "SH",
+     "value": 70192000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 57347,
+     "unit": "SH",
+     "value": 8490000
+    }
+   ],
+   "table_total": 190770000,
+   "first_seen": "2026-11-16T05:07:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-22-000005",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957522000005/0001549575-22-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1823812,
+     "unit": "SH",
+     "value": 169888000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 3522118,
+     "unit": "SH",
+     "value": 46739000
+    }
+   ],
+   "table_total": 216627000,
+   "first_seen": "2026-11-16T05:07:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-22-000010",
+   "form": "13F-HR",
+   "filed": "2022-05-13",
+   "period": "2022-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957522000010/0001549575-22-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1823812,
+     "unit": "SH",
+     "value": 142057000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 18451,
+     "unit": "SH",
+     "value": 233000
+    }
+   ],
+   "table_total": 142290000,
+   "first_seen": "2026-11-16T05:07:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-22-000013",
+   "form": "13F-HR",
+   "filed": "2022-08-12",
+   "period": "2022-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957522000013/0001549575-22-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1823812,
+     "unit": "SH",
+     "value": 100820000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 3375,
+     "unit": "SH",
+     "value": 18000
+    }
+   ],
+   "table_total": 100838000,
+   "first_seen": "2026-11-16T05:07:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-22-000016",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957522000016/0001549575-22-000016-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1823812,
+     "unit": "SH",
+     "value": 91373000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT INC",
+     "class": "CL A",
+     "shares": 180303,
+     "unit": "SH",
+     "value": 7373000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 3375,
+     "unit": "SH",
+     "value": 30000
+    }
+   ],
+   "table_total": 98776000,
+   "first_seen": "2026-11-16T05:07:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-23-000004",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957523000004/0001549575-23-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1860812,
+     "unit": "SH",
+     "value": 93003384
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A",
+     "shares": 712319,
+     "unit": "SH",
+     "value": 22409556
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGMT LTD",
+     "class": "CL A",
+     "shares": 178077,
+     "unit": "SH",
+     "value": 5105468
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 3375,
+     "unit": "SH",
+     "value": 39926
+    }
+   ],
+   "table_total": 120558334,
+   "first_seen": "2026-11-16T05:07:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-23-000008",
+   "form": "13F-HR",
+   "filed": "2023-05-12",
+   "period": "2023-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957523000008/0001549575-23-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 1592134,
+     "unit": "SH",
+     "value": 96069366
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A",
+     "shares": 772579,
+     "unit": "SH",
+     "value": 25178350
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 3375,
+     "unit": "SH",
+     "value": 26561
+    }
+   ],
+   "table_total": 121274277,
+   "first_seen": "2026-11-16T05:07:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-23-000014",
+   "form": "13F-HR",
+   "filed": "2023-08-11",
+   "period": "2023-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957523000014/0001549575-23-000014-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 362649,
+     "unit": "SH",
+     "value": 59605020
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 203474,
+     "unit": "SH",
+     "value": 13797572
+    }
+   ],
+   "table_total": 73402592,
+   "first_seen": "2026-11-16T05:07:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-23-000017",
+   "form": "13F-HR",
+   "filed": "2023-11-13",
+   "period": "2023-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957523000017/0001549575-23-000017-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 441510,
+     "unit": "SH",
+     "value": 114673440
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 396570,
+     "unit": "SH",
+     "value": 41604159
+    },
+    {
+     "cusip": "03940R107",
+     "put_call": null,
+     "issuer": "ARCH RESOURCES INC",
+     "class": "CL A",
+     "shares": 78238,
+     "unit": "SH",
+     "value": 13352097
+    }
+   ],
+   "table_total": 169629696,
+   "first_seen": "2026-11-16T05:07:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-24-000005",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957524000005/0001549575-24-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 394313,
+     "unit": "SH",
+     "value": 133640624
+    },
+    {
+     "cusip": "03940R107",
+     "put_call": null,
+     "issuer": "ARCH RESOURCES INC",
+     "class": "CL A",
+     "shares": 234994,
+     "unit": "SH",
+     "value": 38994904
+    },
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 629712,
+     "unit": "SH",
+     "value": 38393541
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 369007,
+     "unit": "SH",
+     "value": 37096274
+    }
+   ],
+   "table_total": 248125343,
+   "first_seen": "2026-11-16T05:07:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-24-000007",
+   "form": "13F-HR",
+   "filed": "2024-05-14",
+   "period": "2024-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957524000007/0001549575-24-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 404357,
+     "unit": "SH",
+     "value": 133910969
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 366007,
+     "unit": "SH",
+     "value": 30656746
+    },
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 470763,
+     "unit": "SH",
+     "value": 28575314
+    },
+    {
+     "cusip": "03940R107",
+     "put_call": null,
+     "issuer": "ARCH RESOURCES INC",
+     "class": "CL A",
+     "shares": 140308,
+     "unit": "SH",
+     "value": 22560123
+    }
+   ],
+   "table_total": 215703152,
+   "first_seen": "2026-11-16T05:07:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-24-000009",
+   "form": "13F-HR",
+   "filed": "2024-08-13",
+   "period": "2024-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957524000009/0001549575-24-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 448960,
+     "unit": "SH",
+     "value": 125946800
+    },
+    {
+     "cusip": "03940R107",
+     "put_call": null,
+     "issuer": "ARCH RESOURCES INC",
+     "class": "CL A",
+     "shares": 392388,
+     "unit": "SH",
+     "value": 59733225
+    },
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 471519,
+     "unit": "SH",
+     "value": 29597248
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 172038,
+     "unit": "SH",
+     "value": 17553037
+    }
+   ],
+   "table_total": 232830310,
+   "first_seen": "2026-11-16T05:07:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-24-000013",
+   "form": "13F-HR",
+   "filed": "2024-11-13",
+   "period": "2024-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957524000013/0001549575-24-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 479698,
+     "unit": "SH",
+     "value": 113295117
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 770642,
+     "unit": "SH",
+     "value": 80647685
+    },
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 698407,
+     "unit": "SH",
+     "value": 44628207
+    },
+    {
+     "cusip": "03940R107",
+     "put_call": null,
+     "issuer": "ARCH RESOURCES INC",
+     "class": "CL A",
+     "shares": 31002,
+     "unit": "SH",
+     "value": 4283236
+    },
+    {
+     "cusip": "Y1968P121",
+     "put_call": null,
+     "issuer": "DANAOS CORPORATION",
+     "class": "SHS",
+     "shares": 46590,
+     "unit": "SH",
+     "value": 4041217
+    }
+   ],
+   "table_total": 246895462,
+   "first_seen": "2026-11-16T05:07:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-25-000002",
+   "form": "13F-HR",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957525000002/0001549575-25-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 487251,
+     "unit": "SH",
+     "value": 97508670
+    },
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1704670,
+     "unit": "SH",
+     "value": 92461301
+    },
+    {
+     "cusip": "20854L108",
+     "put_call": null,
+     "issuer": "CONSOL ENERGY INC NEW",
+     "class": "COM",
+     "shares": 594950,
+     "unit": "SH",
+     "value": 63469266
+    }
+   ],
+   "table_total": 253439237,
+   "first_seen": "2026-11-16T05:07:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-25-000004",
+   "form": "13F-HR",
+   "filed": "2025-05-14",
+   "period": "2025-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957525000004/0001549575-25-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1799580,
+     "unit": "SH",
+     "value": 85875958
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS LTD",
+     "class": "CL A",
+     "shares": 1427564,
+     "unit": "SH",
+     "value": 56046163
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 414616,
+     "unit": "SH",
+     "value": 51930654
+    },
+    {
+     "cusip": "G65431127",
+     "put_call": null,
+     "issuer": "NOBLE CORP PLC",
+     "class": "ORD SHS A",
+     "shares": 1728744,
+     "unit": "SH",
+     "value": 40971233
+    }
+   ],
+   "table_total": 234824008,
+   "first_seen": "2026-11-16T05:07:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-25-000006",
+   "form": "13F-HR",
+   "filed": "2025-08-13",
+   "period": "2025-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957525000006/0001549575-25-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1799745,
+     "unit": "SH",
+     "value": 82482313
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS LTD",
+     "class": "CL A",
+     "shares": 1883777,
+     "unit": "SH",
+     "value": 79325849
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 460327,
+     "unit": "SH",
+     "value": 51777581
+    },
+    {
+     "cusip": "G65431127",
+     "put_call": null,
+     "issuer": "NOBLE CORP PLC",
+     "class": "ORD SHS A",
+     "shares": 1728744,
+     "unit": "SH",
+     "value": 45898153
+    },
+    {
+     "cusip": "05329W102",
+     "put_call": null,
+     "issuer": "AUTONATION INC",
+     "class": "COM",
+     "shares": 61000,
+     "unit": "SH",
+     "value": 12117650
+    }
+   ],
+   "table_total": 271601546,
+   "first_seen": "2026-11-16T05:07:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-25-000012",
+   "form": "13F-HR",
+   "filed": "2025-11-13",
+   "period": "2025-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957525000012/0001549575-25-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1799831,
+     "unit": "SH",
+     "value": 114541245
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 532000,
+     "unit": "SH",
+     "value": 87295880
+    },
+    {
+     "cusip": "H8817H100",
+     "put_call": null,
+     "issuer": "TRANSOCEAN LTD",
+     "class": "REGISTERED SHS",
+     "shares": 24442332,
+     "unit": "SH",
+     "value": 76260076
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS LTD",
+     "class": "CL A",
+     "shares": 1066255,
+     "unit": "SH",
+     "value": 52001256
+    },
+    {
+     "cusip": "G65431127",
+     "put_call": null,
+     "issuer": "NOBLE CORP PLC",
+     "class": "ORD SHS A",
+     "shares": 239000,
+     "unit": "SH",
+     "value": 6758920
+    }
+   ],
+   "table_total": 336857377,
+   "first_seen": "2026-11-16T05:07:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-26-000002",
+   "form": "13F-HR",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000002/0001549575-26-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1799831,
+     "unit": "SH",
+     "value": 158691099
+    },
+    {
+     "cusip": "H8817H100",
+     "put_call": null,
+     "issuer": "TRANSOCEAN LTD",
+     "class": "REGISTERED SHS",
+     "shares": 27040133,
+     "unit": "SH",
+     "value": 111675749
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 543000,
+     "unit": "SH",
+     "value": 108534840
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS LTD",
+     "class": "CL A",
+     "shares": 459098,
+     "unit": "SH",
+     "value": 23138539
+    }
+   ],
+   "table_total": 402040227,
+   "first_seen": "2026-11-16T05:07:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-26-000009",
+   "form": "13F-HR",
+   "filed": "2026-05-14",
+   "period": "2026-03-31",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000009/0001549575-26-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1810831,
+     "unit": "SH",
+     "value": 168678908
+    },
+    {
+     "cusip": "H8817H100",
+     "put_call": null,
+     "issuer": "TRANSOCEAN LTD",
+     "class": "REGISTERED SHS",
+     "shares": 20392672,
+     "unit": "SH",
+     "value": 135203415
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 579738,
+     "unit": "SH",
+     "value": 119002819
+    }
+   ],
+   "table_total": 422885142,
+   "first_seen": "2026-11-16T05:08:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-26-000015",
+   "form": "13F-HR",
+   "filed": "2026-08-13",
+   "period": "2026-06-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000015/0001549575-26-000015-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1744050,
+     "unit": "SH",
+     "value": 141547098
+    },
+    {
+     "cusip": "H8817H100",
+     "put_call": null,
+     "issuer": "TRANSOCEAN LTD",
+     "class": "REGISTERED SHS",
+     "shares": 20398659,
+     "unit": "SH",
+     "value": 99749443
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 517194,
+     "unit": "SH",
+     "value": 85305978
+    },
+    {
+     "cusip": "48581R205",
+     "put_call": null,
+     "issuer": "KASPI KZ JSC",
+     "class": "SPONSORED ADS",
+     "shares": 1702,
+     "unit": "SH",
+     "value": 147461
+    }
+   ],
+   "table_total": 326749980,
+   "first_seen": "2026-11-16T05:08:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001549575-26-000023",
+   "form": "13F-HR",
+   "filed": "2026-11-13",
+   "period": "2026-09-30",
+   "cik": 1549575,
+   "url": "https://www.sec.gov/Archives/edgar/data/1549575/000154957526000023/0001549575-26-000023-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dalal Street, LLC",
+   "holdings": [
+    {
+     "cusip": "93627C101",
+     "put_call": null,
+     "issuer": "WARRIOR MET COAL INC",
+     "class": "COM",
+     "shares": 1867295,
+     "unit": "SH",
+     "value": 164452671
+    },
+    {
+     "cusip": "H8817H100",
+     "put_call": null,
+     "issuer": "TRANSOCEAN LTD",
+     "class": "REGISTERED SHS",
+     "shares": 28475305,
+     "unit": "SH",
+     "value": 149210598
+    },
+    {
+     "cusip": "020764106",
+     "put_call": null,
+     "issuer": "ALPHA METALLURGICAL RESOUR I",
+     "class": "COM",
+     "shares": 170744,
+     "unit": "SH",
+     "value": 28722556
+    },
+    {
+     "cusip": "48581R205",
+     "put_call": null,
+     "issuer": "KASPI KZ JSC",
+     "class": "SPONSORED ADS",
+     "shares": 209211,
+     "unit": "SH",
+     "value": 19678387
+    }
+   ],
+   "table_total": 362064212,
+   "first_seen": "2026-11-16T05:08:02+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "PABRAI MOHNISH"
+}

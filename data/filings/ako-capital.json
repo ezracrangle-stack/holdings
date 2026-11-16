@@ -1,0 +1,8898 @@
+{
+ "filings": [
+  {
+   "accession": "0001376879-17-000003",
+   "form": "13F-HR",
+   "filed": "2017-01-18",
+   "period": "2016-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687917000003/0001376879-17-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 4151324,
+     "unit": "SH",
+     "value": 241983000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 684386,
+     "unit": "SH",
+     "value": 53396000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 738428,
+     "unit": "SH",
+     "value": 47259000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 356692,
+     "unit": "SH",
+     "value": 42525000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 484139,
+     "unit": "SH",
+     "value": 40029000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 583223,
+     "unit": "SH",
+     "value": 38166000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 293384,
+     "unit": "SH",
+     "value": 34382000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 609688,
+     "unit": "SH",
+     "value": 34161000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 428033,
+     "unit": "SH",
+     "value": 32740000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 627471,
+     "unit": "SH",
+     "value": 32233000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 259943,
+     "unit": "SH",
+     "value": 31204000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 312889,
+     "unit": "SH",
+     "value": 28939000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 566255,
+     "unit": "SH",
+     "value": 28783000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 294909,
+     "unit": "SH",
+     "value": 27801000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 482479,
+     "unit": "SH",
+     "value": 26589000
+    },
+    {
+     "cusip": "61166W101",
+     "put_call": null,
+     "issuer": "MONSANTO CO NEW",
+     "class": "COM",
+     "shares": 210124,
+     "unit": "SH",
+     "value": 22107000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 21690,
+     "unit": "SH",
+     "value": 16741000
+    }
+   ],
+   "table_total": 779038000,
+   "first_seen": "2026-11-16T05:05:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-17-000005",
+   "form": "13F-HR",
+   "filed": "2017-05-03",
+   "period": "2017-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687917000005/0001376879-17-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 5441163,
+     "unit": "SH",
+     "value": 400203000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 763572,
+     "unit": "SH",
+     "value": 67859000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 856657,
+     "unit": "SH",
+     "value": 64858000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 561655,
+     "unit": "SH",
+     "value": 52897000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 371008,
+     "unit": "SH",
+     "value": 47841000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 526278,
+     "unit": "SH",
+     "value": 44623000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 363478,
+     "unit": "SH",
+     "value": 43108000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 724758,
+     "unit": "SH",
+     "value": 40391000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 779187,
+     "unit": "SH",
+     "value": 40128000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 48335,
+     "unit": "SH",
+     "value": 40097000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 342125,
+     "unit": "SH",
+     "value": 38332000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 352276,
+     "unit": "SH",
+     "value": 37648000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 506776,
+     "unit": "SH",
+     "value": 37091000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 11674189,
+     "unit": "SH",
+     "value": 36979000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 301562,
+     "unit": "SH",
+     "value": 34836000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 544057,
+     "unit": "SH",
+     "value": 32382000
+    },
+    {
+     "cusip": "61166W101",
+     "put_call": null,
+     "issuer": "MONSANTO CO NEW",
+     "class": "COM",
+     "shares": 243765,
+     "unit": "SH",
+     "value": 27594000
+    },
+    {
+     "cusip": "412822108",
+     "put_call": null,
+     "issuer": "HARLEY DAVIDSON INC",
+     "class": "COM",
+     "shares": 435298,
+     "unit": "SH",
+     "value": 26336000
+    }
+   ],
+   "table_total": 1113203000,
+   "first_seen": "2026-11-16T05:05:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-17-000006",
+   "form": "13F-HR",
+   "filed": "2017-08-01",
+   "period": "2017-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687917000006/0001376879-17-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 4844596,
+     "unit": "SH",
+     "value": 407263000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 710746,
+     "unit": "SH",
+     "value": 66654000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 680484,
+     "unit": "SH",
+     "value": 65313000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 697036,
+     "unit": "SH",
+     "value": 56544000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 1006549,
+     "unit": "SH",
+     "value": 52260000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 386117,
+     "unit": "SH",
+     "value": 51180000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 855034,
+     "unit": "SH",
+     "value": 50447000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 358063,
+     "unit": "SH",
+     "value": 49918000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 486651,
+     "unit": "SH",
+     "value": 48816000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 713337,
+     "unit": "SH",
+     "value": 47366000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 51624,
+     "unit": "SH",
+     "value": 46912000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 347510,
+     "unit": "SH",
+     "value": 42285000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 323266,
+     "unit": "SH",
+     "value": 39335000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 503568,
+     "unit": "SH",
+     "value": 37329000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 310226,
+     "unit": "SH",
+     "value": 31417000
+    },
+    {
+     "cusip": "61166W101",
+     "put_call": null,
+     "issuer": "MONSANTO CO NEW",
+     "class": "COM",
+     "shares": 216176,
+     "unit": "SH",
+     "value": 25587000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12341363,
+     "unit": "SH",
+     "value": 9335000
+    }
+   ],
+   "table_total": 1127961000,
+   "first_seen": "2026-11-16T05:06:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-17-000007",
+   "form": "13F-HR",
+   "filed": "2017-11-06",
+   "period": "2017-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687917000007/0001376879-17-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 4187765,
+     "unit": "SH",
+     "value": 451354000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 739854,
+     "unit": "SH",
+     "value": 77862000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 705640,
+     "unit": "SH",
+     "value": 76096000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 744777,
+     "unit": "SH",
+     "value": 64401000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 819187,
+     "unit": "SH",
+     "value": 59424000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 423495,
+     "unit": "SH",
+     "value": 59179000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 1101655,
+     "unit": "SH",
+     "value": 59038000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 497912,
+     "unit": "SH",
+     "value": 54900000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 56289,
+     "unit": "SH",
+     "value": 53987000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 361353,
+     "unit": "SH",
+     "value": 50770000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 355453,
+     "unit": "SH",
+     "value": 49483000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 341047,
+     "unit": "SH",
+     "value": 41857000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 515080,
+     "unit": "SH",
+     "value": 37524000
+    },
+    {
+     "cusip": "61166W101",
+     "put_call": null,
+     "issuer": "MONSANTO CO NEW",
+     "class": "COM",
+     "shares": 248452,
+     "unit": "SH",
+     "value": 29770000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 480192,
+     "unit": "SH",
+     "value": 24898000
+    },
+    {
+     "cusip": "278865100",
+     "put_call": null,
+     "issuer": "ECOLAB INC",
+     "class": "COM",
+     "shares": 148305,
+     "unit": "SH",
+     "value": 19074000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 11464560,
+     "unit": "SH",
+     "value": 8902000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 4544467,
+     "unit": "SH",
+     "value": 1023000
+    }
+   ],
+   "table_total": 1219542000,
+   "first_seen": "2026-11-16T05:06:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-18-000003",
+   "form": "13F-HR",
+   "filed": "2018-02-02",
+   "period": "2017-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687918000003/0001376879-18-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 4245476,
+     "unit": "SH",
+     "value": 434095000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 652529,
+     "unit": "SH",
+     "value": 83028000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 616476,
+     "unit": "SH",
+     "value": 70291000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 424312,
+     "unit": "SH",
+     "value": 65633000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 458992,
+     "unit": "SH",
+     "value": 62299000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 56850,
+     "unit": "SH",
+     "value": 59488000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 746227,
+     "unit": "SH",
+     "value": 59370000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 763152,
+     "unit": "SH",
+     "value": 54199000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 353446,
+     "unit": "SH",
+     "value": 54148000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 979476,
+     "unit": "SH",
+     "value": 52480000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 312447,
+     "unit": "SH",
+     "value": 46120000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 607372,
+     "unit": "SH",
+     "value": 45826000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 293914,
+     "unit": "SH",
+     "value": 43379000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 291077,
+     "unit": "SH",
+     "value": 42512000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 327146,
+     "unit": "SH",
+     "value": 41734000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 480674,
+     "unit": "SH",
+     "value": 30066000
+    },
+    {
+     "cusip": "278865100",
+     "put_call": null,
+     "issuer": "ECOLAB INC",
+     "class": "COM",
+     "shares": 205311,
+     "unit": "SH",
+     "value": 27549000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 11352661,
+     "unit": "SH",
+     "value": 15622000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 5379268,
+     "unit": "SH",
+     "value": 339000
+    }
+   ],
+   "table_total": 1288177000,
+   "first_seen": "2026-11-16T05:06:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-18-000004",
+   "form": "13F-HR",
+   "filed": "2018-05-02",
+   "period": "2018-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687918000004/0001376879-18-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 3961719,
+     "unit": "SH",
+     "value": 476499000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 11649634,
+     "unit": "SH",
+     "value": 246972000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 628095,
+     "unit": "SH",
+     "value": 94038000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 678544,
+     "unit": "SH",
+     "value": 81167000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 860768,
+     "unit": "SH",
+     "value": 73415000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 861254,
+     "unit": "SH",
+     "value": 69331000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 505344,
+     "unit": "SH",
+     "value": 68717000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 467823,
+     "unit": "SH",
+     "value": 67507000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 491686,
+     "unit": "SH",
+     "value": 61864000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 351926,
+     "unit": "SH",
+     "value": 59606000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 355630,
+     "unit": "SH",
+     "value": 57520000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 1079914,
+     "unit": "SH",
+     "value": 54536000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 52604,
+     "unit": "SH",
+     "value": 54276000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 691332,
+     "unit": "SH",
+     "value": 49555000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 6742367,
+     "unit": "SH",
+     "value": 49017000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 294293,
+     "unit": "SH",
+     "value": 47469000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 284795,
+     "unit": "SH",
+     "value": 44625000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 529964,
+     "unit": "SH",
+     "value": 35211000
+    }
+   ],
+   "table_total": 1691325000,
+   "first_seen": "2026-11-16T05:06:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-18-000005",
+   "form": "13F-HR",
+   "filed": "2018-08-09",
+   "period": "2018-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687918000005/0001376879-18-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 3657381,
+     "unit": "SH",
+     "value": 496400000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 10759637,
+     "unit": "SH",
+     "value": 231332000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 717459,
+     "unit": "SH",
+     "value": 102374000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 740305,
+     "unit": "SH",
+     "value": 98053000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 510405,
+     "unit": "SH",
+     "value": 80721000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 403978,
+     "unit": "SH",
+     "value": 78097000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 968660,
+     "unit": "SH",
+     "value": 74936000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 939647,
+     "unit": "SH",
+     "value": 74223000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 904412,
+     "unit": "SH",
+     "value": 72064000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 565220,
+     "unit": "SH",
+     "value": 70669000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 551342,
+     "unit": "SH",
+     "value": 69800000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 60790,
+     "unit": "SH",
+     "value": 67820000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 387999,
+     "unit": "SH",
+     "value": 63601000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 310638,
+     "unit": "SH",
+     "value": 54107000
+    },
+    {
+     "cusip": "902973304",
+     "put_call": null,
+     "issuer": "US BANCORP DEL",
+     "class": "COM NEW",
+     "shares": 1001075,
+     "unit": "SH",
+     "value": 50074000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 754259,
+     "unit": "SH",
+     "value": 48884000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 267966,
+     "unit": "SH",
+     "value": 45704000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 243336,
+     "unit": "SH",
+     "value": 35422000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 7356066,
+     "unit": "SH",
+     "value": 34059000
+    }
+   ],
+   "table_total": 1828292000,
+   "first_seen": "2026-11-16T05:06:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-18-000006",
+   "form": "13F-HR",
+   "filed": "2018-11-06",
+   "period": "2018-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687918000006/0001376879-18-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 3353761,
+     "unit": "SH",
+     "value": 461382000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 9846971,
+     "unit": "SH",
+     "value": 210430000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 761419,
+     "unit": "SH",
+     "value": 110649000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 684413,
+     "unit": "SH",
+     "value": 102724000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 1105911,
+     "unit": "SH",
+     "value": 100162000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 691534,
+     "unit": "SH",
+     "value": 96683000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 695525,
+     "unit": "SH",
+     "value": 91830000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1081864,
+     "unit": "SH",
+     "value": 91656000
+    },
+    {
+     "cusip": "74005P104",
+     "put_call": null,
+     "issuer": "PRAXAIR INC",
+     "class": "COM",
+     "shares": 553146,
+     "unit": "SH",
+     "value": 88907000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 380541,
+     "unit": "SH",
+     "value": 86973000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 453284,
+     "unit": "SH",
+     "value": 77153000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 698237,
+     "unit": "SH",
+     "value": 74355000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 60729,
+     "unit": "SH",
+     "value": 72478000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 339674,
+     "unit": "SH",
+     "value": 63410000
+    },
+    {
+     "cusip": "194162103",
+     "put_call": null,
+     "issuer": "COLGATE PALMOLIVE CO",
+     "class": "COM",
+     "shares": 879383,
+     "unit": "SH",
+     "value": 58875000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 306782,
+     "unit": "SH",
+     "value": 51294000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 538263,
+     "unit": "SH",
+     "value": 41527000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 9027683,
+     "unit": "SH",
+     "value": 41257000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 217812,
+     "unit": "SH",
+     "value": 37921000
+    }
+   ],
+   "table_total": 1959666000,
+   "first_seen": "2026-11-16T05:06:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-19-000002",
+   "form": "13F-HR",
+   "filed": "2019-02-06",
+   "period": "2018-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687919000002/0001376879-19-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 3055036,
+     "unit": "SH",
+     "value": 303704000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 1904696,
+     "unit": "SH",
+     "value": 300465000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12283473,
+     "unit": "SH",
+     "value": 225525000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1050673,
+     "unit": "SH",
+     "value": 136693000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 900564,
+     "unit": "SH",
+     "value": 118820000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 1455574,
+     "unit": "SH",
+     "value": 116024000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1488724,
+     "unit": "SH",
+     "value": 110374000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 528775,
+     "unit": "SH",
+     "value": 98881000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 908773,
+     "unit": "SH",
+     "value": 96766000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1007475,
+     "unit": "SH",
+     "value": 96033000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 496246,
+     "unit": "SH",
+     "value": 93354000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 852943,
+     "unit": "SH",
+     "value": 92595000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 87992,
+     "unit": "SH",
+     "value": 91125000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 630969,
+     "unit": "SH",
+     "value": 90191000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 798918,
+     "unit": "SH",
+     "value": 73437000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 16833019,
+     "unit": "SH",
+     "value": 65985000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 413616,
+     "unit": "SH",
+     "value": 57923000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 278181,
+     "unit": "SH",
+     "value": 42609000
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 121197,
+     "unit": "SH",
+     "value": 7694000
+    }
+   ],
+   "table_total": 2218198000,
+   "first_seen": "2026-11-16T05:06:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-19-000003",
+   "form": "13F-HR",
+   "filed": "2019-05-08",
+   "period": "2019-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687919000003/0001376879-19-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 3187667,
+     "unit": "SH",
+     "value": 427150000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 2025606,
+     "unit": "SH",
+     "value": 355314000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 11908426,
+     "unit": "SH",
+     "value": 239478000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1199779,
+     "unit": "SH",
+     "value": 198623000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1209722,
+     "unit": "SH",
+     "value": 188946000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 1391979,
+     "unit": "SH",
+     "value": 179412000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 941150,
+     "unit": "SH",
+     "value": 171958000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1957855,
+     "unit": "SH",
+     "value": 164871000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 591536,
+     "unit": "SH",
+     "value": 160679000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PUB LTD CO",
+     "class": "ORD SHS",
+     "shares": 1754663,
+     "unit": "SH",
+     "value": 159165000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1430186,
+     "unit": "SH",
+     "value": 156319000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1213779,
+     "unit": "SH",
+     "value": 151832000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 122370,
+     "unit": "SH",
+     "value": 143578000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1207884,
+     "unit": "SH",
+     "value": 125680000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 26478623,
+     "unit": "SH",
+     "value": 113858000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 604959,
+     "unit": "SH",
+     "value": 99564000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 520178,
+     "unit": "SH",
+     "value": 94199000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 704506,
+     "unit": "SH",
+     "value": 93699000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 458351,
+     "unit": "SH",
+     "value": 87696000
+    }
+   ],
+   "table_total": 3312021000,
+   "first_seen": "2026-11-16T05:06:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-19-000004",
+   "form": "13F-HR",
+   "filed": "2019-08-05",
+   "period": "2019-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687919000004/0001376879-19-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 2992168,
+     "unit": "SH",
+     "value": 485093000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 1963156,
+     "unit": "SH",
+     "value": 394357000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12562923,
+     "unit": "SH",
+     "value": 265078000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1265414,
+     "unit": "SH",
+     "value": 219613000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1171524,
+     "unit": "SH",
+     "value": 214518000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1767572,
+     "unit": "SH",
+     "value": 195405000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1492558,
+     "unit": "SH",
+     "value": 184241000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 898998,
+     "unit": "SH",
+     "value": 184133000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 935264,
+     "unit": "SH",
+     "value": 181544000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1235952,
+     "unit": "SH",
+     "value": 173392000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1993021,
+     "unit": "SH",
+     "value": 167314000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 1246883,
+     "unit": "SH",
+     "value": 162344000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 504721,
+     "unit": "SH",
+     "value": 158492000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 32360930,
+     "unit": "SH",
+     "value": 151126000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 2434011,
+     "unit": "SH",
+     "value": 150549000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1319947,
+     "unit": "SH",
+     "value": 144732000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 958842,
+     "unit": "SH",
+     "value": 140432000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 123965,
+     "unit": "SH",
+     "value": 133995000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 570254,
+     "unit": "SH",
+     "value": 105349000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 448372,
+     "unit": "SH",
+     "value": 87572000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 303117,
+     "unit": "SH",
+     "value": 34401000
+    }
+   ],
+   "table_total": 3933680000,
+   "first_seen": "2026-11-16T05:06:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-19-000005",
+   "form": "13F-HR",
+   "filed": "2019-11-06",
+   "period": "2019-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687919000005/0001376879-19-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 2665872,
+     "unit": "SH",
+     "value": 517233000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 2558461,
+     "unit": "SH",
+     "value": 394761000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12159643,
+     "unit": "SH",
+     "value": 243679000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2436458,
+     "unit": "SH",
+     "value": 228832000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1228899,
+     "unit": "SH",
+     "value": 211383000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 1539192,
+     "unit": "SH",
+     "value": 210130000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1878923,
+     "unit": "SH",
+     "value": 194750000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 976085,
+     "unit": "SH",
+     "value": 194192000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1541049,
+     "unit": "SH",
+     "value": 191676000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 147982,
+     "unit": "SH",
+     "value": 180390000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1460065,
+     "unit": "SH",
+     "value": 172696000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 777293,
+     "unit": "SH",
+     "value": 172062000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 34709878,
+     "unit": "SH",
+     "value": 160360000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1253498,
+     "unit": "SH",
+     "value": 155898000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 707185,
+     "unit": "SH",
+     "value": 149456000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 932967,
+     "unit": "SH",
+     "value": 147539000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 643499,
+     "unit": "SH",
+     "value": 141512000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 423492,
+     "unit": "SH",
+     "value": 128538000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 2110784,
+     "unit": "SH",
+     "value": 123104000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 762943,
+     "unit": "SH",
+     "value": 95055000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 458026,
+     "unit": "SH",
+     "value": 93817000
+    }
+   ],
+   "table_total": 4107063000,
+   "first_seen": "2026-11-16T05:06:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-20-000002",
+   "form": "13F-HR",
+   "filed": "2020-02-13",
+   "period": "2019-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687920000002/0001376879-20-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 2618845,
+     "unit": "SH",
+     "value": 559817000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 2451075,
+     "unit": "SH",
+     "value": 406535000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12406546,
+     "unit": "SH",
+     "value": 288948000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 1849238,
+     "unit": "SH",
+     "value": 276942000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2545308,
+     "unit": "SH",
+     "value": 257865000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1366044,
+     "unit": "SH",
+     "value": 256680000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1961829,
+     "unit": "SH",
+     "value": 244326000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 182168,
+     "unit": "SH",
+     "value": 243562000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 855748,
+     "unit": "SH",
+     "value": 220278000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1609115,
+     "unit": "SH",
+     "value": 200978000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 939113,
+     "unit": "SH",
+     "value": 193964000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 828423,
+     "unit": "SH",
+     "value": 193263000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 39091941,
+     "unit": "SH",
+     "value": 182168000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1207618,
+     "unit": "SH",
+     "value": 159828000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 2808902,
+     "unit": "SH",
+     "value": 158994000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1266793,
+     "unit": "SH",
+     "value": 157703000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 409508,
+     "unit": "SH",
+     "value": 153434000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM CL A",
+     "shares": 735840,
+     "unit": "SH",
+     "value": 147698000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 974198,
+     "unit": "SH",
+     "value": 145487000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 478322,
+     "unit": "SH",
+     "value": 113558000
+    },
+    {
+     "cusip": "M22465104",
+     "put_call": null,
+     "issuer": "CHECK POINT SOFTWARE TECH LT",
+     "class": "ORD",
+     "shares": 781478,
+     "unit": "SH",
+     "value": 86713000
+    }
+   ],
+   "table_total": 4648741000,
+   "first_seen": "2026-11-16T05:06:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-20-000003",
+   "form": "13F-HR",
+   "filed": "2020-05-06",
+   "period": "2020-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687920000003/0001376879-20-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 3772932,
+     "unit": "SH",
+     "value": 662888000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 2552822,
+     "unit": "SH",
+     "value": 395273000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1793542,
+     "unit": "SH",
+     "value": 288975000
+    },
+    {
+     "cusip": "913017109",
+     "put_call": null,
+     "issuer": "UNITED TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 2983253,
+     "unit": "SH",
+     "value": 281410000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 13241833,
+     "unit": "SH",
+     "value": 266691000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 2079180,
+     "unit": "SH",
+     "value": 228710000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 810662,
+     "unit": "SH",
+     "value": 188455000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1161793,
+     "unit": "SH",
+     "value": 185120000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 157878,
+     "unit": "SH",
+     "value": 183582000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1853751,
+     "unit": "SH",
+     "value": 170582000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 5649338,
+     "unit": "SH",
+     "value": 169819000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1369150,
+     "unit": "SH",
+     "value": 161135000
+    },
+    {
+     "cusip": "M22465104",
+     "put_call": null,
+     "issuer": "CHECK POINT SOFTWARE TECH LT",
+     "class": "ORD",
+     "shares": 1558021,
+     "unit": "SH",
+     "value": 156643000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 2824344,
+     "unit": "SH",
+     "value": 144283000
+    },
+    {
+     "cusip": "28176E108",
+     "put_call": null,
+     "issuer": "EDWARDS LIFESCIENCES CORP",
+     "class": "COM",
+     "shares": 753568,
+     "unit": "SH",
+     "value": 142138000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 1526357,
+     "unit": "SH",
+     "value": 130671000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM",
+     "shares": 746059,
+     "unit": "SH",
+     "value": 129001000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 904078,
+     "unit": "SH",
+     "value": 126010000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1489273,
+     "unit": "SH",
+     "value": 123222000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 537023,
+     "unit": "SH",
+     "value": 113580000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 357729,
+     "unit": "SH",
+     "value": 110070000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1458967,
+     "unit": "SH",
+     "value": 109145000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 47067531,
+     "unit": "SH",
+     "value": 108255000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 324517,
+     "unit": "SH",
+     "value": 103274000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 49443,
+     "unit": "SH",
+     "value": 66517000
+    }
+   ],
+   "table_total": 4745449000,
+   "first_seen": "2026-11-16T05:06:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-20-000004",
+   "form": "13F-HR",
+   "filed": "2020-08-03",
+   "period": "2020-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687920000004/0001376879-20-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 4144394,
+     "unit": "SH",
+     "value": 877414000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 8457726,
+     "unit": "SH",
+     "value": 443608000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2056073,
+     "unit": "SH",
+     "value": 397172000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1891320,
+     "unit": "SH",
+     "value": 323042000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 5353071,
+     "unit": "SH",
+     "value": 304376000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1597725,
+     "unit": "SH",
+     "value": 301459000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 185198,
+     "unit": "SH",
+     "value": 261798000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1885366,
+     "unit": "SH",
+     "value": 225433000
+    },
+    {
+     "cusip": "398438408",
+     "put_call": null,
+     "issuer": "GRIFOLS S A",
+     "class": "SP ADR REP B NVT",
+     "shares": 12273278,
+     "unit": "SH",
+     "value": 223865000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 695116,
+     "unit": "SH",
+     "value": 202786000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1446794,
+     "unit": "SH",
+     "value": 198269000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 455068,
+     "unit": "SH",
+     "value": 198096000
+    },
+    {
+     "cusip": "M22465104",
+     "put_call": null,
+     "issuer": "CHECK POINT SOFTWARE TECH LT",
+     "class": "ORD",
+     "shares": 1725805,
+     "unit": "SH",
+     "value": 185403000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 3189762,
+     "unit": "SH",
+     "value": 183064000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1781377,
+     "unit": "SH",
+     "value": 174664000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 2003570,
+     "unit": "SH",
+     "value": 171766000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 105086,
+     "unit": "SH",
+     "value": 167333000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 945124,
+     "unit": "SH",
+     "value": 160860000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1554219,
+     "unit": "SH",
+     "value": 158872000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 369150,
+     "unit": "SH",
+     "value": 154319000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 535122,
+     "unit": "SH",
+     "value": 147014000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 51823331,
+     "unit": "SH",
+     "value": 136814000
+    },
+    {
+     "cusip": "12572Q105",
+     "put_call": null,
+     "issuer": "CME GROUP INV",
+     "class": "COM",
+     "shares": 638179,
+     "unit": "SH",
+     "value": 103730000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 1329300,
+     "unit": "SH",
+     "value": 27011000
+    }
+   ],
+   "table_total": 5728168000,
+   "first_seen": "2026-11-16T05:06:09+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-20-000005",
+   "form": "13F-HR",
+   "filed": "2020-11-02",
+   "period": "2020-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687920000005/0001376879-20-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 3710988,
+     "unit": "SH",
+     "value": 879413000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 9047389,
+     "unit": "SH",
+     "value": 471369000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2095062,
+     "unit": "SH",
+     "value": 418950000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1622834,
+     "unit": "SH",
+     "value": 354184000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1806853,
+     "unit": "SH",
+     "value": 331991000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 2150144,
+     "unit": "SH",
+     "value": 298849000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2361535,
+     "unit": "SH",
+     "value": 296467000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 4539922,
+     "unit": "SH",
+     "value": 283382000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 188817,
+     "unit": "SH",
+     "value": 277485000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1549534,
+     "unit": "SH",
+     "value": 256246000
+    },
+    {
+     "cusip": "M22465104",
+     "put_call": null,
+     "issuer": "CHECK POINT SOFTWARE TECH LT",
+     "class": "ORD",
+     "shares": 1903996,
+     "unit": "SH",
+     "value": 229127000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 449390,
+     "unit": "SH",
+     "value": 220394000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 620518,
+     "unit": "SH",
+     "value": 203052000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2016118,
+     "unit": "SH",
+     "value": 199414000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 2142372,
+     "unit": "SH",
+     "value": 198341000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 435377,
+     "unit": "SH",
+     "value": 192228000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 107470,
+     "unit": "SH",
+     "value": 183847000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 3212557,
+     "unit": "SH",
+     "value": 182744000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 974606,
+     "unit": "SH",
+     "value": 180604000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 572594,
+     "unit": "SH",
+     "value": 165966000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 361713,
+     "unit": "SH",
+     "value": 153865000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 1472385,
+     "unit": "SH",
+     "value": 147312000
+    },
+    {
+     "cusip": "904311107",
+     "put_call": null,
+     "issuer": "UNDER ARMOUR INC",
+     "class": "CL A",
+     "shares": 10112291,
+     "unit": "SH",
+     "value": 113561000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 49493482,
+     "unit": "SH",
+     "value": 111855000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 1470753,
+     "unit": "SH",
+     "value": 22444000
+    }
+   ],
+   "table_total": 6373090000,
+   "first_seen": "2026-11-16T05:06:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-21-000002",
+   "form": "13F-HR",
+   "filed": "2021-02-02",
+   "period": "2020-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687921000002/0001376879-21-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 3688572,
+     "unit": "SH",
+     "value": 964998000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 274374,
+     "unit": "SH",
+     "value": 611105000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 10988924,
+     "unit": "SH",
+     "value": 552193000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2338562,
+     "unit": "SH",
+     "value": 511514000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1574795,
+     "unit": "SH",
+     "value": 419195000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 214541,
+     "unit": "SH",
+     "value": 375850000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2539326,
+     "unit": "SH",
+     "value": 359238000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1455219,
+     "unit": "SH",
+     "value": 335356000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 4658121,
+     "unit": "SH",
+     "value": 314656000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 2205875,
+     "unit": "SH",
+     "value": 306925000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 4428514,
+     "unit": "SH",
+     "value": 293918000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1589663,
+     "unit": "SH",
+     "value": 263089000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1946651,
+     "unit": "SH",
+     "value": 256802000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2134258,
+     "unit": "SH",
+     "value": 248385000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 529274,
+     "unit": "SH",
+     "value": 246525000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 460964,
+     "unit": "SH",
+     "value": 230537000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 999627,
+     "unit": "SH",
+     "value": 207513000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 1742318,
+     "unit": "SH",
+     "value": 200872000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 371116,
+     "unit": "SH",
+     "value": 189655000
+    },
+    {
+     "cusip": "M22465104",
+     "put_call": null,
+     "issuer": "CHECK POINT SOFTWARE TECH LT",
+     "class": "ORD",
+     "shares": 1413618,
+     "unit": "SH",
+     "value": 187884000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 587418,
+     "unit": "SH",
+     "value": 170492000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 444350,
+     "unit": "SH",
+     "value": 161655000
+    },
+    {
+     "cusip": "904311107",
+     "put_call": null,
+     "issuer": "UNDER ARMOUR INC",
+     "class": "CL A",
+     "shares": 7667536,
+     "unit": "SH",
+     "value": 131652000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 32881216,
+     "unit": "SH",
+     "value": 100617000
+    },
+    {
+     "cusip": "761152107",
+     "put_call": null,
+     "issuer": "RESMED INC",
+     "class": "COM",
+     "shares": 356305,
+     "unit": "SH",
+     "value": 75736000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 1566086,
+     "unit": "SH",
+     "value": 41517000
+    }
+   ],
+   "table_total": 7757879000,
+   "first_seen": "2026-11-16T05:06:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-21-000003",
+   "form": "13F-HR",
+   "filed": "2021-05-06",
+   "period": "2021-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687921000003/0001376879-21-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 4221213,
+     "unit": "SH",
+     "value": 1183970000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 274101,
+     "unit": "SH",
+     "value": 638611000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 9331429,
+     "unit": "SH",
+     "value": 571457000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6265169,
+     "unit": "SH",
+     "value": 440090000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 209946,
+     "unit": "SH",
+     "value": 434301000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1972114,
+     "unit": "SH",
+     "value": 417556000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1416112,
+     "unit": "SH",
+     "value": 411876000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 5534014,
+     "unit": "SH",
+     "value": 378803000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 735859,
+     "unit": "SH",
+     "value": 335831000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2575783,
+     "unit": "SH",
+     "value": 323570000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2394705,
+     "unit": "SH",
+     "value": 318232000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 640494,
+     "unit": "SH",
+     "value": 304472000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1892085,
+     "unit": "SH",
+     "value": 256245000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1590979,
+     "unit": "SH",
+     "value": 250547000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1117548,
+     "unit": "SH",
+     "value": 234070000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 756734,
+     "unit": "SH",
+     "value": 225968000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 1915248,
+     "unit": "SH",
+     "value": 213895000
+    },
+    {
+     "cusip": "55087P104",
+     "put_call": null,
+     "issuer": "LYFT INC",
+     "class": "CL A COM",
+     "shares": 2538498,
+     "unit": "SH",
+     "value": 160382000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 939272,
+     "unit": "SH",
+     "value": 139116000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 281134,
+     "unit": "SH",
+     "value": 136645000
+    },
+    {
+     "cusip": "904311107",
+     "put_call": null,
+     "issuer": "UNDER ARMOUR INC",
+     "class": "CL A",
+     "shares": 6124357,
+     "unit": "SH",
+     "value": 135716000
+    },
+    {
+     "cusip": "92345Y106",
+     "put_call": null,
+     "issuer": "VERISK ANALYTICS INC",
+     "class": "COM",
+     "shares": 724504,
+     "unit": "SH",
+     "value": 128013000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 367098,
+     "unit": "SH",
+     "value": 124652000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 748818,
+     "unit": "SH",
+     "value": 122963000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 32827975,
+     "unit": "SH",
+     "value": 89949000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 458577,
+     "unit": "SH",
+     "value": 83062000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 1017208,
+     "unit": "SH",
+     "value": 29285000
+    }
+   ],
+   "table_total": 8089277000,
+   "first_seen": "2026-11-16T05:06:11+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-21-000004",
+   "form": "13F-HR",
+   "filed": "2021-08-06",
+   "period": "2021-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687921000004/0001376879-21-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 4181943,
+     "unit": "SH",
+     "value": 1206998000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 243649,
+     "unit": "SH",
+     "value": 533126000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 211422,
+     "unit": "SH",
+     "value": 529891000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 7192688,
+     "unit": "SH",
+     "value": 504999000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 984437,
+     "unit": "SH",
+     "value": 496619000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 3193614,
+     "unit": "SH",
+     "value": 493381000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1986005,
+     "unit": "SH",
+     "value": 464368000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 2432203,
+     "unit": "SH",
+     "value": 453265000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1391558,
+     "unit": "SH",
+     "value": 442627000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5981583,
+     "unit": "SH",
+     "value": 419489000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 4960493,
+     "unit": "SH",
+     "value": 405620000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 953868,
+     "unit": "SH",
+     "value": 345653000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1362775,
+     "unit": "SH",
+     "value": 326398000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 472488,
+     "unit": "SH",
+     "value": 276708000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1947997,
+     "unit": "SH",
+     "value": 271356000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1905362,
+     "unit": "SH",
+     "value": 257090000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 1282189,
+     "unit": "SH",
+     "value": 245783000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 1927293,
+     "unit": "SH",
+     "value": 228770000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 1067322,
+     "unit": "SH",
+     "value": 220012000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 257401,
+     "unit": "SH",
+     "value": 129390000
+    },
+    {
+     "cusip": "72352L106",
+     "put_call": null,
+     "issuer": "PINTEREST INC",
+     "class": "CL A",
+     "shares": 1553499,
+     "unit": "SH",
+     "value": 122649000
+    },
+    {
+     "cusip": "55087P104",
+     "put_call": null,
+     "issuer": "LYFT INC",
+     "class": "CL A COM",
+     "shares": 1953088,
+     "unit": "SH",
+     "value": 118123000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 850598,
+     "unit": "SH",
+     "value": 116124000
+    },
+    {
+     "cusip": "02319V103",
+     "put_call": null,
+     "issuer": "AMBEV SA",
+     "class": "SPONSORED ADR",
+     "shares": 33058851,
+     "unit": "SH",
+     "value": 113722000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 289706,
+     "unit": "SH",
+     "value": 100545000
+    },
+    {
+     "cusip": "N22717107",
+     "put_call": null,
+     "issuer": "CORE LABORATORIES N V",
+     "class": "COM",
+     "shares": 1365005,
+     "unit": "SH",
+     "value": 53167000
+    }
+   ],
+   "table_total": 8875873000,
+   "first_seen": "2026-11-16T05:06:12+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-21-000005",
+   "form": "13F-HR",
+   "filed": "2021-11-03",
+   "period": "2021-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687921000005/0001376879-21-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 3803347,
+     "unit": "SH",
+     "value": 1122985000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 383420,
+     "unit": "SH",
+     "value": 910189000
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 2246800,
+     "unit": "SH",
+     "value": 718796000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 1142461,
+     "unit": "SH",
+     "value": 652722000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 216343,
+     "unit": "SH",
+     "value": 576621000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 7356250,
+     "unit": "SH",
+     "value": 512510000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5545418,
+     "unit": "SH",
+     "value": 448918000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 2156300,
+     "unit": "SH",
+     "value": 418624000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 4795441,
+     "unit": "SH",
+     "value": 394569000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1542628,
+     "unit": "SH",
+     "value": 390933000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2662625,
+     "unit": "SH",
+     "value": 386693000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1203075,
+     "unit": "SH",
+     "value": 360838000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 950897,
+     "unit": "SH",
+     "value": 337673000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 2834777,
+     "unit": "SH",
+     "value": 325489000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1285516,
+     "unit": "SH",
+     "value": 286349000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 1431895,
+     "unit": "SH",
+     "value": 276356000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1947105,
+     "unit": "SH",
+     "value": 272205000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1990730,
+     "unit": "SH",
+     "value": 263135000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 359812,
+     "unit": "SH",
+     "value": 207151000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 986839,
+     "unit": "SH",
+     "value": 206642000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 249743,
+     "unit": "SH",
+     "value": 181703000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 799021,
+     "unit": "SH",
+     "value": 118327000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 296549,
+     "unit": "SH",
+     "value": 100960000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 244257,
+     "unit": "SH",
+     "value": 97197000
+    },
+    {
+     "cusip": "72352L106",
+     "put_call": null,
+     "issuer": "PINTEREST INC",
+     "class": "CL A",
+     "shares": 1595883,
+     "unit": "SH",
+     "value": 81310000
+    }
+   ],
+   "table_total": 9648895000,
+   "first_seen": "2026-11-16T05:06:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-22-000002",
+   "form": "13F-HR",
+   "filed": "2022-02-04",
+   "period": "2021-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687922000002/0001376879-22-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 523490,
+     "unit": "SH",
+     "value": 1255973000
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 2474492,
+     "unit": "SH",
+     "value": 1025801000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 2866640,
+     "unit": "SH",
+     "value": 995958000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 1229899,
+     "unit": "SH",
+     "value": 820638000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 3828454,
+     "unit": "SH",
+     "value": 523618000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1642337,
+     "unit": "SH",
+     "value": 480860000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1278114,
+     "unit": "SH",
+     "value": 473158000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5321077,
+     "unit": "SH",
+     "value": 467372000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 160806,
+     "unit": "SH",
+     "value": 465307000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1791968,
+     "unit": "SH",
+     "value": 437294000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 2504218,
+     "unit": "SH",
+     "value": 409640000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2380049,
+     "unit": "SH",
+     "value": 396683000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 1738289,
+     "unit": "SH",
+     "value": 382667000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 4932095,
+     "unit": "SH",
+     "value": 327984000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 3724255,
+     "unit": "SH",
+     "value": 324271000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 716213,
+     "unit": "SH",
+     "value": 279738000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 947134,
+     "unit": "SH",
+     "value": 245171000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 374518,
+     "unit": "SH",
+     "value": 212374000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1156410,
+     "unit": "SH",
+     "value": 153155000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 342737,
+     "unit": "SH",
+     "value": 137479000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 580239,
+     "unit": "SH",
+     "value": 125744000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 254262,
+     "unit": "SH",
+     "value": 110266000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 168704,
+     "unit": "SH",
+     "value": 109990000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 664804,
+     "unit": "SH",
+     "value": 109852000
+    }
+   ],
+   "table_total": 10270993000,
+   "first_seen": "2026-11-16T05:06:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-22-000003",
+   "form": "13F-HR",
+   "filed": "2022-05-04",
+   "period": "2022-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687922000003/0001376879-22-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 387435,
+     "unit": "SH",
+     "value": 909872000
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 2283374,
+     "unit": "SH",
+     "value": 770022000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 1206538,
+     "unit": "SH",
+     "value": 712642000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 1991704,
+     "unit": "SH",
+     "value": 639219000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 176616,
+     "unit": "SH",
+     "value": 493287000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 2057417,
+     "unit": "SH",
+     "value": 487814000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 3668867,
+     "unit": "SH",
+     "value": 484731000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5347787,
+     "unit": "SH",
+     "value": 426077000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 2745126,
+     "unit": "SH",
+     "value": 369384000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1293422,
+     "unit": "SH",
+     "value": 352225000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 1681674,
+     "unit": "SH",
+     "value": 341615000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 735652,
+     "unit": "SH",
+     "value": 335178000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1738652,
+     "unit": "SH",
+     "value": 327892000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1963031,
+     "unit": "SH",
+     "value": 299951000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 3889448,
+     "unit": "SH",
+     "value": 299293000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1313661,
+     "unit": "SH",
+     "value": 291331000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 4802031,
+     "unit": "SH",
+     "value": 274964000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 665538,
+     "unit": "SH",
+     "value": 224559000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 951880,
+     "unit": "SH",
+     "value": 209103000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1792835,
+     "unit": "SH",
+     "value": 196817000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 860433,
+     "unit": "SH",
+     "value": 191558000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 388211,
+     "unit": "SH",
+     "value": 181085000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 304258,
+     "unit": "SH",
+     "value": 165979000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 505822,
+     "unit": "SH",
+     "value": 160674000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 672505,
+     "unit": "SH",
+     "value": 118193000
+    }
+   ],
+   "table_total": 9263465000,
+   "first_seen": "2026-11-16T05:06:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-22-000004",
+   "form": "13F-HR",
+   "filed": "2022-08-09",
+   "period": "2022-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687922000004/0001376879-22-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 1212500,
+     "unit": "SH",
+     "value": 658727000
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 2291153,
+     "unit": "SH",
+     "value": 636139000
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 345275,
+     "unit": "SH",
+     "value": 603883000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2422668,
+     "unit": "SH",
+     "value": 476999000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 2222389,
+     "unit": "SH",
+     "value": 406208000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 4117261,
+     "unit": "SH",
+     "value": 387187000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1299274,
+     "unit": "SH",
+     "value": 330886000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 4690156,
+     "unit": "SH",
+     "value": 327654000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 1298840,
+     "unit": "SH",
+     "value": 318787000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 1070348,
+     "unit": "SH",
+     "value": 307563000
+    },
+    {
+     "cusip": "25243Q205",
+     "put_call": null,
+     "issuer": "DIAGEO PLC",
+     "class": "SPON ADR NEW",
+     "shares": 1705411,
+     "unit": "SH",
+     "value": 296946000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 764612,
+     "unit": "SH",
+     "value": 279894000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1461209,
+     "unit": "SH",
+     "value": 251167000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 3498532,
+     "unit": "SH",
+     "value": 247241000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2469441,
+     "unit": "SH",
+     "value": 241758000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 490935,
+     "unit": "SH",
+     "value": 196816000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1913468,
+     "unit": "SH",
+     "value": 195556000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 954924,
+     "unit": "SH",
+     "value": 175133000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1203631,
+     "unit": "SH",
+     "value": 173070000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 612674,
+     "unit": "SH",
+     "value": 146607000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 255191,
+     "unit": "SH",
+     "value": 119565000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 44873,
+     "unit": "SH",
+     "value": 98157000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 682783,
+     "unit": "SH",
+     "value": 92865000
+    },
+    {
+     "cusip": "278642103",
+     "put_call": null,
+     "issuer": "EBAY INC",
+     "class": "COM",
+     "shares": 2139984,
+     "unit": "SH",
+     "value": 89173000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 298402,
+     "unit": "SH",
+     "value": 81156000
+    }
+   ],
+   "table_total": 7139137000,
+   "first_seen": "2026-11-16T05:06:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-22-000005",
+   "form": "13F-HR",
+   "filed": "2022-11-01",
+   "period": "2022-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687922000005/0001376879-22-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 366884,
+     "unit": "SH",
+     "value": 602867000
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1943742,
+     "unit": "SH",
+     "value": 500125000
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 924031,
+     "unit": "SH",
+     "value": 468659000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2443582,
+     "unit": "SH",
+     "value": 434102000
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 4354941,
+     "unit": "SH",
+     "value": 393469000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 2039467,
+     "unit": "SH",
+     "value": 349626000
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5750956,
+     "unit": "SH",
+     "value": 337048000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3189340,
+     "unit": "SH",
+     "value": 306655000
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 1183091,
+     "unit": "SH",
+     "value": 283776000
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1155524,
+     "unit": "SH",
+     "value": 249478000
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2692558,
+     "unit": "SH",
+     "value": 241469000
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 885387,
+     "unit": "SH",
+     "value": 238856000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 789798,
+     "unit": "SH",
+     "value": 217352000
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 2931956,
+     "unit": "SH",
+     "value": 187059000
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1230228,
+     "unit": "SH",
+     "value": 182431000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 973865,
+     "unit": "SH",
+     "value": 181799000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 395207,
+     "unit": "SH",
+     "value": 162829000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 616105,
+     "unit": "SH",
+     "value": 136590000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1062598,
+     "unit": "SH",
+     "value": 134153000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1419705,
+     "unit": "SH",
+     "value": 118006000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 494820,
+     "unit": "SH",
+     "value": 115244000
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 686688,
+     "unit": "SH",
+     "value": 96232000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 185913,
+     "unit": "SH",
+     "value": 72008000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 211765,
+     "unit": "SH",
+     "value": 51482000
+    }
+   ],
+   "table_total": 6061315000,
+   "first_seen": "2026-11-16T05:06:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-23-000002",
+   "form": "13F-HR",
+   "filed": "2023-01-18",
+   "period": "2022-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687923000002/0001376879-23-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 372287,
+     "unit": "SH",
+     "value": 750263
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1919730,
+     "unit": "SH",
+     "value": 512261
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2218844,
+     "unit": "SH",
+     "value": 460987
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 4367054,
+     "unit": "SH",
+     "value": 448016
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 5631934,
+     "unit": "SH",
+     "value": 385603
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 647343,
+     "unit": "SH",
+     "value": 356485
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3511205,
+     "unit": "SH",
+     "value": 311549
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 857120,
+     "unit": "SH",
+     "value": 279605
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2589778,
+     "unit": "SH",
+     "value": 272600
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 391258,
+     "unit": "SH",
+     "value": 234199
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 1203759,
+     "unit": "SH",
+     "value": 233963
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 934928,
+     "unit": "SH",
+     "value": 230226
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 658751,
+     "unit": "SH",
+     "value": 221689
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 2826444,
+     "unit": "SH",
+     "value": 221339
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 874516,
+     "unit": "SH",
+     "value": 216976
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 952031,
+     "unit": "SH",
+     "value": 203927
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 829512,
+     "unit": "SH",
+     "value": 198934
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 662374,
+     "unit": "SH",
+     "value": 160023
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1026550,
+     "unit": "SH",
+     "value": 155584
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 325396,
+     "unit": "SH",
+     "value": 126651
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 663540,
+     "unit": "SH",
+     "value": 98794
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 204409,
+     "unit": "SH",
+     "value": 56952
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 362822,
+     "unit": "SH",
+     "value": 53172
+    }
+   ],
+   "table_total": 6189798,
+   "first_seen": "2026-11-16T05:06:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-23-000005",
+   "form": "13F-HR",
+   "filed": "2023-04-25",
+   "period": "2023-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687923000005/0001376879-23-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 345454,
+     "unit": "SH",
+     "value": 916286
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1871312,
+     "unit": "SH",
+     "value": 534840
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6604162,
+     "unit": "SH",
+     "value": 466723
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 2035255,
+     "unit": "SH",
+     "value": 458869
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 4174767,
+     "unit": "SH",
+     "value": 435386
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1315623,
+     "unit": "SH",
+     "value": 379294
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 614284,
+     "unit": "SH",
+     "value": 354055
+    },
+    {
+     "cusip": "G5494J103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 945222,
+     "unit": "SH",
+     "value": 335970
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 373951,
+     "unit": "SH",
+     "value": 262772
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 941937,
+     "unit": "SH",
+     "value": 255127
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 751160,
+     "unit": "SH",
+     "value": 249986
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2309553,
+     "unit": "SH",
+     "value": 246499
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 2701121,
+     "unit": "SH",
+     "value": 227975
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 1024115,
+     "unit": "SH",
+     "value": 215535
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 402964,
+     "unit": "SH",
+     "value": 179653
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 816735,
+     "unit": "SH",
+     "value": 165667
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 608980,
+     "unit": "SH",
+     "value": 150089
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 981695,
+     "unit": "SH",
+     "value": 145968
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 408217,
+     "unit": "SH",
+     "value": 124923
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 1618162,
+     "unit": "SH",
+     "value": 121702
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 634335,
+     "unit": "SH",
+     "value": 105325
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 216689,
+     "unit": "SH",
+     "value": 83505
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 200433,
+     "unit": "SH",
+     "value": 79323
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 456040,
+     "unit": "SH",
+     "value": 75903
+    }
+   ],
+   "table_total": 6571375,
+   "first_seen": "2026-11-16T05:06:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-23-000006",
+   "form": "13F-HR",
+   "filed": "2023-08-01",
+   "period": "2023-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687923000006/0001376879-23-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 210652,
+     "unit": "SH",
+     "value": 568830
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1815155,
+     "unit": "SH",
+     "value": 560121
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6519134,
+     "unit": "SH",
+     "value": 537566
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 1245704,
+     "unit": "SH",
+     "value": 474713
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 4166459,
+     "unit": "SH",
+     "value": 471143
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1932769,
+     "unit": "SH",
+     "value": 458994
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1076682,
+     "unit": "SH",
+     "value": 366653
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 928095,
+     "unit": "SH",
+     "value": 302991
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 357780,
+     "unit": "SH",
+     "value": 289519
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 832377,
+     "unit": "SH",
+     "value": 274909
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 2210537,
+     "unit": "SH",
+     "value": 265309
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 745497,
+     "unit": "SH",
+     "value": 259224
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 2584903,
+     "unit": "SH",
+     "value": 230082
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 2507818,
+     "unit": "SH",
+     "value": 228738
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 471470,
+     "unit": "SH",
+     "value": 216023
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 782012,
+     "unit": "SH",
+     "value": 184007
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 345573,
+     "unit": "SH",
+     "value": 180303
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 939542,
+     "unit": "SH",
+     "value": 142566
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARDSH & MCLENNAN COS",
+     "class": "COM",
+     "shares": 715777,
+     "unit": "SH",
+     "value": 134623
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 264693,
+     "unit": "SH",
+     "value": 117886
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 590004,
+     "unit": "SH",
+     "value": 115865
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 454543,
+     "unit": "SH",
+     "value": 83495
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP NEW",
+     "class": "COM",
+     "shares": 450666,
+     "unit": "SH",
+     "value": 76514
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 436385,
+     "unit": "SH",
+     "value": 75150
+    }
+   ],
+   "table_total": 6615224,
+   "first_seen": "2026-11-16T05:06:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-23-000007",
+   "form": "13F-HR",
+   "filed": "2023-11-06",
+   "period": "2023-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687923000007/0001376879-23-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6524694,
+     "unit": "SH",
+     "value": 504569
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1448769,
+     "unit": "SH",
+     "value": 444931
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1896466,
+     "unit": "SH",
+     "value": 436206
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 131161,
+     "unit": "SH",
+     "value": 404494
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 3664664,
+     "unit": "SH",
+     "value": 403186
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 982616,
+     "unit": "SH",
+     "value": 310261
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 351024,
+     "unit": "SH",
+     "value": 304875
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 579171,
+     "unit": "SH",
+     "value": 295922
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 886953,
+     "unit": "SH",
+     "value": 263913
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 5551110,
+     "unit": "SH",
+     "value": 239197
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 807909,
+     "unit": "SH",
+     "value": 239028
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 731429,
+     "unit": "SH",
+     "value": 231256
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 599172,
+     "unit": "SH",
+     "value": 223102
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 1947026,
+     "unit": "SH",
+     "value": 215244
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 2207420,
+     "unit": "SH",
+     "value": 177278
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 338427,
+     "unit": "SH",
+     "value": 171302
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 971655,
+     "unit": "SH",
+     "value": 169049
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS",
+     "class": "COM",
+     "shares": 877275,
+     "unit": "SH",
+     "value": 166945
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 618403,
+     "unit": "SH",
+     "value": 144892
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 921946,
+     "unit": "SH",
+     "value": 134475
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 471764,
+     "unit": "SH",
+     "value": 129362
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 1236845,
+     "unit": "SH",
+     "value": 128879
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 259725,
+     "unit": "SH",
+     "value": 115466
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 509736,
+     "unit": "SH",
+     "value": 93373
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 462177,
+     "unit": "SH",
+     "value": 66808
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 2036295,
+     "unit": "SH",
+     "value": 63940
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 265957,
+     "unit": "SH",
+     "value": 52277
+    }
+   ],
+   "table_total": 6130230,
+   "first_seen": "2026-11-16T05:06:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-24-000002",
+   "form": "13F-HR",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687924000002/0001376879-24-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6597064,
+     "unit": "SH",
+     "value": 515316
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1648924,
+     "unit": "SH",
+     "value": 429297
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1115552,
+     "unit": "SH",
+     "value": 419492
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1188447,
+     "unit": "SH",
+     "value": 417038
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 116063,
+     "unit": "SH",
+     "value": 411701
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 3199759,
+     "unit": "SH",
+     "value": 410945
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 971461,
+     "unit": "SH",
+     "value": 352524
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 279510,
+     "unit": "SH",
+     "value": 325352
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 2461395,
+     "unit": "SH",
+     "value": 314148
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 499418,
+     "unit": "SH",
+     "value": 312151
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 712793,
+     "unit": "SH",
+     "value": 278388
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1871074,
+     "unit": "SH",
+     "value": 273645
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 771922,
+     "unit": "SH",
+     "value": 254140
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1226892,
+     "unit": "SH",
+     "value": 242152
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 697604,
+     "unit": "SH",
+     "value": 235668
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS",
+     "class": "COM",
+     "shares": 1181242,
+     "unit": "SH",
+     "value": 223810
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 542993,
+     "unit": "SH",
+     "value": 223013
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1866456,
+     "unit": "SH",
+     "value": 202641
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 666628,
+     "unit": "SH",
+     "value": 164850
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 602490,
+     "unit": "SH",
+     "value": 164100
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 253099,
+     "unit": "SH",
+     "value": 145132
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 3729554,
+     "unit": "SH",
+     "value": 133481
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 1471409,
+     "unit": "SH",
+     "value": 131647
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 785965,
+     "unit": "SH",
+     "value": 115175
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 2117112,
+     "unit": "SH",
+     "value": 103738
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 163937,
+     "unit": "SH",
+     "value": 87016
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 259324,
+     "unit": "SH",
+     "value": 58480
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 91012,
+     "unit": "SH",
+     "value": 51481
+    },
+    {
+     "cusip": "G0176J109",
+     "put_call": null,
+     "issuer": "ALLEGION PLC",
+     "class": "ORD SHS",
+     "shares": 234045,
+     "unit": "SH",
+     "value": 29651
+    }
+   ],
+   "table_total": 7026172,
+   "first_seen": "2026-11-16T05:06:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-24-000003",
+   "form": "13F-HR",
+   "filed": "2024-05-14",
+   "period": "2024-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687924000003/0001376879-24-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6496157,
+     "unit": "SH",
+     "value": 539614
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1118229,
+     "unit": "SH",
+     "value": 470461
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 2463934,
+     "unit": "SH",
+     "value": 432494
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 2709857,
+     "unit": "SH",
+     "value": 417724
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 2662714,
+     "unit": "SH",
+     "value": 365937
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1269481,
+     "unit": "SH",
+     "value": 354287
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 522410,
+     "unit": "SH",
+     "value": 339567
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 249362,
+     "unit": "SH",
+     "value": 311605
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 85703,
+     "unit": "SH",
+     "value": 310920
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 688968,
+     "unit": "SH",
+     "value": 300301
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1735130,
+     "unit": "SH",
+     "value": 293601
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WARTERS CORP",
+     "class": "COM",
+     "shares": 838763,
+     "unit": "SH",
+     "value": 288727
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 712769,
+     "unit": "SH",
+     "value": 280140
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 460183,
+     "unit": "SH",
+     "value": 267463
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS",
+     "class": "COM",
+     "shares": 1275051,
+     "unit": "SH",
+     "value": 262635
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 440784,
+     "unit": "SH",
+     "value": 247037
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 6527390,
+     "unit": "SH",
+     "value": 215534
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 663812,
+     "unit": "SH",
+     "value": 177583
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 501245,
+     "unit": "SH",
+     "value": 173737
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1012959,
+     "unit": "SH",
+     "value": 164353
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 2801399,
+     "unit": "SH",
+     "value": 162257
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 344766,
+     "unit": "SH",
+     "value": 160082
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 725799,
+     "unit": "SH",
+     "value": 143556
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 1498301,
+     "unit": "SH",
+     "value": 140810
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 310549,
+     "unit": "SH",
+     "value": 96668
+    },
+    {
+     "cusip": "68902V107",
+     "put_call": null,
+     "issuer": "OTIS WORLDWIDE CORP",
+     "class": "COM",
+     "shares": 761938,
+     "unit": "SH",
+     "value": 75638
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 261008,
+     "unit": "SH",
+     "value": 65855
+    }
+   ],
+   "table_total": 7058586,
+   "first_seen": "2026-11-16T05:06:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-24-000005",
+   "form": "13F-HR",
+   "filed": "2024-08-13",
+   "period": "2024-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687924000005/0001376879-24-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6371303,
+     "unit": "SH",
+     "value": 568071
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1211103,
+     "unit": "SH",
+     "value": 541302
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 317733,
+     "unit": "SH",
+     "value": 472996
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 2849084,
+     "unit": "SH",
+     "value": 452919
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 594507,
+     "unit": "SH",
+     "value": 390716
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1219936,
+     "unit": "SH",
+     "value": 370141
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 2670788,
+     "unit": "SH",
+     "value": 365604
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1329954,
+     "unit": "SH",
+     "value": 349073
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 86205,
+     "unit": "SH",
+     "value": 341501
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 746780,
+     "unit": "SH",
+     "value": 314342
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS",
+     "class": "COM",
+     "shares": 1486981,
+     "unit": "SH",
+     "value": 313337
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 524248,
+     "unit": "SH",
+     "value": 289909
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 675090,
+     "unit": "SH",
+     "value": 275450
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1495188,
+     "unit": "SH",
+     "value": 259206
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WARTERS CORP",
+     "class": "COM",
+     "shares": 878652,
+     "unit": "SH",
+     "value": 254915
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 7463807,
+     "unit": "SH",
+     "value": 228766
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 461682,
+     "unit": "SH",
+     "value": 222415
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 928920,
+     "unit": "SH",
+     "value": 212035
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 937004,
+     "unit": "SH",
+     "value": 181076
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1060884,
+     "unit": "SH",
+     "value": 174961
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 695966,
+     "unit": "SH",
+     "value": 168744
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "COM",
+     "shares": 354541,
+     "unit": "SH",
+     "value": 155576
+    },
+    {
+     "cusip": "518439104",
+     "put_call": null,
+     "issuer": "LAUDER ESTEE COS INC",
+     "class": "CL A",
+     "shares": 1409881,
+     "unit": "SH",
+     "value": 150011
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 2369500,
+     "unit": "SH",
+     "value": 128332
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 303409,
+     "unit": "SH",
+     "value": 93374
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9658,
+     "unit": "SH",
+     "value": 1141
+    }
+   ],
+   "table_total": 7275913,
+   "first_seen": "2026-11-16T05:06:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-24-000006",
+   "form": "13F-HR",
+   "filed": "2024-11-13",
+   "period": "2024-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687924000006/0001376879-24-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON INC",
+     "class": "ORD SHS",
+     "shares": 6157815,
+     "unit": "SH",
+     "value": 615634
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1265260,
+     "unit": "SH",
+     "value": 544441
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GENERAL ELECTRIC CO",
+     "class": "COM NEW",
+     "shares": 2648246,
+     "unit": "SH",
+     "value": 499406
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1790775,
+     "unit": "SH",
+     "value": 492374
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE INC",
+     "class": "COM",
+     "shares": 2979588,
+     "unit": "SH",
+     "value": 478641
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 1973234,
+     "unit": "SH",
+     "value": 440209
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 222176,
+     "unit": "SH",
+     "value": 431803
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1175229,
+     "unit": "SH",
+     "value": 415420
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 548876,
+     "unit": "SH",
+     "value": 340852
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 683460,
+     "unit": "SH",
+     "value": 324363
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HLDGS INC",
+     "class": "COM",
+     "shares": 75579,
+     "unit": "SH",
+     "value": 318348
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 649656,
+     "unit": "SH",
+     "value": 304375
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1492138,
+     "unit": "SH",
+     "value": 291534
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 790207,
+     "unit": "SH",
+     "value": 284388
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1488281,
+     "unit": "SH",
+     "value": 277311
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 423473,
+     "unit": "SH",
+     "value": 261948
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1124286,
+     "unit": "SH",
+     "value": 258777
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 6862125,
+     "unit": "SH",
+     "value": 214785
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 3625764,
+     "unit": "SH",
+     "value": 189990
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1058026,
+     "unit": "SH",
+     "value": 183250
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 353609,
+     "unit": "SH",
+     "value": 168622
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 549812,
+     "unit": "SH",
+     "value": 161568
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 206096,
+     "unit": "SH",
+     "value": 120140
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 198578,
+     "unit": "SH",
+     "value": 53821
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9911,
+     "unit": "SH",
+     "value": 1161
+    }
+   ],
+   "table_total": 7673161,
+   "first_seen": "2026-11-16T05:06:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-25-000002",
+   "form": "13F-HR",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687925000002/0001376879-25-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1757145,
+     "unit": "SH",
+     "value": 555328
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 5876280,
+     "unit": "SH",
+     "value": 498585
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1142735,
+     "unit": "SH",
+     "value": 481663
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1311465,
+     "unit": "SH",
+     "value": 461360
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 2693057,
+     "unit": "SH",
+     "value": 449175
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 2062828,
+     "unit": "SH",
+     "value": 438165
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 2605657,
+     "unit": "SH",
+     "value": 388269
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 594479,
+     "unit": "SH",
+     "value": 373630
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 72470,
+     "unit": "SH",
+     "value": 360061
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 653387,
+     "unit": "SH",
+     "value": 309294
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1408315,
+     "unit": "SH",
+     "value": 308970
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 815379,
+     "unit": "SH",
+     "value": 302489
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 148602,
+     "unit": "SH",
+     "value": 295856
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 619722,
+     "unit": "SH",
+     "value": 264138
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 4391462,
+     "unit": "SH",
+     "value": 252026
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1167224,
+     "unit": "SH",
+     "value": 247988
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1505938,
+     "unit": "SH",
+     "value": 245362
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "COM",
+     "shares": 1172423,
+     "unit": "SH",
+     "value": 196557
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 726246,
+     "unit": "SH",
+     "value": 185084
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 313784,
+     "unit": "SH",
+     "value": 163240
+    },
+    {
+     "cusip": "934550203",
+     "put_call": null,
+     "issuer": "WARNER MUSIC GROUP CORP",
+     "class": "COM CL A",
+     "shares": 4323994,
+     "unit": "SH",
+     "value": 134044
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 208903,
+     "unit": "SH",
+     "value": 125344
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 223944,
+     "unit": "SH",
+     "value": 67286
+    },
+    {
+     "cusip": "452327109",
+     "put_call": null,
+     "issuer": "ILLUMINA INC",
+     "class": "COM",
+     "shares": 495286,
+     "unit": "SH",
+     "value": 66185
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 128062,
+     "unit": "SH",
+     "value": 53616
+    },
+    {
+     "cusip": "099502106",
+     "put_call": null,
+     "issuer": "BOOZ ALLEN HAMILTON HLDG COR",
+     "class": "CL A",
+     "shares": 92490,
+     "unit": "SH",
+     "value": 11903
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 10992,
+     "unit": "SH",
+     "value": 1116
+    }
+   ],
+   "table_total": 7236734,
+   "first_seen": "2026-11-16T05:06:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-25-000005",
+   "form": "13F-HR",
+   "filed": "2025-05-14",
+   "period": "2025-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687925000005/0001376879-25-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 7115571,
+     "unit": "SH",
+     "value": 672562
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1775973,
+     "unit": "SH",
+     "value": 622407
+    },
+    {
+     "cusip": "G3643J108",
+     "put_call": null,
+     "issuer": "FLUTTER ENTMT PLC",
+     "class": "SHS",
+     "shares": 2590673,
+     "unit": "SH",
+     "value": 571764
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 2121730,
+     "unit": "SH",
+     "value": 517766
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 2466267,
+     "unit": "SH",
+     "value": 493623
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1250718,
+     "unit": "SH",
+     "value": 469507
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 2282427,
+     "unit": "SH",
+     "value": 393719
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 1238638,
+     "unit": "SH",
+     "value": 386505
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 826734,
+     "unit": "SH",
+     "value": 385002
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 555811,
+     "unit": "SH",
+     "value": 341262
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 72052,
+     "unit": "SH",
+     "value": 331937
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 887215,
+     "unit": "SH",
+     "value": 327001
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 5081145,
+     "unit": "SH",
+     "value": 287542
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 150660,
+     "unit": "SH",
+     "value": 277841
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1437908,
+     "unit": "SH",
+     "value": 273576
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1523960,
+     "unit": "SH",
+     "value": 250920
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1243847,
+     "unit": "SH",
+     "value": 250847
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 585118,
+     "unit": "SH",
+     "value": 248670
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 762905,
+     "unit": "SH",
+     "value": 185813
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 332845,
+     "unit": "SH",
+     "value": 165624
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 359908,
+     "unit": "SH",
+     "value": 96585
+    },
+    {
+     "cusip": "452327109",
+     "put_call": null,
+     "issuer": "ILLUMINA INC",
+     "class": "COM",
+     "shares": 889714,
+     "unit": "SH",
+     "value": 70590
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 84991,
+     "unit": "SH",
+     "value": 39575
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 137409,
+     "unit": "SH",
+     "value": 34947
+    },
+    {
+     "cusip": "099502106",
+     "put_call": null,
+     "issuer": "BOOZ ALLEN HAMILTON HLDG COR",
+     "class": "CL A",
+     "shares": 93472,
+     "unit": "SH",
+     "value": 9775
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 19073,
+     "unit": "SH",
+     "value": 1859
+    }
+   ],
+   "table_total": 7707219,
+   "first_seen": "2026-11-16T05:06:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-25-000006",
+   "form": "13F-HR",
+   "filed": "2025-08-13",
+   "period": "2025-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687925000006/0001376879-25-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G3643J108",
+     "put_call": null,
+     "issuer": "FLUTTER ENTMT PLC",
+     "class": "SHS",
+     "shares": 2973210,
+     "unit": "SH",
+     "value": 847503
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 7713406,
+     "unit": "SH",
+     "value": 681452
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1272557,
+     "unit": "SH",
+     "value": 632983
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1643373,
+     "unit": "SH",
+     "value": 583480
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 675783,
+     "unit": "SH",
+     "value": 532267
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 2063006,
+     "unit": "SH",
+     "value": 530997
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 827554,
+     "unit": "SH",
+     "value": 415093
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 2191657,
+     "unit": "SH",
+     "value": 402103
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 69107,
+     "unit": "SH",
+     "value": 400077
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 1782200,
+     "unit": "SH",
+     "value": 389660
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1460648,
+     "unit": "SH",
+     "value": 320452
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 646106,
+     "unit": "SH",
+     "value": 316595
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1267990,
+     "unit": "SH",
+     "value": 301807
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 153273,
+     "unit": "SH",
+     "value": 280177
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 787346,
+     "unit": "SH",
+     "value": 274815
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 5340975,
+     "unit": "SH",
+     "value": 262082
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 911820,
+     "unit": "SH",
+     "value": 236499
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 1510926,
+     "unit": "SH",
+     "value": 235629
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 469254,
+     "unit": "SH",
+     "value": 127961
+    },
+    {
+     "cusip": "452327109",
+     "put_call": null,
+     "issuer": "ILLUMINA INC",
+     "class": "COM",
+     "shares": 533954,
+     "unit": "SH",
+     "value": 50945
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 131807,
+     "unit": "SH",
+     "value": 40616
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 81953,
+     "unit": "SH",
+     "value": 38451
+    },
+    {
+     "cusip": "883556102",
+     "put_call": null,
+     "issuer": "THERMO FISHER SCIENTIFIC INC",
+     "class": "COM",
+     "shares": 26427,
+     "unit": "SH",
+     "value": 10715
+    },
+    {
+     "cusip": "099502106",
+     "put_call": null,
+     "issuer": "BOOZ ALLEN HAMILTON HLDG COR",
+     "class": "CL A",
+     "shares": 90033,
+     "unit": "SH",
+     "value": 9375
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 19073,
+     "unit": "SH",
+     "value": 1984
+    }
+   ],
+   "table_total": 7923718,
+   "first_seen": "2026-11-16T05:06:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-25-000008",
+   "form": "13F-HR",
+   "filed": "2025-11-13",
+   "period": "2025-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687925000008/0001376879-25-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G3643J108",
+     "put_call": null,
+     "issuer": "FLUTTER ENTMT PLC",
+     "class": "SHS",
+     "shares": 3120116,
+     "unit": "SH",
+     "value": 796701
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 7974364,
+     "unit": "SH",
+     "value": 593771
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1068996,
+     "unit": "SH",
+     "value": 553686
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1584857,
+     "unit": "SH",
+     "value": 541038
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 674425,
+     "unit": "SH",
+     "value": 460572
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 1320876,
+     "unit": "SH",
+     "value": 397346
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1808033,
+     "unit": "SH",
+     "value": 396990
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 767143,
+     "unit": "SH",
+     "value": 365528
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 1799753,
+     "unit": "SH",
+     "value": 362704
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 2084001,
+     "unit": "SH",
+     "value": 351112
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 64618,
+     "unit": "SH",
+     "value": 348890
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 632960,
+     "unit": "SH",
+     "value": 306220
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1223147,
+     "unit": "SH",
+     "value": 300527
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 5527245,
+     "unit": "SH",
+     "value": 248560
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 806948,
+     "unit": "SH",
+     "value": 241931
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 938348,
+     "unit": "SH",
+     "value": 240714
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 123646,
+     "unit": "SH",
+     "value": 185040
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 683704,
+     "unit": "SH",
+     "value": 100040
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 326128,
+     "unit": "SH",
+     "value": 77292
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 799560,
+     "unit": "SH",
+     "value": 59559
+    },
+    {
+     "cusip": "127387108",
+     "put_call": null,
+     "issuer": "CADENCE DESIGN SYSTEM INC",
+     "class": "COM",
+     "shares": 168767,
+     "unit": "SH",
+     "value": 59281
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 79085,
+     "unit": "SH",
+     "value": 37565
+    },
+    {
+     "cusip": "099502106",
+     "put_call": null,
+     "issuer": "BOOZ ALLEN HAMILTON HLDG COR",
+     "class": "CL A",
+     "shares": 86866,
+     "unit": "SH",
+     "value": 8682
+    }
+   ],
+   "table_total": 7033749,
+   "first_seen": "2026-11-16T05:06:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-26-000002",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687926000002/0001376879-26-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "G3643J108",
+     "put_call": null,
+     "issuer": "FLUTTER ENTMT PLC",
+     "class": "SHS",
+     "shares": 3109426,
+     "unit": "SH",
+     "value": 669888
+    },
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 7686700,
+     "unit": "SH",
+     "value": 609351
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1437967,
+     "unit": "SH",
+     "value": 504309
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 1020715,
+     "unit": "SH",
+     "value": 493638
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1737603,
+     "unit": "SH",
+     "value": 401074
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 736568,
+     "unit": "SH",
+     "value": 376276
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 944867,
+     "unit": "SH",
+     "value": 351539
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 1109389,
+     "unit": "SH",
+     "value": 341725
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1248009,
+     "unit": "SH",
+     "value": 338460
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 2084185,
+     "unit": "SH",
+     "value": 337555
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 753455,
+     "unit": "SH",
+     "value": 286185
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 1484860,
+     "unit": "SH",
+     "value": 275471
+    },
+    {
+     "cusip": "17275R102",
+     "put_call": null,
+     "issuer": "CISCO SYS INC",
+     "class": "COM",
+     "shares": 3113706,
+     "unit": "SH",
+     "value": 239849
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 6010134,
+     "unit": "SH",
+     "value": 235297
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 42801,
+     "unit": "SH",
+     "value": 229213
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 2957361,
+     "unit": "SH",
+     "value": 217750
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 112785,
+     "unit": "SH",
+     "value": 190677
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 765955,
+     "unit": "SH",
+     "value": 166197
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 238876,
+     "unit": "SH",
+     "value": 158236
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 312608,
+     "unit": "SH",
+     "value": 82813
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 100109,
+     "unit": "SH",
+     "value": 57150
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 13476,
+     "unit": "SH",
+     "value": 5746
+    }
+   ],
+   "table_total": 6568399,
+   "first_seen": "2026-11-16T05:06:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-26-000003",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687926000003/0001376879-26-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 9324656,
+     "unit": "SH",
+     "value": 695604
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1731170,
+     "unit": "SH",
+     "value": 360551
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1186931,
+     "unit": "SH",
+     "value": 358738
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 1029523,
+     "unit": "SH",
+     "value": 327532
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 926523,
+     "unit": "SH",
+     "value": 310801
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 1867549,
+     "unit": "SH",
+     "value": 293728
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 996847,
+     "unit": "SH",
+     "value": 282875
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 735214,
+     "unit": "SH",
+     "value": 272154
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 816929,
+     "unit": "SH",
+     "value": 243281
+    },
+    {
+     "cusip": "17275R102",
+     "put_call": null,
+     "issuer": "CISCO SYS INC",
+     "class": "COM",
+     "shares": 3043637,
+     "unit": "SH",
+     "value": 236156
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 510824,
+     "unit": "SH",
+     "value": 222847
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 2747795,
+     "unit": "SH",
+     "value": 216142
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 49923,
+     "unit": "SH",
+     "value": 210192
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 3185284,
+     "unit": "SH",
+     "value": 207330
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 127212,
+     "unit": "SH",
+     "value": 135804
+    },
+    {
+     "cusip": "969457100",
+     "put_call": null,
+     "issuer": "WILLIAMS COS INC",
+     "class": "COM",
+     "shares": 1775909,
+     "unit": "SH",
+     "value": 129251
+    },
+    {
+     "cusip": "863667101",
+     "put_call": null,
+     "issuer": "STRYKER CORPORATION",
+     "class": "COM",
+     "shares": 249883,
+     "unit": "SH",
+     "value": 82109
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 155592,
+     "unit": "SH",
+     "value": 77743
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 403774,
+     "unit": "SH",
+     "value": 72708
+    },
+    {
+     "cusip": "009158106",
+     "put_call": null,
+     "issuer": "AIR PRODUCTS AND CHEMICALS I",
+     "class": "COM",
+     "shares": 233356,
+     "unit": "SH",
+     "value": 67788
+    },
+    {
+     "cusip": "142339100",
+     "put_call": null,
+     "issuer": "CARLISLE COS INC",
+     "class": "COM",
+     "shares": 201377,
+     "unit": "SH",
+     "value": 67183
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 134631,
+     "unit": "SH",
+     "value": 66745
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 354805,
+     "unit": "SH",
+     "value": 66231
+    },
+    {
+     "cusip": "G3643J108",
+     "put_call": null,
+     "issuer": "FLUTTER ENTMT PLC",
+     "class": "SHS",
+     "shares": 487027,
+     "unit": "SH",
+     "value": 49652
+    },
+    {
+     "cusip": "571748102",
+     "put_call": null,
+     "issuer": "MARSH & MCLENNAN COS INC",
+     "class": "COM",
+     "shares": 261527,
+     "unit": "SH",
+     "value": 45362
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 274058,
+     "unit": "SH",
+     "value": 9099
+    },
+    {
+     "cusip": "759530108",
+     "put_call": null,
+     "issuer": "RELX PLC",
+     "class": "SPONSORED ADR",
+     "shares": 23447,
+     "unit": "SH",
+     "value": 777
+    }
+   ],
+   "table_total": 5108383,
+   "first_seen": "2026-11-16T05:06:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001376879-26-000006",
+   "form": "13F-HR",
+   "filed": "2026-08-12",
+   "period": "2026-06-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000137687926000006/0001376879-26-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 9683004,
+     "unit": "SH",
+     "value": 651941
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 6074817,
+     "unit": "SH",
+     "value": 454457
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 985126,
+     "unit": "SH",
+     "value": 337987
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 886360,
+     "unit": "SH",
+     "value": 328940
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 771417,
+     "unit": "SH",
+     "value": 288302
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1141835,
+     "unit": "SH",
+     "value": 272145
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 616881,
+     "unit": "SH",
+     "value": 245007
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 628224,
+     "unit": "SH",
+     "value": 234340
+    },
+    {
+     "cusip": "17275R102",
+     "put_call": null,
+     "issuer": "CISCO SYS INC",
+     "class": "COM",
+     "shares": 1971628,
+     "unit": "SH",
+     "value": 231587
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 2426027,
+     "unit": "SH",
+     "value": 210215
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 427920,
+     "unit": "SH",
+     "value": 193814
+    },
+    {
+     "cusip": "009158106",
+     "put_call": null,
+     "issuer": "AIR PRODUCTS AND CHEMICALS I",
+     "class": "COM",
+     "shares": 553359,
+     "unit": "SH",
+     "value": 162234
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 103619,
+     "unit": "SH",
+     "value": 123802
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 1003510,
+     "unit": "SH",
+     "value": 123542
+    },
+    {
+     "cusip": "969457100",
+     "put_call": null,
+     "issuer": "WILLIAMS COS INC",
+     "class": "COM",
+     "shares": 1486116,
+     "unit": "SH",
+     "value": 110478
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 189941,
+     "unit": "SH",
+     "value": 97554
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 203356,
+     "unit": "SH",
+     "value": 76267
+    },
+    {
+     "cusip": "142339100",
+     "put_call": null,
+     "issuer": "CARLISLE COS INC",
+     "class": "COM",
+     "shares": 191414,
+     "unit": "SH",
+     "value": 69435
+    },
+    {
+     "cusip": "G54950103",
+     "put_call": null,
+     "issuer": "LINDE PLC",
+     "class": "SHS",
+     "shares": 64789,
+     "unit": "SH",
+     "value": 33622
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 134439,
+     "unit": "SH",
+     "value": 21338
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 656567,
+     "unit": "SH",
+     "value": 18509
+    },
+    {
+     "cusip": "863667101",
+     "put_call": null,
+     "issuer": "STRYKER CORPORATION",
+     "class": "COM",
+     "shares": 20624,
+     "unit": "SH",
+     "value": 6493
+    }
+   ],
+   "table_total": 4292009,
+   "first_seen": "2026-11-16T05:06:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0000919574-26-007690",
+   "form": "13F-HR",
+   "filed": "2026-11-13",
+   "period": "2026-09-30",
+   "cik": 1376879,
+   "url": "https://www.sec.gov/Archives/edgar/data/1376879/000091957426007690/0000919574-26-007690-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "AKO CAPITAL LLP",
+   "holdings": [
+    {
+     "cusip": "H01301128",
+     "put_call": null,
+     "issuer": "ALCON AG",
+     "class": "ORD SHS",
+     "shares": 8621232,
+     "unit": "SH",
+     "value": 557702
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 6813015,
+     "unit": "SH",
+     "value": 498781
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 742918,
+     "unit": "SH",
+     "value": 291813
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 518837,
+     "unit": "SH",
+     "value": 266111
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 701579,
+     "unit": "SH",
+     "value": 252098
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 947159,
+     "unit": "SH",
+     "value": 235985
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 594520,
+     "unit": "SH",
+     "value": 185663
+    },
+    {
+     "cusip": "45866F104",
+     "put_call": null,
+     "issuer": "INTERCONTINENTAL EXCHANGE IN",
+     "class": "COM",
+     "shares": 1077679,
+     "unit": "SH",
+     "value": 163840
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 349375,
+     "unit": "SH",
+     "value": 158662
+    },
+    {
+     "cusip": "009158106",
+     "put_call": null,
+     "issuer": "AIR PRODUCTS AND CHEMICALS I",
+     "class": "COM",
+     "shares": 488388,
+     "unit": "SH",
+     "value": 135884
+    },
+    {
+     "cusip": "969457100",
+     "put_call": null,
+     "issuer": "WILLIAMS COS INC",
+     "class": "COM",
+     "shares": 1578015,
+     "unit": "SH",
+     "value": 107258
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 184697,
+     "unit": "SH",
+     "value": 101855
+    },
+    {
+     "cusip": "142339100",
+     "put_call": null,
+     "issuer": "CARLISLE COS INC",
+     "class": "COM",
+     "shares": 190737,
+     "unit": "SH",
+     "value": 61450
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 86324,
+     "unit": "SH",
+     "value": 51144
+    },
+    {
+     "cusip": "806857108",
+     "put_call": null,
+     "issuer": "SLB LIMITED",
+     "class": "COM STK",
+     "shares": 779659,
+     "unit": "SH",
+     "value": 37985
+    },
+    {
+     "cusip": "941848103",
+     "put_call": null,
+     "issuer": "WATERS CORP",
+     "class": "COM",
+     "shares": 57588,
+     "unit": "SH",
+     "value": 25304
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 154961,
+     "unit": "SH",
+     "value": 21267
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 74421,
+     "unit": "SH",
+     "value": 2030
+    }
+   ],
+   "table_total": 3154832,
+   "first_seen": "2026-11-16T05:06:27+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "AKO CAPITAL LLP"
+}

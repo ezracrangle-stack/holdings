@@ -106,3 +106,30 @@ managers:
     cik: 1112520
     letters: no
     why: "Chuck Akre's three-legged stool (a great business, great managers, great reinvestment) still runs the firm under John Neff. Mastercard and Moody's are in every 13F since mid-2013, and Mastercard is still the biggest position."
+
+  - id: ako-capital
+    name: AKO Capital
+    firm: London
+    cik: 1376879
+    letters: no
+    why: "Nicolai Tangen started AKO in 2005 and left in 2020 to run Norway's oil fund. Ferrari and Visa are in every 13F since the first, in 2016."
+
+  - id: mohnish-pabrai
+    name: Mohnish Pabrai
+    firm: Pabrai Investment Funds
+    cik: [1549575, 1173334]
+    letters: no
+    why: "Mohnish's 13F shows only the US-listed slice of his funds. Right now that's four stocks, and two coal miners, Warrior Met Coal and Alpha Metallurgical, are more than half of it."
+
+  - id: thomas-russo
+    name: Thomas Russo
+    firm: Gardner Russo & Quinn
+    cik: 860643
+    letters: no
+    why: "Tom's 13F changes slowly. Berkshire, Philip Morris, Mastercard, Richemont, Heineken and Nestlé are in every one since 2013, the oldest on file."
+
+  - id: francois-rochon
+    name: François Rochon
+    firm: Giverny Capital
+    cik: 1641864
+    letters: giverny

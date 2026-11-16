@@ -653,3 +653,287 @@
 "985817105": {name: "Yelp", ticker: "YELP", sic: 7370, sector: "Media & telecom"}
 "988498101": {name: "Yum! Brands", ticker: "YUM", sic: 5812}
 "278642103": {name: "eBay", ticker: "EBAY", sic: 7389, sector: "Consumer discretionary"}
+
+# AKO Capital, Mohnish Pabrai, Thomas Russo and François Rochon
+"K0514G135": {name: "A.P. Moller-Maersk", ticker: "MAERSK B", sic: 4412, sector: "Industrials"}
+"K03294137": {name: "ALK-Abelló", ticker: "ALK B", sic: 2836, sector: "Health care"}
+"000360206": {name: "AAON", ticker: "AAON", sic: 3585}
+"002824100": {name: "Abbott Laboratories", ticker: "ABT", sic: 2834, sector: "Health care"}
+"G1151C101": {name: "Accenture", ticker: "ACN", sic: 7389, sector: "Technology"}
+"000868109": {name: "ACNB", ticker: "ACNB", sic: 6022}
+"009158106": {name: "Air Products", ticker: "APD", sic: 2810}
+"016255101": {name: "Align Technology", ticker: "ALGN", sic: 3842}
+"017175100": {name: "Alleghany", ticker: "Y", sic: 6331, note: "Bought by Berkshire Hathaway in 2022."}
+"020764106": {name: "Alpha Metallurgical Resources", ticker: "AMR", sic: 1221, sector: "Materials"}
+"02319V103": {name: "Ambev", ticker: "ABEV", sic: 2082}
+"031100100": {name: "Ametek", ticker: "AME", sic: 3823}
+"03524A108": {name: "Anheuser-Busch InBev", ticker: "BUD", sic: 2082}
+"B6399C107": {name: "Anheuser-Busch InBev", ticker: "ABI", sic: 2082}
+"B639CJ108": {name: "Anheuser-Busch InBev", ticker: "ABI", sic: 2082}
+"B639CJ116": {name: "Anheuser-Busch InBev", ticker: "ABI", sic: 2082, note: "Restricted shares."}
+"03940R107": {name: "Arch Resources", ticker: "ARCH", sic: 1221, sector: "Materials", note: "Merged with Consol in 2025 to form Core Natural Resources."}
+"040413106": {name: "Arista Networks", ticker: "ANET", sic: 3576}
+"040413205": {name: "Arista Networks", ticker: "ANET", sic: 3576}
+"045055100": {name: "Ashtead", ticker: "ASHTY", sic: 7359}
+"G05320109": {name: "Ashtead", ticker: "AHT", sic: 7359, note: "Now Sunbelt Rentals Holdings."}
+"05278C107": {name: "Autohome", ticker: "ATHM", sic: 7374}
+"F10080103": {name: "BIC", ticker: "BB", sic: 3950, sector: "Consumer staples"}
+"D12096109": {name: "BMW", ticker: "BMW", sic: 3711}
+"057665200": {name: "Balchem", ticker: "BCPC", sic: 2800}
+"063750103": {name: "Bank Mutual", ticker: "BKMU", sic: 6035}
+"063904106": {name: "Bank OZK", ticker: "OZK", sic: 6022, note: "Called Bank of the Ozarks until 2017."}
+"060505682": {name: "Bank of America", ticker: "BAC.PR.L", sic: 6021, kind: "preferred"}
+"R10549104": {name: "Berner Gruppen", ticker: "BERNER", sic: 5000, sector: "Industrials"}
+"R10549112": {name: "Berner Gruppen", ticker: "BERNER.PR", sic: 5000, kind: "preferred", sector: "Industrials"}
+"M2029K104": {name: "Birkenstock", ticker: "BIRK", sic: 3140}
+"09290C756": {name: "BlackRock Money Market ETF", ticker: "PMMF", fund: yes}
+"F10659260": {name: "Bolloré", ticker: "BOL", sic: 4400, sector: "Industrials"}
+"099406100": {name: "Boot Barn", ticker: "BOOT", sic: 5661}
+"099502106": {name: "Booz Allen Hamilton", ticker: "BAH", sic: 8742, sector: "Industrials"}
+"109194100": {name: "Bright Horizons", ticker: "BFAM", sic: 8351, sector: "Consumer discretionary"}
+"110448107": {name: "British American Tobacco", ticker: "BTI", sic: 2111}
+"G1510J102": {name: "British American Tobacco", ticker: "BATS", sic: 2111}
+"115236101": {name: "Brown & Brown", ticker: "BRO", sic: 6411}
+"115637100": {name: "Brown-Forman", ticker: "BF.A", sic: 2085}
+"119848109": {name: "Buffalo Wild Wings", ticker: "BWLD", sic: 5812, note: "Bought by Arby's in 2018."}
+"122295108": {name: "Burnham Holdings", ticker: "BURCA", sic: 3433, sector: "Industrials"}
+"12532H104": {name: "CGI", ticker: "GIB", sic: 8742, sector: "Technology"}
+"T19404101": {name: "CIR", ticker: "CIR", sic: 6719, sector: "Industrials"}
+"T28980125": {name: "CIR", ticker: "CIR", sic: 6719, sector: "Industrials"}
+"T2R765103": {name: "CIR", ticker: "CIR", sic: 6719, sector: "Industrials"}
+"12572Q105": {name: "CME Group", ticker: "CME", sic: 6200}
+"126804301": {name: "Cabela's", ticker: "CAB", sic: 5940, note: "Bought by Bass Pro Shops in 2017."}
+"12685J105": {name: "Cable One", ticker: "CABO", sic: 4841}
+"127387108": {name: "Cadence Design Systems", ticker: "CDNS", sic: 7372}
+"23857X103": {name: "Campari", ticker: "DVDCY", sic: 2080}
+"N24565108": {name: "Campari", ticker: "CPR", sic: 2080}
+"T3490M150": {name: "Campari", ticker: "CPR", sic: 2080}
+"142339100": {name: "Carlisle", ticker: "CSL", sic: 3060, sector: "Industrials"}
+"K36628137": {name: "Carlsberg", ticker: "CARL B", sic: 2082}
+"149123101": {name: "Caterpillar", ticker: "CAT", sic: 3531}
+"15201P109": {name: "CenterState Banks", ticker: "CSFL", sic: 6022}
+"03755L104": {name: "ChampionX", ticker: "CHX", sic: 3533, sector: "Energy", note: "Called Apergy until 2020."}
+"163851108": {name: "Chemours", ticker: "CC", sic: 2800}
+"171779309": {name: "Ciena", ticker: "CIEN", sic: 3661}
+"17275R102": {name: "Cisco", ticker: "CSCO", sic: 3576}
+"172967226": {name: "Citigroup", ticker: "C.WS", sic: 6021, kind: "warrants"}
+"19247G107": {name: "Coherent", ticker: "COHR", sic: 3827}
+"902104108": {name: "Coherent", ticker: "IIVI", sic: 3827, note: "Called II-VI until 2022."}
+"20854L108": {name: "Consol Energy", ticker: "CEIX", sic: 1221, sector: "Energy", note: "Merged with Arch in 2025 to form Core Natural Resources."}
+"22052L104": {name: "Corteva", ticker: "CTVA", sic: 2870}
+"222070203": {name: "Coty", ticker: "COTY", sic: 2844}
+"224399105": {name: "Crane", ticker: "CR", sic: 3490, sector: "Industrials"}
+"224408104": {name: "Crane", ticker: "CR", sic: 3490, sector: "Industrials"}
+"224441105": {name: "Crane", ticker: "CR", sic: 3490, sector: "Industrials"}
+"233912104": {name: "Daily Journal", ticker: "DJCO", sic: 2711}
+"Y1968P121": {name: "Danaos", ticker: "DAC", sic: 4412}
+"23636T100": {name: "Danone", ticker: "DANOY", sic: 2000}
+"F12033134": {name: "Danone", ticker: "BN", sic: 2000}
+"T3508H102": {name: "De'Longhi", ticker: "DLG", sic: 3630, sector: "Consumer discretionary"}
+"G27035107": {name: "Deliveroo", ticker: "ROO", sic: 7389, sector: "Consumer discretionary", note: "Bought by DoorDash in 2025."}
+"K3008M105": {name: "Demant", ticker: "DEMANT", sic: 3842, sector: "Health care"}
+"G42089113": {name: "Diageo", ticker: "DGE", sic: 2080}
+"25746U109": {name: "Dominion Energy", ticker: "D", sic: 4911}
+"25809K105": {name: "DoorDash", ticker: "DASH", sic: 7389, sector: "Consumer discretionary"}
+"25861R204": {name: "DoubleLine Shiller CAPE ETF", ticker: "CAPE", fund: yes}
+"260003108": {name: "Dover", ticker: "DOV", sic: 3530}
+"26154D100": {name: "Dream Finders Homes", ticker: "DFH", sic: 1531}
+"26078J100": {name: "DuPont", ticker: "DWDP", sic: 2821, note: "DowDuPont, split in 2019."}
+"263534109": {name: "DuPont", ticker: "DD", sic: 2821, note: "E. I. du Pont de Nemours, before the 2017 Dow merger."}
+"26614N102": {name: "DuPont", ticker: "DD", sic: 2821}
+"532457108": {name: "Eli Lilly", ticker: "LLY", sic: 2834}
+"27826S103": {name: "Eaton Vance Senior Income Trust", ticker: "EVF", fund: yes}
+"W2457W116": {name: "Electrolux Professional", ticker: "EPRO B", sic: 3580, sector: "Industrials"}
+"001179764": {name: "EssilorLuxottica", ticker: "EL.FR", sic: 3851, sector: "Health care"}
+"55068R202": {name: "EssilorLuxottica", ticker: "LUX", sic: 3851, sector: "Health care", note: "Luxottica, before the 2018 merger with Essilor."}
+"L31839134": {name: "Eurofins Scientific", ticker: "ERF", sic: 8734, sector: "Health care"}
+"30233Q108": {name: "Exxon Mobil", ticker: "XOM", sic: 2911}
+"31425A109": {name: "FB Bancorp", ticker: "FBLA", sic: 6035}
+"344419106": {name: "FEMSA", ticker: "FMX", sic: 2086}
+"31428X106": {name: "FedEx", ticker: "FDX", sic: 4513}
+"31488V107": {name: "Ferguson", ticker: "FERG", sic: 5070}
+"N3167Y103": {name: "Ferrari", ticker: "RACE", sic: 3711}
+"D2617N114": {name: "Fielmann", ticker: "FIE", sic: 5990, sector: "Consumer discretionary"}
+"33829M101": {name: "Five Below", ticker: "FIVE", sic: 5331}
+"E52619108": {name: "Fluidra", ticker: "FDR", sic: 3580, sector: "Consumer discretionary"}
+"G3643J108": {name: "Flutter Entertainment", ticker: "FLUT", sic: 7990, sector: "Consumer discretionary"}
+"34964C106": {name: "Fortune Brands Innovations", ticker: "FBIN", sic: 3430, sector: "Industrials"}
+"354613101": {name: "Franklin Resources", ticker: "BEN", sic: 6282}
+"360271100": {name: "Fulton Financial", ticker: "FULT", sic: 6021}
+"36473H104": {name: "Gannett", ticker: "GCI", sic: 2711}
+"368736104": {name: "Generac", ticker: "GNRC", sic: 3621}
+"369550108": {name: "General Dynamics", ticker: "GD", sic: 3730}
+"37045V126": {name: "General Motors", ticker: "GM.WS", sic: 3711, kind: "warrants"}
+"371559105": {name: "Genesee & Wyoming", ticker: "GWR", sic: 4011, note: "Taken private in 2019."}
+"384313508": {name: "GrafTech", ticker: "EAF", sic: 3620}
+"389637109": {name: "Grayscale Bitcoin Trust", ticker: "GBTC", fund: yes}
+"398438408": {name: "Grifols", ticker: "GRFS", sic: 2836}
+"W41422101": {name: "H&M", ticker: "HM B", sic: 5651}
+"Y7121Z146": {name: "HM Sampoerna", ticker: "HMSP", sic: 2111}
+"405217100": {name: "Hain Celestial", ticker: "HAIN", sic: 2000}
+"410345102": {name: "Hanesbrands", ticker: "HBI", sic: 2300}
+"412822108": {name: "Harley-Davidson", ticker: "HOG", sic: 3751}
+"418056107": {name: "Hasbro", ticker: "HAS", sic: 3944}
+"420261109": {name: "Hawkins", ticker: "HWKN", sic: 5160}
+"421906108": {name: "Healthcare Services Group", ticker: "HCSG", sic: 7349, sector: "Industrials"}
+"422347104": {name: "Heartland Express", ticker: "HTLD", sic: 4213}
+"423012301": {name: "Heineken", ticker: "HEINY", sic: 2082}
+"N39427211": {name: "Heineken", ticker: "HEIA", sic: 2082}
+"423008101": {name: "Heineken Holding", ticker: "HKHHY", sic: 2082}
+"N39338194": {name: "Heineken Holding", ticker: "HEIO", sic: 2082}
+"427866108": {name: "Hershey", ticker: "HSY", sic: 2060}
+"440452100": {name: "Hormel Foods", ticker: "HRL", sic: 2011}
+"440694305": {name: "Horsehead", ticker: "ZINC", sic: 3330, note: "Bankrupt in 2016."}
+"44109J114": {name: "Hostess Brands", ticker: "TWNK.WS", sic: 2050, kind: "warrants"}
+"448579102": {name: "Hyatt", ticker: "H", sic: 7011}
+"452327109": {name: "Illumina", ticker: "ILMN", sic: 3826}
+"G4721W102": {name: "Imperial Brands", ticker: "IMB", sic: 2111}
+"G4766E108": {name: "Indivior", ticker: "INDV", sic: 2834}
+"45780R101": {name: "Installed Building Products", ticker: "IBP", sic: 1520, sector: "Industrials"}
+"45866F104": {name: "Intercontinental Exchange", ticker: "ICE", sic: 6200}
+"46120E602": {name: "Intuitive Surgical", ticker: "ISRG", sic: 3842}
+"46138G649": {name: "Invesco ETF", ticker: "INVESCO", fund: yes}
+"46137V357": {name: "Invesco S&P 500 Equal Weight ETF", ticker: "RSP", fund: yes}
+"477839104": {name: "JBT Marel", ticker: "JBTM", sic: 3550}
+"F5333N100": {name: "JCDecaux", ticker: "DEC", sic: 7310, sector: "Media & telecom"}
+"46982L108": {name: "Jacobs Solutions", ticker: "J", sic: 8711, sector: "Industrials"}
+"968223206": {name: "John Wiley & Sons", ticker: "WLY", sic: 2731}
+"X4S8SE108": {name: "Kalmar", ticker: "KALMAR", sic: 3530, sector: "Industrials"}
+"48581R205": {name: "Kaspi.kz", ticker: "KSPI", sic: 6199}
+"49714P108": {name: "Kinsale Capital", ticker: "KNSL", sic: 6331}
+"499049104": {name: "Knight-Swift", ticker: "KNX", sic: 4213}
+"499064103": {name: "Knight-Swift", ticker: "KNX", sic: 4213, note: "Knight Transportation, before the 2017 merger with Swift."}
+"49926D109": {name: "Knowles", ticker: "KN", sic: 3651}
+"X4550J108": {name: "Konecranes", ticker: "KCR", sic: 3536, sector: "Industrials"}
+"F58149133": {name: "L'Oréal", ticker: "OR", sic: 2844}
+"Y5342M100": {name: "LT Group", ticker: "LTG", sic: 2111, sector: "Consumer staples"}
+"502441306": {name: "LVMH", ticker: "LVMUY", sic: 2080, sector: "Consumer discretionary"}
+"F58485115": {name: "LVMH", ticker: "MC", sic: 2080, sector: "Consumer discretionary"}
+"52736R102": {name: "Levi Strauss", ticker: "LEVI", sic: 2300}
+"530307107": {name: "Liberty Broadband", ticker: "LBRDA", sic: 4841}
+"530307305": {name: "Liberty Broadband", ticker: "LBRDK", sic: 4841}
+"G54950103": {name: "Linde", ticker: "LIN", sic: 2810}
+"H49983176": {name: "Lindt & Sprüngli", ticker: "LISN", sic: 2060}
+"537008104": {name: "Littelfuse", ticker: "LFUS", sic: 3613, sector: "Technology"}
+"539830109": {name: "Lockheed Martin", ticker: "LMT", sic: 3760}
+"G56357109": {name: "Lonrho", ticker: "LONR", sic: 6719, sector: "Industrials"}
+"B5783H102": {name: "Lotus Bakeries", ticker: "LOTB", sic: 2050}
+"548661107": {name: "Lowe's", ticker: "LOW", sic: 5211}
+"55087P104": {name: "Lyft", ticker: "LYFT", sic: 7389, sector: "Industrials"}
+"55261F112": {name: "M&T Bank", ticker: "MTB.WS", sic: 6022, kind: "warrants"}
+"553498106": {name: "MSA Safety", ticker: "MSA", sic: 3842}
+"56418H100": {name: "ManpowerGroup", ticker: "MAN", sic: 7363}
+"57638P104": {name: "MasterBrand", ticker: "MBC", sic: 2511}
+"577081102": {name: "Mattel", ticker: "MAT", sic: 3942, sector: "Consumer discretionary"}
+"579489303": {name: "McClatchy", ticker: "MNI", sic: 2711}
+"D1668R123": {name: "Mercedes-Benz", ticker: "MBG", sic: 3711, note: "Called Daimler until 2022."}
+"595998816": {name: "Micropore", ticker: "MICROPORE", kind: "preferred"}
+"600544100": {name: "MillerKnoll", ticker: "MLKN", sic: 2520, sector: "Industrials", note: "Called Herman Miller until 2021."}
+"604675991": {name: "Mirant", ticker: "MIRANT", sic: 4911, note: "Escrow shares."}
+"608190104": {name: "Mohawk Industries", ticker: "MHK", sic: 2273}
+"626717102": {name: "Murphy Oil", ticker: "MUR", sic: 1311}
+"626755102": {name: "Murphy USA", ticker: "MUSA", sic: 5500}
+"N59465109": {name: "Mylan", ticker: "MYL", sic: 2834, note: "Merged with Upjohn in 2020 to form Viatris."}
+"R4700L117": {name: "NHST Media Group", ticker: "NHST", sic: 2711}
+"641069406": {name: "Nestlé", ticker: "NSRGY", sic: 2000}
+"H57312649": {name: "Nestlé", ticker: "NESN", sic: 2000}
+"644535106": {name: "New Gold", ticker: "NGD", sic: 1040}
+"651229106": {name: "Newell Brands", ticker: "NWL", sic: 3089}
+"65339F101": {name: "Nextera Energy", ticker: "NEE", sic: 4911}
+"N63218106": {name: "Nielsen", ticker: "NLSN", sic: 7389, sector: "Industrials"}
+"G65431127": {name: "Noble", ticker: "NE", sic: 1381}
+"665859104": {name: "Northern Trust", ticker: "NTRS", sic: 6022}
+"66987V109": {name: "Novartis", ticker: "NVS", sic: 2834}
+"670100205": {name: "Novo Nordisk", ticker: "NVO", sic: 2834}
+"14987J106": {name: "Outfront Media", ticker: "CBSO", sic: 6798, note: "Called CBS Outdoor Americas until 2014."}
+"69007J106": {name: "Outfront Media", ticker: "OUT", sic: 6798}
+"69007J304": {name: "Outfront Media", ticker: "OUT", sic: 6798}
+"693390841": {name: "PIMCO High Yield Fund", ticker: "PHIYX", fund: yes}
+"693390700": {name: "PIMCO Total Return Fund", ticker: "PTTRX", fund: yes}
+"69354N106": {name: "PRA Group", ticker: "PRAA", sic: 6153}
+"G6850S109": {name: "PZ Cussons", ticker: "PZC", sic: 2844}
+"H60477207": {name: "Pargesa", ticker: "PARG", sic: 6719, sector: "Financials & real estate", note: "Folded into GBL in 2020."}
+"714264207": {name: "Pernod Ricard", ticker: "PRNDY", sic: 2080}
+"714264306": {name: "Pernod Ricard", ticker: "PRNDY", sic: 2080}
+"F72027109": {name: "Pernod Ricard", ticker: "RI", sic: 2080}
+"72352L106": {name: "Pinterest", ticker: "PINS", sic: 7370}
+"723787107": {name: "Pioneer Natural Resources", ticker: "PXD", sic: 1311, note: "Bought by Exxon Mobil in 2024."}
+"724078209": {name: "Piper Sandler", ticker: "PIPR", sic: 6211}
+"693483109": {name: "POSCO Holdings", ticker: "PKX", sic: 3312}
+"74005P104": {name: "Praxair", ticker: "PX", sic: 2810, note: "Merged with Linde in 2018."}
+"E8S64T107": {name: "Puig", ticker: "PUIG", sic: 2844}
+"767744105": {name: "RB Global", ticker: "RBA", sic: 7389, sector: "Industrials", note: "Called Ritchie Bros. until 2023."}
+"759530108": {name: "RELX", ticker: "RELX", sic: 7389, sector: "Industrials"}
+"913017109": {name: "RTX", ticker: "UTX", sic: 3724, note: "United Technologies, which merged with Raytheon in 2020."}
+"751212101": {name: "Ralph Lauren", ticker: "RL", sic: 2320}
+"D6349P107": {name: "Rational", ticker: "RAA", sic: 3580, sector: "Industrials"}
+"G74079107": {name: "Reckitt", ticker: "RKT", sic: 2840}
+"761152107": {name: "Resmed", ticker: "RMD", sic: 3841}
+"204319107": {name: "Richemont", ticker: "CFRUY", sic: 3873, sector: "Consumer discretionary"}
+"H25662158": {name: "Richemont", ticker: "CFR", sic: 3873, sector: "Consumer discretionary"}
+"H25662182": {name: "Richemont", ticker: "CFR", sic: 3873, sector: "Consumer discretionary"}
+"H25663123": {name: "Richemont", ticker: "CFR.WS", sic: 3873, kind: "warrants", sector: "Consumer discretionary"}
+"767754104": {name: "Rite Aid", ticker: "RAD", sic: 5912, sector: "Consumer staples"}
+"001203204": {name: "Roche", ticker: "RHHBY", sic: 2834}
+"H69293217": {name: "Roche", ticker: "ROG", sic: 2834}
+"F7725A100": {name: "Rémy Cointreau", ticker: "RCO", sic: 2080}
+"78572M105": {name: "SABMiller", ticker: "SBMRY", sic: 2082}
+"G77395104": {name: "SABMiller", ticker: "SAB", sic: 2082, note: "Bought by AB InBev in 2016."}
+"78463V107": {name: "SPDR Gold Trust", ticker: "GLD", fund: yes}
+"78467J100": {name: "SS&C Technologies", ticker: "SSNC", sic: 7372}
+"G8402N125": {name: "SSP Group", ticker: "SSPG", sic: 5812, sector: "Consumer discretionary"}
+"R75677105": {name: "Schibsted", ticker: "SCHA", sic: 2711}
+"R75677147": {name: "Schibsted", ticker: "SCHB", sic: 2711}
+"811065101": {name: "Scripps Networks", ticker: "SNI", sic: 4841, note: "Bought by Discovery in 2018."}
+"780259107": {name: "Shell", ticker: "RDS.B", sic: 1311}
+"780259206": {name: "Shell", ticker: "RDS.A", sic: 1311}
+"001228935": {name: "Shiseido", ticker: "SSDOY", sic: 2844}
+"J74358144": {name: "Shiseido", ticker: "4911", sic: 2844}
+"83125X103": {name: "Sleep Number", ticker: "SNBR", sic: 2510}
+"85472N109": {name: "Stantec", ticker: "STN", sic: 8711}
+"N31738102": {name: "Stellantis", ticker: "FCAU", sic: 3711, note: "Fiat Chrysler until the 2021 merger with PSA."}
+"M8553H110": {name: "Strauss Group", ticker: "STRS", sic: 2000}
+"CREST6610": {name: "Sunbelt Rentals", ticker: "SUNB", sic: 7359}
+"869099101": {name: "Susquehanna Bancshares", ticker: "SUSQ", sic: 6022}
+"870123106": {name: "Swatch Group", ticker: "SWGAY", sic: 3873, sector: "Consumer discretionary"}
+"H83949141": {name: "Swatch Group", ticker: "UHR", sic: 3873, sector: "Consumer discretionary"}
+"870309606": {name: "Swedish Match", ticker: "SWMAY", sic: 2111}
+"W92277115": {name: "Swedish Match", ticker: "SWMA", sic: 2111, note: "Bought by Philip Morris in 2022."}
+"W9376L154": {name: "Swedish Match", ticker: "SWMA", sic: 2111}
+"870875101": {name: "Swiss Helvetia Fund", ticker: "SWZ", fund: yes}
+"H84140112": {name: "Syngenta", ticker: "SYNN", sic: 2870}
+"880208400": {name: "Templeton Global Bond Fund", ticker: "TPINX", fund: yes}
+"88032Q109": {name: "Tencent", ticker: "TCEHY", sic: 7370, sector: "Media & telecom"}
+"G47791101": {name: "Trane Technologies", ticker: "IR", sic: 3585, note: "Called Ingersoll-Rand until 2020."}
+"G8994E103": {name: "Trane Technologies", ticker: "TT", sic: 3585}
+"054937107": {name: "Truist Financial", ticker: "BBT", sic: 6021, note: "BB&T until the 2019 merger with SunTrust."}
+"89832Q109": {name: "Truist Financial", ticker: "TFC", sic: 6021}
+"87318A101": {name: "TWFG", ticker: "TWFG", sic: 6411}
+"902681105": {name: "UGI", ticker: "UGI", sic: 4932}
+"904311107": {name: "Under Armour", ticker: "UAA", sic: 2300}
+"904767704": {name: "Unilever", ticker: "UL", sic: 2840}
+"904784709": {name: "Unilever", ticker: "UN", sic: 2840}
+"G92087165": {name: "Unilever", ticker: "ULVR", sic: 2840}
+"N8981F271": {name: "Unilever", ticker: "UNA", sic: 2840}
+"N8981F289": {name: "Unilever", ticker: "UNA", sic: 2840}
+"91529Y106": {name: "Unum", ticker: "UNM", sic: 6321}
+"G9460G101": {name: "Valaris", ticker: "VAL", sic: 1381}
+"92240G101": {name: "Vectren", ticker: "VVC", sic: 4932, note: "Bought by CenterPoint in 2019."}
+"92939D104": {name: "WL Ross Holding", ticker: "WLRH", sic: 6770, sector: "Financials & real estate", note: "A SPAC that became Nexeo Solutions in 2016."}
+"92939D203": {name: "WL Ross Holding", ticker: "WLRHU", sic: 6770, sector: "Financials & real estate"}
+"P98180105": {name: "Walmex", ticker: "WALMEX", sic: 5331, sector: "Consumer staples"}
+"P98180188": {name: "Walmex", ticker: "WALMEX", sic: 5331, sector: "Consumer staples"}
+"93403J106": {name: "Warby Parker", ticker: "WRBY", sic: 3851}
+"934550203": {name: "Warner Music", ticker: "WMG", sic: 7900}
+"93627C101": {name: "Warrior Met Coal", ticker: "HCC", sic: 1220, sector: "Materials"}
+"942622200": {name: "Watsco", ticker: "WSO", sic: 5070}
+"949746804": {name: "Wells Fargo", ticker: "WFC.PR.L", sic: 6021, kind: "preferred"}
+"962149100": {name: "Weyco Group", ticker: "WEYS", sic: 5130}
+"98585X104": {name: "Yeti", ticker: "YETI", sic: 3949}
+"T9846S106": {name: "Yoox Net-a-Porter", ticker: "YNAP", sic: 5961}
+"98850P109": {name: "Yum China", ticker: "YUMC", sic: 5812}
+"D98423102": {name: "Zalando", ticker: "ZAL", sic: 5961}
+"46428Q109": {name: "iShares Silver Trust", ticker: "SLV", fund: yes}
+"464287788": {name: "iShares U.S. Financials ETF", ticker: "IYF", fund: yes}
+"464288752": {name: "iShares U.S. Home Construction ETF", ticker: "ITB", fund: yes}
+"550021109": {name: "Lululemon", ticker: "LULU", sic: 2300}
