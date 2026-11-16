@@ -302,3 +302,24 @@ managers:
     firm: RV Capital
     cik: 1766596
     letters: rv-capital
+
+  - id: seth-klarman
+    name: Seth Klarman
+    firm: Baupost Group
+    cik: 1061768
+    letters: no
+    why: "Seth wrote Margin of Safety in 1991 and still runs Baupost, which does much of its work in distressed debt, private deals and real estate that a 13F doesn't show. Amazon, bought in late 2025, is now the biggest position."
+
+  - id: third-avenue-management
+    name: Third Avenue Management
+    firm: Third Avenue Management
+    cik: 1099281
+    letters: no
+    why: "Marty Whitman built Third Avenue on what he called safe and cheap: a very strong balance sheet, bought below net asset value. He died in 2018. Brookfield and First Industrial Realty are in every 13F since 2013."
+
+  - id: david-abrams
+    name: David Abrams
+    firm: Abrams Capital Management
+    cik: 1358706
+    letters: no
+    why: "David worked under Seth Klarman at Baupost before starting Abrams Capital in 1999. Loar, the aerospace parts maker he backed before its 2024 IPO, is 41% of the 13F."

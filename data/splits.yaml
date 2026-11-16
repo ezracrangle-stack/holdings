@@ -76,3 +76,5 @@
 - {ticker: FLG, date: 2024-07-11, ratio: 0.3333333}
 - {ticker: EGLE, date: 2020-09-15, ratio: 0.1428571}
 - {ticker: OCSL, date: 2023-01-23, ratio: 0.3333333}
+- {ticker: CTO, date: 2022-07-01, ratio: 3}
+- {ticker: FRPH, date: 2024-05-29, ratio: 2}
