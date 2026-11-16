@@ -2233,6 +2233,76 @@
    "table_total": 1883136156,
    "first_seen": "2026-11-16T13:48:47+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001697591-26-000005",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000169759126000005/0001697591-26-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO CL A",
+     "class": "CARVANA CO CL A",
+     "shares": 21954211,
+     "unit": "SH",
+     "value": 1373016356
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS",
+     "class": "HILTON GRAND VACATIONS",
+     "shares": 5070709,
+     "unit": "SH",
+     "value": 175750774
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "META PLATFORMS INC",
+     "shares": 172679,
+     "unit": "SH",
+     "value": 125223357
+    },
+    {
+     "cusip": "57164Y107",
+     "put_call": null,
+     "issuer": "MARRIOTT VACATIONS WORLDWIDE CORP.",
+     "class": "MARRIOTT VACATIONS WORLDWIDE CORP.",
+     "shares": 389460,
+     "unit": "SH",
+     "value": 39833969
+    },
+    {
+     "cusip": "51819L107",
+     "put_call": null,
+     "issuer": "LATHAM GROUP",
+     "class": "LATHAM GROUP",
+     "shares": 433262,
+     "unit": "SH",
+     "value": 2699222
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS, INC.",
+     "class": "CARDLYTICS, INC.",
+     "shares": 459426,
+     "unit": "SH",
+     "value": 1350712
+    }
+   ],
+   "table_total": 1717874390,
+   "first_seen": "2026-11-16T20:10:41+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "CAS Investment Partners, LLC"
