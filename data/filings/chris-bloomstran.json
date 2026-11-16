@@ -16308,6 +16308,481 @@
    "table_total": 884603403,
    "first_seen": "2026-11-16T13:49:56+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001941040-26-000836",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1115373,
+   "url": "https://www.sec.gov/Archives/edgar/data/1115373/000194104026000836/0001941040-26-000836-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "SEMPER AUGUSTUS INVESTMENTS GROUP LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 277870,
+     "unit": "SH",
+     "value": 138365367
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 120,
+     "unit": "SH",
+     "value": 89640600
+    },
+    {
+     "cusip": "256677105",
+     "put_call": null,
+     "issuer": "DOLLAR GEN CORP",
+     "class": "COM",
+     "shares": 632824,
+     "unit": "SH",
+     "value": 75673118
+    },
+    {
+     "cusip": "011659109",
+     "put_call": null,
+     "issuer": "ALASKA AIR GROUP INC",
+     "class": "COM",
+     "shares": 1828941,
+     "unit": "SH",
+     "value": 70780017
+    },
+    {
+     "cusip": "256746108",
+     "put_call": null,
+     "issuer": "DOLLAR TREE INC",
+     "class": "COM",
+     "shares": 525063,
+     "unit": "SH",
+     "value": 59867683
+    },
+    {
+     "cusip": "680665205",
+     "put_call": null,
+     "issuer": "OLIN CORP",
+     "class": "COM PAR $1",
+     "shares": 3757328,
+     "unit": "SH",
+     "value": 58238590
+    },
+    {
+     "cusip": "243537107",
+     "put_call": null,
+     "issuer": "DECKERS OUTDOOR CORP",
+     "class": "COM",
+     "shares": 721729,
+     "unit": "SH",
+     "value": 56395904
+    },
+    {
+     "cusip": "12008R107",
+     "put_call": null,
+     "issuer": "BUILDERS FIRSTSOURCE INC",
+     "class": "COM",
+     "shares": 863774,
+     "unit": "SH",
+     "value": 49243756
+    },
+    {
+     "cusip": "651639106",
+     "put_call": null,
+     "issuer": "NEWMONT CORP",
+     "class": "COM",
+     "shares": 414067,
+     "unit": "SH",
+     "value": 47758430
+    },
+    {
+     "cusip": "496902404",
+     "put_call": null,
+     "issuer": "KINROSS GOLD CORP",
+     "class": "COM",
+     "shares": 1399244,
+     "unit": "SH",
+     "value": 33693796
+    },
+    {
+     "cusip": "H5919C104",
+     "put_call": null,
+     "issuer": "ON HLDG AG",
+     "class": "NAMEN AKT A",
+     "shares": 760465,
+     "unit": "SH",
+     "value": 22517369
+    },
+    {
+     "cusip": "192446102",
+     "put_call": null,
+     "issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+     "class": "CL A",
+     "shares": 389628,
+     "unit": "SH",
+     "value": 22380232
+    },
+    {
+     "cusip": "704326107",
+     "put_call": null,
+     "issuer": "PAYCHEX INC",
+     "class": "COM",
+     "shares": 215660,
+     "unit": "SH",
+     "value": 21242540
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 729542,
+     "unit": "SH",
+     "value": 19901906
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 47114,
+     "unit": "SH",
+     "value": 18585060
+    },
+    {
+     "cusip": "33829M101",
+     "put_call": null,
+     "issuer": "FIVE BELOW INC",
+     "class": "COM",
+     "shares": 83199,
+     "unit": "SH",
+     "value": 18268004
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 167355,
+     "unit": "SH",
+     "value": 17555520
+    },
+    {
+     "cusip": "69932A204",
+     "put_call": null,
+     "issuer": "PARAMOUNT SKYDANCE CORP",
+     "class": "COM CL B",
+     "shares": 648841,
+     "unit": "SH",
+     "value": 6702529
+    },
+    {
+     "cusip": "58933Y105",
+     "put_call": null,
+     "issuer": "MERCK & CO INC",
+     "class": "COM",
+     "shares": 44419,
+     "unit": "SH",
+     "value": 6454525
+    },
+    {
+     "cusip": "91913Y100",
+     "put_call": null,
+     "issuer": "VALERO ENERGY CORP",
+     "class": "COM",
+     "shares": 15592,
+     "unit": "SH",
+     "value": 6043468
+    },
+    {
+     "cusip": "29446M102",
+     "put_call": null,
+     "issuer": "EQUINOR ASA",
+     "class": "SPONSORED ADR",
+     "shares": 138400,
+     "unit": "SH",
+     "value": 5757440
+    },
+    {
+     "cusip": "30233Q108",
+     "put_call": null,
+     "issuer": "EXXONMOBIL HOLDINGS CORP",
+     "class": "COM SHS",
+     "shares": 33176,
+     "unit": "SH",
+     "value": 5399394
+    },
+    {
+     "cusip": "403949100",
+     "put_call": null,
+     "issuer": "HF SINCLAIR CORP",
+     "class": "COM",
+     "shares": 45787,
+     "unit": "SH",
+     "value": 4913889
+    },
+    {
+     "cusip": "89417E109",
+     "put_call": null,
+     "issuer": "TRAVELERS COMPANIES INC",
+     "class": "COM",
+     "shares": 13387,
+     "unit": "SH",
+     "value": 4772599
+    },
+    {
+     "cusip": "855244109",
+     "put_call": null,
+     "issuer": "STARBUCKS CORP",
+     "class": "COM",
+     "shares": 45885,
+     "unit": "SH",
+     "value": 4311318
+    },
+    {
+     "cusip": "231021106",
+     "put_call": null,
+     "issuer": "CUMMINS INC",
+     "class": "COM",
+     "shares": 6762,
+     "unit": "SH",
+     "value": 3493046
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHOLESALE CORPORATION",
+     "class": "COM",
+     "shares": 3352,
+     "unit": "SH",
+     "value": 3051460
+    },
+    {
+     "cusip": "98149E303",
+     "put_call": null,
+     "issuer": "WORLD GOLD TR",
+     "class": "SPDR GLD MINIS",
+     "shares": 24063,
+     "unit": "SH",
+     "value": 1977497
+    },
+    {
+     "cusip": "36828A101",
+     "put_call": null,
+     "issuer": "GE VERNOVA INC",
+     "class": "COM",
+     "shares": 1994,
+     "unit": "SH",
+     "value": 1895277
+    },
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 5994,
+     "unit": "SH",
+     "value": 1871866
+    },
+    {
+     "cusip": "78413P101",
+     "put_call": null,
+     "issuer": "SEACOR MARINE HLDGS INC",
+     "class": "COM",
+     "shares": 208175,
+     "unit": "SH",
+     "value": 1690381
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 4141,
+     "unit": "SH",
+     "value": 1379036
+    },
+    {
+     "cusip": "N6596X109",
+     "put_call": null,
+     "issuer": "NXP SEMICONDUCTORS N V",
+     "class": "COM",
+     "shares": 5605,
+     "unit": "SH",
+     "value": 1331356
+    },
+    {
+     "cusip": "166764100",
+     "put_call": null,
+     "issuer": "CHEVRON CORPORATION",
+     "class": "COM",
+     "shares": 5838,
+     "unit": "SH",
+     "value": 1192178
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 2996,
+     "unit": "SH",
+     "value": 911084
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2432,
+     "unit": "SH",
+     "value": 828680
+    },
+    {
+     "cusip": "60744M106",
+     "put_call": null,
+     "issuer": "MOBILITY GLOBAL INC",
+     "class": "COM SHS",
+     "shares": 45973,
+     "unit": "SH",
+     "value": 788437
+    },
+    {
+     "cusip": "85207H104",
+     "put_call": null,
+     "issuer": "SPROTT ASSET MANAGEMENT LP",
+     "class": "PHYSICAL GOLD TR",
+     "shares": 23869,
+     "unit": "SH",
+     "value": 746384
+    },
+    {
+     "cusip": "780259305",
+     "put_call": null,
+     "issuer": "SHELL PLC",
+     "class": "SPON ADS",
+     "shares": 4968,
+     "unit": "SH",
+     "value": 472208
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MTH TREASURY",
+     "shares": 4360,
+     "unit": "SH",
+     "value": 438965
+    },
+    {
+     "cusip": "718546104",
+     "put_call": null,
+     "issuer": "PHILLIPS 66",
+     "class": "COM",
+     "shares": 1472,
+     "unit": "SH",
+     "value": 375816
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 658,
+     "unit": "SH",
+     "value": 362973
+    },
+    {
+     "cusip": "718172109",
+     "put_call": null,
+     "issuer": "PHILIP MORRIS INTL INC",
+     "class": "COM",
+     "shares": 1762,
+     "unit": "SH",
+     "value": 336225
+    },
+    {
+     "cusip": "87165B103",
+     "put_call": null,
+     "issuer": "SYNCHRONY FINANCIAL",
+     "class": "COM",
+     "shares": 4437,
+     "unit": "SH",
+     "value": 314894
+    },
+    {
+     "cusip": "36266G107",
+     "put_call": null,
+     "issuer": "GE HEALTHCARE TECHNOLOGIES I",
+     "class": "COMMON STOCK",
+     "shares": 4581,
+     "unit": "SH",
+     "value": 299460
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 476,
+     "unit": "SH",
+     "value": 244140
+    },
+    {
+     "cusip": "003264108",
+     "put_call": null,
+     "issuer": "ABRDN SILVER ETF TRUST",
+     "class": "PHYSCL SILVR SHS",
+     "shares": 4245,
+     "unit": "SH",
+     "value": 243281
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 700,
+     "unit": "SH",
+     "value": 240856
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 794,
+     "unit": "SH",
+     "value": 210204
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC.",
+     "class": "COM",
+     "shares": 2980,
+     "unit": "SH",
+     "value": 207348
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 2774,
+     "unit": "SH",
+     "value": 203085
+    }
+   ],
+   "table_total": 889569191,
+   "first_seen": "2026-11-16T20:51:59+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "SEMPER AUGUSTUS INVESTMENTS GROUP LLC"
