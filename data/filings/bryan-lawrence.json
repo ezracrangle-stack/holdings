@@ -4043,6 +4043,112 @@
    "table_total": 268452796,
    "first_seen": "2026-11-16T04:32:03+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001172661-26-005077",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266126005077/0001172661-26-005077-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 88045811
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": "Put",
+     "issuer": "STATE STR SPDR S&P 500 ETF T",
+     "class": "TR UNIT",
+     "shares": 95000,
+     "unit": "SH",
+     "value": 72449850
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 40262179
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 29060402
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24170,
+     "unit": "SH",
+     "value": 26166442
+    },
+    {
+     "cusip": "573284106",
+     "put_call": null,
+     "issuer": "MARTIN MARIETTA MATERIALS",
+     "class": "COM",
+     "shares": 45950,
+     "unit": "SH",
+     "value": 22047270
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 123183,
+     "unit": "SH",
+     "value": 17563432
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODY'S CORP",
+     "class": "COM",
+     "shares": 34000,
+     "unit": "SH",
+     "value": 15440420
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 14114229
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP-A",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 9627620
+    }
+   ],
+   "table_total": 334777655,
+   "first_seen": "2026-11-16T13:48:15+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "Oakcliff Capital Partners, LP"

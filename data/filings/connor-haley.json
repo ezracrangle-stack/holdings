@@ -1,0 +1,2890 @@
+{
+ "filings": [
+  {
+   "accession": "0001858353-22-000002",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835322000002/0001858353-22-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 7750,
+     "unit": "SH",
+     "value": 22452000
+    },
+    {
+     "cusip": "23753F107",
+     "put_call": null,
+     "issuer": "DASEKE INC",
+     "class": "COM",
+     "shares": 1450659,
+     "unit": "SH",
+     "value": 14565000
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 174441,
+     "unit": "SH",
+     "value": 11911000
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 235692,
+     "unit": "SH",
+     "value": 10408000
+    },
+    {
+     "cusip": "75704L104",
+     "put_call": null,
+     "issuer": "RED VIOLET INC",
+     "class": "COM",
+     "shares": 245207,
+     "unit": "SH",
+     "value": 9732000
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "CALLAWAY GOLF CO",
+     "class": "COM",
+     "shares": 347800,
+     "unit": "SH",
+     "value": 9544000
+    },
+    {
+     "cusip": "871332102",
+     "put_call": null,
+     "issuer": "SYLVAMO CORP",
+     "class": "COMMON STOCK",
+     "shares": 300000,
+     "unit": "SH",
+     "value": 8367000
+    },
+    {
+     "cusip": "29082A107",
+     "put_call": null,
+     "issuer": "EMBRAER S.A.",
+     "class": "SPONSORED ADS",
+     "shares": 460502,
+     "unit": "SH",
+     "value": 8174000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1775,
+     "unit": "SH",
+     "value": 5918000
+    },
+    {
+     "cusip": "499049104",
+     "put_call": null,
+     "issuer": "KNIGHT-SWIFT TRANSN HLDGS IN",
+     "class": "CL A",
+     "shares": 79556,
+     "unit": "SH",
+     "value": 4848000
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 132314,
+     "unit": "SH",
+     "value": 3676000
+    },
+    {
+     "cusip": "56146T103",
+     "put_call": null,
+     "issuer": "MAMAMANCINI S HLDGS INC",
+     "class": "COM",
+     "shares": 1686799,
+     "unit": "SH",
+     "value": 3390000
+    },
+    {
+     "cusip": "98422X101",
+     "put_call": null,
+     "issuer": "XPONENTIAL FITNESS INC",
+     "class": "COM CL A",
+     "shares": 124522,
+     "unit": "SH",
+     "value": 2545000
+    }
+   ],
+   "table_total": 195885000,
+   "first_seen": "2026-11-16T13:48:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-22-000003",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835322000003/0001858353-22-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "418056107",
+     "put_call": null,
+     "issuer": "HASBRO INC",
+     "class": "COM",
+     "shares": 3612133,
+     "unit": "SH",
+     "value": 295906000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 8750,
+     "unit": "SH",
+     "value": 24337000
+    },
+    {
+     "cusip": "23753F107",
+     "put_call": null,
+     "issuer": "DASEKE INC",
+     "class": "COM",
+     "shares": 1871911,
+     "unit": "SH",
+     "value": 18850000
+    },
+    {
+     "cusip": "44157R109",
+     "put_call": null,
+     "issuer": "HOUGHTON MIFFLIN HARCOURT CO",
+     "class": "COM",
+     "shares": 725000,
+     "unit": "SH",
+     "value": 15232000
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 698526,
+     "unit": "SH",
+     "value": 10778000
+    },
+    {
+     "cusip": "361008105",
+     "put_call": null,
+     "issuer": "FUNKO INC",
+     "class": "COM CL A",
+     "shares": 610000,
+     "unit": "SH",
+     "value": 10523000
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 288605,
+     "unit": "SH",
+     "value": 9839000
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 152620,
+     "unit": "SH",
+     "value": 8029000
+    },
+    {
+     "cusip": "29978A104",
+     "put_call": null,
+     "issuer": "EVERBRIDGE INC",
+     "class": "COM",
+     "shares": 125000,
+     "unit": "SH",
+     "value": 5455000
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 100000,
+     "unit": "SH",
+     "value": 3539000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 875,
+     "unit": "SH",
+     "value": 2852000
+    },
+    {
+     "cusip": "56146T103",
+     "put_call": null,
+     "issuer": "MAMAMANCINI S HLDGS INC",
+     "class": "COM",
+     "shares": 1686799,
+     "unit": "SH",
+     "value": 2817000
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "CALLAWAY GOLF CO",
+     "class": "COM",
+     "shares": 53612,
+     "unit": "SH",
+     "value": 1256000
+    }
+   ],
+   "table_total": 409413000,
+   "first_seen": "2026-11-16T13:48:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-22-000006",
+   "form": "13F-HR",
+   "filed": "2022-08-16",
+   "period": "2022-06-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835322000006/0001858353-22-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "418056107",
+     "put_call": null,
+     "issuer": "HASBRO INC",
+     "class": "COM",
+     "shares": 3142133,
+     "unit": "SH",
+     "value": 257278000
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 330018,
+     "unit": "SH",
+     "value": 83000000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 8250,
+     "unit": "SH",
+     "value": 17979000
+    },
+    {
+     "cusip": "361008105",
+     "put_call": null,
+     "issuer": "FUNKO INC",
+     "class": "COM CL A",
+     "shares": 759421,
+     "unit": "SH",
+     "value": 16950000
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 368833,
+     "unit": "SH",
+     "value": 16940000
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 1224314,
+     "unit": "SH",
+     "value": 16418000
+    },
+    {
+     "cusip": "23753F107",
+     "put_call": null,
+     "issuer": "DASEKE INC",
+     "class": "COM",
+     "shares": 2228664,
+     "unit": "SH",
+     "value": 14241000
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "CALLAWAY GOLF CO",
+     "class": "COM",
+     "shares": 678612,
+     "unit": "SH",
+     "value": 13844000
+    },
+    {
+     "cusip": "29978A104",
+     "put_call": null,
+     "issuer": "EVERBRIDGE INC",
+     "class": "COM",
+     "shares": 425000,
+     "unit": "SH",
+     "value": 11853000
+    },
+    {
+     "cusip": "98422X101",
+     "put_call": null,
+     "issuer": "XPONENTIAL FITNESS INC",
+     "class": "COM CL A",
+     "shares": 678509,
+     "unit": "SH",
+     "value": 8522000
+    },
+    {
+     "cusip": "353469109",
+     "put_call": null,
+     "issuer": "FRANKLIN COVEY CO",
+     "class": "COM",
+     "shares": 175558,
+     "unit": "SH",
+     "value": 8107000
+    },
+    {
+     "cusip": "746228303",
+     "put_call": null,
+     "issuer": "PURE CYCLE CORP",
+     "class": "COM NEW",
+     "shares": 290547,
+     "unit": "SH",
+     "value": 3062000
+    },
+    {
+     "cusip": "12008R107",
+     "put_call": null,
+     "issuer": "BUILDERS FIRSTSOURCE INC",
+     "class": "COM",
+     "shares": 55000,
+     "unit": "SH",
+     "value": 2954000
+    },
+    {
+     "cusip": "56146T103",
+     "put_call": null,
+     "issuer": "MAMAMANCINI S HLDGS INC",
+     "class": "COM",
+     "shares": 1686799,
+     "unit": "SH",
+     "value": 2362000
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 111500,
+     "unit": "SH",
+     "value": 1707000
+    },
+    {
+     "cusip": "53635B107",
+     "put_call": null,
+     "issuer": "LIQUIDITY SVCS INC",
+     "class": "COM",
+     "shares": 59300,
+     "unit": "SH",
+     "value": 797000
+    }
+   ],
+   "table_total": 476014000,
+   "first_seen": "2026-11-16T13:48:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-22-000008",
+   "form": "13F-HR/A",
+   "filed": "2022-10-14",
+   "period": "2021-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835322000008/0001858353-22-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "NEW HOLDINGS",
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "418056107",
+     "put_call": null,
+     "issuer": "HASBRO INC",
+     "class": "COM",
+     "shares": 789501,
+     "unit": "SH",
+     "value": 80355000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 7750,
+     "unit": "SH",
+     "value": 22452000
+    },
+    {
+     "cusip": "23753F107",
+     "put_call": null,
+     "issuer": "DASEKE INC",
+     "class": "COM",
+     "shares": 1450659,
+     "unit": "SH",
+     "value": 14565000
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 174441,
+     "unit": "SH",
+     "value": 11911000
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 235692,
+     "unit": "SH",
+     "value": 10408000
+    },
+    {
+     "cusip": "75704L104",
+     "put_call": null,
+     "issuer": "RED VIOLET INC",
+     "class": "COM",
+     "shares": 245207,
+     "unit": "SH",
+     "value": 9732000
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "CALLAWAY GOLF CO",
+     "class": "COM",
+     "shares": 347800,
+     "unit": "SH",
+     "value": 9544000
+    },
+    {
+     "cusip": "871332102",
+     "put_call": null,
+     "issuer": "SYLVAMO CORP",
+     "class": "COMMON STOCK",
+     "shares": 300000,
+     "unit": "SH",
+     "value": 8367000
+    },
+    {
+     "cusip": "29082A107",
+     "put_call": null,
+     "issuer": "EMBRAER S.A.",
+     "class": "SPONSORED ADS",
+     "shares": 460502,
+     "unit": "SH",
+     "value": 8174000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1775,
+     "unit": "SH",
+     "value": 5918000
+    },
+    {
+     "cusip": "499049104",
+     "put_call": null,
+     "issuer": "KNIGHT-SWIFT TRANSN HLDGS IN",
+     "class": "CL A",
+     "shares": 79556,
+     "unit": "SH",
+     "value": 4848000
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 132314,
+     "unit": "SH",
+     "value": 3676000
+    },
+    {
+     "cusip": "56146T103",
+     "put_call": null,
+     "issuer": "MAMAMANCINI S HLDGS INC",
+     "class": "COM",
+     "shares": 1686799,
+     "unit": "SH",
+     "value": 3390000
+    },
+    {
+     "cusip": "98422X101",
+     "put_call": null,
+     "issuer": "XPONENTIAL FITNESS INC",
+     "class": "COM CL A",
+     "shares": 124522,
+     "unit": "SH",
+     "value": 2545000
+    }
+   ],
+   "table_total": 195885000,
+   "first_seen": "2026-11-16T13:48:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-22-000009",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835322000009/0001858353-22-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "418056107",
+     "put_call": null,
+     "issuer": "HASBRO INC",
+     "class": "COM",
+     "shares": 3162133,
+     "unit": "SH",
+     "value": 213191000
+    },
+    {
+     "cusip": "361008105",
+     "put_call": null,
+     "issuer": "FUNKO INC",
+     "class": "COM CL A",
+     "shares": 1185054,
+     "unit": "SH",
+     "value": 23962000
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 649681,
+     "unit": "SH",
+     "value": 16132000
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 1022314,
+     "unit": "SH",
+     "value": 13188000
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "TOPGOLF CALLAWAY BRANDS CORP",
+     "class": "COM",
+     "shares": 490564,
+     "unit": "SH",
+     "value": 9448000
+    },
+    {
+     "cusip": "98422X101",
+     "put_call": null,
+     "issuer": "XPONENTIAL FITNESS INC",
+     "class": "COM CL A",
+     "shares": 514069,
+     "unit": "SH",
+     "value": 9387000
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "COM",
+     "shares": 203333,
+     "unit": "SH",
+     "value": 8743000
+    },
+    {
+     "cusip": "459200951",
+     "put_call": "Put",
+     "issuer": "INTERNATIONAL BUSINESS MACHS",
+     "class": "PUT",
+     "shares": 63000,
+     "unit": "SH",
+     "value": 7485000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 60000,
+     "unit": "SH",
+     "value": 5739000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 46000,
+     "unit": "SH",
+     "value": 5198000
+    },
+    {
+     "cusip": "92511U102",
+     "put_call": null,
+     "issuer": "VERRA MOBILITY CORP",
+     "class": "CL A COM STK",
+     "shares": 325000,
+     "unit": "SH",
+     "value": 4995000
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1748098,
+     "unit": "SH",
+     "value": 4737000
+    },
+    {
+     "cusip": "29978A104",
+     "put_call": null,
+     "issuer": "EVERBRIDGE INC",
+     "class": "COM",
+     "shares": 118799,
+     "unit": "SH",
+     "value": 3669000
+    },
+    {
+     "cusip": "746228303",
+     "put_call": null,
+     "issuer": "PURE CYCLE CORP",
+     "class": "COM NEW",
+     "shares": 290547,
+     "unit": "SH",
+     "value": 2426000
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 111885,
+     "unit": "SH",
+     "value": 1758000
+    },
+    {
+     "cusip": "56146T103",
+     "put_call": null,
+     "issuer": "MAMAMANCINI S HLDGS INC",
+     "class": "COM",
+     "shares": 1210868,
+     "unit": "SH",
+     "value": 1320000
+    }
+   ],
+   "table_total": 331378000,
+   "first_seen": "2026-11-16T13:48:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-23-000002",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835323000002/0001858353-23-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 754178,
+     "unit": "SH",
+     "value": 32467363
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "COM",
+     "shares": 265283,
+     "unit": "SH",
+     "value": 12314437
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "TOPGOLF CALLAWAY BRANDS CORP",
+     "class": "COM",
+     "shares": 620564,
+     "unit": "SH",
+     "value": 12256139
+    },
+    {
+     "cusip": "L6673X107",
+     "put_call": null,
+     "issuer": "NEOGAMES S A",
+     "class": "SHS",
+     "shares": 783874,
+     "unit": "SH",
+     "value": 9555424
+    },
+    {
+     "cusip": "75513E101",
+     "put_call": null,
+     "issuer": "RAYTHEON TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 88883,
+     "unit": "SH",
+     "value": 8970072
+    },
+    {
+     "cusip": "459200951",
+     "put_call": "Put",
+     "issuer": "INTERNATIONAL BUSINESS MACHS",
+     "class": "PUT",
+     "shares": 63000,
+     "unit": "SH",
+     "value": 8768340
+    },
+    {
+     "cusip": "46005L101",
+     "put_call": null,
+     "issuer": "INTERNATIONAL MNY EXPRESS IN",
+     "class": "COM",
+     "shares": 323383,
+     "unit": "SH",
+     "value": 7880844
+    },
+    {
+     "cusip": "05969A105",
+     "put_call": null,
+     "issuer": "BANCORP INC DEL",
+     "class": "COM",
+     "shares": 276900,
+     "unit": "SH",
+     "value": 7858422
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 272442,
+     "unit": "SH",
+     "value": 7674691
+    },
+    {
+     "cusip": "254687106",
+     "put_call": null,
+     "issuer": "DISNEY WALT CO",
+     "class": "COM",
+     "shares": 78580,
+     "unit": "SH",
+     "value": 6827030
+    },
+    {
+     "cusip": "98422X101",
+     "put_call": null,
+     "issuer": "XPONENTIAL FITNESS INC",
+     "class": "COM CL A",
+     "shares": 296753,
+     "unit": "SH",
+     "value": 6804546
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 76000,
+     "unit": "SH",
+     "value": 6384000
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1581530,
+     "unit": "SH",
+     "value": 4459915
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 111885,
+     "unit": "SH",
+     "value": 1564152
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 18874,
+     "unit": "SH",
+     "value": 1133572
+    }
+   ],
+   "table_total": 134918947,
+   "first_seen": "2026-11-16T13:48:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-23-000004",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835323000004/0001858353-23-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "TOPGOLF CALLAWAY BRANDS CORP",
+     "class": "COM",
+     "shares": 773664,
+     "unit": "SH",
+     "value": 16726616
+    },
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 392105,
+     "unit": "SH",
+     "value": 16268436
+    },
+    {
+     "cusip": "05969A105",
+     "put_call": null,
+     "issuer": "BANCORP INC DEL",
+     "class": "COM",
+     "shares": 562500,
+     "unit": "SH",
+     "value": 15665625
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 2744283,
+     "unit": "SH",
+     "value": 15560085
+    },
+    {
+     "cusip": "03990B101",
+     "put_call": null,
+     "issuer": "ARES MANAGEMENT CORPORATION",
+     "class": "CL A COM STK",
+     "shares": 142368,
+     "unit": "SH",
+     "value": 11879186
+    },
+    {
+     "cusip": "46005L101",
+     "put_call": null,
+     "issuer": "INTERNATIONAL MNY EXPRESS IN",
+     "class": "COM",
+     "shares": 313431,
+     "unit": "SH",
+     "value": 8080251
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "COM",
+     "shares": 133460,
+     "unit": "SH",
+     "value": 7009319
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 301725,
+     "unit": "SH",
+     "value": 5078032
+    },
+    {
+     "cusip": "G46188101",
+     "put_call": null,
+     "issuer": "HORIZON THERAPEUTICS PUB L",
+     "class": "SHS",
+     "shares": 44500,
+     "unit": "SH",
+     "value": 4856730
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 137260,
+     "unit": "SH",
+     "value": 4677821
+    }
+   ],
+   "table_total": 105802101,
+   "first_seen": "2026-11-16T13:48:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-23-000005",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835323000005/0001858353-23-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 88900,
+     "unit": "SH",
+     "value": 16330041
+    },
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 332505,
+     "unit": "SH",
+     "value": 15414932
+    },
+    {
+     "cusip": "131193104",
+     "put_call": null,
+     "issuer": "TOPGOLF CALLAWAY BRANDS CORP",
+     "class": "COM",
+     "shares": 660964,
+     "unit": "SH",
+     "value": 13120135
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 2046083,
+     "unit": "SH",
+     "value": 13094931
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE HLDGS INC",
+     "class": "COM",
+     "shares": 87700,
+     "unit": "SH",
+     "value": 12764735
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 721438,
+     "unit": "SH",
+     "value": 12138963
+    },
+    {
+     "cusip": "05969A105",
+     "put_call": null,
+     "issuer": "BANCORP INC DEL",
+     "class": "COM",
+     "shares": 276735,
+     "unit": "SH",
+     "value": 9035398
+    },
+    {
+     "cusip": "G27907107",
+     "put_call": null,
+     "issuer": "DOLE PLC",
+     "class": "ORD SHS",
+     "shares": 449249,
+     "unit": "SH",
+     "value": 6073846
+    },
+    {
+     "cusip": "94106B101",
+     "put_call": null,
+     "issuer": "WASTE CONNECTIONS INC",
+     "class": "COM",
+     "shares": 36300,
+     "unit": "SH",
+     "value": 5188359
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 38852,
+     "unit": "SH",
+     "value": 5064747
+    },
+    {
+     "cusip": "03990B101",
+     "put_call": null,
+     "issuer": "ARES MANAGEMENT CORPORATION",
+     "class": "CL A COM STK",
+     "shares": 49368,
+     "unit": "SH",
+     "value": 4756607
+    },
+    {
+     "cusip": "36262G101",
+     "put_call": null,
+     "issuer": "GXO LOGISTICS INCORPORATED",
+     "class": "COMMON STOCK",
+     "shares": 57000,
+     "unit": "SH",
+     "value": 3580740
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 25200,
+     "unit": "SH",
+     "value": 3016440
+    },
+    {
+     "cusip": "971378104",
+     "put_call": null,
+     "issuer": "WILLSCOT MOBIL MINI HLDNG CO",
+     "class": "COM CL A",
+     "shares": 33900,
+     "unit": "SH",
+     "value": 1620081
+    },
+    {
+     "cusip": "104833306",
+     "put_call": null,
+     "issuer": "BRAGG GAMING GROUP INC",
+     "class": "COM NEW",
+     "shares": 153200,
+     "unit": "SH",
+     "value": 470324
+    }
+   ],
+   "table_total": 121670279,
+   "first_seen": "2026-11-16T13:48:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-23-000007",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835323000007/0001858353-23-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1682857,
+     "unit": "SH",
+     "value": 15011084
+    },
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 185303,
+     "unit": "SH",
+     "value": 8540615
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE HLDGS INC",
+     "class": "COM",
+     "shares": 56122,
+     "unit": "SH",
+     "value": 8428402
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 41400,
+     "unit": "SH",
+     "value": 8137584
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 22400,
+     "unit": "SH",
+     "value": 7072800
+    },
+    {
+     "cusip": "94106B101",
+     "put_call": null,
+     "issuer": "WASTE CONNECTIONS INC",
+     "class": "COM",
+     "shares": 51600,
+     "unit": "SH",
+     "value": 6929880
+    },
+    {
+     "cusip": "971378104",
+     "put_call": null,
+     "issuer": "WILLSCOT MOBIL MINI HLDNG CO",
+     "class": "COM CL A",
+     "shares": 160200,
+     "unit": "SH",
+     "value": 6662718
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 50252,
+     "unit": "SH",
+     "value": 6388034
+    },
+    {
+     "cusip": "36262G101",
+     "put_call": null,
+     "issuer": "GXO LOGISTICS INCORPORATED",
+     "class": "COMMON STOCK",
+     "shares": 79599,
+     "unit": "SH",
+     "value": 4668481
+    },
+    {
+     "cusip": "G27907107",
+     "put_call": null,
+     "issuer": "DOLE PLC",
+     "class": "ORD SHS",
+     "shares": 399249,
+     "unit": "SH",
+     "value": 4623303
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "COM",
+     "shares": 56460,
+     "unit": "SH",
+     "value": 3477936
+    },
+    {
+     "cusip": "H1467J104",
+     "put_call": null,
+     "issuer": "CHUBB LIMITED",
+     "class": "COM",
+     "shares": 16700,
+     "unit": "SH",
+     "value": 3476606
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 25200,
+     "unit": "SH",
+     "value": 3297672
+    },
+    {
+     "cusip": "55406W103",
+     "put_call": null,
+     "issuer": "MYT NETHERLANDS PARENT B V",
+     "class": "ADS",
+     "shares": 510132,
+     "unit": "SH",
+     "value": 1734449
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 4200,
+     "unit": "SH",
+     "value": 1662822
+    },
+    {
+     "cusip": "39854F101",
+     "put_call": null,
+     "issuer": "GRINDR INC",
+     "class": "COM",
+     "shares": 202038,
+     "unit": "SH",
+     "value": 1161719
+    }
+   ],
+   "table_total": 91274105,
+   "first_seen": "2026-11-16T13:48:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-24-000002",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835324000002/0001858353-24-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "33768G107",
+     "put_call": null,
+     "issuer": "FIRSTCASH HOLDINGS INC",
+     "class": "COM",
+     "shares": 246245,
+     "unit": "SH",
+     "value": 26690496
+    },
+    {
+     "cusip": "464287655",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "RUSSELL 2000 ETF",
+     "shares": 86700,
+     "unit": "SH",
+     "value": 17401557
+    },
+    {
+     "cusip": "57667L107",
+     "put_call": null,
+     "issuer": "MATCH GROUP INC NEW",
+     "class": "COM",
+     "shares": 395300,
+     "unit": "SH",
+     "value": 14428450
+    },
+    {
+     "cusip": "39854F101",
+     "put_call": null,
+     "issuer": "GRINDR INC",
+     "class": "COM",
+     "shares": 1597555,
+     "unit": "SH",
+     "value": 14026533
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1468557,
+     "unit": "SH",
+     "value": 12453363
+    },
+    {
+     "cusip": "94106B101",
+     "put_call": null,
+     "issuer": "WASTE CONNECTIONS INC",
+     "class": "COM",
+     "shares": 81600,
+     "unit": "SH",
+     "value": 12180432
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE HLDGS INC",
+     "class": "COM",
+     "shares": 52622,
+     "unit": "SH",
+     "value": 9581940
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 38200,
+     "unit": "SH",
+     "value": 8614482
+    },
+    {
+     "cusip": "971378104",
+     "put_call": null,
+     "issuer": "WILLSCOT MOBIL MINI HLDNG CO",
+     "class": "COM CL A",
+     "shares": 190500,
+     "unit": "SH",
+     "value": 8477250
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 21500,
+     "unit": "SH",
+     "value": 8084860
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51852,
+     "unit": "SH",
+     "value": 7878393
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 193566,
+     "unit": "SH",
+     "value": 6598665
+    },
+    {
+     "cusip": "48251W104",
+     "put_call": null,
+     "issuer": "KKR & CO INC",
+     "class": "COM",
+     "shares": 56460,
+     "unit": "SH",
+     "value": 4677711
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 25200,
+     "unit": "SH",
+     "value": 3520188
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 4200,
+     "unit": "SH",
+     "value": 1791342
+    }
+   ],
+   "table_total": 156405662,
+   "first_seen": "2026-11-16T13:48:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-24-000003",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835324000003/0001858353-24-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "33768G107",
+     "put_call": null,
+     "issuer": "FIRSTCASH HOLDINGS INC",
+     "class": "COM",
+     "shares": 280945,
+     "unit": "SH",
+     "value": 35831725
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 1468557,
+     "unit": "SH",
+     "value": 14626828
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 77400,
+     "unit": "SH",
+     "value": 11681982
+    },
+    {
+     "cusip": "94106B101",
+     "put_call": null,
+     "issuer": "WASTE CONNECTIONS INC",
+     "class": "COM",
+     "shares": 66515,
+     "unit": "SH",
+     "value": 11441245
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 249741,
+     "unit": "SH",
+     "value": 9442707
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51852,
+     "unit": "SH",
+     "value": 9353064
+    },
+    {
+     "cusip": "971378104",
+     "put_call": null,
+     "issuer": "WILLSCOT MOBIL MINI HLDNG CO",
+     "class": "COM CL A",
+     "shares": 190500,
+     "unit": "SH",
+     "value": 8858250
+    },
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 285084,
+     "unit": "SH",
+     "value": 6297506
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 13000,
+     "unit": "SH",
+     "value": 6260410
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 6142512
+    },
+    {
+     "cusip": "43300A203",
+     "put_call": null,
+     "issuer": "HILTON WORLDWIDE HLDGS INC",
+     "class": "COM",
+     "shares": 25922,
+     "unit": "SH",
+     "value": 5529422
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 21200,
+     "unit": "SH",
+     "value": 5348972
+    }
+   ],
+   "table_total": 130814623,
+   "first_seen": "2026-11-16T13:48:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-24-000005",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835324000005/0001858353-24-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 2439819,
+     "unit": "SH",
+     "value": 60727095
+    },
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 345724,
+     "unit": "SH",
+     "value": 19557607
+    },
+    {
+     "cusip": "052800109",
+     "put_call": null,
+     "issuer": "AUTOLIV INC",
+     "class": "COM",
+     "shares": 135800,
+     "unit": "SH",
+     "value": 14529242
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 77400,
+     "unit": "SH",
+     "value": 14098410
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 748557,
+     "unit": "SH",
+     "value": 10442370
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51852,
+     "unit": "SH",
+     "value": 10020399
+    },
+    {
+     "cusip": "03831W108",
+     "put_call": null,
+     "issuer": "APPLOVIN CORP",
+     "class": "COM CL A",
+     "shares": 102500,
+     "unit": "SH",
+     "value": 8530050
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 6525470
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 13000,
+     "unit": "SH",
+     "value": 5735080
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 142748,
+     "unit": "SH",
+     "value": 5127508
+    },
+    {
+     "cusip": "749360400",
+     "put_call": null,
+     "issuer": "RCM TECHNOLOGIES INC",
+     "class": "COM NEW",
+     "shares": 65019,
+     "unit": "SH",
+     "value": 1217156
+    },
+    {
+     "cusip": "774515100",
+     "put_call": null,
+     "issuer": "ROCKY BRANDS INC",
+     "class": "COM",
+     "shares": 20018,
+     "unit": "SH",
+     "value": 739865
+    },
+    {
+     "cusip": "971378104",
+     "put_call": null,
+     "issuer": "WILLSCOT MOBIL MINI HLDNG CO",
+     "class": "COM CL A",
+     "shares": 6872,
+     "unit": "SH",
+     "value": 258662
+    }
+   ],
+   "table_total": 157508914,
+   "first_seen": "2026-11-16T13:48:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-24-000007",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835324000007/0001858353-24-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 2497167,
+     "unit": "SH",
+     "value": 70070506
+    },
+    {
+     "cusip": "349853101",
+     "put_call": null,
+     "issuer": "FORWARD AIR CORP",
+     "class": "COM",
+     "shares": 797092,
+     "unit": "SH",
+     "value": 28217057
+    },
+    {
+     "cusip": "L7579L106",
+     "put_call": null,
+     "issuer": "PERIMETER SOLUTIONS SA",
+     "class": "COMMON STOCK",
+     "shares": 953153,
+     "unit": "SH",
+     "value": 12819908
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CROP",
+     "class": "CL B NEW",
+     "shares": 309089,
+     "unit": "SH",
+     "value": 11797927
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 18400,
+     "unit": "SH",
+     "value": 10532896
+    },
+    {
+     "cusip": "59100U108",
+     "put_call": null,
+     "issuer": "PATHWARD FINANCIAL INC",
+     "class": "COM",
+     "shares": 157154,
+     "unit": "SH",
+     "value": 10373736
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 748557,
+     "unit": "SH",
+     "value": 9663871
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51852,
+     "unit": "SH",
+     "value": 9661583
+    },
+    {
+     "cusip": "92645B103",
+     "put_call": null,
+     "issuer": "VICTORY CAP HLDGS INC",
+     "class": "COM CL A",
+     "shares": 126800,
+     "unit": "SH",
+     "value": 7024720
+    },
+    {
+     "cusip": "03748R747",
+     "put_call": null,
+     "issuer": "APARTMENT INVT & MGMT CO",
+     "class": "CL A",
+     "shares": 723045,
+     "unit": "SH",
+     "value": 6536327
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 13000,
+     "unit": "SH",
+     "value": 6419400
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 6282380
+    },
+    {
+     "cusip": "968223206",
+     "put_call": null,
+     "issuer": "WILEY JOHN & SONS INC",
+     "class": "CL A",
+     "shares": 127698,
+     "unit": "SH",
+     "value": 6161429
+    },
+    {
+     "cusip": "600551204",
+     "put_call": null,
+     "issuer": "MILLER INDS INC TENN",
+     "class": "COM NEW",
+     "shares": 100,
+     "unit": "SH",
+     "value": 6100
+    }
+   ],
+   "table_total": 195567840,
+   "first_seen": "2026-11-16T13:48:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-25-000002",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835325000002/0001858353-25-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 2497167,
+     "unit": "SH",
+     "value": 79584712
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 3074336,
+     "unit": "SH",
+     "value": 51833305
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 61800,
+     "unit": "SH",
+     "value": 26048700
+    },
+    {
+     "cusip": "25862V105",
+     "put_call": null,
+     "issuer": "DOUBLEVERIFY HLDGS INC",
+     "class": "COM",
+     "shares": 1263234,
+     "unit": "SH",
+     "value": 24266725
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 103652,
+     "unit": "SH",
+     "value": 22740212
+    },
+    {
+     "cusip": "349853101",
+     "put_call": null,
+     "issuer": "FORWARD AIR CORP",
+     "class": "COM",
+     "shares": 692144,
+     "unit": "SH",
+     "value": 22321644
+    },
+    {
+     "cusip": "968223206",
+     "put_call": null,
+     "issuer": "WILEY JOHN & SONS INC",
+     "class": "CL A",
+     "shares": 347047,
+     "unit": "SH",
+     "value": 15169424
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 18400,
+     "unit": "SH",
+     "value": 10773384
+    },
+    {
+     "cusip": "64082B102",
+     "put_call": null,
+     "issuer": "NERDWALLET INC",
+     "class": "COM CL A",
+     "shares": 809086,
+     "unit": "SH",
+     "value": 10760844
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 13000,
+     "unit": "SH",
+     "value": 6845410
+    },
+    {
+     "cusip": "120076104",
+     "put_call": null,
+     "issuer": "BUILD-A-BEAR WORKSHOP INC",
+     "class": "COM",
+     "shares": 122300,
+     "unit": "SH",
+     "value": 5630692
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 98935,
+     "unit": "SH",
+     "value": 4701391
+    },
+    {
+     "cusip": "45828L108",
+     "put_call": null,
+     "issuer": "INTEGRAL AD SCIENCE HLDNG CO",
+     "class": "COM",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 60552
+    }
+   ],
+   "table_total": 280736995,
+   "first_seen": "2026-11-16T13:48:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-25-000004",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835325000004/0001858353-25-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 2302802,
+     "unit": "SH",
+     "value": 72768543
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 5973599,
+     "unit": "SH",
+     "value": 72758436
+    },
+    {
+     "cusip": "896215209",
+     "put_call": null,
+     "issuer": "TRIMAS CORP",
+     "class": "COM NEW",
+     "shares": 742005,
+     "unit": "SH",
+     "value": 17385177
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 42300,
+     "unit": "SH",
+     "value": 15878997
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 83000,
+     "unit": "SH",
+     "value": 15791580
+    },
+    {
+     "cusip": "01741R102",
+     "put_call": null,
+     "issuer": "ATI INC",
+     "class": "COM",
+     "shares": 216300,
+     "unit": "SH",
+     "value": 11254089
+    },
+    {
+     "cusip": "45828L108",
+     "put_call": null,
+     "issuer": "INTEGRAL AD SCIENCE HLDNG CO",
+     "class": "COM",
+     "shares": 1214053,
+     "unit": "SH",
+     "value": 9785267
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC",
+     "class": "SHS CLASS -A -",
+     "shares": 1120700,
+     "unit": "SH",
+     "value": 9032842
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 136060,
+     "unit": "SH",
+     "value": 6981239
+    },
+    {
+     "cusip": "76134H101",
+     "put_call": null,
+     "issuer": "RESOLUTE HLDGS MGMT INC",
+     "class": "COM",
+     "shares": 165149,
+     "unit": "SH",
+     "value": 5175770
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 403096,
+     "unit": "SH",
+     "value": 5034669
+    },
+    {
+     "cusip": "25862V105",
+     "put_call": null,
+     "issuer": "DOUBLEVERIFY HLDGS INC",
+     "class": "COM",
+     "shares": 333465,
+     "unit": "SH",
+     "value": 4458427
+    },
+    {
+     "cusip": "M8216R109",
+     "put_call": null,
+     "issuer": "RISKIFIED LTD",
+     "class": "SHS CL A",
+     "shares": 757044,
+     "unit": "SH",
+     "value": 3497543
+    },
+    {
+     "cusip": "03990B101",
+     "put_call": null,
+     "issuer": "ARES MANAGEMENT CORPORATION",
+     "class": "CL A COM STK",
+     "shares": 16732,
+     "unit": "SH",
+     "value": 2453079
+    },
+    {
+     "cusip": "880345103",
+     "put_call": null,
+     "issuer": "TENNANT CO",
+     "class": "COM",
+     "shares": 916,
+     "unit": "SH",
+     "value": 73051
+    }
+   ],
+   "table_total": 252328709,
+   "first_seen": "2026-11-16T13:49:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-25-000007",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835325000007/0001858353-25-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 1605857,
+     "unit": "SH",
+     "value": 76422735
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 4973599,
+     "unit": "SH",
+     "value": 75200817
+    },
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 1513127,
+     "unit": "SH",
+     "value": 43169513
+    },
+    {
+     "cusip": "252131107",
+     "put_call": null,
+     "issuer": "DEXCOM INC",
+     "class": "COM",
+     "shares": 247900,
+     "unit": "SH",
+     "value": 21639191
+    },
+    {
+     "cusip": "896215209",
+     "put_call": null,
+     "issuer": "TRIMAS CORP",
+     "class": "COM NEW",
+     "shares": 742005,
+     "unit": "SH",
+     "value": 21228763
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 42300,
+     "unit": "SH",
+     "value": 21040443
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 83000,
+     "unit": "SH",
+     "value": 18209370
+    },
+    {
+     "cusip": "45828L108",
+     "put_call": null,
+     "issuer": "INTEGRAL AD SCIENCE HLDNG CO",
+     "class": "COM",
+     "shares": 1800090,
+     "unit": "SH",
+     "value": 14958748
+    },
+    {
+     "cusip": "03990B101",
+     "put_call": null,
+     "issuer": "ARES MANAGEMENT CORPORATION",
+     "class": "CL A COM STK",
+     "shares": 79332,
+     "unit": "SH",
+     "value": 13740302
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 16600,
+     "unit": "SH",
+     "value": 12252294
+    },
+    {
+     "cusip": "25960R105",
+     "put_call": null,
+     "issuer": "DOUGLAS DYNAMICS INC",
+     "class": "COM",
+     "shares": 266843,
+     "unit": "SH",
+     "value": 7863863
+    },
+    {
+     "cusip": "76134H101",
+     "put_call": null,
+     "issuer": "RESOLUTE HLDGS MGMT INC",
+     "class": "COM",
+     "shares": 225249,
+     "unit": "SH",
+     "value": 7178686
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 581877,
+     "unit": "SH",
+     "value": 6714861
+    },
+    {
+     "cusip": "639027101",
+     "put_call": null,
+     "issuer": "NATURES SUNSHINE PRODS INC",
+     "class": "COM",
+     "shares": 450000,
+     "unit": "SH",
+     "value": 6655500
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 88530,
+     "unit": "SH",
+     "value": 6048370
+    },
+    {
+     "cusip": "25862V105",
+     "put_call": null,
+     "issuer": "DOUBLEVERIFY HLDGS INC",
+     "class": "COM",
+     "shares": 369400,
+     "unit": "SH",
+     "value": 5529918
+    },
+    {
+     "cusip": "M8216R109",
+     "put_call": null,
+     "issuer": "RISKIFIED LTD",
+     "class": "SHS CL A",
+     "shares": 757044,
+     "unit": "SH",
+     "value": 3777650
+    },
+    {
+     "cusip": "M8740S227",
+     "put_call": null,
+     "issuer": "TAT TECHNOLOGIES LTD",
+     "class": "ORD NEW",
+     "shares": 122790,
+     "unit": "SH",
+     "value": 3750007
+    },
+    {
+     "cusip": "046433108",
+     "put_call": null,
+     "issuer": "ASTRONICS CORP",
+     "class": "COM",
+     "shares": 75248,
+     "unit": "SH",
+     "value": 2519303
+    }
+   ],
+   "table_total": 367900334,
+   "first_seen": "2026-11-16T13:49:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-25-000008",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835325000008/0001858353-25-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 4430799,
+     "unit": "SH",
+     "value": 92692315
+    },
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 1974153,
+     "unit": "SH",
+     "value": 77603954
+    },
+    {
+     "cusip": "749527107",
+     "put_call": null,
+     "issuer": "REV GROUP INC",
+     "class": "COM",
+     "shares": 807457,
+     "unit": "SH",
+     "value": 45758588
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 1098700,
+     "unit": "SH",
+     "value": 40904601
+    },
+    {
+     "cusip": "252131107",
+     "put_call": null,
+     "issuer": "DEXCOM INC",
+     "class": "COM",
+     "shares": 379100,
+     "unit": "SH",
+     "value": 25509639
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 42300,
+     "unit": "SH",
+     "value": 21909285
+    },
+    {
+     "cusip": "883203101",
+     "put_call": null,
+     "issuer": "TEXTRON INC",
+     "class": "COM",
+     "shares": 240800,
+     "unit": "SH",
+     "value": 20345192
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 12900,
+     "unit": "SH",
+     "value": 19305237
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 83000,
+     "unit": "SH",
+     "value": 18224310
+    },
+    {
+     "cusip": "G8068L108",
+     "put_call": null,
+     "issuer": "SHARKNINJA INC",
+     "class": "COM SHS",
+     "shares": 149000,
+     "unit": "SH",
+     "value": 15369350
+    },
+    {
+     "cusip": "25862V105",
+     "put_call": null,
+     "issuer": "DOUBLEVERIFY HLDGS INC",
+     "class": "COM",
+     "shares": 1231900,
+     "unit": "SH",
+     "value": 14758162
+    },
+    {
+     "cusip": "10950A106",
+     "put_call": null,
+     "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+     "class": "COM",
+     "shares": 460525,
+     "unit": "SH",
+     "value": 13613119
+    },
+    {
+     "cusip": "896215209",
+     "put_call": null,
+     "issuer": "TRIMAS CORP",
+     "class": "COM NEW",
+     "shares": 336144,
+     "unit": "SH",
+     "value": 12988604
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 16600,
+     "unit": "SH",
+     "value": 12190708
+    },
+    {
+     "cusip": "30260D103",
+     "put_call": null,
+     "issuer": "FIGS INC",
+     "class": "CL A",
+     "shares": 909300,
+     "unit": "SH",
+     "value": 6083217
+    },
+    {
+     "cusip": "639027101",
+     "put_call": null,
+     "issuer": "NATURES SUNSHINE PRODS INC",
+     "class": "COM",
+     "shares": 303700,
+     "unit": "SH",
+     "value": 4713424
+    },
+    {
+     "cusip": "47973J102",
+     "put_call": null,
+     "issuer": "JOINT CORP",
+     "class": "COM",
+     "shares": 288377,
+     "unit": "SH",
+     "value": 2751117
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 57869,
+     "unit": "SH",
+     "value": 1913728
+    },
+    {
+     "cusip": "046433108",
+     "put_call": null,
+     "issuer": "ASTRONICS CORP",
+     "class": "COM",
+     "shares": 41048,
+     "unit": "SH",
+     "value": 1872199
+    }
+   ],
+   "table_total": 448506749,
+   "first_seen": "2026-11-16T13:49:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-26-000002",
+   "form": "13F-HR",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835326000002/0001858353-26-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 1950881,
+     "unit": "SH",
+     "value": 74348075
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 3733199,
+     "unit": "SH",
+     "value": 73805344
+    },
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 1442638,
+     "unit": "SH",
+     "value": 72002063
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 1273544,
+     "unit": "SH",
+     "value": 48840412
+    },
+    {
+     "cusip": "10950A106",
+     "put_call": null,
+     "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+     "class": "COM",
+     "shares": 1237500,
+     "unit": "SH",
+     "value": 46344375
+    },
+    {
+     "cusip": "76118Y104",
+     "put_call": null,
+     "issuer": "RESIDEO TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 1266700,
+     "unit": "SH",
+     "value": 44486504
+    },
+    {
+     "cusip": "896215209",
+     "put_call": null,
+     "issuer": "TRIMAS CORP",
+     "class": "COM NEW",
+     "shares": 563375,
+     "unit": "SH",
+     "value": 19971644
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 11810,
+     "unit": "SH",
+     "value": 19966222
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 83000,
+     "unit": "SH",
+     "value": 19158060
+    },
+    {
+     "cusip": "03990B101",
+     "put_call": null,
+     "issuer": "ARES MANAGEMENT CORPORATION",
+     "class": "CL A COM STK",
+     "shares": 100600,
+     "unit": "SH",
+     "value": 16259978
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 16600,
+     "unit": "SH",
+     "value": 10957494
+    },
+    {
+     "cusip": "30260D103",
+     "put_call": null,
+     "issuer": "FIGS INC",
+     "class": "CL A",
+     "shares": 875600,
+     "unit": "SH",
+     "value": 9946816
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 18000,
+     "unit": "SH",
+     "value": 8705160
+    }
+   ],
+   "table_total": 464792147,
+   "first_seen": "2026-11-16T13:49:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-26-000003",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835326000003/0001858353-26-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 1924258,
+     "unit": "SH",
+     "value": 85167659
+    },
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 1560889,
+     "unit": "SH",
+     "value": 68023543
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 3371399,
+     "unit": "SH",
+     "value": 65910850
+    },
+    {
+     "cusip": "10950A106",
+     "put_call": null,
+     "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+     "class": "COM",
+     "shares": 1423400,
+     "unit": "SH",
+     "value": 60651074
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 1587346,
+     "unit": "SH",
+     "value": 54049131
+    },
+    {
+     "cusip": "888787108",
+     "put_call": null,
+     "issuer": "TOAST INC",
+     "class": "CL A",
+     "shares": 740300,
+     "unit": "SH",
+     "value": 19625353
+    },
+    {
+     "cusip": "109696104",
+     "put_call": null,
+     "issuer": "BRINKS CO",
+     "class": "COM",
+     "shares": 111700,
+     "unit": "SH",
+     "value": 11575471
+    },
+    {
+     "cusip": "896215209",
+     "put_call": null,
+     "issuer": "TRIMAS CORP",
+     "class": "COM NEW",
+     "shares": 223448,
+     "unit": "SH",
+     "value": 8030721
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 97010,
+     "unit": "SH",
+     "value": 4763191
+    }
+   ],
+   "table_total": 377796993,
+   "first_seen": "2026-11-16T13:49:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001858353-26-000004",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1858353,
+   "url": "https://www.sec.gov/Archives/edgar/data/1858353/000185835326000004/0001858353-26-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ALTA FOX CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "98379L100",
+     "put_call": null,
+     "issuer": "XPEL INC",
+     "class": "COM",
+     "shares": 1989758,
+     "unit": "SH",
+     "value": 98691997
+    },
+    {
+     "cusip": "10950A106",
+     "put_call": null,
+     "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+     "class": "COM",
+     "shares": 977000,
+     "unit": "SH",
+     "value": 68135980
+    },
+    {
+     "cusip": "63001N106",
+     "put_call": null,
+     "issuer": "NCR ATLEOS CORPORATION",
+     "class": "COM SHS",
+     "shares": 1560889,
+     "unit": "SH",
+     "value": 67758191
+    },
+    {
+     "cusip": "234264109",
+     "put_call": null,
+     "issuer": "DAKTRONICS INC",
+     "class": "COM",
+     "shares": 2886799,
+     "unit": "SH",
+     "value": 56465788
+    },
+    {
+     "cusip": "109696104",
+     "put_call": null,
+     "issuer": "BRINKS CO",
+     "class": "COM",
+     "shares": 324285,
+     "unit": "SH",
+     "value": 30641690
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 843546,
+     "unit": "SH",
+     "value": 28756483
+    },
+    {
+     "cusip": "96924N100",
+     "put_call": null,
+     "issuer": "WILLDAN GROUP INC",
+     "class": "COM",
+     "shares": 359806,
+     "unit": "SH",
+     "value": 28460655
+    },
+    {
+     "cusip": "433313103",
+     "put_call": null,
+     "issuer": "HINGE HEALTH INC",
+     "class": "CL A",
+     "shares": 272100,
+     "unit": "SH",
+     "value": 22584300
+    },
+    {
+     "cusip": "946784105",
+     "put_call": null,
+     "issuer": "WAYSTAR HLDG CORP",
+     "class": "COM",
+     "shares": 1039000,
+     "unit": "SH",
+     "value": 21330670
+    },
+    {
+     "cusip": "920253101",
+     "put_call": null,
+     "issuer": "VALMONT INDS INC",
+     "class": "COM",
+     "shares": 36480,
+     "unit": "SH",
+     "value": 21070848
+    },
+    {
+     "cusip": "96208T104",
+     "put_call": null,
+     "issuer": "WEX INC",
+     "class": "COM",
+     "shares": 91000,
+     "unit": "SH",
+     "value": 12839190
+    },
+    {
+     "cusip": "45784P101",
+     "put_call": null,
+     "issuer": "INSULET CORP",
+     "class": "COM",
+     "shares": 82600,
+     "unit": "SH",
+     "value": 12575850
+    },
+    {
+     "cusip": "92047W101",
+     "put_call": null,
+     "issuer": "VALVOLINE INC",
+     "class": "COM",
+     "shares": 299971,
+     "unit": "SH",
+     "value": 11860853
+    },
+    {
+     "cusip": "25960R105",
+     "put_call": null,
+     "issuer": "DOUGLAS DYNAMICS INC",
+     "class": "COM",
+     "shares": 192342,
+     "unit": "SH",
+     "value": 10376851
+    },
+    {
+     "cusip": "448947507",
+     "put_call": null,
+     "issuer": "IDT CORP",
+     "class": "CL B NEW",
+     "shares": 97010,
+     "unit": "SH",
+     "value": 5642102
+    }
+   ],
+   "table_total": 497191448,
+   "first_seen": "2026-11-16T13:49:04+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "ALTA FOX CAPITAL MANAGEMENT, LLC"
+}

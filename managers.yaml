@@ -157,3 +157,37 @@ managers:
     top: 50
     letters: no
     why: "Chris models 120 to 150 companies in his Grove of Titans and buys when one reaches a 15% ten-year IRR. His fund holds about eight; the 13F lists every account the firm manages, 81 positions."
+
+  - id: clifford-sosin
+    name: Clifford Sosin
+    firm: CAS Investment Partners
+    cik: 1697591
+    letters: no
+    why: "Cliff has owned Carvana since early 2018, and it's now 79% of his 13F. The filing has never listed more than seven positions; Hilton Grand Vacations is the other big one."
+
+  - id: connor-haley
+    name: Connor Haley
+    firm: Alta Fox Capital
+    cik: 1858353
+    letters: no
+    why: "Connor started Alta Fox in 2018 to find small caps with a hidden asset inside. He wants about a 20% return a year without help from the multiple and sells when the multiple does the work; of today's holdings, only Daktronics goes back before 2025."
+
+  - id: chris-bloomstran
+    name: Chris Bloomstran
+    firm: Semper Augustus Investments
+    cik: 1115373
+    letters: semper-augustus
+
+  - id: bob-robotti
+    name: Bob Robotti
+    firm: Robotti & Company Advisors
+    cik: 1105838
+    letters: no
+    why: "Bob's 13F leans on housing, building products and offshore energy. Builders FirstSource, Cavco, LSB Industries and Jefferies are in every one since 2013, and Tidewater is now 31% of it."
+
+  - id: david-einhorn
+    name: David Einhorn
+    firm: Greenlight Capital
+    cik: [1489933, 1079114]
+    letters: no
+    why: "Greenlight runs a long-short book with a macro sleeve, and the 13F shows only the longs. Green Brick Partners, the homebuilder David helped launch in 2014, is in every one since 2013 and is the biggest position at 19%."

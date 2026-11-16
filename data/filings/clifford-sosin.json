@@ -1,0 +1,2239 @@
+{
+ "filings": [
+  {
+   "accession": "0001387131-18-000606",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713118000606/0001387131-18-000606-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 602791,
+     "unit": "SH",
+     "value": 48657000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE LTD",
+     "class": "COM USD SHS",
+     "shares": 565241,
+     "unit": "SH",
+     "value": 38278000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 268201,
+     "unit": "SH",
+     "value": 32152000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 76986,
+     "unit": "SH",
+     "value": 24903000
+    },
+    {
+     "cusip": "42225K106",
+     "put_call": null,
+     "issuer": "HEALTH INS INNOVATIONS INC",
+     "class": "COM CL A",
+     "shares": 750183,
+     "unit": "SH",
+     "value": 18717000
+    },
+    {
+     "cusip": "344177100",
+     "put_call": null,
+     "issuer": "FOGO DE CHAO INC",
+     "class": "COM",
+     "shares": 1155836,
+     "unit": "SH",
+     "value": 13408000
+    },
+    {
+     "cusip": "911363109",
+     "put_call": null,
+     "issuer": "UNITED RENTALS INC",
+     "class": "COM",
+     "shares": 32300,
+     "unit": "SH",
+     "value": 5553000
+    }
+   ],
+   "table_total": 181668000,
+   "first_seen": "2026-11-16T13:48:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-18-002154",
+   "form": "13F-HR",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713118002154/0001387131-18-002154-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 602791,
+     "unit": "SH",
+     "value": 63474000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE LTD",
+     "class": "COM USD SHS",
+     "shares": 565241,
+     "unit": "SH",
+     "value": 55094000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2008068,
+     "unit": "SH",
+     "value": 46045000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 105986,
+     "unit": "SH",
+     "value": 35019000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 190199,
+     "unit": "SH",
+     "value": 29424000
+    }
+   ],
+   "table_total": 229056000,
+   "first_seen": "2026-11-16T13:48:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-18-003952",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713118003952/0001387131-18-003952-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "COM",
+     "shares": 2056159,
+     "unit": "SH",
+     "value": 92877000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 602731,
+     "unit": "SH",
+     "value": 67458000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 60684000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 108000,
+     "unit": "SH",
+     "value": 39421000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "COM",
+     "shares": 183085,
+     "unit": "SH",
+     "value": 27298000
+    }
+   ],
+   "table_total": 287738000,
+   "first_seen": "2026-11-16T13:48:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-18-006163",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713118006163/0001387131-18-006163-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2056159,
+     "unit": "SH",
+     "value": 121498000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 643000,
+     "unit": "SH",
+     "value": 73533000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 61668000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 108000,
+     "unit": "SH",
+     "value": 47312000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 183085,
+     "unit": "SH",
+     "value": 25011000
+    }
+   ],
+   "table_total": 329022000,
+   "first_seen": "2026-11-16T13:48:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-001208",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713119001208/0001387131-19-001208-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2167766,
+     "unit": "SH",
+     "value": 70908000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 66642000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 643802,
+     "unit": "SH",
+     "value": 65835000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 108000,
+     "unit": "SH",
+     "value": 41230000
+    },
+    {
+     "cusip": "N20146101",
+     "put_call": null,
+     "issuer": "CIMPRESS N V",
+     "class": "SHS EURO",
+     "shares": 183085,
+     "unit": "SH",
+     "value": 18935000
+    }
+   ],
+   "table_total": 263550000,
+   "first_seen": "2026-11-16T13:48:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-003627",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713119003627/0001387131-19-003627-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2525331,
+     "unit": "SH",
+     "value": 146621000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 677479,
+     "unit": "SH",
+     "value": 79353000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 59904000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 108000,
+     "unit": "SH",
+     "value": 48808000
+    }
+   ],
+   "table_total": 334686000,
+   "first_seen": "2026-11-16T13:48:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-006087",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713119006087/0001387131-19-006087-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2535331,
+     "unit": "SH",
+     "value": 158686000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 581479,
+     "unit": "SH",
+     "value": 95427000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 2162020,
+     "unit": "SH",
+     "value": 56169000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 48339000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 65468,
+     "unit": "SH",
+     "value": 31675000
+    }
+   ],
+   "table_total": 390296000,
+   "first_seen": "2026-11-16T13:48:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-19-008689",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713119008689/0001387131-19-008689-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2604831,
+     "unit": "SH",
+     "value": 171919000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 8345214,
+     "unit": "SH",
+     "value": 80281000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 2319411,
+     "unit": "SH",
+     "value": 77747000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 474410,
+     "unit": "SH",
+     "value": 60492000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1130482,
+     "unit": "SH",
+     "value": 42800000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 3430010,
+     "unit": "SH",
+     "value": 19585000
+    }
+   ],
+   "table_total": 452824000,
+   "first_seen": "2026-11-16T13:48:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-001590",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713120001590/0001387131-20-001590-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2774918,
+     "unit": "SH",
+     "value": 255431000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 2821710,
+     "unit": "SH",
+     "value": 177373000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1184108,
+     "unit": "SH",
+     "value": 56446000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 597986,
+     "unit": "SH",
+     "value": 51666000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 8815320,
+     "unit": "SH",
+     "value": 48484000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 7951931,
+     "unit": "SH",
+     "value": 18608000
+    }
+   ],
+   "table_total": 608008000,
+   "first_seen": "2026-11-16T13:48:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-004828",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713120004828/0001387131-20-004828-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3824284,
+     "unit": "SH",
+     "value": 210680000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 3951515,
+     "unit": "SH",
+     "value": 138145000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1425462,
+     "unit": "SH",
+     "value": 41566000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 703061,
+     "unit": "SH",
+     "value": 38394000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 10433735,
+     "unit": "SH",
+     "value": 21076000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 10666736,
+     "unit": "SH",
+     "value": 4889000
+    }
+   ],
+   "table_total": 454750000,
+   "first_seen": "2026-11-16T13:48:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-007431",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713120007431/0001387131-20-007431-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3374284,
+     "unit": "SH",
+     "value": 453669000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 4014249,
+     "unit": "SH",
+     "value": 280917000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 10433735,
+     "unit": "SH",
+     "value": 67715000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1425462,
+     "unit": "SH",
+     "value": 64117000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 707768,
+     "unit": "SH",
+     "value": 46373000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 10666736,
+     "unit": "SH",
+     "value": 15893000
+    }
+   ],
+   "table_total": 928684000,
+   "first_seen": "2026-11-16T13:48:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-20-009974",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713120009974/0001387131-20-009974-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3606974,
+     "unit": "SH",
+     "value": 804572000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 4391586,
+     "unit": "SH",
+     "value": 309914000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 10433735,
+     "unit": "SH",
+     "value": 155045000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 707768,
+     "unit": "SH",
+     "value": 74705000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1425462,
+     "unit": "SH",
+     "value": 66498000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 12290199,
+     "unit": "SH",
+     "value": 31955000
+    }
+   ],
+   "table_total": 1442689000,
+   "first_seen": "2026-11-16T13:48:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001387131-21-002435",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000138713121002435/0001387131-21-002435-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3205028,
+     "unit": "SH",
+     "value": 767732000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 4488972,
+     "unit": "SH",
+     "value": 640891000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 10433735,
+     "unit": "SH",
+     "value": 161306000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 15263623,
+     "unit": "SH",
+     "value": 93871000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORP DEL",
+     "class": "COM",
+     "shares": 707768,
+     "unit": "SH",
+     "value": 72348000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1425462,
+     "unit": "SH",
+     "value": 68493000
+    }
+   ],
+   "table_total": 1804641000,
+   "first_seen": "2026-11-16T13:48:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-000760",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050621000760/0001420506-21-000760-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3305028,
+     "unit": "SH",
+     "value": 867239000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 4488972,
+     "unit": "SH",
+     "value": 492440000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 11078735,
+     "unit": "SH",
+     "value": 317960000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 98068000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 15986623,
+     "unit": "SH",
+     "value": 92722000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1996462,
+     "unit": "SH",
+     "value": 88563000
+    }
+   ],
+   "table_total": 1956992000,
+   "first_seen": "2026-11-16T13:48:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-001105",
+   "form": "13F-HR",
+   "filed": "2021-08-13",
+   "period": "2021-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050621001105/0001420506-21-001105-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3305028,
+     "unit": "SH",
+     "value": 997524000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 4488972,
+     "unit": "SH",
+     "value": 569785000
+    },
+    {
+     "cusip": "04650Y100",
+     "put_call": null,
+     "issuer": "AT HOME GROUP INC",
+     "class": "COM",
+     "shares": 11078735,
+     "unit": "SH",
+     "value": 408141000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 15986623,
+     "unit": "SH",
+     "value": 149155000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 121104000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 1996462,
+     "unit": "SH",
+     "value": 105273000
+    }
+   ],
+   "table_total": 2350982000,
+   "first_seen": "2026-11-16T13:48:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-21-001631",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050621001631/0001420506-21-001631-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3305028,
+     "unit": "SH",
+     "value": 996598000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5149591,
+     "unit": "SH",
+     "value": 432257000
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6000000,
+     "unit": "SH",
+     "value": 285420000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 143278000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 2996462,
+     "unit": "SH",
+     "value": 126990000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 15986623,
+     "unit": "SH",
+     "value": 113505000
+    }
+   ],
+   "table_total": 2098048000,
+   "first_seen": "2026-11-16T13:48:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-000403",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050622000403/0001420506-22-000403-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 3314303,
+     "unit": "SH",
+     "value": 768222000
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 7727165,
+     "unit": "SH",
+     "value": 402663000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5186466,
+     "unit": "SH",
+     "value": 342774000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 185488000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 3062762,
+     "unit": "SH",
+     "value": 125359000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 16456623,
+     "unit": "SH",
+     "value": 91663000
+    }
+   ],
+   "table_total": 1916169000,
+   "first_seen": "2026-11-16T13:48:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-000950",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050622000950/0001420506-22-000950-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 4162903,
+     "unit": "SH",
+     "value": 496593000
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 7727165,
+     "unit": "SH",
+     "value": 401890000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 297778000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 144987000
+    },
+    {
+     "cusip": "G4412G101",
+     "put_call": null,
+     "issuer": "HERBALIFE NUTRITION LTD",
+     "class": "COM SHS",
+     "shares": 2907762,
+     "unit": "SH",
+     "value": 88280000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 18051623,
+     "unit": "SH",
+     "value": 64625000
+    }
+   ],
+   "table_total": 1494153000,
+   "first_seen": "2026-11-16T13:48:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-001677",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050622001677/0001420506-22-001677-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 7727165,
+     "unit": "SH",
+     "value": 276092000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6727803,
+     "unit": "SH",
+     "value": 151914000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 120834000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 84827000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 19557248,
+     "unit": "SH",
+     "value": 25816000
+    }
+   ],
+   "table_total": 659483000,
+   "first_seen": "2026-11-16T13:48:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-22-002186",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050622002186/0001420506-22-002186-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 7727165,
+     "unit": "SH",
+     "value": 254146000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 138604000
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 73173000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 50911000
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 19557248,
+     "unit": "SH",
+     "value": 30900000
+    }
+   ],
+   "table_total": 547734000,
+   "first_seen": "2026-11-16T13:48:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-000672",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050623000672/0001420506-23-000672-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 7367930,
+     "unit": "SH",
+     "value": 283960022
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 49835342
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 32363786
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 31305150
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 151218,
+     "unit": "SH",
+     "value": 14057225
+    },
+    {
+     "cusip": "702149105",
+     "put_call": null,
+     "issuer": "PARTY CITY HOLDCO INC",
+     "class": "COM",
+     "shares": 19557248,
+     "unit": "SH",
+     "value": 7148174
+    }
+   ],
+   "table_total": 418669699,
+   "first_seen": "2026-11-16T13:48:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-001111",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050623001111/0001420506-23-001111-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6869465,
+     "unit": "SH",
+     "value": 305210330
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 66844191
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 755768,
+     "unit": "SH",
+     "value": 62947917
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 354820,
+     "unit": "SH",
+     "value": 34119491
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 18387714
+    }
+   ],
+   "table_total": 487509643,
+   "first_seen": "2026-11-16T13:48:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-001593",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050623001593/0001420506-23-001593-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6768920,
+     "unit": "SH",
+     "value": 307579725
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 176976654
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 744491,
+     "unit": "SH",
+     "value": 99769239
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 349560,
+     "unit": "SH",
+     "value": 38231377
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 34229853
+    }
+   ],
+   "table_total": 656786848,
+   "first_seen": "2026-11-16T13:48:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-23-002101",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050623002101/0001420506-23-002101-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 286631170
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6768920,
+     "unit": "SH",
+     "value": 275495044
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 744491,
+     "unit": "SH",
+     "value": 94595026
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 89365914
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 349560,
+     "unit": "SH",
+     "value": 33924798
+    }
+   ],
+   "table_total": 780011952,
+   "first_seen": "2026-11-16T13:48:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-000370",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050624000370/0001420506-24-000370-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6827803,
+     "unit": "SH",
+     "value": 361463891
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6768920,
+     "unit": "SH",
+     "value": 271975206
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 562491,
+     "unit": "SH",
+     "value": 73421950
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 533460,
+     "unit": "SH",
+     "value": 69947275
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5416116,
+     "unit": "SH",
+     "value": 49882428
+    }
+   ],
+   "table_total": 826690750,
+   "first_seen": "2026-11-16T13:48:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-000926",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050624000926/0001420506-24-000926-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6530894,
+     "unit": "SH",
+     "value": 574130892
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6446661,
+     "unit": "SH",
+     "value": 304346866
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 645252,
+     "unit": "SH",
+     "value": 96071570
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 6373676,
+     "unit": "SH",
+     "value": 92354565
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 338164,
+     "unit": "SH",
+     "value": 49027017
+    }
+   ],
+   "table_total": 1115930910,
+   "first_seen": "2026-11-16T13:48:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-001459",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050624001459/0001420506-24-001459-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6530894,
+     "unit": "SH",
+     "value": 840656676
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6446661,
+     "unit": "SH",
+     "value": 260638504
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 686052,
+     "unit": "SH",
+     "value": 94983899
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 6464859,
+     "unit": "SH",
+     "value": 53076492
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 251772,
+     "unit": "SH",
+     "value": 31113984
+    }
+   ],
+   "table_total": 1280469555,
+   "first_seen": "2026-11-16T13:48:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-24-002470",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050624002470/0001420506-24-002470-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6453594,
+     "unit": "SH",
+     "value": 1123635251
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6363011,
+     "unit": "SH",
+     "value": 231104559
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 811500,
+     "unit": "SH",
+     "value": 121505895
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 6419733,
+     "unit": "SH",
+     "value": 20543146
+    },
+    {
+     "cusip": "981419104",
+     "put_call": null,
+     "issuer": "WORLD ACCEP CORPORATION",
+     "class": "COM",
+     "shares": 93299,
+     "unit": "SH",
+     "value": 11007416
+    }
+   ],
+   "table_total": 1507796267,
+   "first_seen": "2026-11-16T13:48:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-000470",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050625000470/0001420506-25-000470-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 6377797,
+     "unit": "SH",
+     "value": 1296988798
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 6492344,
+     "unit": "SH",
+     "value": 252876799
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 806389,
+     "unit": "SH",
+     "value": 143795286
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 6368910,
+     "unit": "SH",
+     "value": 23628656
+    }
+   ],
+   "table_total": 1717289539,
+   "first_seen": "2026-11-16T13:48:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-001269",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050625001269/0001420506-25-001269-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 5685029,
+     "unit": "SH",
+     "value": 1188625863
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 5716641,
+     "unit": "SH",
+     "value": 213859540
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 709295,
+     "unit": "SH",
+     "value": 127176593
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5613922,
+     "unit": "SH",
+     "value": 10217338
+    }
+   ],
+   "table_total": 1539879334,
+   "first_seen": "2026-11-16T13:48:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-002046",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050625002046/0001420506-25-002046-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 4922268,
+     "unit": "SH",
+     "value": 1658607425
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 5659803,
+     "unit": "SH",
+     "value": 235051619
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 702181,
+     "unit": "SH",
+     "value": 149396030
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5613922,
+     "unit": "SH",
+     "value": 9234902
+    }
+   ],
+   "table_total": 2052289976,
+   "first_seen": "2026-11-16T13:48:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001420506-25-003281",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000142050625003281/0001420506-25-003281-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 4889674,
+     "unit": "SH",
+     "value": 1844580620
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 5643776,
+     "unit": "SH",
+     "value": 235966275
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 665470,
+     "unit": "SH",
+     "value": 141465613
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5198067,
+     "unit": "SH",
+     "value": 12631303
+    },
+    {
+     "cusip": "51819L107",
+     "put_call": null,
+     "issuer": "LATHAM GROUP INC",
+     "class": "COM",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 7610000
+    }
+   ],
+   "table_total": 2242253811,
+   "first_seen": "2026-11-16T13:48:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697591-26-000002",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000169759126000002/0001697591-26-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO CL A",
+     "class": "COM",
+     "shares": 4610200,
+     "unit": "SH",
+     "value": 1945596604
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS",
+     "class": "COM",
+     "shares": 5317380,
+     "unit": "SH",
+     "value": 237952755
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINANCIAL CORP",
+     "class": "COM",
+     "shares": 584125,
+     "unit": "SH",
+     "value": 141568535
+    },
+    {
+     "cusip": "51819L107",
+     "put_call": null,
+     "issuer": "LATHAM GROUP",
+     "class": "COM",
+     "shares": 942397,
+     "unit": "SH",
+     "value": 5984221
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS, INC.",
+     "class": "COM",
+     "shares": 5198067,
+     "unit": "SH",
+     "value": 5977777
+    }
+   ],
+   "table_total": 2337079892,
+   "first_seen": "2026-11-16T13:48:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697591-26-000003",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000169759126000003/0001697591-26-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 4541291,
+     "unit": "SH",
+     "value": 1427691065
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 5239891,
+     "unit": "SH",
+     "value": 204984536
+    },
+    {
+     "cusip": "14040H105",
+     "put_call": null,
+     "issuer": "CAPITAL ONE FINL CORP",
+     "class": "COM",
+     "shares": 575548,
+     "unit": "SH",
+     "value": 104997222
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 5198067,
+     "unit": "SH",
+     "value": 5457970
+    },
+    {
+     "cusip": "51819L107",
+     "put_call": null,
+     "issuer": "LATHAM GROUP INC",
+     "class": "COM",
+     "shares": 928545,
+     "unit": "SH",
+     "value": 4986287
+    }
+   ],
+   "table_total": 1748117080,
+   "first_seen": "2026-11-16T13:48:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697591-26-000004",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1697591,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697591/000169759126000004/0001697591-26-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "CAS Investment Partners, LLC",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO CL A",
+     "class": "CL A",
+     "shares": 22559570,
+     "unit": "SH",
+     "value": 1484870897
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS",
+     "class": "COM",
+     "shares": 5206856,
+     "unit": "SH",
+     "value": 272683049
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 136246,
+     "unit": "SH",
+     "value": 76746009
+    },
+    {
+     "cusip": "57164Y107",
+     "put_call": null,
+     "issuer": "MARRIOTT VACATIONS WORLDWIDE CORP.",
+     "class": "COM",
+     "shares": 400000,
+     "unit": "SH",
+     "value": 40752000
+    },
+    {
+     "cusip": "51819L107",
+     "put_call": null,
+     "issuer": "LATHAM GROUP",
+     "class": "COM",
+     "shares": 922639,
+     "unit": "SH",
+     "value": 5969474
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS, INC.",
+     "class": "COM",
+     "shares": 470986,
+     "unit": "SH",
+     "value": 2114727
+    }
+   ],
+   "table_total": 1883136156,
+   "first_seen": "2026-11-16T13:48:47+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "CAS Investment Partners, LLC"
+}

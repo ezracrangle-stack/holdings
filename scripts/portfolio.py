@@ -165,7 +165,8 @@ def changes(prev_q, cur_q, splits, warnings, who):
             out.append(dict(p, kind="new", pct=None, prev_weight=0))
             continue
         f = split_factor(splits, p["ticker"], prev_q["period"], cur_q["period"])
-        if cur_q.get("is_latest") and looks_like_split(q, p, f):
+        listed = any(s["ticker"] == p["ticker"] and prev_q["period"] < s["date"] <= cur_q["period"] for s in splits)
+        if cur_q.get("is_latest") and not listed and looks_like_split(q, p, f):
             warnings.append(f"{who}: {p['name']} shares went from {q['shares']:,} to {p['shares']:,} "
                             f"in {cur_q['label']} with little change in value. If that's a stock split, "
                             "add it to data/splits.yaml.")

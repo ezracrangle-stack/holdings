@@ -1,7 +1,8 @@
 # Stock splits, so a split doesn't look like a big buy on the site.
 # ticker, date the split took effect, and ratio (20 = 20-for-1, 1.5 = 3-for-2, 0.1 = 1-for-10).
 # The weekly check tells you when a position's share count jumps in a way that looks
-# like a split that isn't listed here.
+# like a split that isn't listed here. If you checked and it was a real trade, add it
+# with ratio: 1 so the check stops asking.
 
 - {ticker: BN, date: 2020-04-01, ratio: 1.5}
 - {ticker: AMZN, date: 2022-06-06, ratio: 20}
@@ -44,3 +45,12 @@
 - {ticker: TSLA, date: 2022-08-25, ratio: 3}
 - {ticker: UNP, date: 2014-06-09, ratio: 2}
 - {ticker: TJX, date: 2018-11-07, ratio: 2}
+- {ticker: CVNA, date: 2026-05-07, ratio: 5}
+- {ticker: HLF, date: 2018-05-15, ratio: 2}
+- {ticker: DST, date: 2017-06-29, ratio: 2}
+- {ticker: WLK, date: 2014-03-19, ratio: 2}
+- {ticker: PHX, date: 2014-10-08, ratio: 2}
+- {ticker: VICL, date: 2016-05-27, ratio: 0.1}
+- {ticker: TLIS, date: 2023-08-07, ratio: 0.0666667}
+- {ticker: UHAL, date: 2022-11-10, ratio: 10}
+- {ticker: SNDK, date: 2026-06-30, ratio: 1}   # real sale, not a split
