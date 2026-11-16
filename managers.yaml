@@ -16,6 +16,8 @@
 #              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
 #              Then "why" is taken from that site and you can leave it out. Otherwise: no.
 #  old_ids:    earlier addresses of the page, so old links still land here.
+#  style:      how they invest, in a few words separated by ·
+#              (quality compounders, deep value, distressed, small caps...).
 #  stopped_filing: yes   when the firm no longer files 13Fs. The page says so
 #              and the weekly check stops asking about it.
 #  top:        optional. The site never shows more than the 50 biggest positions;
@@ -31,6 +33,7 @@ managers:
     old_ids: [greenlea-lane]
     name: Josh Tarasoff
     firm: Greenlea Lane Capital
+    style: "Quality compounders · Very concentrated · Long holding periods"
     cik: 1766504
     letters: no
     why: "Josh runs Greenlea Lane alone, with no office, and buys every stock as if he'll own it forever. He writes about what a spreadsheet misses: culture, quality, why people want a product."
@@ -38,6 +41,7 @@ managers:
   - id: chris-hohn
     name: Chris Hohn
     firm: TCI Fund Management
+    style: "Quality monopolies · Concentrated · Activist when needed"
     cik: 1647251
     letters: no
     why: "Chris throws out most of the market before he starts: banks, airlines, utilities, commodities. He owns a handful of what's left for years; Moody's is in every 13F TCI has filed, back to 2015."
@@ -45,6 +49,7 @@ managers:
   - id: li-lu
     name: Li Lu
     firm: Himalaya Capital
+    style: "Deep research · Very concentrated · US and Asia"
     cik: 1709323
     letters: no
     why: "Li Lu says you'll probably have five or ten real insights in your life, and he bets big on the few he has. Most quarters his 13F holds nine stocks or fewer."
@@ -52,12 +57,14 @@ managers:
   - id: david-rolfe
     name: David Rolfe
     firm: Wedgewood Partners
+    style: "Quality growth · Concentrated, about 20 stocks"
     cik: 859804
     letters: wedgewood
 
   - id: norbert-lou
     name: Norbert Lou
     firm: Punch Card Capital
+    style: "Quality at fair prices · Very concentrated · Buy and hold"
     cik: [1631664, 1419050]
     letters: no
     why: "Norbert started Punch Card in 2004 and named it after Buffett's punch card: a few big decisions in a lifetime. His 13F has never held more than seven stocks, and Berkshire is usually the biggest."
@@ -65,6 +72,7 @@ managers:
   - id: bruce-berkowitz
     name: Bruce Berkowitz
     firm: Fairholme Capital Management
+    style: "Contrarian · Very concentrated · Real estate and financials"
     cik: 1056831
     letters: no
     why: "St. Joe, the Florida land company, is 76% of Bruce's 13F. It's in every one since 2013, and it went from 7% of the portfolio to as much as 99%."
@@ -73,6 +81,7 @@ managers:
     old_ids: [warren-buffett]
     name: Berkshire Hathaway
     firm: Warren Buffett, Greg Abel and Ted Weschler
+    style: "Quality businesses · Fair prices · Permanent capital"
     cik: 1067983
     letters: no
     why: "Greg Abel has been CEO since January 2026, but Warren still picks stocks; he says he started the Alphabet stake. American Express, Coca-Cola and Moody's are in every 13F since 2013."
@@ -80,6 +89,7 @@ managers:
   - id: glenn-greenberg
     name: Glenn Greenberg
     firm: Brave Warrior Advisors
+    style: "Quality businesses · Concentrated · Long holding periods"
     cik: [1553733, 789920]
     letters: no
     why: "Glenn's firm was called Chieftain Capital before it became Brave Warrior. Primerica is in every one of his 13Fs since 2013, longer than any other stock he owns."
@@ -87,6 +97,7 @@ managers:
   - id: bryan-lawrence
     name: Bryan Lawrence
     firm: Oakcliff Capital
+    style: "Quality at a discount · Buys in a crisis · Concentrated"
     cik: 1657335
     letters: no
     why: "Bryan buys great businesses (a natural monopoly, a rational duopoly or the low-cost operator) when a crisis of confidence cuts the price. Interactive Brokers is in every 13F since his first, in 2017."
@@ -94,6 +105,7 @@ managers:
   - id: pat-dorsey
     name: Pat Dorsey
     firm: Dorsey Asset Management
+    style: "Wide moats · Long runways · Concentrated"
     cik: 1671657
     letters: no
     why: "Pat wrote the book on moats at Morningstar. His fund holds 10 to 15 businesses with a moat, a long runway and managers who allocate capital well; Meta is in every 13F since his first, in 2016."
@@ -101,12 +113,14 @@ managers:
   - id: terry-smith
     name: Terry Smith
     firm: Fundsmith
+    style: "Quality compounders · Buy and hold · Low turnover"
     cik: [1569205, 1868537]
     letters: fundsmith
 
   - id: akre-capital
     name: Akre Capital Management
     firm: John Neff, CEO and CIO
+    style: "Quality compounders · Great managers who reinvest · Long holding periods"
     cik: 1112520
     letters: no
     why: "Chuck Akre's three-legged stool (a great business, great managers, great reinvestment) still runs the firm under John Neff. Mastercard and Moody's are in every 13F since mid-2013, and Mastercard is still the biggest position."
@@ -114,6 +128,7 @@ managers:
   - id: ako-capital
     name: AKO Capital
     firm: London
+    style: "Quality compounders · Europe and the US · Long term"
     cik: 1376879
     letters: no
     why: "Nicolai Tangen started AKO in 2005 and left in 2020 to run Norway's oil fund. Ferrari and Visa are in every 13F since the first, in 2016."
@@ -121,6 +136,7 @@ managers:
   - id: mohnish-pabrai
     name: Mohnish Pabrai
     firm: Pabrai Investment Funds
+    style: "Deep value · Cloning · Very concentrated"
     cik: [1549575, 1173334]
     letters: no
     why: "Mohnish's 13F shows only the US-listed slice of his funds. Right now that's four stocks, and two coal miners, Warrior Met Coal and Alpha Metallurgical, are more than half of it."
@@ -128,6 +144,7 @@ managers:
   - id: thomas-russo
     name: Thomas Russo
     firm: Gardner Russo & Quinn
+    style: "Global consumer brands · Family-controlled companies · Long holding periods"
     cik: 860643
     letters: no
     why: "Tom's 13F changes slowly. Berkshire, Philip Morris, Mastercard, Richemont, Heineken and Nestlé are in every one since 2013, the oldest on file."
@@ -135,12 +152,14 @@ managers:
   - id: francois-rochon
     name: François Rochon
     firm: Giverny Capital
+    style: "Quality growth · Long term · About 25 stocks"
     cik: 1641864
     letters: giverny
 
   - id: joel-greenblatt
     name: Joel Greenblatt
     firm: Gotham Asset Management
+    style: "Quantitative value · Very diversified · Rules-based"
     cik: 1510387
     letters: no
     why: "Joel wrote The Little Book That Beats the Market and teaches at Columbia. Gotham now runs a diversified, rules-based book of about 1,800 stocks; this page shows the 50 biggest."
@@ -148,6 +167,7 @@ managers:
   - id: chris-tsai
     name: Chris Tsai
     firm: Tsai Capital
+    style: "Quality compounders · Ecosystem moats · Concentrated"
     cik: 1574850
     letters: no
     why: "Chris says the medium is the moat: the edge is the ecosystem a company builds around its product. He has known Brad Jacobs since 1997, and QXO is his second-biggest position."
@@ -155,6 +175,7 @@ managers:
   - id: chris-begg
     name: Chris Begg
     firm: East Coast Asset Management
+    style: "Quality compounders · IRR hurdle · Concentrated core"
     cik: 1579254
     letters: no
     why: "Chris models 120 to 150 companies in his Grove of Titans and buys when one reaches a 15% ten-year IRR. His fund holds about eight; the 13F lists every account the firm manages, 81 positions."
@@ -162,6 +183,7 @@ managers:
   - id: clifford-sosin
     name: Clifford Sosin
     firm: CAS Investment Partners
+    style: "Quality at a discount · Contrarian · Very concentrated"
     cik: 1697591
     letters: no
     why: "Cliff has owned Carvana since early 2018, and it's now 79% of his 13F. The filing has never listed more than seven positions; Hilton Grand Vacations is the other big one."
@@ -169,6 +191,7 @@ managers:
   - id: connor-haley
     name: Connor Haley
     firm: Alta Fox Capital
+    style: "Small caps · Hidden assets · Activism"
     cik: 1858353
     letters: no
     why: "Connor started Alta Fox in 2018 to find small caps with a hidden asset inside. He wants about a 20% return a year without help from the multiple and sells when the multiple does the work; of today's holdings, only Daktronics goes back before 2025."
@@ -176,12 +199,14 @@ managers:
   - id: chris-bloomstran
     name: Chris Bloomstran
     firm: Semper Augustus Investments
+    style: "Quality at a discount · Conservative appraisals · Concentrated"
     cik: 1115373
     letters: semper-augustus
 
   - id: bob-robotti
     name: Bob Robotti
     firm: Robotti & Company Advisors
+    style: "Deep value · Cyclicals and hard assets · Small and mid caps"
     cik: 1105838
     letters: no
     why: "Bob's 13F leans on housing, building products and offshore energy. Builders FirstSource, Cavco, LSB Industries and Jefferies are in every one since 2013, and Tidewater is now 31% of it."
@@ -189,6 +214,7 @@ managers:
   - id: david-einhorn
     name: David Einhorn
     firm: Greenlight Capital
+    style: "Value · Long-short · Macro"
     cik: [1489933, 1079114]
     letters: no
     why: "Greenlight runs a long-short book with a macro sleeve, and the 13F shows only the longs. Green Brick Partners, the homebuilder David helped launch in 2014, is in every one since 2013 and is the biggest position at 19%."
@@ -196,6 +222,7 @@ managers:
   - id: ed-wachenheim
     name: Ed Wachenheim III
     firm: Greenhaven Associates
+    style: "Contrarian value · Two- to three-year horizon · Concentrated"
     cik: 846222
     letters: no
     why: "Ed looks for change nobody expects and for a gap between how a company is seen and what it is. He has owned homebuilders on and off since 1987; Lennar, Toll Brothers, PulteGroup and D.R. Horton are more than a third of the 13F."
@@ -203,12 +230,14 @@ managers:
   - id: scott-miller
     name: Scott Miller
     firm: Greenhaven Road Capital
+    style: "Small caps · Special situations · Concentrated"
     cik: 1741129
     letters: greenhaven
 
   - id: leon-cooperman
     name: Leon Cooperman
     firm: Omega Advisors
+    style: "Value · Diversified · Family office"
     cik: [898382, 898202]
     letters: no
     why: "Lee ran Goldman Sachs Asset Management before he started Omega in 1991, and since 2019 the firm manages only his family's money. Vertiv, held since 2020, is 16% of the 13F."
@@ -216,6 +245,7 @@ managers:
   - id: nicolai-tangen
     name: Nicolai Tangen
     firm: Norges Bank Investment Management
+    style: "Index-like · Global · Sovereign wealth fund"
     cik: 1374170
     letters: no
     why: "Nicolai founded AKO Capital and has run Norway's oil fund since 2020. The fund owns about 1.5% of every listed company in the world, so its 13F looks a lot like the US market. Some quarters it files the holdings a year late, under confidential treatment; they show up here when they come out."
@@ -223,6 +253,7 @@ managers:
   - id: francis-chou
     name: Francis Chou
     firm: Chou Associates Management
+    style: "Deep value · Distressed debt · Holds cash when it's expensive"
     cik: 1389403
     letters: no
     why: "Francis holds cash when he can't find bargains and buys distressed debt only when the recovery is there, and his letters say plainly what went wrong. Berkshire is in every 13F since 2013 and is 30% of it now."
@@ -230,6 +261,7 @@ managers:
   - id: mason-hawkins
     name: Mason Hawkins
     firm: Longleaf Partners
+    style: "Business, people, price · Concentrated · Long holding periods"
     cik: 807985
     letters: no
     why: "Mason founded Southeastern in 1975 and still chairs it; Ross Glotzbach runs it day to day. FedEx, CNX Resources and Graham Holdings are in every 13F since 2013."
@@ -237,12 +269,14 @@ managers:
   - id: andrew-brenton
     name: Andrew Brenton
     firm: Turtle Creek Asset Management
+    style: "Private-equity mindset · Mid caps · Trims and adds around value"
     cik: 1484148
     letters: turtle-creek
 
   - id: mark-massey
     name: Mark Massey
     firm: AltaRock Partners
+    style: "Quality compounders · Very concentrated · Low turnover"
     cik: 1631014
     letters: no
     why: "AltaRock owns a handful of businesses and rarely sells. TransDigm, Mastercard, Visa and Moody's are in every 13F since the first, in 2014, and Microsoft and Amazon are now 60% of it."
@@ -250,6 +284,7 @@ managers:
   - id: arnold-van-den-berg
     name: Arnold Van Den Berg
     firm: Century Management Financial Advisors
+    style: "Value · Diversified · Gold and hard assets"
     cik: 1142062
     letters: no
     why: "Arnold's 13F holds about 120 stocks, and gold has a steady place in it: the Sprott Physical Gold Trust is the biggest holding and Seabridge Gold has been there since 2013. Berkshire is in every 13F since 2013."
@@ -257,6 +292,7 @@ managers:
   - id: carl-icahn
     name: Carl Icahn
     firm: Icahn Capital Management
+    style: "Activist · Controlled companies · Concentrated"
     cik: 921669
     letters: no
     why: "Most of Carl's 13F is his own companies: Icahn Enterprises and CVR Energy are 86% of it and in every filing since 2013. The rest is his activist stakes."
@@ -264,6 +300,7 @@ managers:
   - id: chris-davis
     name: Chris Davis
     firm: Davis Advisors
+    style: "Quality at fair prices · Financials · Long holding periods"
     cik: 1036325
     letters: no
     why: "Chris is the third generation of Davises to run the firm, and he says all real investing is value investing; the rest is speculation. Berkshire, American Express, Wells Fargo, Markel and Alphabet are in every 13F since 2013."
@@ -271,6 +308,7 @@ managers:
   - id: guy-spier
     name: Guy Spier
     firm: Aquamarine Capital
+    style: "Quality at fair prices · Concentrated · Low turnover"
     cik: 1404599
     letters: no
     stopped_filing: yes
@@ -279,6 +317,7 @@ managers:
   - id: kahn-brothers
     name: Kahn Brothers Group
     firm: Kahn Brothers Group
+    style: "Deep value · Obscure and out of favor · Long holding periods"
     cik: 1039565
     letters: no
     why: "Irving Kahn was Ben Graham's teaching assistant at Columbia and started the firm with his sons in 1978; he died in 2015, at 109. The firm still looks for the obscure and the out of favor, and Citigroup, Merck, Pfizer, BP and Exxon Mobil are in every 13F since 2013."
@@ -286,6 +325,7 @@ managers:
   - id: howard-marks
     name: Howard Marks
     firm: Oaktree Capital Management
+    style: "Distressed debt · Credit · Special situations"
     cik: 949509
     letters: no
     why: "Howard co-founded Oaktree in 1995 to buy the debt other investors wouldn't touch, and his memos are worth reading on their own. Most of Oaktree's money is in credit, so the 13F shows only a slice: listed stocks, many received in restructurings, and convertible bonds."
@@ -293,6 +333,7 @@ managers:
   - id: prem-watsa
     name: Prem Watsa
     firm: Fairfax Financial Holdings
+    style: "Contrarian value · Insurance float · Macro hedges"
     cik: 915191
     letters: no
     why: "Prem has run Fairfax since 1985 and invests its insurance float the way Berkshire does. The 13F shows only its US-listed stakes; two gold miners, Equinox Gold and Eldorado Gold, are now 44% of it."
@@ -300,12 +341,14 @@ managers:
   - id: robert-vinall
     name: Robert Vinall
     firm: RV Capital
+    style: "Quality compounders · Owner-operators · Concentrated"
     cik: 1766596
     letters: rv-capital
 
   - id: seth-klarman
     name: Seth Klarman
     firm: Baupost Group
+    style: "Deep value · Distressed and special situations · Holds cash"
     cik: 1061768
     letters: no
     why: "Seth wrote Margin of Safety in 1991 and still runs Baupost, which does much of its work in distressed debt, private deals and real estate that a 13F doesn't show. Amazon, bought in late 2025, is now the biggest position."
@@ -313,6 +356,7 @@ managers:
   - id: third-avenue-management
     name: Third Avenue Management
     firm: Third Avenue Management
+    style: "Deep value · Safe and cheap · Real estate and cyclicals"
     cik: 1099281
     letters: no
     why: "Marty Whitman built Third Avenue on what he called safe and cheap: a very strong balance sheet, bought below net asset value. He died in 2018. Brookfield and First Industrial Realty are in every 13F since 2013."
@@ -320,6 +364,7 @@ managers:
   - id: david-abrams
     name: David Abrams
     firm: Abrams Capital Management
+    style: "Concentrated value · Private deals · Long holding periods"
     cik: 1358706
     letters: no
     why: "David worked under Seth Klarman at Baupost before starting Abrams Capital in 1999. Loar, the aerospace parts maker he backed before its 2024 IPO, is 41% of the 13F."
@@ -327,6 +372,7 @@ managers:
   - id: thomas-gayner
     name: Thomas Gayner
     firm: Markel Group
+    style: "Quality compounders · Buy and hold · Diversified"
     cik: 1096343
     letters: no
     why: "Tom has run Markel's stock portfolio since 1990 and became CEO in 2023. He wants profitable businesses, honest and able managers, room to reinvest and a fair price; 14 stocks, Berkshire, Visa and Home Depot among them, are in every 13F since 2013."
@@ -334,6 +380,7 @@ managers:
   - id: wallace-weitz
     name: Wallace Weitz
     firm: Weitz Investment Management
+    style: "Quality at fair prices · Concentrated · Long holding periods"
     cik: 883965
     letters: no
     why: "Wally started Weitz in Omaha in 1983 and moved over the years from cheap stocks toward quality businesses. Berkshire, Alphabet, Aon and Texas Instruments are in every 13F since 2013."
@@ -341,6 +388,7 @@ managers:
   - id: yacktman-asset-management
     name: Yacktman Asset Management
     firm: Yacktman Asset Management
+    style: "Quality at a discount · Shareholder-friendly businesses · Holds cash"
     cik: 905567
     letters: no
     why: "Don Yacktman founded the firm in 1992; his son Stephen and Jason Subotky run it now. They buy shareholder-friendly businesses at a discount, and Berkshire, Coca-Cola, PepsiCo and Procter & Gamble are in every 13F since 2013."

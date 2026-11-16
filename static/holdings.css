@@ -117,3 +117,7 @@
 .hm-more:hover { background: var(--ink); color: var(--paper); }
 .pager .gap { border: 0; min-width: 0; padding: 7px 2px; }
 [data-per-page] > [hidden], [data-per-page] tr[hidden] { display: none; }
+
+.style-line { margin: -6px 0 22px; font-size: 15px; }
+.style-label { font-variant: small-caps; letter-spacing: .04em; color: var(--mute); margin-right: 6px; }
+.style-small { display: block; font-size: 13px; color: var(--mute); margin-top: 2px; }

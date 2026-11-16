@@ -3525,3 +3525,7 @@
 "930059100": {name: "Waddell & Reed", ticker: "WDR", sector: "Financials & real estate", note: "Bought by Macquarie in 2021."}
 "983772104": {name: "XO Group", ticker: "XOXO", sector: "Media & telecom", note: "Bought by WeddingWire in 2018."}
 "464286772": {name: "iShares MSCI South Korea ETF", ticker: "EWY", fund: yes}
+"26614N201": {name: "DuPont", ticker: "DD", sector: "Materials"}
+"300426103": {name: "Everus Construction Group", ticker: "ECG", sector: "Industrials"}
+"80517M109": {name: "Savers Value Village", ticker: "SVV", sector: "Consumer discretionary"}
+"M5216V106": {name: "Global-e Online", ticker: "GLBE", sector: "Technology"}

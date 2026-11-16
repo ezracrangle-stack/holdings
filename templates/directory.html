@@ -11,7 +11,7 @@
   <tbody>
   {% for m in managers %}
     <tr>
-      <td class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }}</span></td>
+      <td class="who"><a href="{{ root }}m/{{ m.id }}.html">{{ m.name }}</a><span class="firm">{{ m.firm }}</span>{% if m.style %}<span class="style-small">{{ m.style }}</span>{% endif %}</td>
       <td class="style">{% for p in m.latest.positions[:4] %}{{ p.name }} {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}</td>
       <td class="num">{{ m.latest.label }}<span class="latest">{{ "{:,}".format(m.latest.total_positions) }} positions · {{ m.latest.total|money }}</span></td>
     </tr>

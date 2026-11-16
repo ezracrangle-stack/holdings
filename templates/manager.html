@@ -6,6 +6,7 @@
 <p class="crumb"><a href="{{ root }}managers.html">&larr; All managers</a></p>
 <h1 class="page-title">{{ m.name }}</h1>
 <p class="firm-line big">{{ m.firm }}</p>
+{% if m.style %}<p class="style-line"><span class="style-label">How they invest</span> {{ m.style }}</p>{% endif %}
 
 {% if m.why %}
 <blockquote class="take">

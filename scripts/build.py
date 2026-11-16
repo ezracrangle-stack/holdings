@@ -280,7 +280,7 @@ def build():
     render("about.html", "about.html", "")
     render("search.html", "search.html", "")
     (OUT / "search.json").write_text(json.dumps({
-        "managers": [{"n": m["name"], "f": m["firm"], "s": m.get("why") or "", "u": f"m/{m['id']}.html"}
+        "managers": [{"n": m["name"], "f": m["firm"], "s": " ".join(x for x in (m.get("style"), m.get("why")) if x), "u": f"m/{m['id']}.html"}
                      for m in managers],
         "companies": [{"n": c["name"], "t": " ".join(c["tickers"]), "h": c["holders"], "u": f"c/{c['slug']}.html"}
                       for c in sorted(companies.values(), key=lambda c: (-c["holders"], c["name"]))],
