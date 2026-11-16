@@ -34,5 +34,4 @@
 <h2 class="rule-head">{{ m.quarters[0].label }} <span class="rh-note">first 13F on file</span></h2>
 <p class="small">The starting portfolio: {% for p in m.quarters[0].positions %}<a href="{{ root }}m/{{ m.id }}/stock/{{ p.slug }}.html">{{ p.name }}</a> {{ p.weight|pct }}{% if not loop.last %} · {% endif %}{% endfor %}.</p>
 
-{% include "_caveat.html" %}
 {% endblock %}

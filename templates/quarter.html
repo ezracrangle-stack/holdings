@@ -20,5 +20,4 @@
   {% if i > 0 %}<a href="{{ root }}m/{{ m.id }}/{{ m.quarters[i - 1].slug }}.html">&larr; {{ m.quarters[i - 1].label }}</a>{% endif %}
   {% if i < m.quarters|length - 1 %}<a href="{{ root }}m/{{ m.id }}/{{ m.quarters[i + 1].slug }}.html">{{ m.quarters[i + 1].label }} &rarr;</a>{% endif %}
 </p>
-{% include "_caveat.html" %}
 {% endblock %}

@@ -31,5 +31,4 @@
   {% if not h.fund and h.slug in companies %}<a href="{{ root }}c/{{ h.slug }}.html">Who else owns {{ h.name }} &rarr;</a>{% endif %}
 </p>
 {% if not h.fund and companies[h.slug] is defined and companies[h.slug].letters_url %}<p class="crosslink"><a href="{{ companies[h.slug].letters_url }}">What managers wrote about {{ h.name }} &rarr;</a></p>{% endif %}
-{% include "_caveat.html" %}
 {% endblock %}
