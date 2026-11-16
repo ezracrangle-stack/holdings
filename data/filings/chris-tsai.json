@@ -1,0 +1,4880 @@
+{
+ "filings": [
+  {
+   "accession": "0001104659-21-020733",
+   "form": "13F-HR",
+   "filed": "2021-02-11",
+   "period": "2020-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465921020733/0001104659-21-020733-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "Com",
+     "shares": 36927,
+     "unit": "SH",
+     "value": 26058000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "Com",
+     "shares": 154790,
+     "unit": "SH",
+     "value": 20539000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "Com",
+     "shares": 7230,
+     "unit": "SH",
+     "value": 6683000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "Com",
+     "shares": 11876,
+     "unit": "SH",
+     "value": 6422000
+    },
+    {
+     "cusip": "855244109",
+     "put_call": null,
+     "issuer": "STARBUCKS CORP",
+     "class": "Com",
+     "shares": 59538,
+     "unit": "SH",
+     "value": 6369000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "Com",
+     "shares": 1952,
+     "unit": "SH",
+     "value": 6358000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "Cl B",
+     "shares": 40879,
+     "unit": "SH",
+     "value": 5783000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "Cap Stk Cl C",
+     "shares": 3190,
+     "unit": "SH",
+     "value": 5588000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "Com",
+     "shares": 20756,
+     "unit": "SH",
+     "value": 4619000
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "Com",
+     "shares": 74646,
+     "unit": "SH",
+     "value": 4262000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "Com Cl A",
+     "shares": 11854,
+     "unit": "SH",
+     "value": 2593000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "Com",
+     "shares": 5335,
+     "unit": "SH",
+     "value": 2010000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "Com",
+     "shares": 3550,
+     "unit": "SH",
+     "value": 762000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "Com",
+     "shares": 3260,
+     "unit": "SH",
+     "value": 513000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "Com",
+     "shares": 4400,
+     "unit": "SH",
+     "value": 471000
+    },
+    {
+     "cusip": "58933Y105",
+     "put_call": null,
+     "issuer": "MERCK & CO. INC",
+     "class": "Com",
+     "shares": 4921,
+     "unit": "SH",
+     "value": 403000
+    },
+    {
+     "cusip": "742718109",
+     "put_call": null,
+     "issuer": "PROCTER AND GAMBLE CO",
+     "class": "Com",
+     "shares": 2640,
+     "unit": "SH",
+     "value": 367000
+    }
+   ],
+   "table_total": 99800000,
+   "first_seen": "2026-11-16T13:17:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-065098",
+   "form": "13F-HR",
+   "filed": "2021-05-12",
+   "period": "2021-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465921065098/0001104659-21-065098-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "Com",
+     "shares": 38308,
+     "unit": "SH",
+     "value": 25587000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "Com",
+     "shares": 165744,
+     "unit": "SH",
+     "value": 20246000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "Com",
+     "shares": 2242,
+     "unit": "SH",
+     "value": 6937000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC CAP STK",
+     "class": "Cap Stk Cl C",
+     "shares": 3310,
+     "unit": "SH",
+     "value": 6847000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "Com",
+     "shares": 7519,
+     "unit": "SH",
+     "value": 6180000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "Cl A",
+     "shares": 21577,
+     "unit": "SH",
+     "value": 4947000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "Shs",
+     "shares": 16072,
+     "unit": "SH",
+     "value": 4306000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "Cl B",
+     "shares": 32084,
+     "unit": "SH",
+     "value": 4264000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "Com",
+     "shares": 11031,
+     "unit": "SH",
+     "value": 3888000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "Com",
+     "shares": 7322,
+     "unit": "SH",
+     "value": 3820000
+    },
+    {
+     "cusip": "98954M200",
+     "put_call": null,
+     "issuer": "ZILLOW GROUP INC",
+     "class": "CL C Cap Stk",
+     "shares": 29136,
+     "unit": "SH",
+     "value": 3777000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "Com",
+     "shares": 14849,
+     "unit": "SH",
+     "value": 3146000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "Com Cl A",
+     "shares": 12143,
+     "unit": "SH",
+     "value": 2571000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "Com Cl A",
+     "shares": 3898,
+     "unit": "SH",
+     "value": 2540000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "Com",
+     "shares": 3550,
+     "unit": "SH",
+     "value": 796000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "Com",
+     "shares": 3260,
+     "unit": "SH",
+     "value": 536000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "Com",
+     "shares": 4400,
+     "unit": "SH",
+     "value": 476000
+    },
+    {
+     "cusip": "58933Y105",
+     "put_call": null,
+     "issuer": "MERCK & CO. INC",
+     "class": "Com",
+     "shares": 4921,
+     "unit": "SH",
+     "value": 379000
+    }
+   ],
+   "table_total": 101243000,
+   "first_seen": "2026-11-16T13:17:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-105266",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465921105266/0001104659-21-105266-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "Com",
+     "shares": 38685,
+     "unit": "SH",
+     "value": 26294000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "Com",
+     "shares": 155878,
+     "unit": "SH",
+     "value": 21349000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "Com",
+     "shares": 2094,
+     "unit": "SH",
+     "value": 7204000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "Cap Stk CL C",
+     "shares": 2703,
+     "unit": "SH",
+     "value": 6775000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "Com",
+     "shares": 77760,
+     "unit": "SH",
+     "value": 6440000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 26425,
+     "unit": "SH",
+     "value": 6390000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "Shs",
+     "shares": 20821,
+     "unit": "SH",
+     "value": 5738000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "Cl B",
+     "shares": 30147,
+     "unit": "SH",
+     "value": 4657000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "New Com",
+     "shares": 11037,
+     "unit": "SH",
+     "value": 4367000
+    },
+    {
+     "cusip": "88339J105",
+     "put_call": null,
+     "issuer": "THE TRADE DESK INC",
+     "class": "Com Cl A",
+     "shares": 53630,
+     "unit": "SH",
+     "value": 4149000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "Com",
+     "shares": 7628,
+     "unit": "SH",
+     "value": 4029000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "Com",
+     "shares": 13795,
+     "unit": "SH",
+     "value": 3370000
+    },
+    {
+     "cusip": "98954M200",
+     "put_call": null,
+     "issuer": "ZILLOW GROUP INC",
+     "class": "CL C Cap Stk",
+     "shares": 26251,
+     "unit": "SH",
+     "value": 3208000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "Com CL A",
+     "shares": 12093,
+     "unit": "SH",
+     "value": 2828000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "Com",
+     "shares": 3550,
+     "unit": "SH",
+     "value": 820000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "Com",
+     "shares": 4400,
+     "unit": "SH",
+     "value": 496000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "Com",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 405000
+    },
+    {
+     "cusip": "58933Y105",
+     "put_call": null,
+     "issuer": "MERCK & CO INC",
+     "class": "Com",
+     "shares": 4921,
+     "unit": "SH",
+     "value": 383000
+    }
+   ],
+   "table_total": 108901000,
+   "first_seen": "2026-11-16T13:17:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-21-138076",
+   "form": "13F-HR",
+   "filed": "2021-11-12",
+   "period": "2021-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465921138076/0001104659-21-138076-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "Com",
+     "shares": 39434,
+     "unit": "SH",
+     "value": 30580000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "Com",
+     "shares": 155004,
+     "unit": "SH",
+     "value": 21933000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "Cl A",
+     "shares": 27557,
+     "unit": "SH",
+     "value": 8334000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "Com",
+     "shares": 84630,
+     "unit": "SH",
+     "value": 7283000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "Com",
+     "shares": 2195,
+     "unit": "SH",
+     "value": 7211000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "Cap Stk Cl C",
+     "shares": 2528,
+     "unit": "SH",
+     "value": 6738000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "Com",
+     "shares": 76844,
+     "unit": "SH",
+     "value": 5968000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "Shs",
+     "shares": 21973,
+     "unit": "SH",
+     "value": 4951000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "New Com",
+     "shares": 10882,
+     "unit": "SH",
+     "value": 4890000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "Com",
+     "shares": 7828,
+     "unit": "SH",
+     "value": 4778000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "Com",
+     "shares": 15874,
+     "unit": "SH",
+     "value": 4305000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "Cl B",
+     "shares": 29091,
+     "unit": "SH",
+     "value": 4225000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "Com Cl A",
+     "shares": 13050,
+     "unit": "SH",
+     "value": 2907000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "Com",
+     "shares": 3150,
+     "unit": "SH",
+     "value": 759000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "Com",
+     "shares": 4000,
+     "unit": "SH",
+     "value": 431000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "Com",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 397000
+    },
+    {
+     "cusip": "58933Y105",
+     "put_call": null,
+     "issuer": "MERCK & CO INC",
+     "class": "Com",
+     "shares": 4571,
+     "unit": "SH",
+     "value": 343000
+    }
+   ],
+   "table_total": 116033000,
+   "first_seen": "2026-11-16T13:17:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-022459",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465922022459/0001104659-22-022459-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 40100,
+     "unit": "SH",
+     "value": 42377000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 129060,
+     "unit": "SH",
+     "value": 22917000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 87028,
+     "unit": "SH",
+     "value": 11490000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 29713,
+     "unit": "SH",
+     "value": 10065000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 2490,
+     "unit": "SH",
+     "value": 8303000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2827,
+     "unit": "SH",
+     "value": 8180000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 34461,
+     "unit": "SH",
+     "value": 8065000
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 46164,
+     "unit": "SH",
+     "value": 7686000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 27824,
+     "unit": "SH",
+     "value": 7071000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 10294,
+     "unit": "SH",
+     "value": 5844000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 30604,
+     "unit": "SH",
+     "value": 5101000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 8380,
+     "unit": "SH",
+     "value": 5048000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 3150,
+     "unit": "SH",
+     "value": 844000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 4000,
+     "unit": "SH",
+     "value": 542000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 421000
+    }
+   ],
+   "table_total": 143954000,
+   "first_seen": "2026-11-16T13:17:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-060459",
+   "form": "13F-HR",
+   "filed": "2022-05-13",
+   "period": "2022-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465922060459/0001104659-22-060459-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 40410,
+     "unit": "SH",
+     "value": 43546000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 117478,
+     "unit": "SH",
+     "value": 20513000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 2535,
+     "unit": "SH",
+     "value": 8264000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2874,
+     "unit": "SH",
+     "value": 8027000
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 46276,
+     "unit": "SH",
+     "value": 7948000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 84683,
+     "unit": "SH",
+     "value": 7547000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 28816,
+     "unit": "SH",
+     "value": 6603000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 29601,
+     "unit": "SH",
+     "value": 6285000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 10494,
+     "unit": "SH",
+     "value": 6043000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 37941,
+     "unit": "SH",
+     "value": 5730000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 7642,
+     "unit": "SH",
+     "value": 5166000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 8591,
+     "unit": "SH",
+     "value": 3218000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2760,
+     "unit": "SH",
+     "value": 682000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 436000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 2400,
+     "unit": "SH",
+     "value": 389000
+    }
+   ],
+   "table_total": 130397000,
+   "first_seen": "2026-11-16T13:17:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-090843",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465922090843/0001104659-22-090843-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 39374,
+     "unit": "SH",
+     "value": 26515000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 101243,
+     "unit": "SH",
+     "value": 13842000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 56400,
+     "unit": "SH",
+     "value": 5990000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2392,
+     "unit": "SH",
+     "value": 5232000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 10515,
+     "unit": "SH",
+     "value": 5040000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 33651,
+     "unit": "SH",
+     "value": 4680000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 32331,
+     "unit": "SH",
+     "value": 3034000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 17730,
+     "unit": "SH",
+     "value": 2926000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 41726,
+     "unit": "SH",
+     "value": 2514000
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 7079,
+     "unit": "SH",
+     "value": 2483000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 22961,
+     "unit": "SH",
+     "value": 2347000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 65360,
+     "unit": "SH",
+     "value": 2042000
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 21609,
+     "unit": "SH",
+     "value": 1925000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 30366,
+     "unit": "SH",
+     "value": 1834000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 4578,
+     "unit": "SH",
+     "value": 1245000
+    },
+    {
+     "cusip": "64110L106",
+     "put_call": null,
+     "issuer": "NETFLIX INC",
+     "class": "COM",
+     "shares": 6879,
+     "unit": "SH",
+     "value": 1203000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2580,
+     "unit": "SH",
+     "value": 637000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 437000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 2400,
+     "unit": "SH",
+     "value": 368000
+    }
+   ],
+   "table_total": 84293000,
+   "first_seen": "2026-11-16T13:17:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-22-117888",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465922117888/0001104659-22-117888-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 117642,
+     "unit": "SH",
+     "value": 31205000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 101229,
+     "unit": "SH",
+     "value": 13990000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 54504,
+     "unit": "SH",
+     "value": 6159000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 56618,
+     "unit": "SH",
+     "value": 5444000
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 28530,
+     "unit": "SH",
+     "value": 4849000
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 7009,
+     "unit": "SH",
+     "value": 3310000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 18930,
+     "unit": "SH",
+     "value": 2723000
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 31117,
+     "unit": "SH",
+     "value": 2685000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 45126,
+     "unit": "SH",
+     "value": 2682000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 29707,
+     "unit": "SH",
+     "value": 2469000
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 34426,
+     "unit": "SH",
+     "value": 2398000
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 22189,
+     "unit": "SH",
+     "value": 2331000
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 7079,
+     "unit": "SH",
+     "value": 2306000
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 65360,
+     "unit": "SH",
+     "value": 1761000
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6849,
+     "unit": "SH",
+     "value": 1518000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 5292,
+     "unit": "SH",
+     "value": 1287000
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 3047,
+     "unit": "SH",
+     "value": 1285000
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2580,
+     "unit": "SH",
+     "value": 595000
+    },
+    {
+     "cusip": "M7S64H106",
+     "put_call": null,
+     "issuer": "MONDAY COM LTD",
+     "class": "SHS",
+     "shares": 3798,
+     "unit": "SH",
+     "value": 430000
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 402000
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 2400,
+     "unit": "SH",
+     "value": 322000
+    }
+   ],
+   "table_total": 90151000,
+   "first_seen": "2026-11-16T13:17:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-018390",
+   "form": "13F-HR",
+   "filed": "2023-02-10",
+   "period": "2022-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465923018390/0001104659-23-018390-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 124291,
+     "unit": "SH",
+     "value": 15310165
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 97156,
+     "unit": "SH",
+     "value": 12623479
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 52535,
+     "unit": "SH",
+     "value": 4661431
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51922,
+     "unit": "SH",
+     "value": 4361448
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 28729,
+     "unit": "SH",
+     "value": 3361580
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 6869,
+     "unit": "SH",
+     "value": 3135699
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 21251,
+     "unit": "SH",
+     "value": 3050369
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 6608,
+     "unit": "SH",
+     "value": 2695800
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 31243,
+     "unit": "SH",
+     "value": 2414459
+    },
+    {
+     "cusip": "874039100",
+     "put_call": null,
+     "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 31351,
+     "unit": "SH",
+     "value": 2335336
+    },
+    {
+     "cusip": "82509L107",
+     "put_call": null,
+     "issuer": "SHOPIFY INC",
+     "class": "CL A",
+     "shares": 62108,
+     "unit": "SH",
+     "value": 2155769
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 43088,
+     "unit": "SH",
+     "value": 2047973
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 14707,
+     "unit": "SH",
+     "value": 1950001
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 24490,
+     "unit": "SH",
+     "value": 1933486
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 21867,
+     "unit": "SH",
+     "value": 1869629
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6740,
+     "unit": "SH",
+     "value": 1628317
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 3140,
+     "unit": "SH",
+     "value": 1460634
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2580,
+     "unit": "SH",
+     "value": 679907
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 4198,
+     "unit": "SH",
+     "value": 615217
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 434559
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 2100,
+     "unit": "SH",
+     "value": 339381
+    }
+   ],
+   "table_total": 69064639,
+   "first_seen": "2026-11-16T13:17:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-059906",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465923059906/0001104659-23-059906-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 133688,
+     "unit": "SH",
+     "value": 27734912
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 95406,
+     "unit": "SH",
+     "value": 15732449
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 56397,
+     "unit": "SH",
+     "value": 5825246
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 49361,
+     "unit": "SH",
+     "value": 5133544
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 9207,
+     "unit": "SH",
+     "value": 4574682
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 12187,
+     "unit": "SH",
+     "value": 3513512
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 25404,
+     "unit": "SH",
+     "value": 3394482
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 26269,
+     "unit": "SH",
+     "value": 3221630
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 19494,
+     "unit": "SH",
+     "value": 3007729
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5492,
+     "unit": "SH",
+     "value": 2746439
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 7658,
+     "unit": "SH",
+     "value": 2715833
+    },
+    {
+     "cusip": "874039100",
+     "put_call": null,
+     "issuer": "TAIWAN SEMICONDUCTOR MFG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 28517,
+     "unit": "SH",
+     "value": 2652651
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 37679,
+     "unit": "SH",
+     "value": 2594199
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6903,
+     "unit": "SH",
+     "value": 2297318
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 64305,
+     "unit": "SH",
+     "value": 2095700
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC COM",
+     "class": "CL A",
+     "shares": 16264,
+     "unit": "SH",
+     "value": 2023242
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 3323,
+     "unit": "SH",
+     "value": 1859850
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 8173,
+     "unit": "SH",
+     "value": 1360314
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 3173,
+     "unit": "SH",
+     "value": 906875
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2580,
+     "unit": "SH",
+     "value": 721394
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 381300
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 1254,
+     "unit": "SH",
+     "value": 316058
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 1800,
+     "unit": "SH",
+     "value": 286866
+    }
+   ],
+   "table_total": 95096225,
+   "first_seen": "2026-11-16T13:17:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-090140",
+   "form": "13F-HR",
+   "filed": "2023-08-11",
+   "period": "2023-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465923090140/0001104659-23-090140-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 134077,
+     "unit": "SH",
+     "value": 35097336
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 95168,
+     "unit": "SH",
+     "value": 18459737
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 55361,
+     "unit": "SH",
+     "value": 7216860
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 47046,
+     "unit": "SH",
+     "value": 5691155
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "COM",
+     "shares": 7724,
+     "unit": "SH",
+     "value": 4158447
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 12072,
+     "unit": "SH",
+     "value": 4110999
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 39216,
+     "unit": "SH",
+     "value": 3490224
+    },
+    {
+     "cusip": "833445109",
+     "put_call": null,
+     "issuer": "SNOWFLAKE INC",
+     "class": "CL A",
+     "shares": 19656,
+     "unit": "SH",
+     "value": 3459063
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 7846,
+     "unit": "SH",
+     "value": 3267624
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 27227,
+     "unit": "SH",
+     "value": 3005044
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5632,
+     "unit": "SH",
+     "value": 2828559
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC COM",
+     "class": "CL A",
+     "shares": 11493,
+     "unit": "SH",
+     "value": 2729358
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 5648,
+     "unit": "SH",
+     "value": 2650550
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6907,
+     "unit": "SH",
+     "value": 2281175
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 5534,
+     "unit": "SH",
+     "value": 2217197
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 65193,
+     "unit": "SH",
+     "value": 2193744
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC COM",
+     "class": "CL A",
+     "shares": 16669,
+     "unit": "SH",
+     "value": 2136299
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 8473,
+     "unit": "SH",
+     "value": 1459135
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 5278,
+     "unit": "SH",
+     "value": 1266720
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 3649,
+     "unit": "SH",
+     "value": 1126008
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 2580,
+     "unit": "SH",
+     "value": 769898
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 407179
+    },
+    {
+     "cusip": "00287Y109",
+     "put_call": null,
+     "issuer": "ABBVIE INC",
+     "class": "COM",
+     "shares": 1800,
+     "unit": "SH",
+     "value": 242514
+    }
+   ],
+   "table_total": 110264825,
+   "first_seen": "2026-11-16T13:17:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-23-117724",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465923117724/0001104659-23-117724-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 134086,
+     "unit": "SH",
+     "value": 33550999
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 83939,
+     "unit": "SH",
+     "value": 14371196
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 51903,
+     "unit": "SH",
+     "value": 6597909
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 46811,
+     "unit": "SH",
+     "value": 6172030
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 7760,
+     "unit": "SH",
+     "value": 4384090
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11643,
+     "unit": "SH",
+     "value": 3676277
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6114,
+     "unit": "SH",
+     "value": 3136971
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 39216,
+     "unit": "SH",
+     "value": 3015318
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 31361,
+     "unit": "SH",
+     "value": 2998739
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 7351,
+     "unit": "SH",
+     "value": 2910334
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 11174,
+     "unit": "SH",
+     "value": 2772269
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 11546,
+     "unit": "SH",
+     "value": 2655695
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5632,
+     "unit": "SH",
+     "value": 2462705
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 5576,
+     "unit": "SH",
+     "value": 2438162
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC COM",
+     "class": "COM CL A",
+     "shares": 16669,
+     "unit": "SH",
+     "value": 2287153
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5594,
+     "unit": "SH",
+     "value": 2160067
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 66756,
+     "unit": "SH",
+     "value": 2087460
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6907,
+     "unit": "SH",
+     "value": 2055178
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 9123,
+     "unit": "SH",
+     "value": 1587220
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1336,
+     "unit": "SH",
+     "value": 1480382
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 3649,
+     "unit": "SH",
+     "value": 1120644
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 383145
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 378036
+    }
+   ],
+   "table_total": 104681979,
+   "first_seen": "2026-11-16T13:17:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-019679",
+   "form": "13F-HR",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465924019679/0001104659-24-019679-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 129237,
+     "unit": "SH",
+     "value": 32112810
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 81898,
+     "unit": "SH",
+     "value": 15767822
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 48734,
+     "unit": "SH",
+     "value": 6868083
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 44769,
+     "unit": "SH",
+     "value": 6802202
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP NEW",
+     "class": "NEW COM",
+     "shares": 7414,
+     "unit": "SH",
+     "value": 4893833
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10931,
+     "unit": "SH",
+     "value": 4110493
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 31074,
+     "unit": "SH",
+     "value": 3373704
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 38395,
+     "unit": "SH",
+     "value": 3355339
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6969,
+     "unit": "SH",
+     "value": 2972348
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 12761,
+     "unit": "SH",
+     "value": 2952130
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5285,
+     "unit": "SH",
+     "value": 2933439
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 11067,
+     "unit": "SH",
+     "value": 2881293
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 5091,
+     "unit": "SH",
+     "value": 2879724
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 5324,
+     "unit": "SH",
+     "value": 2539814
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 6802,
+     "unit": "SH",
+     "value": 2468310
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5362,
+     "unit": "SH",
+     "value": 2241959
+    },
+    {
+     "cusip": "427866108",
+     "put_call": null,
+     "issuer": "HERSHEY CO",
+     "class": "COM",
+     "shares": 11641,
+     "unit": "SH",
+     "value": 2170408
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 15843,
+     "unit": "SH",
+     "value": 2156866
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 9173,
+     "unit": "SH",
+     "value": 1810475
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1424,
+     "unit": "SH",
+     "value": 1727255
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 3525,
+     "unit": "SH",
+     "value": 1236958
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 425492
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 385580
+    }
+   ],
+   "table_total": 109066337,
+   "first_seen": "2026-11-16T13:17:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-061270",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465924061270/0001104659-24-061270-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 130826,
+     "unit": "SH",
+     "value": 22997903
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 81420,
+     "unit": "SH",
+     "value": 13961902
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 39646,
+     "unit": "SH",
+     "value": 7151345
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 45973,
+     "unit": "SH",
+     "value": 6999849
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 5577,
+     "unit": "SH",
+     "value": 4085878
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 40208,
+     "unit": "SH",
+     "value": 3884093
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 8370,
+     "unit": "SH",
+     "value": 3521426
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 13497,
+     "unit": "SH",
+     "value": 3370471
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 35131,
+     "unit": "SH",
+     "value": 3301611
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 5382,
+     "unit": "SH",
+     "value": 3016342
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6129,
+     "unit": "SH",
+     "value": 2951543
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5127,
+     "unit": "SH",
+     "value": 2768221
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 16507,
+     "unit": "SH",
+     "value": 2722995
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9609,
+     "unit": "SH",
+     "value": 2681680
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5771,
+     "unit": "SH",
+     "value": 2452733
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 7016,
+     "unit": "SH",
+     "value": 2435675
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 5246,
+     "unit": "SH",
+     "value": 2383730
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1530,
+     "unit": "SH",
+     "value": 2036874
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 8843,
+     "unit": "SH",
+     "value": 1496324
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 3345,
+     "unit": "SH",
+     "value": 1159410
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 549,
+     "unit": "SH",
+     "value": 835293
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 404598
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 389147
+    }
+   ],
+   "table_total": 97009043,
+   "first_seen": "2026-11-16T13:17:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-088730",
+   "form": "13F-HR",
+   "filed": "2024-08-13",
+   "period": "2024-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465924088730/0001104659-24-088730-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 131300,
+     "unit": "SH",
+     "value": 25981644
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 74530,
+     "unit": "SH",
+     "value": 15697509
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 32125,
+     "unit": "SH",
+     "value": 6208156
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 29464,
+     "unit": "SH",
+     "value": 5404287
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 5461,
+     "unit": "SH",
+     "value": 4641795
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 8481,
+     "unit": "SH",
+     "value": 3790583
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 13544,
+     "unit": "SH",
+     "value": 3383968
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 7011,
+     "unit": "SH",
+     "value": 3377549
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 41195,
+     "unit": "SH",
+     "value": 3054197
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5761,
+     "unit": "SH",
+     "value": 2896516
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6123,
+     "unit": "SH",
+     "value": 2701223
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 35656,
+     "unit": "SH",
+     "value": 2687393
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9609,
+     "unit": "SH",
+     "value": 2522074
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 16507,
+     "unit": "SH",
+     "value": 2502956
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5127,
+     "unit": "SH",
+     "value": 2497874
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 7098,
+     "unit": "SH",
+     "value": 2282007
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1564,
+     "unit": "SH",
+     "value": 2185831
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 5282,
+     "unit": "SH",
+     "value": 2156482
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 38892,
+     "unit": "SH",
+     "value": 2106391
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 5859,
+     "unit": "SH",
+     "value": 1777679
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 9788,
+     "unit": "SH",
+     "value": 1696848
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 803,
+     "unit": "SH",
+     "value": 1265255
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 365695
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 359554
+    }
+   ],
+   "table_total": 101543466,
+   "first_seen": "2026-11-16T13:17:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-24-118202",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465924118202/0001104659-24-118202-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1200000,
+     "unit": "SH",
+     "value": 18924000
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 69695,
+     "unit": "SH",
+     "value": 18234303
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 50941,
+     "unit": "SH",
+     "value": 11869253
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 28930,
+     "unit": "SH",
+     "value": 5390527
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 60248,
+     "unit": "SH",
+     "value": 5325923
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 29602,
+     "unit": "SH",
+     "value": 4949158
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 5563,
+     "unit": "SH",
+     "value": 4931711
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 60922,
+     "unit": "SH",
+     "value": 4595956
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 2827,
+     "unit": "SH",
+     "value": 4434376
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 14149,
+     "unit": "SH",
+     "value": 3933705
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6512,
+     "unit": "SH",
+     "value": 3796040
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 8576,
+     "unit": "SH",
+     "value": 3690253
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5824,
+     "unit": "SH",
+     "value": 3399585
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 6728,
+     "unit": "SH",
+     "value": 3093871
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 24110,
+     "unit": "SH",
+     "value": 3057389
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6147,
+     "unit": "SH",
+     "value": 3035389
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 5781,
+     "unit": "SH",
+     "value": 2920677
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 8214,
+     "unit": "SH",
+     "value": 2903485
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 54459,
+     "unit": "SH",
+     "value": 2853652
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 8904,
+     "unit": "SH",
+     "value": 2837082
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 10223,
+     "unit": "SH",
+     "value": 2810814
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 13970,
+     "unit": "SH",
+     "value": 2729459
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1654,
+     "unit": "SH",
+     "value": 2480504
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 436972
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 398668
+    }
+   ],
+   "table_total": 123032752,
+   "first_seen": "2026-11-16T13:17:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-011985",
+   "form": "13F-HR",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465925011985/0001104659-25-011985-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 69700,
+     "unit": "SH",
+     "value": 28147648
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1275007,
+     "unit": "SH",
+     "value": 20272611
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 51413,
+     "unit": "SH",
+     "value": 12874843
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 33305,
+     "unit": "SH",
+     "value": 6342604
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 28602,
+     "unit": "SH",
+     "value": 6274993
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 5329,
+     "unit": "SH",
+     "value": 4882803
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 2606,
+     "unit": "SH",
+     "value": 4498555
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 61058,
+     "unit": "SH",
+     "value": 4371142
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 7123,
+     "unit": "SH",
+     "value": 4273871
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9797,
+     "unit": "SH",
+     "value": 4129436
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 51969,
+     "unit": "SH",
+     "value": 3932494
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 8797,
+     "unit": "SH",
+     "value": 3637032
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 61689,
+     "unit": "SH",
+     "value": 3540332
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 14397,
+     "unit": "SH",
+     "value": 3304831
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5729,
+     "unit": "SH",
+     "value": 3303571
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6071,
+     "unit": "SH",
+     "value": 3196806
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 10101,
+     "unit": "SH",
+     "value": 3192320
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 6620,
+     "unit": "SH",
+     "value": 3179454
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 24058,
+     "unit": "SH",
+     "value": 3161462
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 8945,
+     "unit": "SH",
+     "value": 3017417
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 8065,
+     "unit": "SH",
+     "value": 2837186
+    },
+    {
+     "cusip": "98978V103",
+     "put_call": null,
+     "issuer": "ZOETIS INC",
+     "class": "CL A",
+     "shares": 14492,
+     "unit": "SH",
+     "value": 2361182
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1546,
+     "unit": "SH",
+     "value": 1891809
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 415992
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 355765
+    }
+   ],
+   "table_total": 137396159,
+   "first_seen": "2026-11-16T13:17:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-047701",
+   "form": "13F-HR",
+   "filed": "2025-05-13",
+   "period": "2025-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465925047701/0001104659-25-047701-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 73415,
+     "unit": "SH",
+     "value": 19026231
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1249735,
+     "unit": "SH",
+     "value": 16921412
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 51431,
+     "unit": "SH",
+     "value": 11424368
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 3035,
+     "unit": "SH",
+     "value": 5674266
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 69627,
+     "unit": "SH",
+     "value": 5516547
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 27774,
+     "unit": "SH",
+     "value": 5284281
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 4903,
+     "unit": "SH",
+     "value": 4637159
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 29554,
+     "unit": "SH",
+     "value": 4617221
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 9225,
+     "unit": "SH",
+     "value": 3874039
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6620,
+     "unit": "SH",
+     "value": 3743610
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 65955,
+     "unit": "SH",
+     "value": 3732393
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 55137,
+     "unit": "SH",
+     "value": 3500097
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9926,
+     "unit": "SH",
+     "value": 3478666
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9263,
+     "unit": "SH",
+     "value": 3477238
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 5999,
+     "unit": "SH",
+     "value": 3288172
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5629,
+     "unit": "SH",
+     "value": 3272644
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 6714,
+     "unit": "SH",
+     "value": 3052453
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 9262,
+     "unit": "SH",
+     "value": 2931979
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 5033,
+     "unit": "SH",
+     "value": 2900820
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 24199,
+     "unit": "SH",
+     "value": 2890813
+    },
+    {
+     "cusip": "G0450A105",
+     "put_call": null,
+     "issuer": "ARCH CAP GROUP LTD",
+     "class": "ORD",
+     "shares": 29712,
+     "unit": "SH",
+     "value": 2857700
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 8105,
+     "unit": "SH",
+     "value": 2529084
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 18111,
+     "unit": "SH",
+     "value": 1962870
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 448251
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 407966
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "SPDR S&P 500 ETF TR",
+     "class": "TR UNIT",
+     "shares": 243,
+     "unit": "SH",
+     "value": 135932
+    }
+   ],
+   "table_total": 121586212,
+   "first_seen": "2026-11-16T13:17:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-077329",
+   "form": "13F-HR",
+   "filed": "2025-08-13",
+   "period": "2025-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465925077329/0001104659-25-077329-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1211741,
+     "unit": "SH",
+     "value": 26100901
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 69566,
+     "unit": "SH",
+     "value": 22098336
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 50970,
+     "unit": "SH",
+     "value": 10457515
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 27565,
+     "unit": "SH",
+     "value": 6047485
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 2414,
+     "unit": "SH",
+     "value": 4821627
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 58583,
+     "unit": "SH",
+     "value": 4710073
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 4687,
+     "unit": "SH",
+     "value": 4639849
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9217,
+     "unit": "SH",
+     "value": 4584628
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 86635,
+     "unit": "SH",
+     "value": 4251179
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6596,
+     "unit": "SH",
+     "value": 3804177
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 5031,
+     "unit": "SH",
+     "value": 3713331
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 49154,
+     "unit": "SH",
+     "value": 3491900
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9781,
+     "unit": "SH",
+     "value": 3472744
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 5965,
+     "unit": "SH",
+     "value": 3351972
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5622,
+     "unit": "SH",
+     "value": 3332946
+    },
+    {
+     "cusip": "03662Q105",
+     "put_call": null,
+     "issuer": "ANSYS INC",
+     "class": "COM",
+     "shares": 9228,
+     "unit": "SH",
+     "value": 3241058
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 23422,
+     "unit": "SH",
+     "value": 3099667
+    },
+    {
+     "cusip": "303075105",
+     "put_call": null,
+     "issuer": "FACTSET RESH SYS INC",
+     "class": "COM",
+     "shares": 6688,
+     "unit": "SH",
+     "value": 2991409
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16710,
+     "unit": "SH",
+     "value": 2964187
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 18101,
+     "unit": "SH",
+     "value": 2859777
+    },
+    {
+     "cusip": "G0450A105",
+     "put_call": null,
+     "issuer": "ARCH CAP GROUP LTD",
+     "class": "ORD",
+     "shares": 29612,
+     "unit": "SH",
+     "value": 2696173
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 4640,
+     "unit": "SH",
+     "value": 2488618
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 7311,
+     "unit": "SH",
+     "value": 2185185
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1855,
+     "unit": "SH",
+     "value": 2179106
+    },
+    {
+     "cusip": "235851102",
+     "put_call": null,
+     "issuer": "DANAHER CORPORATION",
+     "class": "COM",
+     "shares": 9540,
+     "unit": "SH",
+     "value": 1884532
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 419264
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 375765
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "SPDR S&P 500 ETF TR",
+     "class": "TR UNIT",
+     "shares": 209,
+     "unit": "SH",
+     "value": 129131
+    }
+   ],
+   "table_total": 136392535,
+   "first_seen": "2026-11-16T13:17:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-25-111004",
+   "form": "13F-HR",
+   "filed": "2025-11-13",
+   "period": "2025-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465925111004/0001104659-25-111004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 69750,
+     "unit": "SH",
+     "value": 31019220
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1326083,
+     "unit": "SH",
+     "value": 25275142
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 50382,
+     "unit": "SH",
+     "value": 12828769
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 36960,
+     "unit": "SH",
+     "value": 8115307
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 3566,
+     "unit": "SH",
+     "value": 6815910
+    },
+    {
+     "cusip": "217204106",
+     "put_call": null,
+     "issuer": "COPART INC",
+     "class": "COM",
+     "shares": 140738,
+     "unit": "SH",
+     "value": 6328988
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9672,
+     "unit": "SH",
+     "value": 5009612
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 58899,
+     "unit": "SH",
+     "value": 4969309
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 25066,
+     "unit": "SH",
+     "value": 4676814
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 4689,
+     "unit": "SH",
+     "value": 4340279
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16715,
+     "unit": "SH",
+     "value": 4070938
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 5368,
+     "unit": "SH",
+     "value": 3942152
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6743,
+     "unit": "SH",
+     "value": 3826046
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 5965,
+     "unit": "SH",
+     "value": 3392952
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9868,
+     "unit": "SH",
+     "value": 3368738
+    },
+    {
+     "cusip": "G1151C101",
+     "put_call": null,
+     "issuer": "ACCENTURE PLC IRELAND",
+     "class": "SHS CLASS A",
+     "shares": 12910,
+     "unit": "SH",
+     "value": 3183606
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 5700,
+     "unit": "SH",
+     "value": 2982012
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 4642,
+     "unit": "SH",
+     "value": 2965727
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 23774,
+     "unit": "SH",
+     "value": 2886639
+    },
+    {
+     "cusip": "592688105",
+     "put_call": null,
+     "issuer": "METTLER TOLEDO INTERNATIONAL",
+     "class": "COM",
+     "shares": 1895,
+     "unit": "SH",
+     "value": 2326321
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 2460,
+     "unit": "SH",
+     "value": 456133
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 436082
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "SPDR S&P 500 ETF TR",
+     "class": "TR UNIT",
+     "shares": 209,
+     "unit": "SH",
+     "value": 139232
+    }
+   ],
+   "table_total": 143355928,
+   "first_seen": "2026-11-16T13:17:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-010143",
+   "form": "13F-HR",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465926010143/0001104659-26-010143-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 69963,
+     "unit": "SH",
+     "value": 31463760
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1336821,
+     "unit": "SH",
+     "value": 25787277
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 47793,
+     "unit": "SH",
+     "value": 12993005
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 240868,
+     "unit": "SH",
+     "value": 11053433
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 47351,
+     "unit": "SH",
+     "value": 10929558
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 3520,
+     "unit": "SH",
+     "value": 7566768
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 9104,
+     "unit": "SH",
+     "value": 6009459
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 10117,
+     "unit": "SH",
+     "value": 5085310
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 15834,
+     "unit": "SH",
+     "value": 4968709
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 9728,
+     "unit": "SH",
+     "value": 4704655
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 24514,
+     "unit": "SH",
+     "value": 4571861
+    },
+    {
+     "cusip": "22160K105",
+     "put_call": null,
+     "issuer": "COSTCO WHSL CORP",
+     "class": "NEW COM",
+     "shares": 4717,
+     "unit": "SH",
+     "value": 4067658
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 6994,
+     "unit": "SH",
+     "value": 4012668
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 9960,
+     "unit": "SH",
+     "value": 3493072
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 5779,
+     "unit": "SH",
+     "value": 3299116
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 4678,
+     "unit": "SH",
+     "value": 3164807
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 6034,
+     "unit": "SH",
+     "value": 2739134
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 438579
+    },
+    {
+     "cusip": "478160104",
+     "put_call": null,
+     "issuer": "JOHNSON & JOHNSON",
+     "class": "COM",
+     "shares": 1788,
+     "unit": "SH",
+     "value": 370027
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "SPDR S&P 500 ETF TR",
+     "class": "TR UNIT",
+     "shares": 235,
+     "unit": "SH",
+     "value": 160251
+    }
+   ],
+   "table_total": 146879107,
+   "first_seen": "2026-11-16T13:17:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-060992",
+   "form": "13F-HR",
+   "filed": "2026-05-14",
+   "period": "2026-03-31",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465926060992/0001104659-26-060992-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 70638,
+     "unit": "SH",
+     "value": 26259677
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1302510,
+     "unit": "SH",
+     "value": 25294744
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 48884,
+     "unit": "SH",
+     "value": 12406270
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 49422,
+     "unit": "SH",
+     "value": 10293120
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 248107,
+     "unit": "SH",
+     "value": 10040890
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 226726,
+     "unit": "SH",
+     "value": 9146127
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 13819,
+     "unit": "SH",
+     "value": 6622065
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 9267,
+     "unit": "SH",
+     "value": 5301929
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16157,
+     "unit": "SH",
+     "value": 4634797
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 25161,
+     "unit": "SH",
+     "value": 4388078
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 7298,
+     "unit": "SH",
+     "value": 3933695
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 10037,
+     "unit": "SH",
+     "value": 3715396
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 10317,
+     "unit": "SH",
+     "value": 3118210
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6019,
+     "unit": "SH",
+     "value": 3007454
+    },
+    {
+     "cusip": "45168D104",
+     "put_call": null,
+     "issuer": "IDEXX LABS INC",
+     "class": "COM",
+     "shares": 4782,
+     "unit": "SH",
+     "value": 2686958
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 6943,
+     "unit": "SH",
+     "value": 2377144
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 5680,
+     "unit": "SH",
+     "value": 571749
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 445984
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "STATE STRT SPDR S&P ETF T",
+     "class": "TR UNIT",
+     "shares": 235,
+     "unit": "SH",
+     "value": 152830
+    }
+   ],
+   "table_total": 134397117,
+   "first_seen": "2026-11-16T13:17:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-095617",
+   "form": "13F-HR",
+   "filed": "2026-08-13",
+   "period": "2026-06-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465926095617/0001104659-26-095617-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 70574,
+     "unit": "SH",
+     "value": 29683424
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1153806,
+     "unit": "SH",
+     "value": 19937768
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 48495,
+     "unit": "SH",
+     "value": 14032513
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 48829,
+     "unit": "SH",
+     "value": 11637904
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 197157,
+     "unit": "SH",
+     "value": 8396917
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 294211,
+     "unit": "SH",
+     "value": 8332056
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 35292,
+     "unit": "SH",
+     "value": 7061576
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 18558,
+     "unit": "SH",
+     "value": 6922505
+    },
+    {
+     "cusip": "84615Q103",
+     "put_call": null,
+     "issuer": "SPACE EXPLORATION TECHN CORP",
+     "class": "CLASS A COM STK",
+     "shares": 39012,
+     "unit": "SH",
+     "value": 6665590
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16229,
+     "unit": "SH",
+     "value": 5734193
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 8914,
+     "unit": "SH",
+     "value": 5021167
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 7298,
+     "unit": "SH",
+     "value": 4087172
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 10317,
+     "unit": "SH",
+     "value": 3539660
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 6020,
+     "unit": "SH",
+     "value": 3091872
+    },
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MNTH TREASRY",
+     "shares": 5680,
+     "unit": "SH",
+     "value": 571806
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 387895
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "STATE STRT SPDR S&P ETF T",
+     "class": "TR UNIT",
+     "shares": 274,
+     "unit": "SH",
+     "value": 204615
+    }
+   ],
+   "table_total": 135308633,
+   "first_seen": "2026-11-16T13:17:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001104659-26-125963",
+   "form": "13F-HR",
+   "filed": "2026-11-12",
+   "period": "2026-09-30",
+   "cik": 1574850,
+   "url": "https://www.sec.gov/Archives/edgar/data/1574850/000110465926125963/0001104659-26-125963-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Tsai Capital Corp",
+   "holdings": [
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 67321,
+     "unit": "SH",
+     "value": 23886164
+    },
+    {
+     "cusip": "82846H405",
+     "put_call": null,
+     "issuer": "QXO INC",
+     "class": "COM NEW",
+     "shares": 1287987,
+     "unit": "SH",
+     "value": 15056568
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 41200,
+     "unit": "SH",
+     "value": 13720424
+    },
+    {
+     "cusip": "84615Q103",
+     "put_call": null,
+     "issuer": "SPACE EXPLORATION TECHN CORP",
+     "class": "CLASS A COM STK",
+     "shares": 82565,
+     "unit": "SH",
+     "value": 12455756
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 38277,
+     "unit": "SH",
+     "value": 9536715
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 15920,
+     "unit": "SH",
+     "value": 8165368
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 31486,
+     "unit": "SH",
+     "value": 7190773
+    },
+    {
+     "cusip": "22160N109",
+     "put_call": null,
+     "issuer": "COSTAR GROUP INC",
+     "class": "COM",
+     "shares": 248531,
+     "unit": "SH",
+     "value": 6809749
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 166186,
+     "unit": "SH",
+     "value": 6059142
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 14571,
+     "unit": "SH",
+     "value": 4964923
+    },
+    {
+     "cusip": "009066101",
+     "put_call": null,
+     "issuer": "AIRBNB INC",
+     "class": "COM CL A",
+     "shares": 21397,
+     "unit": "SH",
+     "value": 3437428
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 8448,
+     "unit": "SH",
+     "value": 3035620
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 5309,
+     "unit": "SH",
+     "value": 2927754
+    },
+    {
+     "cusip": "464288679",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "TRUST ISHARE 0-1",
+     "shares": 3178,
+     "unit": "SH",
+     "value": 350597
+    },
+    {
+     "cusip": "580135101",
+     "put_call": null,
+     "issuer": "MCDONALDS CORP",
+     "class": "COM",
+     "shares": 1435,
+     "unit": "SH",
+     "value": 331399
+    },
+    {
+     "cusip": "78462F103",
+     "put_call": null,
+     "issuer": "STATE STRT SPDR S&P ETF T",
+     "class": "TR UNIT",
+     "shares": 274,
+     "unit": "SH",
+     "value": 208961
+    }
+   ],
+   "table_total": 118137341,
+   "first_seen": "2026-11-16T13:17:35+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Tsai Capital Corp"
+}

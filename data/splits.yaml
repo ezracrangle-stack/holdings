@@ -41,3 +41,4 @@
 - {ticker: BF.B, date: 2016-08-01, ratio: 2}
 - {ticker: ANET, date: 2024-12-04, ratio: 4}
 - {ticker: NFLX, date: 2025-11-17, ratio: 10}
+- {ticker: TSLA, date: 2022-08-25, ratio: 3}

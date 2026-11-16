@@ -1229,3 +1229,11 @@
 "464287689": {name: "iShares Russell 3000 ETF", ticker: "IWV", fund: yes}
 "46565G104": {name: "iTeos Therapeutics", ticker: "ITOS", sector: "Health care"}
 "G6700G107": {name: "nVent", ticker: "NVT", sector: "Industrials"}
+
+# Chris Tsai
+"98954M200": {name: "Zillow", ticker: "Z", sic: 7370, sector: "Financials & real estate"}
+"902252105": {name: "Tyler Technologies", ticker: "TYL", sic: 7372}
+"82846H405": {name: "QXO", ticker: "QXO", sic: 5030, sector: "Industrials"}
+"G0450A105": {name: "Arch Capital", ticker: "ACGL", sic: 6331}
+"84615Q103": {name: "SpaceX", ticker: "SPCX", sic: 3760, sector: "Industrials"}
+"464288679": {name: "iShares 0-1 Year Treasury Bond ETF", ticker: "SHV", fund: yes}

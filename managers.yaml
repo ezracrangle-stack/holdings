@@ -142,3 +142,10 @@ managers:
     top: 50
     letters: no
     why: "Joel wrote The Little Book That Beats the Market and teaches at Columbia. Gotham now runs a diversified, rules-based book of about 1,800 stocks; this page shows the 50 biggest."
+
+  - id: chris-tsai
+    name: Chris Tsai
+    firm: Tsai Capital
+    cik: 1574850
+    letters: no
+    why: "Chris looks for the ecosystem a company builds around its product, his \"the medium is the moat\". He has known Brad Jacobs since 1997, and QXO is one of his biggest positions."
