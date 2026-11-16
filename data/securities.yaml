@@ -2597,7 +2597,7 @@
 "876108101": {name: "Tarena International", ticker: "TEDU", sector: "Consumer discretionary"}
 "Y8565J101": {name: "Teekay Offshore Partners", ticker: "TOO", sector: "Energy", note: "Taken private by Brookfield in 2020."}
 "88104R209": {name: "TerraForm Power", ticker: "TERP", sector: "Utilities", note: "Bought by Brookfield Renewable in 2020."}
-"89156V106": {name: "Tourmaline Oil", ticker: "TOU"}
+"89156V106": {name: "Tourmaline Oil", ticker: "TOU", sector: "Energy"}
 "89656D101": {name: "Trinity Place", ticker: "TPHS", sic: 6512}
 "80656D911": {name: "Trinity Place Holdings", ticker: "TPHS", sector: "Financials & real estate"}
 "896CNT011": {name: "Trinity Place Holdings", ticker: "TPHS", sector: "Financials & real estate"}

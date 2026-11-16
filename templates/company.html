@@ -16,7 +16,7 @@
   {% for r in c.now %}
     <tr>
       <td class="co"><a href="{{ root }}m/{{ r.m.id }}.html">{{ r.m.name }}</a><span class="tick">{{ r.m.firm }} · <a class="hist" href="{{ root }}m/{{ r.m.id }}/stock/{{ c.slug }}.html">history</a></span></td>
-      <td class="num w"><span class="bar" style="width: {{ (r.weight / c.now[0].weight * 70)|round|int }}px"></span><span class="wv">{{ r.weight|pct }}</span></td>
+      <td class="num w"><span class="bar" style="width: {{ ((r.weight / c.now[0].weight * 70) if c.now[0].weight else 0)|round|int }}px"></span><span class="wv">{{ r.weight|pct }}</span></td>
       <td class="num hide-s">{{ r.value|money }}</td>
       <td class="num">{{ r.since_label }}{% if r.first_filing %} or earlier{% endif %}</td>
       <td class="num">{{ r.move }}</td>
