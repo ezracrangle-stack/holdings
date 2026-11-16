@@ -15,7 +15,7 @@ RANGES = [
     (4800, 4899, "Media & telecom"), (2700, 2799, "Media & telecom"), (7810, 7849, "Media & telecom"),
     (3711, 3711, "Consumer discretionary"), (3714, 3716, "Consumer discretionary"),
     (3940, 3949, "Consumer discretionary"), (2300, 2399, "Consumer discretionary"), (3140, 3149, "Consumer discretionary"),
-    (5200, 5999, "Consumer discretionary"), (7000, 7099, "Consumer discretionary"), (7900, 7999, "Consumer discretionary"),
+    (5200, 5999, "Consumer discretionary"), (7200, 7299, "Consumer discretionary"), (3020, 3021, "Consumer discretionary"), (7000, 7099, "Consumer discretionary"), (7900, 7999, "Consumer discretionary"),
     (2510, 2599, "Consumer discretionary"), (3630, 3639, "Consumer discretionary"),
     (6500, 6799, "Financials & real estate"), (6000, 6499, "Financials & real estate"),
     (1300, 1399, "Energy"), (2900, 2999, "Energy"), (4920, 4925, "Energy"),

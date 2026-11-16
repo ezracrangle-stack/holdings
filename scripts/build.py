@@ -78,6 +78,28 @@ SECTOR_STEPS = [(0.50, 6), (0.40, 5), (0.30, 4), (0.20, 3), (0.10, 2), (0, 1)]
 SECTOR_LABELS = ["Under 10%", "10-20%", "20-30%", "30-40%", "40-50%", "50%+"]
 
 
+def calendar(m):
+    """Every quarter-end from the first 13F to the last, including quarters with no filing."""
+    first, last = m["quarters"][0]["period"], m["quarters"][-1]["period"]
+    by = {q["period"]: q for q in m["quarters"]}
+    y, mo = int(first[:4]), int(first[5:7])
+    cols = []
+    while True:
+        end = dt.date(y, mo, 30 if mo in (6, 9) else 31).isoformat()
+        cols.append({"period": end, "label": P.quarter_label(end), "q": by.get(end)})
+        if end >= last:
+            return cols
+        mo += 3
+        if mo > 12:
+            mo, y = mo - 12, y + 1
+
+
+def spread(m, cols, values):
+    """Values per filed quarter → values per calendar column (None = no 13F that quarter)."""
+    idx = {q["period"]: i for i, q in enumerate(m["quarters"])}
+    return [values[idx[c["period"]]] if c["q"] else None for c in cols]
+
+
 def timeline(m):
     """Grid for the manager's chart: one row per holding, one column per quarter,
     shaded by weight. Rows: current holdings by weight, then past ones, most recent first."""
@@ -93,8 +115,10 @@ def timeline(m):
             r["last"] = i
     last = len(quarters) - 1
     out = sorted(rows.values(), key=lambda r: (r["last"] != last, -r["cells"][last] if r["last"] == last else -r["last"]))
+    cols = calendar(m)
     for r in out:
-        r["steps"] = [next(n for t, n in STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
+        r["cells"] = spread(m, cols, r["cells"])
+        r["steps"] = [None if w is None else next(n for t, n in STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
         r["current"] = r["last"] == last
     return out
 
@@ -110,8 +134,10 @@ def sector_grid(m):
             r["last"] = i
     last = len(quarters) - 1
     out = sorted(rows.values(), key=lambda r: (r["last"] != last, -r["cells"][last] if r["last"] == last else -r["last"]))
+    cols = calendar(m)
     for r in out:
-        r["steps"] = [next(n for t, n in SECTOR_STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
+        r["cells"] = spread(m, cols, r["cells"])
+        r["steps"] = [None if w is None else next(n for t, n in SECTOR_STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
         r["current"] = r["last"] == last
         r["fund"] = True          # no link
     return out
@@ -250,7 +276,7 @@ def build():
     render("404.html", "404.html", "/")
     for m in managers:
         render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies,
-               grid=timeline(m), sgrid=sector_grid(m), step_labels=STEP_LABELS, sector_labels=SECTOR_LABELS)
+               grid=timeline(m), sgrid=sector_grid(m), cols=calendar(m), step_labels=STEP_LABELS, sector_labels=SECTOR_LABELS)
         render("activity.html", f"m/{m['id']}/activity.html", "../../", m=m, companies=companies)
         for h in m["history"].values():
             render("stock_history.html", f"m/{m['id']}/stock/{h['slug']}.html", "../../../", m=m, h=h,

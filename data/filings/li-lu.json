@@ -1,0 +1,2417 @@
+{
+ "filings": [
+  {
+   "accession": "0001709323-17-000002",
+   "form": "13F-HR",
+   "filed": "2017-06-14",
+   "period": "2016-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932317000002/0001709323-17-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "056752908",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR A",
+     "shares": 659718,
+     "unit": "SH",
+     "value": 108464000
+    },
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 3179000
+    }
+   ],
+   "table_total": 111643000,
+   "first_seen": "2026-11-16T03:56:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-17-000003",
+   "form": "13F-HR",
+   "filed": "2017-06-14",
+   "period": "2017-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932317000003/0001709323-17-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "056752908",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR A",
+     "shares": 659718,
+     "unit": "SH",
+     "value": 113814000
+    },
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 3772000
+    }
+   ],
+   "table_total": 117586000,
+   "first_seen": "2026-11-16T03:56:09+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-17-000004",
+   "form": "13F-HR",
+   "filed": "2017-08-14",
+   "period": "2017-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932317000004/0001709323-17-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 4444000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1037000
+    },
+    {
+     "cusip": "948596101",
+     "put_call": null,
+     "issuer": "Weibo Corp",
+     "class": "Spon ADR",
+     "shares": 5230,
+     "unit": "SH",
+     "value": 348000
+    }
+   ],
+   "table_total": 5829000,
+   "first_seen": "2026-11-16T03:56:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-17-000005",
+   "form": "13F-HR",
+   "filed": "2017-11-15",
+   "period": "2017-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932317000005/0001709323-17-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 5996000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1437000
+    },
+    {
+     "cusip": "948596101",
+     "put_call": null,
+     "issuer": "Weibo Corp",
+     "class": "Spon ADR",
+     "shares": 5230,
+     "unit": "SH",
+     "value": 517000
+    }
+   ],
+   "table_total": 7950000,
+   "first_seen": "2026-11-16T03:56:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-18-000003",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932318000003/0001709323-18-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 5246000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1358000
+    },
+    {
+     "cusip": "948596101",
+     "put_call": null,
+     "issuer": "Weibo Corp",
+     "class": "Spon ADR",
+     "shares": 5230,
+     "unit": "SH",
+     "value": 541000
+    }
+   ],
+   "table_total": 7145000,
+   "first_seen": "2026-11-16T03:56:11+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-18-000005",
+   "form": "13F-HR",
+   "filed": "2018-05-16",
+   "period": "2018-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932318000005/0001709323-18-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 53000,
+     "unit": "SH",
+     "value": 9728000
+    },
+    {
+     "cusip": "G81477104",
+     "put_call": null,
+     "issuer": "Sina Corp",
+     "class": "Ord",
+     "shares": 52300,
+     "unit": "SH",
+     "value": 5453000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1295000
+    },
+    {
+     "cusip": "948596101",
+     "put_call": null,
+     "issuer": "Weibo Corp",
+     "class": "Spon ADR",
+     "shares": 5230,
+     "unit": "SH",
+     "value": 625000
+    }
+   ],
+   "table_total": 17101000,
+   "first_seen": "2026-11-16T03:56:12+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-18-000006",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932318000006/0001709323-18-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 53000,
+     "unit": "SH",
+     "value": 9833000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1409000
+    }
+   ],
+   "table_total": 11242000,
+   "first_seen": "2026-11-16T03:56:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-18-000007",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932318000007/0001709323-18-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 53000,
+     "unit": "SH",
+     "value": 8732000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "Baidu Inc",
+     "class": "Spon ADR REP A",
+     "shares": 5800,
+     "unit": "SH",
+     "value": 1326000
+    }
+   ],
+   "table_total": 10058000,
+   "first_seen": "2026-11-16T03:56:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-20-000001",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932320000001/0001709323-20-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 7814423,
+     "unit": "SH",
+     "value": 420260000
+    }
+   ],
+   "table_total": 420260000,
+   "first_seen": "2026-11-16T03:56:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-20-000003",
+   "form": "13F-HR",
+   "filed": "2020-05-14",
+   "period": "2020-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932320000003/0001709323-20-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 9909423,
+     "unit": "SH",
+     "value": 416790000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 262381000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 175000,
+     "unit": "SH",
+     "value": 34034000
+    }
+   ],
+   "table_total": 713205000,
+   "first_seen": "2026-11-16T03:56:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-20-000004",
+   "form": "13F-HR",
+   "filed": "2020-08-17",
+   "period": "2020-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932320000004/0001709323-20-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 9909423,
+     "unit": "SH",
+     "value": 510533000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 293526000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 608900,
+     "unit": "SH",
+     "value": 138263000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 121429000
+    }
+   ],
+   "table_total": 1063751000,
+   "first_seen": "2026-11-16T03:56:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-20-000005",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932320000005/0001709323-20-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 538938000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 1331000,
+     "unit": "SH",
+     "value": 348589000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 297728000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 126239000
+    }
+   ],
+   "table_total": 1311494000,
+   "first_seen": "2026-11-16T03:56:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-21-000001",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932321000001/0001709323-21-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 862805000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 374601000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 960300,
+     "unit": "SH",
+     "value": 262316000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 150486000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 100791000
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PINDUODUO INC",
+     "class": "SPONSORED ADS",
+     "shares": 363165,
+     "unit": "SH",
+     "value": 64524000
+    }
+   ],
+   "table_total": 1815523000,
+   "first_seen": "2026-11-16T03:56:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-21-000003",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932321000003/0001709323-21-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 1012344000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 478169000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 177695000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 572600,
+     "unit": "SH",
+     "value": 168648000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 92785000
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PINDUODUO INC",
+     "class": "SPONSORED ADS",
+     "shares": 363165,
+     "unit": "SH",
+     "value": 48621000
+    }
+   ],
+   "table_total": 1978262000,
+   "first_seen": "2026-11-16T03:56:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-21-000004",
+   "form": "13F-HR",
+   "filed": "2021-08-13",
+   "period": "2021-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932321000004/0001709323-21-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 975275000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 509561000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 215293000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 572600,
+     "unit": "SH",
+     "value": 199099000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 104035000
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PINDUODUO INC",
+     "class": "SPONSORED ADS",
+     "shares": 363165,
+     "unit": "SH",
+     "value": 46129000
+    }
+   ],
+   "table_total": 2049392000,
+   "first_seen": "2026-11-16T03:56:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-21-000005",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932321000005/0001709323-21-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 814604000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 12358987,
+     "unit": "SH",
+     "value": 524639000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 245032000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 228950000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 572600,
+     "unit": "SH",
+     "value": 194335000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 107483000
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PINDUODUO INC",
+     "class": "SPONSORED ADS",
+     "shares": 363165,
+     "unit": "SH",
+     "value": 32928000
+    }
+   ],
+   "table_total": 2147971000,
+   "first_seen": "2026-11-16T03:56:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-22-000001",
+   "form": "13F-HR",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932322000001/0001709323-22-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 1069038000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 14586987,
+     "unit": "SH",
+     "value": 648975000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 876200,
+     "unit": "SH",
+     "value": 294710000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 268427000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 248559000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 134882000
+    }
+   ],
+   "table_total": 2664591000,
+   "first_seen": "2026-11-16T03:56:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-22-000003",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932322000003/0001709323-22-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 893906000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 14586987,
+     "unit": "SH",
+     "value": 601276000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 316825000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 85900,
+     "unit": "SH",
+     "value": 239918000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 876200,
+     "unit": "SH",
+     "value": 194832000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 132634000
+    }
+   ],
+   "table_total": 2379391000,
+   "first_seen": "2026-11-16T03:56:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-22-000004",
+   "form": "13F-HR",
+   "filed": "2022-08-16",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932322000004/0001709323-22-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 634422000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 14586987,
+     "unit": "SH",
+     "value": 454093000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 152200,
+     "unit": "SH",
+     "value": 332930000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 245103000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 103853000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 47400,
+     "unit": "SH",
+     "value": 103297000
+    }
+   ],
+   "table_total": 1873698000,
+   "first_seen": "2026-11-16T03:56:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-22-000005",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932322000005/0001709323-22-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 574974000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 14586987,
+     "unit": "SH",
+     "value": 440527000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 292681000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 239717000
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 104977000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 948000,
+     "unit": "SH",
+     "value": 90676000
+    }
+   ],
+   "table_total": 1743552000,
+   "first_seen": "2026-11-16T03:56:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-23-000001",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932323000001/0001709323-23-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 11476523,
+     "unit": "SH",
+     "value": 573597
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 14586987,
+     "unit": "SH",
+     "value": 483121
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 277315
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 270094
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 224395
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 98695
+    }
+   ],
+   "table_total": 1927217,
+   "first_seen": "2026-11-16T03:56:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-23-000004",
+   "form": "13F-HR",
+   "filed": "2023-05-16",
+   "period": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932323000004/0001709323-23-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 517120
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 6826079,
+     "unit": "SH",
+     "value": 411886
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 316576
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 277198
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 263817
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2296300,
+     "unit": "SH",
+     "value": 127445
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 125258
+    }
+   ],
+   "table_total": 2039300,
+   "first_seen": "2026-11-16T03:56:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-23-000005",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932323000005/0001709323-23-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 518748
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 368233
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 306132
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 304433
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 147340
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 146564
+    }
+   ],
+   "table_total": 1791450,
+   "first_seen": "2026-11-16T03:56:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-23-000006",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932323000006/0001709323-23-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 495061
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 401351
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 332816
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 314481
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 146342
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 130051
+    }
+   ],
+   "table_total": 1820102,
+   "first_seen": "2026-11-16T03:56:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-24-000001",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932324000001/0001709323-24-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 608792
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 428991
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 355274
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 320191
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 199758
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 146246
+    }
+   ],
+   "table_total": 2059252,
+   "first_seen": "2026-11-16T03:56:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-24-000004",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932324000004/0001709323-24-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 685637
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 463479
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 383860
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 377521
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 219637
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 130256
+    }
+   ],
+   "table_total": 2260390,
+   "first_seen": "2026-11-16T03:56:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-24-000005",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932324000005/0001709323-24-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 719086659
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 558330480
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 463262095
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 365204293
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 203312184
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 759600,
+     "unit": "SH",
+     "value": 159986952
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 92433495
+    }
+   ],
+   "table_total": 2561616158,
+   "first_seen": "2026-11-16T03:56:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-24-000009",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932324000009/0001709323-24-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 717459357
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 508926360
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 421806305
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 413197955
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 229715282
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 75583410
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 317700,
+     "unit": "SH",
+     "value": 74024100
+    },
+    {
+     "cusip": "78574H104",
+     "put_call": null,
+     "issuer": "SABLE OFFSHORE CORP",
+     "class": "COM",
+     "shares": 1343000,
+     "unit": "SH",
+     "value": 31735090
+    }
+   ],
+   "table_total": 2472447859,
+   "first_seen": "2026-11-16T03:56:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001709323-25-000001",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000170932325000001/0001709323-25-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 18081133,
+     "unit": "SH",
+     "value": 794665795
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3044000,
+     "unit": "SH",
+     "value": 579699360
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 481446690
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 406931667
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 265863372
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 317700,
+     "unit": "SH",
+     "value": 79558434
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 72459765
+    },
+    {
+     "cusip": "78574H104",
+     "put_call": null,
+     "issuer": "SABLE OFFSHORE CORP",
+     "class": "COM",
+     "shares": 1343000,
+     "unit": "SH",
+     "value": 30754700
+    }
+   ],
+   "table_total": 2711379783,
+   "first_seen": "2026-11-16T03:56:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-25-000004",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358525000004/0002043585-25-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 13846633,
+     "unit": "SH",
+     "value": 577819995
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 478123162
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 393295912
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 382966599
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 249205266
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 72386440
+    },
+    {
+     "cusip": "78574H104",
+     "put_call": null,
+     "issuer": "SABLE OFFSHORE CORP",
+     "class": "COM",
+     "shares": 1343000,
+     "unit": "SH",
+     "value": 34071910
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 24567578
+    }
+   ],
+   "table_total": 2212436862,
+   "first_seen": "2026-11-16T03:56:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-25-000010",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358525000010/0002043585-25-000010-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 10431387,
+     "unit": "SH",
+     "value": 493613233
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 4608000,
+     "unit": "SH",
+     "value": 482273280
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 448205759
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 436099532
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 434836107
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 280355924
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 61607665
+    },
+    {
+     "cusip": "78574H104",
+     "put_call": null,
+     "issuer": "SABLE OFFSHORE CORP",
+     "class": "COM",
+     "shares": 1343000,
+     "unit": "SH",
+     "value": 29519140
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 22691802
+    }
+   ],
+   "table_total": 2689202442,
+   "first_seen": "2026-11-16T03:56:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-25-000015",
+   "form": "13F-HR",
+   "filed": "2025-11-12",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358525000015/0002043585-25-000015-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 618276230
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 4608000,
+     "unit": "SH",
+     "value": 609039360
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 597014115
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 10431387,
+     "unit": "SH",
+     "value": 538155255
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 451334332
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 295542564
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 69292125
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 28162078
+    },
+    {
+     "cusip": "78574H104",
+     "put_call": null,
+     "issuer": "SABLE OFFSHORE CORP",
+     "class": "COM",
+     "shares": 1343000,
+     "unit": "SH",
+     "value": 23448780
+    }
+   ],
+   "table_total": 3230264839,
+   "first_seen": "2026-11-16T03:56:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-26-000011",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000011/0002043585-26-000011-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 796052900
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 769217940
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 10431387,
+     "unit": "SH",
+     "value": 573726285
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 4608000,
+     "unit": "SH",
+     "value": 522501120
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 451253535
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 312034089
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 60302480
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 628159,
+     "unit": "SH",
+     "value": 53720158
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 30067716
+    }
+   ],
+   "table_total": 3568876223,
+   "first_seen": "2026-11-16T03:56:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-26-000012",
+   "form": "13F-HR/A",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000012/0002043585-26-000012-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 796052900
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 769217940
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 10431387,
+     "unit": "SH",
+     "value": 573726285
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 4608000,
+     "unit": "SH",
+     "value": 522501120
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 451253535
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 312034089
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 60302480
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 628159,
+     "unit": "SH",
+     "value": 53720158
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 30067716
+    }
+   ],
+   "table_total": 3568876223,
+   "first_seen": "2026-11-16T03:56:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-26-000013",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000013/0002043585-26-000013-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 731351348
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 703179918
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 4608000,
+     "unit": "SH",
+     "value": 470845440
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 897749,
+     "unit": "SH",
+     "value": 430201321
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 296403233
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 2997987,
+     "unit": "SH",
+     "value": 146151866
+    },
+    {
+     "cusip": "674599105",
+     "put_call": null,
+     "issuer": "OCCIDENTAL PETE CORP",
+     "class": "COM",
+     "shares": 1466500,
+     "unit": "SH",
+     "value": 95322500
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 887093,
+     "unit": "SH",
+     "value": 73646461
+    },
+    {
+     "cusip": "88034P109",
+     "put_call": null,
+     "issuer": "TENCENT MUSIC ENTMT GROUP",
+     "class": "SPON ADS",
+     "shares": 6590836,
+     "unit": "SH",
+     "value": 61162958
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 121463,
+     "unit": "SH",
+     "value": 51663072
+    },
+    {
+     "cusip": "093671105",
+     "put_call": null,
+     "issuer": "BLOCK H & R INC",
+     "class": "COM",
+     "shares": 1626906,
+     "unit": "SH",
+     "value": 51637996
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 117784,
+     "unit": "SH",
+     "value": 51383270
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 28069174
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 18939,
+     "unit": "SH",
+     "value": 10208310
+    }
+   ],
+   "table_total": 3201226867,
+   "first_seen": "2026-11-16T03:56:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0002043585-26-000022",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000022/0002043585-26-000022-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Himalaya Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2543300,
+     "unit": "SH",
+     "value": 908899121
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 2451300,
+     "unit": "SH",
+     "value": 866117829
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPON ADS",
+     "shares": 10761119,
+     "unit": "SH",
+     "value": 820858157
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 1108318,
+     "unit": "SH",
+     "value": 554591244
+    },
+    {
+     "cusip": "27579R104",
+     "put_call": null,
+     "issuer": "EAST WEST BANCORP INC",
+     "class": "COM",
+     "shares": 2776351,
+     "unit": "SH",
+     "value": 358399151
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 887093,
+     "unit": "SH",
+     "value": 107018900
+    },
+    {
+     "cusip": "88034P109",
+     "put_call": null,
+     "issuer": "TENCENT MUSIC ENTERTAINM",
+     "class": "SPON ADS",
+     "shares": 6590836,
+     "unit": "SH",
+     "value": 55033481
+    },
+    {
+     "cusip": "037833100",
+     "put_call": null,
+     "issuer": "APPLE INC",
+     "class": "COM",
+     "shares": 110600,
+     "unit": "SH",
+     "value": 32003216
+    }
+   ],
+   "table_total": 3702921098,
+   "first_seen": "2026-11-16T03:56:35+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Himalaya Capital Management LLC"
+}

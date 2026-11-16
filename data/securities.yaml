@@ -97,3 +97,21 @@
 "92826C839": {name: Visa, ticker: V, sic: 7389, sector: Financials & real estate}
 "929042109": {name: Vornado Realty Trust, ticker: VNO, sic: 6798}
 "929160109": {name: Vulcan Materials, ticker: VMC, sic: 1400}
+
+# Li Lu, Himalaya Capital
+"01609W102": {name: Alibaba, ticker: BABA, sic: 7389, sector: Consumer discretionary}
+"037833100": {name: Apple, ticker: AAPL, sic: 3571}
+"084670702": {name: Berkshire Hathaway, ticker: BRK.B, sic: 6331}
+"060505104": {name: Bank of America, ticker: BAC, sic: 6021}
+"093671105": {name: H&R Block, ticker: HRB, sic: 7200}
+"056752908": {name: Baidu, ticker: BIDU, sic: 7370, note: "Filed with an options-style CUSIP; the line is ADR shares."}
+"227046109": {name: Crocs, ticker: CROX, sic: 3021}
+"27579R104": {name: East West Bancorp, ticker: EWBC, sic: 6022}
+"595112103": {name: Micron Technology, ticker: MU, sic: 3674}
+"55354G100": {name: MSCI, ticker: MSCI, sic: 7389, sector: Financials & real estate}
+"674599105": {name: Occidental Petroleum, ticker: OXY, sic: 1311}
+"722304102": {name: PDD Holdings, ticker: PDD, sic: 7389, sector: Consumer discretionary, note: "Called Pinduoduo until 2023."}
+"78574H104": {name: Sable Offshore, ticker: SOC, sic: 1311}
+"G81477104": {name: Sina, ticker: SINA, sic: 7370, note: "Taken private in 2021."}
+"88034P109": {name: Tencent Music Entertainment, ticker: TME, sic: 4832}
+"948596101": {name: Weibo, ticker: WB, sic: 7370}

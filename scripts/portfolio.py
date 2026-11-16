@@ -34,6 +34,12 @@ def clean_issuer(s):
     return " ".join(w.capitalize() for w in s.split()) or s
 
 
+def consecutive(a, b):
+    """True when quarter-end b comes right after quarter-end a."""
+    da, db = dt.date.fromisoformat(a), dt.date.fromisoformat(b)
+    return (db.year * 12 + db.month) - (da.year * 12 + da.month) == 3
+
+
 def load_securities():
     raw = yaml.safe_load((DATA / "securities.yaml").read_text(encoding="utf-8")) or {}
     return {str(k).upper(): v for k, v in raw.items()}
@@ -163,15 +169,18 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
         q["prev"] = quarters[i - 1] if i else None
         # how long each position has been held without a break
         for p in q["positions"]:
-            since = q["period"]
-            for older in reversed(quarters[:i]):
-                if any(o["key"] == p["key"] for o in older["positions"]):
-                    since = older["period"]
-                else:
+            since, unknown_before = q["period"], i == 0 or not consecutive(quarters[i - 1]["period"], q["period"])
+            for j in range(i - 1, -1, -1):
+                older = quarters[j]
+                if not any(o["key"] == p["key"] for o in older["positions"]):
                     break
+                if not consecutive(older["period"], quarters[j + 1]["period"]):
+                    break                              # no 13F for the quarters in between
+                since = older["period"]
+                unknown_before = j == 0 or not consecutive(quarters[j - 1]["period"], older["period"])
             p["since"] = since
             p["since_label"] = quarter_label(since)
-            p["first_filing"] = since == quarters[0]["period"]
+            p["first_filing"] = unknown_before         # "or earlier": we can't see the quarter before
     m["quarters"] = quarters
     m["latest"] = quarters[-1] if quarters else None
     # every quarter of every holding, with what the manager did: the "History" pages

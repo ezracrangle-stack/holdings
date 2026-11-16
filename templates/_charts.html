@@ -1,16 +1,16 @@
-{% macro heat(rows, m, root, step_labels, label, link=true) %}
+{% macro heat(rows, m, cols, root, step_labels, label, link=true) %}
 <div class="hm" role="img" aria-label="{{ label }}">
   <div class="hm-scroll">
-    <div class="hm-grid" style="--cols: {{ m.quarters|length }}">
+    <div class="hm-grid" style="--cols: {{ cols|length }}">
       <span class="hm-corner"></span>
-      {% for h in m.quarters %}<span class="hm-year">{% if h.label.startswith("Q1") %}{{ h.period[:4] }}{% endif %}</span>{% endfor %}
+      {% for h in cols %}<span class="hm-year">{% if h.label.startswith("Q1") %}{{ h.period[:4] }}{% endif %}</span>{% endfor %}
       {% for r in rows %}
         <span class="hm-name{% if not r.current %} past{% endif %}"><span class="hm-t">{% if link and not r.fund %}<a href="{{ root }}c/{{ r.slug }}.html">{{ r.name }}</a>{% else %}{{ r.name }}{% endif %}</span></span>
-        {% for w in r.cells %}<span class="hm-c s{{ r.steps[loop.index0] }}"{% if w %} data-tip="{{ r.name }} · {{ m.quarters[loop.index0].label }} · {{ w|pct }}"{% endif %}></span>{% endfor %}
+        {% for w in r.cells %}{% if w is none %}<span class="hm-c sx" data-tip="{{ cols[loop.index0].label }} · no 13F filed"></span>{% else %}<span class="hm-c s{{ r.steps[loop.index0] }}"{% if w %} data-tip="{{ r.name }} · {{ cols[loop.index0].label }} · {{ w|pct }}"{% endif %}></span>{% endif %}{% endfor %}
       {% endfor %}
     </div>
   </div>
-  <p class="hm-legend"><span class="hm-lt">Weight</span>{% for l in step_labels %}<span class="hm-k"><span class="hm-c s{{ loop.index }}"></span>{{ l }}</span>{% endfor %}</p>
+  <p class="hm-legend"><span class="hm-lt">Weight</span>{% for l in step_labels %}<span class="hm-k"><span class="hm-c s{{ loop.index }}"></span>{{ l }}</span>{% endfor %}{% if rows and none in rows[0].cells %}<span class="hm-k"><span class="hm-c sx"></span>No 13F filed</span>{% endif %}</p>
   <div class="hm-tip" hidden></div>
 </div>
 {% endmacro %}
