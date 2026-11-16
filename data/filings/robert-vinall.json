@@ -2538,6 +2538,130 @@
    "table_total": 382887143,
    "first_seen": "2026-11-16T19:26:40+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001766596-26-000014",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000176659626000014/0001766596-26-000014-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 2027308,
+     "unit": "SH",
+     "value": 126787842
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 130110,
+     "unit": "SH",
+     "value": 94353170
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 111037,
+     "unit": "SH",
+     "value": 58960647
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 561086,
+     "unit": "SH",
+     "value": 47927966
+    },
+    {
+     "cusip": "04965M106",
+     "put_call": null,
+     "issuer": "ATOUR LIFESTYLE HLDGS LTD",
+     "class": "SPONSORED ADS",
+     "shares": 639285,
+     "unit": "SH",
+     "value": 20853477
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 431205,
+     "unit": "SH",
+     "value": 17722526
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 33100,
+     "unit": "SH",
+     "value": 16976990
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 11189482
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 21395,
+     "unit": "SH",
+     "value": 4656622
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 15511,
+     "unit": "SH",
+     "value": 3560860
+    },
+    {
+     "cusip": "617700109",
+     "put_call": null,
+     "issuer": "MORNINGSTAR INC",
+     "class": "COM",
+     "shares": 3700,
+     "unit": "SH",
+     "value": 703148
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 500,
+     "unit": "SH",
+     "value": 243690
+    }
+   ],
+   "table_total": 403936420,
+   "first_seen": "2026-11-16T20:19:15+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "RV Capital AG"
