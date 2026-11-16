@@ -2176,3 +2176,27 @@
 "464287309": {name: "iShares S&P 500 Growth ETF", ticker: "IVW", fund: yes}
 "464287739": {name: "iShares U.S. Real Estate ETF", ticker: "IYR", fund: yes}
 "54319Q113": {name: "Longview Acquisition Corp. II", ticker: "LGV.WS", sector: "Financials & real estate", kind: "warrants"}
+
+# Nicolai Tangen (Norges Bank), top 50 of each quarter
+"001055102": {name: "Aflac", ticker: "AFL", sic: 6311}
+"780087102": {name: "Royal Bank of Canada", ticker: "RY", sic: 6029}
+"50075N104": {name: "Mondelez", ticker: "MDLZ", sic: 2000, note: "Called Kraft Foods until the 2012 split."}
+"65248E104": {name: "Twenty-First Century Fox", ticker: "FOXA", sic: 4833, note: "Called News Corp until the 2013 split."}
+"064149107": {name: "Bank of Nova Scotia", ticker: "BNS", sic: 6029}
+"931422109": {name: "Walgreens Boots Alliance", ticker: "WBA", sic: 5912, note: "Walgreen Co. before the 2014 merger with Alliance Boots."}
+"92769L101": {name: "Virgin Media", ticker: "VMED", sic: 4841, note: "Bought by Liberty Global in 2013."}
+"H89231338": {name: "UBS", ticker: "UBS", sic: 6021}
+"H42097107": {name: "UBS", ticker: "UBS", sic: 6021}
+"D18190898": {name: "Deutsche Bank", ticker: "DB", sic: 6021}
+"744320102": {name: "Prudential Financial", ticker: "PRU", sic: 6311}
+"G0408V102": {name: "Aon", ticker: "AON", sic: 6411}
+"03076C106": {name: "Ameriprise Financial", ticker: "AMP", sic: 6282}
+"370023103": {name: "General Growth Properties", ticker: "GGP", sic: 6798, note: "Bought by Brookfield Property Partners in 2018."}
+"Y09827109": {name: "Broadcom", ticker: "AVGO", sic: 3674, note: "Broadcom Ltd. before the 2018 move to the US."}
+"29476L107": {name: "Equity Residential", ticker: "EQR", sic: 6798}
+"007903107": {name: "AMD", ticker: "AMD", sic: 3674}
+"95040Q104": {name: "Welltower", ticker: "WELL", sic: 6798}
+"253868103": {name: "Digital Realty", ticker: "DLR", sic: 6798}
+"09290D101": {name: "BlackRock", ticker: "BLK", sic: 6211}
+"G0593M107": {name: "AstraZeneca", ticker: "AZN", sic: 2834}
+"573874104": {name: "Marvell Technology", ticker: "MRVL", sic: 3674}

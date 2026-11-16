@@ -57,3 +57,10 @@
 - {ticker: MTH, date: 2025-01-02, ratio: 2}
 - {ticker: BALL, date: 2017-05-16, ratio: 2}
 - {ticker: NRZ, date: 2014-10-17, ratio: 0.5}
+- {ticker: KO, date: 2012-08-13, ratio: 2}
+- {ticker: TD, date: 2014-01-31, ratio: 2}
+- {ticker: NEE, date: 2020-10-27, ratio: 4}
+- {ticker: NVDA, date: 2021-07-20, ratio: 4}
+- {ticker: NVDA, date: 2024-06-10, ratio: 10}
+- {ticker: WMT, date: 2024-02-26, ratio: 3}
+- {ticker: AVGO, date: 2024-07-15, ratio: 10}

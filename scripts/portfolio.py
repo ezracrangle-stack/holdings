@@ -69,18 +69,26 @@ def effective_filings(filings):
     in the order filed (a restatement replaces the quarter; a 'new holdings' amendment adds
     lines). When a firm reports through more than one entity in the same quarter
     (Fundsmith LLP and Fundsmith Investment Services, say), their lines are added up."""
-    by_filer = {}
+    by_filer, added = {}, set()
     for f in sorted(filings, key=lambda f: (f["filed"], f["accession"])):
         if not f["form"].startswith("13F-HR") or f.get("skipped"):
             continue
+        # some filers (Norges Bank) file a blank 13F with one "NA" line and send the
+        # holdings months later as an amendment, under confidential treatment
+        f = dict(f, holdings=[h for h in f["holdings"] if h["cusip"].strip("0")])
         f = fix_units(f)
         key = (f.get("cik"), f["period"])
         cur = by_filer.get(key)
         if cur is None or f["form"] == "13F-HR" or f.get("amendment_type") == "RESTATEMENT":
             by_filer[key] = dict(f, holdings=list(f["holdings"]), amended=cur is not None)
         else:
+            sig = (key, json.dumps(f["holdings"], sort_keys=True))
+            if sig in added:                     # the same "new holdings" amendment filed twice
+                continue
+            added.add(sig)
             cur["holdings"] = cur["holdings"] + f["holdings"]
             cur["amended"] = True
+    by_filer = {k: f for k, f in by_filer.items() if f["holdings"]}   # blank 13F, holdings not out yet
     by_period = {}
     for (cik, period), f in sorted(by_filer.items(), key=lambda x: (x[0][1], str(x[0][0]))):
         cur = by_period.get(period)

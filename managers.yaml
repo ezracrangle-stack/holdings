@@ -210,3 +210,10 @@ managers:
     cik: [898382, 898202]
     letters: no
     why: "Lee ran Goldman Sachs Asset Management before he started Omega in 1991, and since 2019 the firm manages only his family's money. Vertiv, held since 2020, is 16% of the 13F."
+
+  - id: nicolai-tangen
+    name: Nicolai Tangen
+    firm: Norges Bank Investment Management
+    cik: 1374170
+    letters: no
+    why: "Nicolai founded AKO Capital and has run Norway's oil fund since 2020. The fund owns about 1.5% of every listed company in the world, so its 13F looks a lot like the US market. Some quarters it files the holdings a year late, under confidential treatment; they show up here when they come out."
