@@ -39,7 +39,7 @@
 {% if shared %}
 <section>
   <h2 class="rule-head">Most widely held</h2>
-  <ol class="clist top10" data-per-page="5">
+  <ol class="clist top10" data-per-page="10">
   {% for c in shared %}
     <li><a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a><span class="ccount">{{ c.holders }} manager{{ "s" if c.holders != 1 }}</span></li>
   {% endfor %}
