@@ -117,6 +117,20 @@ def sector_grid(m):
     return out
 
 
+UTM = "utm_source=holdings.ezrasnotes.com&utm_medium=referral"
+
+
+def load_posts():
+    path = ROOT / "data" / "posts.yaml"
+    posts = yaml.safe_load(path.read_text(encoding="utf-8")) if path.exists() else []
+    for p in posts or []:
+        p["date"] = str(p["date"])
+        p["href"] = p["url"] + ("&" if "?" in p["url"] else "?") + UTM
+        p.setdefault("managers", [])
+        p.setdefault("companies", [])
+    return sorted(posts or [], key=lambda p: p["date"], reverse=True)
+
+
 def load_managers():
     config = yaml.safe_load((ROOT / "managers.yaml").read_text(encoding="utf-8"))
     lpath = ROOT / "data" / "letters_index.json"
@@ -177,6 +191,14 @@ def build_companies(managers, letters_companies):
 def build():
     managers, letters_companies, unknown, warnings = load_managers()
     companies = build_companies(managers, letters_companies)
+    posts = load_posts()
+    by_id = {m["id"]: m for m in managers}
+    for m in managers:
+        m["posts"] = [p for p in posts if m["id"] in p["managers"]]
+    for c in companies.values():
+        c["posts"] = [p for p in posts if c["slug"] in p["companies"]]
+    bad_refs = [f"{p['title']}: {x}" for p in posts for x in p["managers"] if x not in by_id] + \
+               [f"{p['title']}: {x}" for p in posts for x in p["companies"] if x not in companies]
     shared = sorted((c for c in companies.values() if c["holders"]),
                     key=lambda c: (-c["holders"], -c["avg_weight"], c["name"]))
     former = sorted((c for c in companies.values() if not c["holders"]), key=lambda c: c["name"].lower())
@@ -218,7 +240,7 @@ def build():
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(env.get_template(template).render(root=root, page=path, **common, **kw), encoding="utf-8")
 
-    render("index.html", "index.html", "", latest_filings=latest_filings, groups=groups,
+    render("index.html", "index.html", "", latest_filings=latest_filings, groups=groups, posts=posts[:3],
            managers=managers, shared=shared[:10], has_moves=bool(moves))
     render("directory.html", "managers.html", "", managers=managers)
     render("companies.html", "companies.html", "", shared=shared, former=former)
@@ -249,6 +271,9 @@ def build():
     if nosector:
         notes.append("These holdings have no sector yet. Add their SIC code (it's on their EDGAR page) "
                      "to data/securities.yaml: " + ", ".join(nosector))
+    if bad_refs:
+        notes.append("data/posts.yaml points to managers or companies the site doesn't have "
+                     "(check the spelling):\n" + "\n".join(f"- {b}" for b in bad_refs))
     if warnings:
         notes.append("\n".join(f"- {w}" for w in warnings))
     if notes:

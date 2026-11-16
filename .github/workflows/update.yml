@@ -11,6 +11,7 @@ on:
       - managers.yaml
       - data/securities.yaml
       - data/splits.yaml
+      - data/posts.yaml
       - templates/**
       - static/**
       - scripts/**

@@ -1,0 +1,11 @@
+{# Posts from Ezra's Notes linked to this page: posts, heading #}
+{% if posts %}
+<aside class="posts">
+  <p class="posts-kicker">{{ heading or "On Ezra's Notes" }}</p>
+  <ul>
+  {% for p in posts %}
+    <li><a href="{{ p.href }}">{{ p.title }}</a><span class="posts-meta">{{ p.date|short }}</span>{% if p.blurb %}<span class="posts-blurb">{{ p.blurb }}</span>{% endif %}</li>
+  {% endfor %}
+  </ul>
+</aside>
+{% endif %}

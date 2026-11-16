@@ -6,6 +6,8 @@
 <h1 class="page-title">{{ c.name }}</h1>
 {% if c.tickers %}<p class="best-for"><span>Ticker</span> {{ c.tickers|join(", ") }}</p>{% endif %}
 
+{% set posts = c.posts %}{% set heading = "I wrote about " ~ c.name %}{% include "_posts.html" %}
+
 <h2 class="rule-head">Who owns it now</h2>
 {% if c.now %}
 <table class="htable">

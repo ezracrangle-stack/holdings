@@ -95,3 +95,14 @@
 .sbar { display: block; height: 14px; background: var(--ink); border-radius: 0 3px 3px 0; min-width: 2px; }
 .sbars td.num { font: 14px var(--head); text-align: right; padding-left: 12px; white-space: nowrap; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* Posts from Ezra's Notes */
+.posts { margin: 26px 0 30px; padding: 14px 0 4px; border-top: 3px double var(--rule); border-bottom: 1px solid var(--rule); }
+.posts-kicker { font: 11px/1.2 var(--head); text-transform: uppercase; letter-spacing: .2em; margin: 0 0 6px; }
+.posts ul { list-style: none; margin: 0; padding: 0; }
+.posts li { padding: 8px 0 12px; }
+.posts li + li { border-top: 1px solid var(--hair); }
+.posts a { font-size: 19px; font-weight: 600; text-decoration: none; }
+.posts a:hover { text-decoration: underline; }
+.posts-meta { font: italic 14px var(--body); color: var(--mute); margin-left: 8px; }
+.posts-blurb { display: block; color: var(--mute); font-size: 15px; margin-top: 2px; }

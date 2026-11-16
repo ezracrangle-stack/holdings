@@ -1,0 +1,23 @@
+# Posts from Ezra's Notes that show up on this site.
+#
+#   title, url, date:  as on Substack.
+#   blurb:             one line under the title (the post's subtitle works).
+#   managers:          ids from managers.yaml. The post shows on those managers' pages.
+#   companies:         company slugs, the last part of the company's address on this
+#                      site (holdings.ezrasnotes.com/c/amazon.html → amazon). The post
+#                      shows on those company pages and on each manager's history of that stock.
+#
+# Newest first. The weekly check opens an issue when a new post names a manager
+# or a company on the site, so you can decide whether to add it here.
+
+- title: What Josh Tarasoff Taught Me About Owning Businesses Forever
+  url: https://www.ezrasnotes.com/p/what-josh-tarasoff-taught-me-about
+  date: 2026-11-05
+  blurb: Josh Tarasoff compounded at 17.3% a year from a bedroom desk. Here is what a long-term investor can copy from his playbook.
+  managers: [greenlea-lane]
+
+- title: Key Takeaways from Berkshire Hathaway Annual Meeting 2025
+  url: https://www.ezrasnotes.com/p/warren-buffett-berkshire-hathaway-annual-meeting-notes
+  date: 2025-05-08
+  blurb: I read the transcript of the annual meeting. Here are my notes with quotes from Buffett & Abel.
+  companies: [berkshire-hathaway]

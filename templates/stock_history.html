@@ -25,6 +25,8 @@
 </table>
 <p class="small">Price is the position's value divided by its shares, at the end of each quarter. Share counts are as filed; when a stock split happened, the change is measured on split-adjusted shares.</p>
 
+{% if companies[h.slug] is defined %}{% set posts = companies[h.slug].posts %}{% set heading = "I wrote about " ~ h.name %}{% include "_posts.html" %}{% endif %}
+
 <p class="crosslink">
   {% if not h.fund and h.slug in companies %}<a href="{{ root }}c/{{ h.slug }}.html">Who else owns {{ h.name }} &rarr;</a>{% endif %}
 </p>

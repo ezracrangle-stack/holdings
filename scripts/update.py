@@ -147,6 +147,44 @@ def refresh_letters_index():
                                        indent=1, ensure_ascii=False), encoding="utf-8")
 
 
+NEWSLETTER_FEED = "https://www.ezrasnotes.com/feed"
+SEEN_FILE = DATA / "posts_seen.json"
+
+
+def suggest_posts(config):
+    """New Ezra's Notes posts that name a manager or a company on the site.
+    Each post is suggested once; add the ones that fit to data/posts.yaml."""
+    import html
+    r = requests.get(NEWSLETTER_FEED, timeout=TIMEOUT,
+                     headers={"User-Agent": "EzrasNotesHoldingsBot/1.0 (+https://holdings.ezrasnotes.com/about.html)"})
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    listed = {p["url"].split("?")[0] for p in (yaml.safe_load((DATA / "posts.yaml").read_text(encoding="utf-8")) or [])}
+    seen = set(json.loads(SEEN_FILE.read_text(encoding="utf-8"))) if SEEN_FILE.exists() else None
+    names = {}
+    for m in config["managers"]:
+        names[m["name"]] = f"manager `{m['id']}`"
+        names[m["firm"]] = f"manager `{m['id']}`"
+    secs = yaml.safe_load((DATA / "securities.yaml").read_text(encoding="utf-8")) or {}
+    for v in secs.values():
+        if not v.get("fund"):
+            slug = re.sub(r"[^a-z0-9]+", "-", v["name"].lower()).strip("-")
+            names[v["name"]] = f"company `{slug}`"
+    out, links = [], []
+    for item in root.iter("item"):
+        link = (item.findtext("link") or "").split("?")[0]
+        links.append(link)
+        if link in listed or (seen is not None and link in seen) or seen is None:
+            continue
+        text = html.unescape((item.findtext("title") or "") + " " + (item.findtext("description") or ""))
+        hits = sorted({tag for name, tag in names.items() if re.search(r"\b" + re.escape(name) + r"\b", text)})
+        if hits:
+            out.append(f"- [{item.findtext('title')}]({link}) mentions {', '.join(hits)}. "
+                       "If it belongs on the site, add it to data/posts.yaml.")
+    SEEN_FILE.write_text(json.dumps(sorted((seen or set()) | set(links)), indent=1), encoding="utf-8")
+    return out
+
+
 def expected_period(today):
     """Latest quarter whose 13F deadline (plus slack) has passed."""
     q_ends = [dt.date(today.year - 1, 12, 31)] + [dt.date(today.year, m, d) for m, d in
@@ -199,6 +237,13 @@ def main():
     except Exception as e:
         problems.append(f"- Couldn't read letters.ezrasnotes.com to check which pages exist ({e}). "
                         "Links to the letters site use last week's list.")
+
+    try:
+        posts = suggest_posts(config)
+        if posts:
+            problems.append("New posts on Ezra's Notes that could link from this site:\n" + "\n".join(posts))
+    except Exception as e:
+        print(f"Couldn't read the Ezra's Notes feed: {e}")
 
     RUN_FILE.write_text(json.dumps({"last_run": dt.datetime.now(dt.timezone.utc)
                                     .isoformat(timespec="seconds")}), encoding="utf-8")

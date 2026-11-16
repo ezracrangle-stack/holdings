@@ -29,3 +29,18 @@ Su página deja de aparecer en el sitio. Sus 13F siguen guardados en `data/filin
 - Respeta los espacios al inicio de cada línea, igual que en los demás bloques.
 - Si el texto lleva dos puntos (:), ponlo entre comillas dobles.
 - Si algo sale mal, GitHub abre un Issue y te llega un correo. Nada de lo publicado se borra.
+
+# Cómo enlazar un post de Ezra's Notes
+
+Los posts van en `data/posts.yaml`. Cada uno aparece en las páginas que le indiques, con un enlace a Substack.
+
+1. Abre `data/posts.yaml` en GitHub y haz clic en el lápiz.
+2. Copia un bloque, desde `- title:` hasta la última línea, y pégalo **arriba**, debajo de los comentarios.
+3. Cambia `title`, `url`, `date` (año-mes-día) y `blurb` (el subtítulo del post).
+4. Indica dónde va:
+   - `managers: [greenlea-lane]` para la página de un gestor (el id está en `managers.yaml`).
+   - `companies: [amazon]` para la página de una empresa (es la última parte de su dirección en el sitio: `/c/amazon.html` → `amazon`).
+   - Puedes poner los dos, o varios separados por comas: `companies: [amazon, alphabet]`.
+5. **Commit changes**.
+
+Cada lunes, el sitio revisa tus posts nuevos. Si uno nombra a un gestor o una empresa del sitio, abre un Issue para avisarte, y tú decides si lo agregas.
