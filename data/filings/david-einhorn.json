@@ -20976,6 +20976,427 @@
    "table_total": 3908853490,
    "first_seen": "2026-11-16T13:52:28+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001172661-26-005372",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1489933,
+   "url": "https://www.sec.gov/Archives/edgar/data/1489933/000117266126005372/0001172661-26-005372-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "DME Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "392709101",
+     "put_call": null,
+     "issuer": "GREEN BRICK PARTNERS INC",
+     "class": "COM",
+     "shares": 9467383,
+     "unit": "SH",
+     "value": 625888690
+    },
+    {
+     "cusip": "343412102",
+     "put_call": null,
+     "issuer": "FLUOR CORP",
+     "class": "COM",
+     "shares": 4607666,
+     "unit": "SH",
+     "value": 220615048
+    },
+    {
+     "cusip": "218937100",
+     "put_call": null,
+     "issuer": "CORE NATURAL RESOURCES INC",
+     "class": "COM SHS",
+     "shares": 2255990,
+     "unit": "SH",
+     "value": 193654182
+    },
+    {
+     "cusip": "G9600F104",
+     "put_call": null,
+     "issuer": "VERSIGENT PLC",
+     "class": "ORDINARY SHARES",
+     "shares": 3220500,
+     "unit": "SH",
+     "value": 144729270
+    },
+    {
+     "cusip": "10922N103",
+     "put_call": null,
+     "issuer": "BRIGHTHOUSE FINL INC",
+     "class": "COM",
+     "shares": 2842100,
+     "unit": "SH",
+     "value": 141820790
+    },
+    {
+     "cusip": "69331C108",
+     "put_call": null,
+     "issuer": "PG&E CORP",
+     "class": "COM",
+     "shares": 10000000,
+     "unit": "SH",
+     "value": 122500000
+    },
+    {
+     "cusip": "00404A109",
+     "put_call": null,
+     "issuer": "ACADIA HEALTHCARE COMPANY IN",
+     "class": "COM",
+     "shares": 4400641,
+     "unit": "SH",
+     "value": 121017628
+    },
+    {
+     "cusip": "15135B101",
+     "put_call": null,
+     "issuer": "CENTENE CORP DEL",
+     "class": "COM",
+     "shares": 1651150,
+     "unit": "SH",
+     "value": 102569438
+    },
+    {
+     "cusip": "Y2065G121",
+     "put_call": null,
+     "issuer": "DHT HOLDINGS INC",
+     "class": "SHS NEW",
+     "shares": 4281242,
+     "unit": "SH",
+     "value": 96627632
+    },
+    {
+     "cusip": "024061103",
+     "put_call": null,
+     "issuer": "DAUCH CORP",
+     "class": "COM",
+     "shares": 18411629,
+     "unit": "SH",
+     "value": 96108704
+    },
+    {
+     "cusip": "388689101",
+     "put_call": null,
+     "issuer": "GRAPHIC PACKAGING HLDG CO",
+     "class": "COM",
+     "shares": 9953430,
+     "unit": "SH",
+     "value": 90078542
+    },
+    {
+     "cusip": "707569109",
+     "put_call": null,
+     "issuer": "PENN ENTERTAINMENT INC",
+     "class": "COM",
+     "shares": 5923010,
+     "unit": "SH",
+     "value": 86772097
+    },
+    {
+     "cusip": "34964C106",
+     "put_call": null,
+     "issuer": "FORTUNE BRANDS INNOVATIONS I",
+     "class": "COM",
+     "shares": 2275255,
+     "unit": "SH",
+     "value": 86573454
+    },
+    {
+     "cusip": "156431108",
+     "put_call": null,
+     "issuer": "CENTURY ALUM CO",
+     "class": "COM",
+     "shares": 2270936,
+     "unit": "SH",
+     "value": 81708278
+    },
+    {
+     "cusip": "87162W100",
+     "put_call": null,
+     "issuer": "TD SYNNEX CORPORATION",
+     "class": "COM",
+     "shares": 313856,
+     "unit": "SH",
+     "value": 80613914
+    },
+    {
+     "cusip": "227046109",
+     "put_call": null,
+     "issuer": "CROCS INC",
+     "class": "COM",
+     "shares": 653800,
+     "unit": "SH",
+     "value": 76697278
+    },
+    {
+     "cusip": "92556V106",
+     "put_call": null,
+     "issuer": "VIATRIS INC",
+     "class": "COM",
+     "shares": 4294920,
+     "unit": "SH",
+     "value": 76105982
+    },
+    {
+     "cusip": "925283103",
+     "put_call": null,
+     "issuer": "VERSANT MEDIA GROUP INC",
+     "class": "COM CL A",
+     "shares": 2275842,
+     "unit": "SH",
+     "value": 72144191
+    },
+    {
+     "cusip": "M8769Q102",
+     "put_call": null,
+     "issuer": "TEVA PHARMACEUTICAL INDS LTD",
+     "class": "SHS",
+     "shares": 1817146,
+     "unit": "SH",
+     "value": 71958981
+    },
+    {
+     "cusip": "05603J108",
+     "put_call": null,
+     "issuer": "BKV CORP",
+     "class": "COM",
+     "shares": 3322043,
+     "unit": "SH",
+     "value": 70892398
+    },
+    {
+     "cusip": "G1890L107",
+     "put_call": null,
+     "issuer": "CAPRI HOLDINGS LIMITED",
+     "class": "SHS",
+     "shares": 4820118,
+     "unit": "SH",
+     "value": 68060066
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 2823060,
+     "unit": "SH",
+     "value": 61429786
+    },
+    {
+     "cusip": "806407102",
+     "put_call": null,
+     "issuer": "SCHEIN HENRY INC",
+     "class": "COM",
+     "shares": 718550,
+     "unit": "SH",
+     "value": 60336644
+    },
+    {
+     "cusip": "83601L102",
+     "put_call": null,
+     "issuer": "SOTERA HEALTH CO",
+     "class": "COM",
+     "shares": 3241725,
+     "unit": "SH",
+     "value": 59939496
+    },
+    {
+     "cusip": "N20944109",
+     "put_call": null,
+     "issuer": "CNH INDL N V",
+     "class": "SHS",
+     "shares": 4188940,
+     "unit": "SH",
+     "value": 53827880
+    },
+    {
+     "cusip": "741623102",
+     "put_call": null,
+     "issuer": "PRIMO BRANDS CORPORATION",
+     "class": "CLASS A COM SHS",
+     "shares": 2823660,
+     "unit": "SH",
+     "value": 53790723
+    },
+    {
+     "cusip": "78440X887",
+     "put_call": null,
+     "issuer": "SL GREEN RLTY CORP",
+     "class": "COM",
+     "shares": 1063220,
+     "unit": "SH",
+     "value": 52012722
+    },
+    {
+     "cusip": "03674X106",
+     "put_call": null,
+     "issuer": "ANTERO RESOURCES CORP",
+     "class": "COM",
+     "shares": 1550800,
+     "unit": "SH",
+     "value": 51781212
+    },
+    {
+     "cusip": "001026103",
+     "put_call": null,
+     "issuer": "ADI GLOBAL DISTR INC",
+     "class": "COM SHS",
+     "shares": 2599954,
+     "unit": "SH",
+     "value": 46591176
+    },
+    {
+     "cusip": "G61188101",
+     "put_call": null,
+     "issuer": "LIBERTY GLOBAL LTD",
+     "class": "COM CL A",
+     "shares": 4963322,
+     "unit": "SH",
+     "value": 45315130
+    },
+    {
+     "cusip": "G76279101",
+     "put_call": null,
+     "issuer": "ROIVANT SCIENCES LTD",
+     "class": "SHS",
+     "shares": 1131747,
+     "unit": "SH",
+     "value": 41387988
+    },
+    {
+     "cusip": "243537107",
+     "put_call": null,
+     "issuer": "DECKERS OUTDOOR CORP",
+     "class": "COM",
+     "shares": 506398,
+     "unit": "SH",
+     "value": 39569940
+    },
+    {
+     "cusip": "090572207",
+     "put_call": null,
+     "issuer": "BIO RAD LABS INC",
+     "class": "CL A",
+     "shares": 103990,
+     "unit": "SH",
+     "value": 39278063
+    },
+    {
+     "cusip": "693656100",
+     "put_call": null,
+     "issuer": "PVH CORPORATION",
+     "class": "COM",
+     "shares": 520800,
+     "unit": "SH",
+     "value": 38565240
+    },
+    {
+     "cusip": "78463V107",
+     "put_call": null,
+     "issuer": "SPDR GOLD TR",
+     "class": "GOLD SHS",
+     "shares": 92281,
+     "unit": "SH",
+     "value": 35144296
+    },
+    {
+     "cusip": "552953101",
+     "put_call": null,
+     "issuer": "MGM RESORTS INTERNATIONAL",
+     "class": "COM",
+     "shares": 1098270,
+     "unit": "SH",
+     "value": 34101284
+    },
+    {
+     "cusip": "831349105",
+     "put_call": null,
+     "issuer": "SLIDE INS HLDGS INC",
+     "class": "COM",
+     "shares": 1349304,
+     "unit": "SH",
+     "value": 30102972
+    },
+    {
+     "cusip": "501889208",
+     "put_call": null,
+     "issuer": "LKQ CORP",
+     "class": "COM",
+     "shares": 1204170,
+     "unit": "SH",
+     "value": 27491201
+    },
+    {
+     "cusip": "125523100",
+     "put_call": null,
+     "issuer": "THE CIGNA GROUP",
+     "class": "COM",
+     "shares": 88400,
+     "unit": "SH",
+     "value": 24029772
+    },
+    {
+     "cusip": "36315X101",
+     "put_call": null,
+     "issuer": "LAKEFRONT BIOTHERAPEUTICS NV",
+     "class": "SPON ADR",
+     "shares": 482746,
+     "unit": "SH",
+     "value": 14313419
+    },
+    {
+     "cusip": "22407B108",
+     "put_call": null,
+     "issuer": "COYA THERAPEUTICS INC",
+     "class": "COMMON STOCK",
+     "shares": 2335540,
+     "unit": "SH",
+     "value": 11701056
+    },
+    {
+     "cusip": "45258J102",
+     "put_call": null,
+     "issuer": "IMMUNOVANT INC",
+     "class": "COM",
+     "shares": 70140,
+     "unit": "SH",
+     "value": 2369329
+    },
+    {
+     "cusip": "76118Y104",
+     "put_call": null,
+     "issuer": "RESIDEO TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 103277,
+     "unit": "SH",
+     "value": 1874477
+    },
+    {
+     "cusip": "36269B105",
+     "put_call": null,
+     "issuer": "GAIN THERAPEUTICS INC",
+     "class": "COM",
+     "shares": 566130,
+     "unit": "SH",
+     "value": 979405
+    },
+    {
+     "cusip": "67080N101",
+     "put_call": null,
+     "issuer": "NUVATION BIO INC",
+     "class": "COM CL A",
+     "shares": 34995,
+     "unit": "SH",
+     "value": 195972
+    }
+   ],
+   "table_total": 3553265746,
+   "first_seen": "2026-11-16T22:10:21+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "GREENLIGHT CAPITAL INC"
