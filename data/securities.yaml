@@ -2503,3 +2503,116 @@
 "98462Y100": {name: "Yamana Gold", ticker: "AUY", sector: "Materials", note: "Split between Agnico Eagle and Pan American in 2023."}
 "464286871": {name: "iShares MSCI Hong Kong ETF", ticker: "EWH", fund: yes}
 "464287630": {name: "iShares Russell 2000 Value ETF", ticker: "IWN", fund: yes}
+
+# Chris Davis, Guy Spier and Kahn Brothers
+"31680Q104": {name: "58.com", ticker: "WUBA", sector: "Media & telecom", note: "Taken private in 2020."}
+"001084102": {name: "AGCO", ticker: "AGCO", sector: "Industrials"}
+"023139108": {name: "AMBAC Financial", ticker: "AMBC", sector: "Financials & real estate", note: "Renamed Octave Specialty Group in 2025."}
+"030177109": {name: "AT&T", ticker: "T", sector: "Media & telecom"}
+"00183L102": {name: "Angi", ticker: "ANGI", sector: "Media & telecom"}
+"034754101": {name: "Angie's List", ticker: "ANGI", sector: "Media & telecom", note: "Merged with HomeAdvisor into ANGI Homeservices in 2017."}
+"046265104": {name: "Astoria Financial", ticker: "AF", sector: "Financials & real estate", note: "Bought by Sterling Bancorp in 2017."}
+"053484101": {name: "AvalonBay", ticker: "AVB", sector: "Financials & real estate"}
+"072730302": {name: "Bayer", ticker: "BAYRY", sector: "Health care"}
+"G0772R208": {name: "Butterfield", ticker: "NTB", sic: 6029}
+"12525D102": {name: "CFS Bancorp", ticker: "CITZ", sector: "Financials & real estate", note: "Bought by First Midwest in 2013."}
+"16935C109": {name: "Chime Financial", ticker: "CHYM", sector: "Financials & real estate"}
+"H0023R105": {name: "Chubb", ticker: "ACE", sector: "Financials & real estate", note: "Called ACE until the 2016 Chubb deal."}
+"172967101": {name: "Citigroup", ticker: "C", sic: 6021}
+"190072108": {name: "Coal Creek Mining", ticker: null, sector: "Materials"}
+"P3311R192": {name: "Cresud", ticker: "CRESY", sector: "Financials & real estate"}
+"226533107": {name: "Crew Energy", ticker: "CWEGF", sector: "Energy", note: "Bought by Tourmaline Oil in 2024."}
+"237266101": {name: "Darling Ingredients", ticker: "DAR", sic: 2070}
+"23908L108": {name: "Davis Select Financial ETF", ticker: "DFNL", fund: yes}
+"23908L405": {name: "Davis Select International ETF", ticker: "DINT", fund: yes}
+"23908L207": {name: "Davis Select U.S. Equity ETF", ticker: "DUSA", fund: yes}
+"23908L306": {name: "Davis Select Worldwide ETF", ticker: "DWLD", fund: yes}
+"23292E108": {name: "DiDi Global", ticker: "DIDIY", sector: "Industrials"}
+"253922108": {name: "Dime Community Bancshares", ticker: "DCOM", sector: "Financials & real estate"}
+"Y2187A150": {name: "Eagle Bulk Shipping", ticker: "EGLE", sector: "Industrials", note: "Merged with Star Bulk in 2024."}
+"29336T100": {name: "EnLink Midstream", ticker: "ENLC", sector: "Energy", note: "Bought by ONEOK in 2025."}
+"30711Y102": {name: "Fang Holdings", ticker: "SFUN", sector: "Financials & real estate"}
+"836034108": {name: "Fang Holdings", ticker: "SFUN", sector: "Financials & real estate", note: "Called SouFun until 2016."}
+"32112J106": {name: "First National Bank Alaska", ticker: "FBAK", sector: "Financials & real estate"}
+"33582V108": {name: "First Niagara Financial", ticker: "FNFG", sector: "Financials & real estate", note: "Bought by KeyCorp in 2016."}
+"33610T109": {name: "First Place Financial", ticker: "FPFC", sector: "Financials & real estate", note: "Bankrupt in 2012."}
+"649445400": {name: "Flagstar Financial", ticker: "FLG", sector: "Financials & real estate", note: "Called New York Community Bancorp until 2024."}
+"343873105": {name: "Flushing Financial", ticker: "FFIC", sector: "Financials & real estate"}
+"531229771": {name: "Formula One Group", ticker: "FWONA", sector: "Media & telecom", note: "Tracked as Liberty Formula One; Liberty Media's Formula One stock."}
+"35969L108": {name: "Full Truck Alliance", ticker: "YMM", sector: "Industrials"}
+"03773W105": {name: "GSK", ticker: "GSK", sector: "Health care", note: "Called GlaxoSmithKline until 2022."}
+"37733W204": {name: "GSK", ticker: "GSK", sic: 2834}
+"366505105": {name: "Garrett Motion", ticker: "GTX", sic: 3714}
+"372284208": {name: "Genie Energy", ticker: "GNE", sector: "Utilities"}
+"903514344": {name: "Genie Energy", ticker: "GNE", sic: 4931}
+"37637Q105": {name: "Glacier Bancorp", ticker: "GBCI", sic: 6022}
+"405552100": {name: "Haleon", ticker: "HLN", sic: 2844}
+"G45667105": {name: "Hollysys Automation Technologies", ticker: "HOLI", sector: "Technology", note: "Taken private in 2024."}
+"43940T109": {name: "Hope Bancorp", ticker: "HOPE", sic: 6021}
+"5291810NL": {name: "Hunter Douglas", ticker: "HDUGF", sector: "Consumer discretionary", note: "Taken private by 3G Capital in 2022."}
+"448847309": {name: "IDT", ticker: "IDT", sector: "Media & telecom"}
+"22944D104": {name: "IDW Media", ticker: "IDWM", sector: "Media & telecom", note: "Called CTM Media until 2015."}
+"44951N106": {name: "IDW Media", ticker: "IDWM", sector: "Media & telecom"}
+"462846106": {name: "Iron Mountain", ticker: "IRM", sic: 6798}
+"N4732M103": {name: "JBS", ticker: "JBS", sector: "Consumer staples"}
+"44625H100": {name: "JPMorgan Chase", ticker: "JPM", sector: "Financials & real estate"}
+"482497104": {name: "KE Holdings", ticker: "BEKE", sector: "Financials & real estate"}
+"514928100": {name: "Landmark Savings Bank", ticker: null, sector: "Financials & real estate"}
+"531914109": {name: "Lifeway Foods", ticker: "LWAY", sic: 2020}
+"589331107": {name: "Merck", ticker: "MRK", sector: "Health care"}
+"66166W101": {name: "Monsanto", ticker: "MON", sector: "Materials", note: "Bought by Bayer in 2018."}
+"629865205": {name: "Nam Tai Property", ticker: "NTP", sector: "Financials & real estate", note: "Called Nam Tai Electronics until 2014."}
+"64110W102": {name: "NetEase", ticker: "NTES", sic: 7372}
+"647581107": {name: "New Oriental Education", ticker: "EDU", sector: "Consumer discretionary"}
+"65487X102": {name: "Noah Holdings", ticker: "NOAH", sector: "Financials & real estate"}
+"666762109": {name: "Northrim Bancorp", ticker: "NRIM", sic: 6035}
+"68417L107": {name: "Orange County Bancorp", ticker: "OBT", sector: "Financials & real estate"}
+"292505104": {name: "Ovintiv", ticker: "OVV", sector: "Energy", note: "Called Encana until 2020."}
+"716604202": {name: "PHI", ticker: "PHII", sector: "Industrials", note: "Bankrupt in 2019."}
+"717046106": {name: "Peyto Exploration & Development", ticker: "PEYUF", sector: "Energy"}
+"722524105": {name: "Pine Cliff Energy", ticker: "PIFYF", sector: "Energy"}
+"74340W103": {name: "Prologis", ticker: "PLD", sic: 6798}
+"74383A109": {name: "Provident Bancorp", ticker: "PVBC", sector: "Financials & real estate"}
+"74386T105": {name: "Provident Financial Holdings", ticker: "PROV", sic: 6035}
+"74460D109": {name: "Public Storage", ticker: "PSA", sic: 6798}
+"74734M109": {name: "Qihoo 360", ticker: "QIHU", sector: "Technology", note: "Taken private in 2016."}
+"74736K101": {name: "Qorvo", ticker: "QRVO", sector: "Technology"}
+"748356102": {name: "Questar", ticker: "STR", sector: "Utilities", note: "Bought by Dominion in 2016."}
+"22265J102": {name: "Quotient Technology", ticker: "QUOT", sector: "Technology", note: "Called Coupons.com until 2015. Bought by Neptune Retail Solutions in 2023."}
+"749119103": {name: "Quotient Technology", ticker: "QUOT", sector: "Technology", note: "Bought by Neptune Retail Solutions in 2023."}
+"74915M100": {name: "Qurate Retail", ticker: "QRTEA", sector: "Consumer discretionary"}
+"75062E106": {name: "Rafael", ticker: "RFL", sic: 2834}
+"803054204": {name: "SAP", ticker: "SAP", sic: 7372}
+"78413T103": {name: "SB One Bancorp", ticker: "SBBX", sector: "Financials & real estate", note: "Bought by Provident Financial Services in 2020."}
+"784117103": {name: "SEI Investments", ticker: "SEIC", sector: "Financials & real estate"}
+"784118465": {name: "SEI Investments", ticker: "SEIC", sic: 6211}
+"78443P106": {name: "SLM", ticker: "SLM", sic: 6141}
+"811543107": {name: "Seaboard", ticker: "SEB", sector: "Consumer staples"}
+"83444M101": {name: "Solventum", ticker: "SOLV", sic: 3841}
+"85917A100": {name: "Sterling Bancorp", ticker: "STL", sector: "Financials & real estate", note: "Merged with Webster in 2022."}
+"862578101": {name: "Straight Path Communications", ticker: "STRP", sector: "Media & telecom", note: "Bought by Verizon in 2018."}
+"874080104": {name: "TAL Education Group", ticker: "TAL", sic: 8200}
+"872275102": {name: "TCF Financial", ticker: "TCF", sector: "Financials & real estate", note: "Merged with Huntington in 2021."}
+"008997017": {name: "TPHGreenwich Trust", ticker: null, sector: "Financials & real estate"}
+"876108101": {name: "Tarena International", ticker: "TEDU", sector: "Consumer discretionary"}
+"Y8565J101": {name: "Teekay Offshore Partners", ticker: "TOO", sector: "Energy", note: "Taken private by Brookfield in 2020."}
+"88104R209": {name: "TerraForm Power", ticker: "TERP", sector: "Utilities", note: "Bought by Brookfield Renewable in 2020."}
+"89156V106": {name: "Tourmaline Oil", ticker: "TOU"}
+"89656D101": {name: "Trinity Place", ticker: "TPHS", sic: 6512}
+"80656D911": {name: "Trinity Place Holdings", ticker: "TPHS", sector: "Financials & real estate"}
+"896CNT011": {name: "Trinity Place Holdings", ticker: "TPHS", sector: "Financials & real estate"}
+"G91442106": {name: "Tyco International", ticker: "TYC", sector: "Industrials", note: "Merged with Johnson Controls in 2016."}
+"903914109": {name: "Ultra Petroleum", ticker: "UPL", sector: "Energy", note: "Bankrupt in 2020."}
+"91829F104": {name: "VOXX International", ticker: "VOXX", sector: "Consumer discretionary", note: "Bought by Gentex in 2025."}
+"918905100": {name: "Valhi", ticker: "VHI", sector: "Materials"}
+"92672L107": {name: "ViewRay", ticker: "VRAY", sector: "Health care", note: "Bankrupt in 2023."}
+"928856400": {name: "Volvo", ticker: "VLVLY", sector: "Industrials"}
+"92918V109": {name: "Vroom", ticker: "VRM", sic: 5500}
+"947890109": {name: "Webster Financial", ticker: "WBS", sector: "Financials & real estate"}
+"950814103": {name: "Wesco Aircraft", ticker: "WAIR", sector: "Industrials", note: "Taken private in 2020."}
+"97349V107": {name: "Windrock Land Company", ticker: null, sector: "Financials & real estate"}
+"98585L100": {name: "Yiren Digital", ticker: "YRD", sector: "Financials & real estate", note: "Called Yirendai until 2019."}
+"98980A105": {name: "ZTO Express", ticker: "ZTO", sic: 4210}
+"98923T104": {name: "Zedge", ticker: "ZDGE", sic: 7372}
+"46267X108": {name: "iQIYI", ticker: "IQ", sector: "Media & telecom"}
+"464287408": {name: "iShares S&P 500 Value ETF", ticker: "IVE", fund: yes}

@@ -1,0 +1,4567 @@
+{
+ "filings": [
+  {
+   "accession": "0001404599-15-000003",
+   "form": "13F-HR",
+   "filed": "2015-02-27",
+   "period": "2014-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459915000003/0001404599-15-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 25347000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 23228000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL B",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 21111000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD  HOLDING CORP",
+     "class": "COM",
+     "shares": 1220000,
+     "unit": "SH",
+     "value": 19313000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 10555000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MOTORS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 700000,
+     "unit": "SH",
+     "value": 7650000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6780000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6304000
+    },
+    {
+     "cusip": "38141G104",
+     "put_call": null,
+     "issuer": "GOLDMAN SACHS GROUP INC",
+     "class": "COM",
+     "shares": 30502,
+     "unit": "SH",
+     "value": 5912000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5736000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 5665000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored  ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 4467000
+    },
+    {
+     "cusip": "25490A309",
+     "put_call": null,
+     "issuer": "DIRECTV",
+     "class": "COM",
+     "shares": 50000,
+     "unit": "SH",
+     "value": 4335000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO &   CO",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2343000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 2240000
+    },
+    {
+     "cusip": "P3311R192",
+     "put_call": null,
+     "issuer": "CRESUD SA  COMERCIAL",
+     "class": "W Exp 05/22/15",
+     "shares": 271944,
+     "unit": "SH",
+     "value": 3000
+    }
+   ],
+   "table_total": 150989000,
+   "first_seen": "2026-11-16T19:02:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-15-000007",
+   "form": "13F-HR",
+   "filed": "2015-06-01",
+   "period": "2015-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459915000007/0001404599-15-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 32542000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 21282000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL B",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 20291000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MOTORS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 19650000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HOLDING CORP",
+     "class": "COM",
+     "shares": 1320000,
+     "unit": "SH",
+     "value": 16711000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 9060000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6525000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6256000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 5680000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5461000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3826000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2254000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1878000
+    },
+    {
+     "cusip": "P3311R192",
+     "put_call": null,
+     "issuer": "CRESUD SA COMERCIAL",
+     "class": "W Exp 05/22/15",
+     "shares": 271944,
+     "unit": "SH",
+     "value": 6000
+    }
+   ],
+   "table_total": 151422000,
+   "first_seen": "2026-11-16T19:02:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-15-000009",
+   "form": "13F-HR",
+   "filed": "2015-08-25",
+   "period": "2015-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459915000009/0001404599-15-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER AUTOMOBILES",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 29281000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 21173000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL B",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 19137000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MOTORS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 15950000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HOLDING CORP",
+     "class": "COM",
+     "shares": 1320000,
+     "unit": "SH",
+     "value": 15470000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 10042000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6468000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6146000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6146000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5855000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3426000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2474000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1974000
+    }
+   ],
+   "table_total": 143542000,
+   "first_seen": "2026-11-16T19:02:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-15-000017",
+   "form": "13F-HR",
+   "filed": "2015-10-15",
+   "period": "2015-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459915000017/0001404599-15-000017-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 25953000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 20195000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL B",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 18334000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MOTORS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 13110000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 9192000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 5925000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 5905000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 5857000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5259000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HOLDING CORP",
+     "class": "COM",
+     "shares": 1320000,
+     "unit": "SH",
+     "value": 4013000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 2451000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 1990000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1834000
+    }
+   ],
+   "table_total": 120018000,
+   "first_seen": "2026-11-16T19:02:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-16-000019",
+   "form": "13F-HR",
+   "filed": "2016-02-02",
+   "period": "2015-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459916000019/0001404599-16-000019-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 28052000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 18948000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL B",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 18565000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MOTORS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 16294000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 9930000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6401000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6251000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC. DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 5934000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5486000
+    },
+    {
+     "cusip": "440694305",
+     "put_call": null,
+     "issuer": "HORSEHEAD HOLDING CORP",
+     "class": "COM",
+     "shares": 1320000,
+     "unit": "SH",
+     "value": 2706000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 2475000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2250000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK OF AMERICA CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1862000
+    }
+   ],
+   "table_total": 125154000,
+   "first_seen": "2026-11-16T19:02:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-16-000021",
+   "form": "13F-HR",
+   "filed": "2016-05-06",
+   "period": "2016-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459916000021/0001404599-16-000021-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 33131000
+    },
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 19948000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 16727000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 16160000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 13660000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 8307000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 7977000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6404000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6213000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 5561000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 4426000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 75000,
+     "unit": "SH",
+     "value": 3748000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2414000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 1722000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1219000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 8000
+    }
+   ],
+   "table_total": 147625000,
+   "first_seen": "2026-11-16T19:02:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-16-000024",
+   "form": "13F-HR/A",
+   "filed": "2016-05-10",
+   "period": "2016-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459916000024/0001404599-16-000024-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 19948000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 16727000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 16160000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 13660000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 8307000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 7977000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6404000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6213000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 5561000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 4426000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 75000,
+     "unit": "SH",
+     "value": 3748000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3313000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2414000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 1722000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1219000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 8000
+    }
+   ],
+   "table_total": 117807000,
+   "first_seen": "2026-11-16T19:02:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-16-000027",
+   "form": "13F-HR",
+   "filed": "2016-08-08",
+   "period": "2016-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459916000027/0001404599-16-000027-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 20357000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 16553000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 12202000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 10470000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 8139000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 7829000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6509000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 5790000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 5443000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 100000,
+     "unit": "SH",
+     "value": 4984000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 4493000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "Sponsored ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3115000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2343000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 1494000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1114000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 11000
+    }
+   ],
+   "table_total": 110846000,
+   "first_seen": "2026-11-16T19:02:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-16-000029",
+   "form": "13F-HR",
+   "filed": "2016-11-03",
+   "period": "2016-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459916000029/0001404599-16-000029-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "84670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 20312000
+    },
+    {
+     "cusip": "25816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 17446000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 13855000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 12701000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 10393000
+    },
+    {
+     "cusip": "60505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 9234000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 180000,
+     "unit": "SH",
+     "value": 9122000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6691000
+    },
+    {
+     "cusip": "84670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 6487000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 5092000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 5006000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3576000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2707000
+    },
+    {
+     "cusip": "60505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 1464000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 1380000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 12000
+    }
+   ],
+   "table_total": 125478000,
+   "first_seen": "2026-11-16T19:02:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-17-000002",
+   "form": "13F-HR",
+   "filed": "2017-02-08",
+   "period": "2016-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459917000002/0001404599-17-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 22915000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 20182000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 18231000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 17160000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 13039000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 11635000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 180000,
+     "unit": "SH",
+     "value": 7688000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 7324000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 6789000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6338000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 6300000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 3679000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 3184000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2357000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2346000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 14000
+    }
+   ],
+   "table_total": 149181000,
+   "first_seen": "2026-11-16T19:02:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-17-000004",
+   "form": "13F-HR",
+   "filed": "2017-05-01",
+   "period": "2017-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459917000004/0001404599-17-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 23435000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 21839000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 21552000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 17852000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 14861000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 13918000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 180000,
+     "unit": "SH",
+     "value": 7767000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 7496000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 7395000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6401000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 6341000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 4515000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 3616000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2801000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2441000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 14000
+    }
+   ],
+   "table_total": 162244000,
+   "first_seen": "2026-11-16T19:02:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-17-000006",
+   "form": "13F-HR",
+   "filed": "2017-08-15",
+   "period": "2017-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459917000006/0001404599-17-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 23813000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 22950000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 21092000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 17310000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 17173000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 14313000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 7985000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 7641000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 7089000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6372000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 4381000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 3853000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 3042000
+    },
+    {
+     "cusip": "88104R100",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "CL A COM",
+     "shares": 209435,
+     "unit": "SH",
+     "value": 2513000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2442000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 43869,
+     "unit": "SH",
+     "value": 1840000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 13000
+    }
+   ],
+   "table_total": 163822000,
+   "first_seen": "2026-11-16T19:02:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-17-000008",
+   "form": "13F-HR",
+   "filed": "2017-11-08",
+   "period": "2017-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459917000008/0001404599-17-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 35820000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 25775000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 24644000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 22450000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 22092000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 14951000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 9284000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8242000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 7710000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6342000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 70000,
+     "unit": "SH",
+     "value": 4858000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 4237000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 3480000
+    },
+    {
+     "cusip": "88104R100",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "CL A COM",
+     "shares": 209435,
+     "unit": "SH",
+     "value": 2769000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2372000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 43869,
+     "unit": "SH",
+     "value": 2021000
+    },
+    {
+     "cusip": "29336T100",
+     "put_call": null,
+     "issuer": "ENLINK MIDSTREAM LLC",
+     "class": "COM UNIT REP LTD",
+     "shares": 719,
+     "unit": "SH",
+     "value": 12000
+    }
+   ],
+   "table_total": 197059000,
+   "first_seen": "2026-11-16T19:02:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-18-000002",
+   "form": "13F-HR",
+   "filed": "2018-02-02",
+   "period": "2017-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459918000002/0001404599-18-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 35799000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 27870000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 27055000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 23190000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 20997000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 17417000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 9951000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8928000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 7887000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6977000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 5619000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 3690000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 45000,
+     "unit": "SH",
+     "value": 3516000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO & CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 3024000
+    },
+    {
+     "cusip": "88104R209",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "COM CL A",
+     "shares": 231183,
+     "unit": "SH",
+     "value": 2765000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 2360000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 43869,
+     "unit": "SH",
+     "value": 1775000
+    }
+   ],
+   "table_total": 208820000,
+   "first_seen": "2026-11-16T19:02:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-18-000004",
+   "form": "13F-HR",
+   "filed": "2018-05-03",
+   "period": "2018-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459918000004/0001404599-18-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 40674000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 28047000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 25412000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 24042000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 18700000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 17694000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 11517000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8973000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 7155000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6027000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 5814000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4033000
+    },
+    {
+     "cusip": "88104R209",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "COM CL A",
+     "shares": 231183,
+     "unit": "SH",
+     "value": 2481000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 2270000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2112000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 20000,
+     "unit": "SH",
+     "value": 1577000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 43869,
+     "unit": "SH",
+     "value": 1560000
+    }
+   ],
+   "table_total": 208088000,
+   "first_seen": "2026-11-16T19:02:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-18-000007",
+   "form": "13F-HR",
+   "filed": "2018-08-13",
+   "period": "2018-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459918000007/0001404599-18-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 38166000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 27221000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 272430,
+     "unit": "SH",
+     "value": 26698000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 26243000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 22550000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 16632000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 12921000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8461000
+    },
+    {
+     "cusip": "172967424",
+     "put_call": null,
+     "issuer": "CITIGROUP INC",
+     "class": "COM NEW",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 7094000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6376000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 5222000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4264000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 66607,
+     "unit": "SH",
+     "value": 2826000
+    },
+    {
+     "cusip": "88104R209",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "COM CL A",
+     "shares": 231183,
+     "unit": "SH",
+     "value": 2705000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 2640000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2422000
+    },
+    {
+     "cusip": "693483109",
+     "put_call": null,
+     "issuer": "POSCO",
+     "class": "SPONSORED ADR",
+     "shares": 1281,
+     "unit": "SH",
+     "value": 95000
+    }
+   ],
+   "table_total": 212536000,
+   "first_seen": "2026-11-16T19:02:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-18-000009",
+   "form": "13F-HR",
+   "filed": "2018-11-13",
+   "period": "2018-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459918000009/0001404599-18-000009-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 35147000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 30104000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 27525000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 23687000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 17381000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 16500000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 14637000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 213869,
+     "unit": "SH",
+     "value": 10157000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9600000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 6044000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 5699000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4180000
+    },
+    {
+     "cusip": "88104R209",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "COM CL A",
+     "shares": 231183,
+     "unit": "SH",
+     "value": 2670000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 2340000
+    },
+    {
+     "cusip": "949746119",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "W Exp 10/28/18",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 2120000
+    }
+   ],
+   "table_total": 207791000,
+   "first_seen": "2026-11-16T19:02:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-19-000002",
+   "form": "13F-HR",
+   "filed": "2019-02-12",
+   "period": "2018-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459919000002/0001404599-19-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 29090000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 28708000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 21202000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 19906000
+    },
+    {
+     "cusip": "37045V126",
+     "put_call": null,
+     "issuer": "GENERAL MTRS CO",
+     "class": "W Exp 07/10/19",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 15690000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 590000,
+     "unit": "SH",
+     "value": 14538000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 12404000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9180000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 263869,
+     "unit": "SH",
+     "value": 8531000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 6992000
+    },
+    {
+     "cusip": "060505146",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "W Exp 1/16/19",
+     "shares": 320000,
+     "unit": "SH",
+     "value": 4110000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 3501000
+    },
+    {
+     "cusip": "88104R209",
+     "put_call": null,
+     "issuer": "TERRAFORM PWR INC",
+     "class": "COM CL A",
+     "shares": 231183,
+     "unit": "SH",
+     "value": 2594000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 1210000
+    }
+   ],
+   "table_total": 177656000,
+   "first_seen": "2026-11-16T19:02:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-19-000004",
+   "form": "13F-HR",
+   "filed": "2019-05-16",
+   "period": "2019-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459919000004/0001404599-19-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 29774000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 28245000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 26809000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 24312000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 21185000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 15481000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 300000,
+     "unit": "SH",
+     "value": 13332000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9036000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 7332000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4527000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 1200000
+    }
+   ],
+   "table_total": 181233000,
+   "first_seen": "2026-11-16T19:02:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-19-000006",
+   "form": "13F-HR",
+   "filed": "2019-08-15",
+   "period": "2019-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459919000006/0001404599-19-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 32467000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 29972000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 27888000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 27457000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 22268000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 17393000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 300000,
+     "unit": "SH",
+     "value": 12888000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9551000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 7180000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4883000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 1260000
+    }
+   ],
+   "table_total": 193207000,
+   "first_seen": "2026-11-16T19:02:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-19-000008",
+   "form": "13F-HR",
+   "filed": "2019-11-13",
+   "period": "2019-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459919000008/0001404599-19-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 30855000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 29248000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 26309000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 25879000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 22398000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 17856000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 400000,
+     "unit": "SH",
+     "value": 16996000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9355000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 7654000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 120000,
+     "unit": "SH",
+     "value": 5142000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 5121000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 1160000
+    }
+   ],
+   "table_total": 197973000,
+   "first_seen": "2026-11-16T19:03:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-20-000001",
+   "form": "13F-HR",
+   "filed": "2020-01-17",
+   "period": "2019-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459920000001/0001404599-20-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 33171000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 31846000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 2000000,
+     "unit": "SH",
+     "value": 29591000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 222430,
+     "unit": "SH",
+     "value": 27690000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK AMER CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 27043000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 19632000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 400000,
+     "unit": "SH",
+     "value": 16032000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 10188000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 8164000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 120000,
+     "unit": "SH",
+     "value": 6454000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 5935000
+    },
+    {
+     "cusip": "Y8565J101",
+     "put_call": null,
+     "issuer": "TEEKAY OFFSHORE PARTNERS L P",
+     "class": "PARTNERSHIP UN",
+     "shares": 1000000,
+     "unit": "SH",
+     "value": 1540000
+    }
+   ],
+   "table_total": 217286000,
+   "first_seen": "2026-11-16T19:03:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-20-000003",
+   "form": "13F-HR",
+   "filed": "2020-05-06",
+   "period": "2020-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459920000003/0001404599-20-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 31229000
+    },
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 25706000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 17978000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 16301000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 15883000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 1800000,
+     "unit": "SH",
+     "value": 13049000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8160000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 5288000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 120000,
+     "unit": "SH",
+     "value": 5047000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 4355000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 400000,
+     "unit": "SH",
+     "value": 3644000
+    }
+   ],
+   "table_total": 146640000,
+   "first_seen": "2026-11-16T19:03:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-20-000005",
+   "form": "13F-HR",
+   "filed": "2020-08-13",
+   "period": "2020-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459920000005/0001404599-20-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 25099000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 19992000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 19442000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 18236000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 13647000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 8019000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 760000,
+     "unit": "SH",
+     "value": 7636000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 7418000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 120000,
+     "unit": "SH",
+     "value": 6182000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 5700000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 3885000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1134000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 894000
+    }
+   ],
+   "table_total": 137284000,
+   "first_seen": "2026-11-16T19:03:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-20-000007",
+   "form": "13F-HR",
+   "filed": "2020-11-13",
+   "period": "2020-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459920000007/0001404599-20-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 29939000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 22235000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 21053000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 18497000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 14689000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 9600000
+    },
+    {
+     "cusip": "N31738102",
+     "put_call": null,
+     "issuer": "FIAT CHRYSLER  AUTOMOBILES N",
+     "class": "SHS",
+     "shares": 760000,
+     "unit": "SH",
+     "value": 9325000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 7826000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 6725000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 120000,
+     "unit": "SH",
+     "value": 5635000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 3567000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1335000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1172000
+    }
+   ],
+   "table_total": 151598000,
+   "first_seen": "2026-11-16T19:03:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-21-000002",
+   "form": "13F-HR",
+   "filed": "2021-02-12",
+   "period": "2020-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459921000002/0001404599-21-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 32601000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 25391000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 23469000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 23273000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 18438000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 15036000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 10434000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 7836000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 7340000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 4580000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1625000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1402000
+    }
+   ],
+   "table_total": 171425000,
+   "first_seen": "2026-11-16T19:03:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-21-000004",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459921000004/0001404599-21-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 35919000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 29708000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 29702000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 23410000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 17642000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 16736000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 11571000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 9175000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 8063000
+    },
+    {
+     "cusip": "949746101",
+     "put_call": null,
+     "issuer": "WELLS FARGO CO NEW",
+     "class": "COM",
+     "shares": 151741,
+     "unit": "SH",
+     "value": 5929000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1909000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1650000
+    }
+   ],
+   "table_total": 191414000,
+   "first_seen": "2026-11-16T19:03:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-21-000005",
+   "form": "13F-HR",
+   "filed": "2021-08-04",
+   "period": "2021-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459921000005/0001404599-21-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 39076000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 34698000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 31658000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 24005000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 16996000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 16506000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 12558000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 47500,
+     "unit": "SH",
+     "value": 10772000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 9784000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 9200000
+    },
+    {
+     "cusip": "233912104",
+     "put_call": null,
+     "issuer": "DAILY JOURNAL CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 3893000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 2064000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1953000
+    }
+   ],
+   "table_total": 213163000,
+   "first_seen": "2026-11-16T19:03:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-21-000006",
+   "form": "13F-HR",
+   "filed": "2021-10-28",
+   "period": "2021-09-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459921000006/0001404599-21-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 38375000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 35181000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 32595000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 22860000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 16763000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 14196000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 12341000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 9588000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 7415000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 47500,
+     "unit": "SH",
+     "value": 7032000
+    },
+    {
+     "cusip": "233912104",
+     "put_call": null,
+     "issuer": "DAILY JOURNAL CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 3684000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 2139000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1812000
+    }
+   ],
+   "table_total": 203981000,
+   "first_seen": "2026-11-16T19:03:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-22-000001",
+   "form": "13F-HR",
+   "filed": "2022-02-07",
+   "period": "2021-12-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459922000001/0001404599-22-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 42039000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 34356000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 34161000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 23625000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 20693000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 18630000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 13520000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 10546000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 6635000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 47500,
+     "unit": "SH",
+     "value": 5643000
+    },
+    {
+     "cusip": "233912104",
+     "put_call": null,
+     "issuer": "DAILY JOURNAL CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 4102000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 2318000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1297000
+    }
+   ],
+   "table_total": 217565000,
+   "first_seen": "2026-11-16T19:03:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-22-000002",
+   "form": "13F-HR",
+   "filed": "2022-05-12",
+   "period": "2022-03-31",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459922000002/0001404599-22-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 49619000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 39270000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 31651000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 23498000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 17592000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 15868000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 15578000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 9110000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 6330000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 47500,
+     "unit": "SH",
+     "value": 5168000
+    },
+    {
+     "cusip": "233912104",
+     "put_call": null,
+     "issuer": "DAILY JOURNAL CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 3588000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 2225000
+    },
+    {
+     "cusip": "90184L102",
+     "put_call": null,
+     "issuer": "TWITTER INC",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 1161000
+    }
+   ],
+   "table_total": 220658000,
+   "first_seen": "2026-11-16T19:03:08+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001404599-22-000005",
+   "form": "13F-HR",
+   "filed": "2022-08-02",
+   "period": "2022-06-30",
+   "cik": 1404599,
+   "url": "https://www.sec.gov/Archives/edgar/data/1404599/000140459922000005/0001404599-22-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Aquamarine Capital Management, LLC",
+   "holdings": [
+    {
+     "cusip": "084670702",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL B NEW",
+     "shares": 140600,
+     "unit": "SH",
+     "value": 38387000
+    },
+    {
+     "cusip": "025816109",
+     "put_call": null,
+     "issuer": "AMERICAN EXPRESS CO",
+     "class": "COM",
+     "shares": 210000,
+     "unit": "SH",
+     "value": 29110000
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BK OF AMERICA CORP",
+     "class": "COM",
+     "shares": 767845,
+     "unit": "SH",
+     "value": 23903000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 65750,
+     "unit": "SH",
+     "value": 20743000
+    },
+    {
+     "cusip": "N3167Y103",
+     "put_call": null,
+     "issuer": "FERRARI N V",
+     "class": "COM",
+     "shares": 80000,
+     "unit": "SH",
+     "value": 14694000
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 30,
+     "unit": "SH",
+     "value": 12269000
+    },
+    {
+     "cusip": "595112103",
+     "put_call": null,
+     "issuer": "MICRON TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 200000,
+     "unit": "SH",
+     "value": 11056000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 27000,
+     "unit": "SH",
+     "value": 7343000
+    },
+    {
+     "cusip": "01609W102",
+     "put_call": null,
+     "issuer": "ALIBABA GROUP HLDG LTD",
+     "class": "SPONSORED ADS",
+     "shares": 47500,
+     "unit": "SH",
+     "value": 5400000
+    },
+    {
+     "cusip": "233912104",
+     "put_call": null,
+     "issuer": "DAILY JOURNAL CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 2976000
+    },
+    {
+     "cusip": "81752R100",
+     "put_call": null,
+     "issuer": "SERITAGE GROWTH PPTYS",
+     "class": "CL A",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 2605000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 800,
+     "unit": "SH",
+     "value": 1743000
+    }
+   ],
+   "table_total": 170229000,
+   "first_seen": "2026-11-16T19:03:09+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Aquamarine Capital Management, LLC"
+}

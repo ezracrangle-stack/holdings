@@ -237,7 +237,7 @@ def main():
         hr = [f for f in saved["filings"] if f["form"].startswith("13F-HR")]
         last = max((f["period"] for f in hr), default=None)
         exp = expected_period(today)
-        if last and last < exp:
+        if last and last < exp and not m.get("stopped_filing"):
             problems.append(f"- **{m['name']}** ({m['firm']}): no 13F for the quarter ending {exp} yet "
                             f"(latest is {last}). The firm may be late, below the $100M threshold, "
                             "or no longer filing. Nothing was deleted.")

@@ -16,6 +16,8 @@
 #              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
 #              Then "why" is taken from that site and you can leave it out. Otherwise: no.
 #  old_ids:    earlier addresses of the page, so old links still land here.
+#  stopped_filing: yes   when the firm no longer files 13Fs. The page says so
+#              and the weekly check stops asking about it.
 #  top:        optional. The site never shows more than the 50 biggest positions;
 #              set a lower number here to show fewer.
 #
@@ -258,3 +260,25 @@ managers:
     cik: 921669
     letters: no
     why: "Most of Carl's 13F is his own companies: Icahn Enterprises and CVR Energy are 86% of it and in every filing since 2013. The rest is his activist stakes."
+
+  - id: chris-davis
+    name: Chris Davis
+    firm: Davis Advisors
+    cik: 1036325
+    letters: no
+    why: "Chris is the third generation of Davises to run the firm, and he says all real investing is value investing; the rest is speculation. Berkshire, American Express, Wells Fargo, Markel and Alphabet are in every 13F since 2013."
+
+  - id: guy-spier
+    name: Guy Spier
+    firm: Aquamarine Capital
+    cik: 1404599
+    letters: no
+    stopped_filing: yes
+    why: "Guy and Mohnish Pabrai bought a lunch with Buffett in 2008, and Guy's portfolio still shows it. Berkshire, American Express, Bank of America and Mastercard are in every 13F from his first, in 2014, to mid-2022, when Aquamarine stopped filing."
+
+  - id: kahn-brothers
+    name: Kahn Brothers Group
+    firm: Kahn Brothers Group
+    cik: 1039565
+    letters: no
+    why: "Irving Kahn was Ben Graham's teaching assistant at Columbia and started the firm with his sons in 1978; he died in 2015, at 109. The firm still looks for the obscure and the out of favor, and Citigroup, Merck, Pfizer, BP and Exxon Mobil are in every 13F since 2013."
