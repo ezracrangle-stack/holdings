@@ -1237,3 +1237,38 @@
 "G0450A105": {name: "Arch Capital", ticker: "ACGL", sic: 6331}
 "84615Q103": {name: "SpaceX", ticker: "SPCX", sic: 3760, sector: "Industrials"}
 "464288679": {name: "iShares 0-1 Year Treasury Bond ETF", ticker: "SHV", fund: yes}
+
+# Chris Begg (top 50 of each quarter)
+"921937827": {name: "Vanguard Short-Term Bond ETF", ticker: "BSV", fund: yes}
+"921908844": {name: "Vanguard Dividend Appreciation ETF", ticker: "VIG", fund: yes}
+"464285105": {name: "iShares Gold Trust", ticker: "IAU", fund: yes}
+"922908512": {name: "Vanguard Mid-Cap Value ETF", ticker: "VOE", fund: yes}
+"73935X716": {name: "Invesco ETF", ticker: null, fund: yes}
+"268461779": {name: "EGA Emerging Global Shares ETF", ticker: null, fund: yes}
+"78464A425": {name: "SPDR ETF", ticker: null, fund: yes}
+"464286749": {name: "iShares ETF", ticker: null, fund: yes}
+"92204A702": {name: "Vanguard Information Technology ETF", ticker: "VGT", fund: yes}
+"922042858": {name: "Vanguard FTSE Emerging Markets ETF", ticker: "VWO", fund: yes}
+"464288711": {name: "iShares ETF", ticker: null, fund: yes}
+"464287457": {name: "iShares 1-3 Year Treasury Bond ETF", ticker: "SHY", fund: yes}
+"303901102": {name: "Fairfax Financial", ticker: "FRFHF", sic: 6331}
+"464288737": {name: "iShares ETF", ticker: null, fund: yes}
+"464287804": {name: "iShares Core S&P Small-Cap ETF", ticker: "IJR", fund: yes}
+"92206C409": {name: "Vanguard Short-Term Corporate Bond ETF", ticker: "VCSH", fund: yes}
+"464286509": {name: "iShares MSCI Canada ETF", ticker: "EWC", fund: yes}
+"06738C778": {name: "iPath Bloomberg Commodity ETN", ticker: "DJP", fund: yes}
+"464287655": {name: "iShares Russell 2000 ETF", ticker: "IWM", fund: yes}
+"G96666105": {name: "Willis Towers Watson", ticker: "WTW", sic: 6411}
+"464287101": {name: "iShares S&P 100 ETF", ticker: "OEF", fund: yes}
+"89400J107": {name: "TransUnion", ticker: "TRU", sic: 7320, sector: "Industrials"}
+"47215P106": {name: "JD.com", ticker: "JD", sic: 5990}
+"89531P105": {name: "Trex", ticker: "TREX", sic: 2400, sector: "Industrials"}
+"464287325": {name: "iShares Global Healthcare ETF", ticker: "IXJ", fund: yes}
+"980745103": {name: "Woodward", ticker: "WWD", sic: 3620, sector: "Industrials"}
+"46138E354": {name: "Invesco ETF", ticker: null, fund: yes}
+"N82405106": {name: "Stellantis", ticker: "STLA", sic: 3711}
+"L7579L106": {name: "Perimeter Solutions", ticker: "PRM", sic: 2800}
+"504922105": {name: "Labcorp", ticker: "LH", sic: 8071}
+"278768106": {name: "EchoStar", ticker: "SATS", sic: 4899}
+"74316P579": {name: "Professionally Managed Portfolios ETF", ticker: null, fund: yes}
+"315948109": {name: "Fidelity Wise Origin Bitcoin Fund", ticker: "FBTC", fund: yes}

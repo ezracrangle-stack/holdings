@@ -149,3 +149,11 @@ managers:
     cik: 1574850
     letters: no
     why: "Chris says the medium is the moat: the edge is the ecosystem a company builds around its product. He has known Brad Jacobs since 1997, and QXO is his second-biggest position."
+
+  - id: chris-begg
+    name: Chris Begg
+    firm: East Coast Asset Management
+    cik: 1579254
+    top: 50
+    letters: no
+    why: "Chris models 120 to 150 companies in his Grove of Titans and buys when one reaches a 15% ten-year IRR. His fund holds about eight; the 13F lists every account the firm manages, 81 positions."

@@ -315,6 +315,7 @@
   <url><loc>https://holdings.ezrasnotes.com/c/east-west-bancorp.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/eaton.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/ebay.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/echostar.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/ecolab.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/edgewell-personal-care.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/edwards-lifesciences.html</loc></url>
@@ -351,6 +352,7 @@
   <url><loc>https://holdings.ezrasnotes.com/c/factset.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/fair-isaac.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/fairchild-semiconductor.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/fairfax-financial.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/fannie-mae.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/fastenal.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/fb-bancorp.html</loc></url>
@@ -492,6 +494,7 @@
   <url><loc>https://holdings.ezrasnotes.com/c/jacobs-solutions.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/jbt-marel.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/jcdecaux.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/jd-com.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/jefferies-financial-group.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/john-wiley-sons.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/johnson-controls.html</loc></url>
@@ -894,8 +897,10 @@
   <url><loc>https://holdings.ezrasnotes.com/c/trane-technologies.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/transdigm.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/transocean.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/transunion.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/travelers.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/treehouse-foods.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/trex.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/trinity-industries.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/triumph-group.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/truist-financial.html</loc></url>
@@ -980,12 +985,14 @@
   <url><loc>https://holdings.ezrasnotes.com/c/whole-foods-market.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/williams-sonoma.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/williams.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/willis-towers-watson.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/windstream.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/wingstop.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/winnebago.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/wix-com.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/wl-ross-holding.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/wns.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/c/woodward.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/workiva.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/ww-international.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/c/wyndham.html</loc></url>
@@ -1647,6 +1654,179 @@
   <url><loc>https://holdings.ezrasnotes.com/m/bryan-lawrence/stock/star-group.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/m/bryan-lawrence/stock/transdigm.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/m/bryan-lawrence.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2012-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2013-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2013-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2013-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2013-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2014-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2014-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2014-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2014-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2015-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2015-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2015-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2015-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2016-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2016-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2016-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2016-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2017-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2017-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2017-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2017-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2018-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2018-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2018-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2018-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2019-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2019-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2019-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2019-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2020-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2020-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2020-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2020-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2021-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2021-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2021-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2021-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2022-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2022-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2022-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2022-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2023-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2023-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2023-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2023-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2024-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2024-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2024-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2024-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2025-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2025-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2025-q3.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2025-q4.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2026-q1.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/2026-q2.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/activity.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/3m.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/accenture.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/adobe.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/adp.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/alphabet.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/amazon.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/american-express.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/american-international-group.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/american-tower.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/amgen.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/anheuser-busch-inbev.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/apple.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/asml.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/becton-dickinson.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/bed-bath-beyond.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/berkshire-hathaway.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/booking-holdings.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/bristol-myers-squibb.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/broadridge.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/brookfield-corporation.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/charles-schwab.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/charter-communications.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/chicago-bridge-iron.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/clorox.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/coca-cola.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/colgate-palmolive.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/comcast.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/crane.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/danaher.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/deere.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/directv.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/disney.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/echostar.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ega-emerging-global-shares-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/enovis.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/express-scripts.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/exxon-mobil.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/fairfax-financial.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/fedex.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ferrari.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/fidelity-wise-origin-bitcoin-fund.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/fortive.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/general-motors.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/heico.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ibm.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/invesco-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ipath-bloomberg-commodity-etn.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-1-3-year-treasury-bond-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-core-s-p-small-cap-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-global-healthcare-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-gold-trust.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-msci-canada-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-russell-2000-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ishares-s-p-100-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/jd-com.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/johnson-johnson.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/jpmorgan-chase.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/labcorp.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/liberty-broadband.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/liberty-global.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/lockheed-martin.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/louisiana-pacific.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/markel.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/mastercard.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/mcdonald-s.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/meta-platforms.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/microsoft.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/moody-s.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/nestle.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/nov.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/now-inc.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/omnicom-group.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/oracle.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/paychex.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/pepsico.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/perimeter-solutions.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/pfizer.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/phillips-66.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/procter-gamble.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/professionally-managed-portfolios-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/regeneron-pharmaceuticals.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/rtx.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/sherwin-williams.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/slb.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/snowflake.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/spacex.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/spdr-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/spdr-gold-trust.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/spdr-s-p-500-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/spotify.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/starbucks.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/stellantis.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/sysco.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/tesla.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/tjx.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/transdigm.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/transunion.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/trex.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/union-pacific.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/ups.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-dividend-appreciation-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-ftse-developed-markets-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-ftse-emerging-markets-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-information-technology-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-mid-cap-value-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-short-term-bond-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/vanguard-short-term-corporate-bond-etf.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/veeva-systems.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/visa.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/wabco.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/walmart.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/waste-management.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/wells-fargo.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/willis-towers-watson.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg/stock/woodward.html</loc></url>
+  <url><loc>https://holdings.ezrasnotes.com/m/chris-begg.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/m/chris-hohn/2015-q2.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/m/chris-hohn/2015-q3.html</loc></url>
   <url><loc>https://holdings.ezrasnotes.com/m/chris-hohn/2015-q4.html</loc></url>
