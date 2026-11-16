@@ -9,7 +9,7 @@
 
 <section>
   <h2 class="rule-head">Latest 13F filings</h2>
-  <ol class="letters filings">
+  <ol class="letters filings" data-per-page="5">
   {% for m, q in latest_filings %}
     <li>
       <span class="period">{{ q.label }}</span>
@@ -22,11 +22,11 @@
 
 <section>
   <h2 class="rule-head">The big moves</h2>
-  <p class="small">From each manager's latest 13F: new positions, positions sold out, and changes of 25% or more in the number of shares.</p>
+  <p class="small">From each manager's latest 13F: new positions, positions sold out, and changes of 25% or more in the number of shares. Biggest positions first; anything under 0.5% of a 13F is left out.</p>
   {% if not has_moves %}<p>No big moves in the latest filings.</p>{% endif %}
   {% for kind, label, items in groups if items %}
     <h3 class="move-head">{{ label }}</h3>
-    <ul class="moves">
+    <ul class="moves" data-per-page="5">
     {% for x in items %}
       <li class="{{ kind }}"><span class="mv">{{ x.c|move }}</span>
         <span class="mw">{% if not x.c.fund %}<a href="{{ root }}c/{{ x.c.slug }}.html">{{ x.c.name }}</a>{% else %}{{ x.c.name }}{% endif %}{% if x.c.ticker %} <span class="tick">{{ x.c.ticker }}</span>{% endif %}</span>
@@ -39,7 +39,7 @@
 {% if shared %}
 <section>
   <h2 class="rule-head">Most widely held</h2>
-  <ol class="clist top10">
+  <ol class="clist top10" data-per-page="5">
   {% for c in shared %}
     <li><a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a><span class="ccount">{{ c.holders }} manager{{ "s" if c.holders != 1 }}</span></li>
   {% endfor %}

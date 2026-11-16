@@ -5,11 +5,15 @@
       <span class="hm-corner"></span>
       {% for h in cols %}<span class="hm-year">{% if h.label.startswith("Q1") %}{{ h.period[:4] }}{% endif %}</span>{% endfor %}
       {% for r in rows %}
+        <div class="hm-row"{% if link and not r.current %} data-former hidden{% endif %}>
         <span class="hm-name{% if not r.current %} past{% endif %}"><span class="hm-t">{% if link and not r.fund %}<a href="{{ root }}c/{{ r.slug }}.html">{{ r.name }}</a>{% else %}{{ r.name }}{% endif %}</span></span>
         {% for w in r.cells %}{% if w is none %}<span class="hm-c sx" data-tip="{{ cols[loop.index0].label }} · no 13F filed"></span>{% else %}<span class="hm-c s{{ r.steps[loop.index0] }}"{% if w %} data-tip="{{ r.name }} · {{ cols[loop.index0].label }} · {{ w|pct }}"{% endif %}></span>{% endif %}{% endfor %}
+        </div>
       {% endfor %}
     </div>
   </div>
+  {% set former = rows|rejectattr("current")|list|length %}
+  {% if link and former %}<button type="button" class="hm-more" data-n="{{ former }}">Show {{ former }} former holding{{ "s" if former != 1 }}</button>{% endif %}
   <p class="hm-legend"><span class="hm-lt">Weight</span>{% for l in step_labels %}<span class="hm-k"><span class="hm-c s{{ loop.index }}"></span>{{ l }}</span>{% endfor %}{% if rows and none in rows[0].cells %}<span class="hm-k"><span class="hm-c sx"></span>No 13F filed</span>{% endif %}</p>
   <div class="hm-tip" hidden></div>
 </div>
@@ -31,6 +35,12 @@ document.querySelectorAll('.hm').forEach(function (box) {
   box.addEventListener('mouseover', show);
   box.addEventListener('click', show);
   box.addEventListener('mouseleave', function () { tip.hidden = true; });
+  var more = box.querySelector('.hm-more');
+  if (more) more.addEventListener('click', function () {
+    var rows = box.querySelectorAll('[data-former]'), show = rows[0].hidden;
+    rows.forEach(function (r) { r.hidden = !show; });
+    more.textContent = show ? 'Hide former holdings' : 'Show ' + more.dataset.n + ' former holding' + (more.dataset.n === '1' ? '' : 's');
+  });
 });
 </script>
 {% endmacro %}

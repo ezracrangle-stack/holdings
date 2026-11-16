@@ -241,6 +241,9 @@ def build():
         for c in q["changes"]:
             if P.is_big(c):
                 moves.append({"m": m, "q": q, "c": c})
+    # biggest positions first; moves in positions under 0.5% of the 13F are left off the home page
+    moves = [x for x in moves if max(x["c"]["weight"], x["c"]["prev_weight"]) >= 0.005]
+    moves.sort(key=lambda x: -max(x["c"]["weight"], x["c"]["prev_weight"]))
     groups = [(k, label, [x for x in moves if x["c"]["kind"] == k][:MOVES_ON_HOME])
               for k, label in (("new", "New positions"), ("sold", "Sold out"),
                                ("added", "Big increases"), ("trimmed", "Big reductions"))]
@@ -269,7 +272,7 @@ def build():
         out.write_text(env.get_template(template).render(root=root, page=path, **common, **kw), encoding="utf-8")
 
     render("index.html", "index.html", "", latest_filings=latest_filings, groups=groups, posts=posts[:3],
-           managers=managers, shared=shared[:10], has_moves=bool(moves))
+           managers=managers, shared=shared[:30], has_moves=bool(moves))
     render("directory.html", "managers.html", "", managers=managers)
     render("companies.html", "companies.html", "", shared=shared, former=former)
     render("about.html", "about.html", "")

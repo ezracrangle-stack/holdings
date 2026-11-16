@@ -109,3 +109,11 @@
 .pager .pager-note { flex-basis: 100%; text-align: center; font: italic 14px var(--body); text-transform: none; letter-spacing: 0; color: var(--mute); }
 .hm-c.sx { opacity: 1; background: repeating-linear-gradient(135deg, var(--hair) 0 2px, transparent 2px 4px); }
 .hm-grid .hm-c.sx { height: 16px; }
+
+.hm-row { display: contents; }
+.hm-row[hidden] { display: none; }
+.hm-more { margin: 10px 0 0; font: 12px/1 var(--head); text-transform: uppercase; letter-spacing: .1em; background: none;
+  color: var(--ink); border: 1px solid var(--ink); padding: 8px 12px; cursor: pointer; }
+.hm-more:hover { background: var(--ink); color: var(--paper); }
+.pager .gap { border: 0; min-width: 0; padding: 7px 2px; }
+[data-per-page] > [hidden], [data-per-page] tr[hidden] { display: none; }

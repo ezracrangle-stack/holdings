@@ -5,7 +5,7 @@
 {% elif not moved %}
   <p>No changes in share counts from {{ q.prev.label }}.</p>
 {% else %}
-  <ul class="moves">
+  <ul class="moves" data-per-page="10">
   {% for c in moved %}
     <li class="{{ c.kind }}"><span class="mv">{{ c|move }}</span>
       <span class="mw">{% if not c.fund and c.slug in companies %}<a href="{{ root }}c/{{ c.slug }}.html">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.ticker %} <span class="tick">{{ c.ticker }}</span>{% endif %}</span>

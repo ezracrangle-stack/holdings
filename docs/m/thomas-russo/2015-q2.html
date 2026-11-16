@@ -11,8 +11,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../static/style.css?v=933dd893">
-<link rel="stylesheet" href="../../static/holdings.css?v=933dd893">
+<link rel="stylesheet" href="../../static/style.css?v=2791dd10">
+<link rel="stylesheet" href="../../static/holdings.css?v=2791dd10">
 <link rel="alternate" type="application/rss+xml" title="Investor Holdings · Ezra's Notes" href="../../feed.xml">
 <meta property="og:title" content="Thomas Russo, Gardner Russo &amp; Quinn: 13F for Q2 2015 · Ezra's Notes">
 <meta property="og:description" content="Gardner Russo &amp; Quinn's 13F for Q2 2015: 109 positions, $11.38B.">
@@ -62,7 +62,7 @@
 <p class="firm-line big">Gardner Russo &amp; Quinn</p>
 <p class="source">Portfolio at the end of Q2 2015, from the 13F filed August 11, 2015. <a href="https://www.sec.gov/Archives/edgar/data/860643/000086064315000004/0000860643-15-000004-index.html" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
 
-<table class="htable">
+<table class="htable" data-per-page="10">
   <thead>
     <tr><th scope="col">Company</th><th scope="col" class="num">Weight</th><th scope="col" class="num hide-s">Value</th><th scope="col" class="num hide-s">Shares</th><th scope="col" class="num hide-s">Price</th><th scope="col" class="num">Held since</th><th scope="col" class="num">Change</th></tr>
   </thead>
@@ -1417,7 +1417,7 @@
 
 
 
-  <ul class="moves">
+  <ul class="moves" data-per-page="10">
   
     <li class="new"><span class="mv">Buy</span>
       <span class="mw"><a href="../../c/spectrum-brands.html">Spectrum Brands</a> <span class="tick">SPB</span></span>
@@ -1735,5 +1735,6 @@
 <script>(function(){var b=document.getElementById('theme-toggle'),r=document.documentElement;function label(){b.textContent=r.getAttribute('data-theme')==='dark'?'Light':'Dark'}label();b.addEventListener('click',function(){var t=r.getAttribute('data-theme')==='dark'?'light':'dark';r.setAttribute('data-theme',t);try{localStorage.setItem('theme',t)}catch(e){}label()})})();</script>
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
+<script src="../../static/paginate.js?v=2791dd10"></script>
 </body>
 </html>
