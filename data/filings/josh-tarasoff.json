@@ -3188,6 +3188,103 @@
    "table_total": 364211495,
    "first_seen": "2026-11-16T01:33:05+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001420506-26-002741",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1766504,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766504/000142050626002741/0001420506-26-002741-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "46436E718",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "0-3 MTH TREASURY",
+     "shares": 690800,
+     "unit": "SH",
+     "value": 69549744
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 277040,
+     "unit": "SH",
+     "value": 69024516
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "CL A LTD VT SH",
+     "shares": 1376910,
+     "unit": "SH",
+     "value": 50202139
+    },
+    {
+     "cusip": "084670108",
+     "put_call": null,
+     "issuer": "BERKSHIRE HATHAWAY INC DEL",
+     "class": "CL A",
+     "shares": 63,
+     "unit": "SH",
+     "value": 47061315
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 98535,
+     "unit": "SH",
+     "value": 33903923
+    },
+    {
+     "cusip": "570535104",
+     "put_call": null,
+     "issuer": "MARKEL GROUP INC",
+     "class": "COM",
+     "shares": 14390,
+     "unit": "SH",
+     "value": 24642156
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 39370,
+     "unit": "SH",
+     "value": 19188151
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 776490,
+     "unit": "SH",
+     "value": 18138806
+    },
+    {
+     "cusip": "88160R101",
+     "put_call": null,
+     "issuer": "TESLA INC",
+     "class": "COM",
+     "shares": 47050,
+     "unit": "SH",
+     "value": 16693811
+    }
+   ],
+   "table_total": 348404561,
+   "first_seen": "2026-11-16T14:58:25+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "GREENLEA LANE CAPITAL MANAGEMENT, LLC"

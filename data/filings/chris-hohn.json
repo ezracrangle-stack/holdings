@@ -5093,6 +5093,130 @@
    "table_total": 52769884406,
    "first_seen": "2026-11-16T03:34:43+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001647251-26-000011",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1647251,
+   "url": "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000011/0001647251-26-000011-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "TCI FUND MANAGEMENT LTD",
+   "holdings": [
+    {
+     "cusip": "369604301",
+     "put_call": null,
+     "issuer": "GE AEROSPACE",
+     "class": "COM NEW",
+     "shares": 47368233,
+     "unit": "SH",
+     "value": 14792625484
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 30384133,
+     "unit": "SH",
+     "value": 10917930511
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 14279021,
+     "unit": "SH",
+     "value": 6484531807
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 14081957,
+     "unit": "SH",
+     "value": 5554909578
+    },
+    {
+     "cusip": "13646K108",
+     "put_call": null,
+     "issuer": "CANADIAN PACIFIC KANSAS CITY",
+     "class": "COM",
+     "shares": 44469458,
+     "unit": "SH",
+     "value": 3787134760
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 10067338,
+     "unit": "SH",
+     "value": 3430344750
+    },
+    {
+     "cusip": "N3168P101",
+     "put_call": null,
+     "issuer": "FERROVIAL NV",
+     "class": "ORD SHS",
+     "shares": 20940441,
+     "unit": "SH",
+     "value": 1127199439
+    },
+    {
+     "cusip": "136375102",
+     "put_call": null,
+     "issuer": "CANADIAN NATL RY CO",
+     "class": "COM",
+     "shares": 9433422,
+     "unit": "SH",
+     "value": 1122649584
+    },
+    {
+     "cusip": "573284106",
+     "put_call": null,
+     "issuer": "MARTIN MARIETTA MATLS INC",
+     "class": "COM",
+     "shares": 1800889,
+     "unit": "SH",
+     "value": 864084551
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 2361288,
+     "unit": "SH",
+     "value": 812471975
+    },
+    {
+     "cusip": "929160109",
+     "put_call": null,
+     "issuer": "VULCAN MATLS CO",
+     "class": "COM",
+     "shares": 2776873,
+     "unit": "SH",
+     "value": 679306442
+    },
+    {
+     "cusip": "60744M106",
+     "put_call": null,
+     "issuer": "MOBILITY GLOBAL INC",
+     "class": "COM SHS",
+     "shares": 623651,
+     "unit": "SH",
+     "value": 10695615
+    }
+   ],
+   "table_total": 49583884496,
+   "first_seen": "2026-11-16T14:58:26+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "TCI Fund Management Ltd"

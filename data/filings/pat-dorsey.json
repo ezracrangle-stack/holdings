@@ -4273,6 +4273,139 @@
    "table_total": 1561408466,
    "first_seen": "2026-11-16T04:50:03+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001398344-26-020103",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1671657,
+   "url": "https://www.sec.gov/Archives/edgar/data/1671657/000139834426020103/0001398344-26-020103-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Dorsey Asset Management, LLC",
+   "holdings": [
+    {
+     "cusip": "922475108",
+     "put_call": null,
+     "issuer": "VEEVA SYS INC",
+     "class": "CL A COM",
+     "shares": 845653,
+     "unit": "SH",
+     "value": 241391649
+    },
+    {
+     "cusip": "03831W108",
+     "put_call": null,
+     "issuer": "APPLOVIN CORP",
+     "class": "COM CL A",
+     "shares": 602035,
+     "unit": "SH",
+     "value": 174849025
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 219583,
+     "unit": "SH",
+     "value": 159237200
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 372465,
+     "unit": "SH",
+     "value": 146926269
+    },
+    {
+     "cusip": "G7709Q104",
+     "put_call": null,
+     "issuer": "ROYALTY PHARMA PLC",
+     "class": "SHS CLASS A",
+     "shares": 2415667,
+     "unit": "SH",
+     "value": 140978326
+    },
+    {
+     "cusip": "09857L108",
+     "put_call": null,
+     "issuer": "BOOKING HOLDINGS INC",
+     "class": "COM",
+     "shares": 833307,
+     "unit": "SH",
+     "value": 135754043
+    },
+    {
+     "cusip": "90353T100",
+     "put_call": null,
+     "issuer": "UBER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 1980066,
+     "unit": "SH",
+     "value": 135654322
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HLDG NV",
+     "class": "N Y REGISTRY SHS",
+     "shares": 74237,
+     "unit": "SH",
+     "value": 134492946
+    },
+    {
+     "cusip": "902252105",
+     "put_call": null,
+     "issuer": "TYLER TECHNOLOGIES INC",
+     "class": "COM",
+     "shares": 401725,
+     "unit": "SH",
+     "value": 127989585
+    },
+    {
+     "cusip": "538034109",
+     "put_call": null,
+     "issuer": "LIVE NATION ENTERTAINMENT IN",
+     "class": "COM",
+     "shares": 736832,
+     "unit": "SH",
+     "value": 124745658
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 681642,
+     "unit": "SH",
+     "value": 97829260
+    },
+    {
+     "cusip": "05464C101",
+     "put_call": null,
+     "issuer": "AXON ENTERPRISE INC",
+     "class": "COM",
+     "shares": 177631,
+     "unit": "SH",
+     "value": 75052650
+    },
+    {
+     "cusip": "464288257",
+     "put_call": null,
+     "issuer": "ISHARES TR",
+     "class": "MSCI ACWI ETF",
+     "shares": 111158,
+     "unit": "SH",
+     "value": 17648000
+    }
+   ],
+   "table_total": 1712548933,
+   "first_seen": "2026-11-16T14:58:29+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "Dorsey Asset Management, LLC"
