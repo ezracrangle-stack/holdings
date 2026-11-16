@@ -38,7 +38,7 @@
 <p class="crosslink"><a href="{{ root }}m/{{ m.id }}/activity.html">Every buy and sell since {{ m.quarters[0].label }} &rarr;</a></p>
 
 <h2 class="rule-head">Every quarter on file</h2>
-<table class="htable history">
+<table class="htable history" data-per-page="8">
   <thead><tr><th scope="col">Quarter</th><th scope="col" class="hide-s">Top holdings</th><th scope="col" class="num">Positions</th><th scope="col" class="num">Value</th></tr></thead>
   <tbody>
   {% for h in m.quarters|reverse %}
@@ -51,6 +51,7 @@
   {% endfor %}
   </tbody>
 </table>
+<nav class="pager" data-pager-for="history" aria-label="Quarters" hidden></nav>
 
 {% include "_caveat.html" %}
 
@@ -63,4 +64,31 @@
   <a class="button" href="{{ subscribe_url }}">Subscribe</a>
 </aside>
 {{ heat_script() }}
+<script>
+/* Pages for long tables. Without JavaScript every row stays visible. */
+document.querySelectorAll('table[data-per-page]').forEach(function (t) {
+  var rows = [].slice.call(t.tBodies[0].rows), per = +t.dataset.perPage, n = Math.ceil(rows.length / per);
+  var nav = t.nextElementSibling;
+  if (n < 2 || !nav || !nav.classList.contains('pager')) return;
+  function go(k, scroll) {
+    rows.forEach(function (r, i) { r.hidden = Math.floor(i / per) !== k; });
+    var from = rows[k * per].cells[0].querySelector('a').textContent,
+        to = rows[Math.min((k + 1) * per, rows.length) - 1].cells[0].querySelector('a').textContent;
+    var h = '';
+    h += k > 0 ? '<a href="#" data-k="' + (k - 1) + '">&larr; Newer</a>' : '';
+    h += '<span class="pager-nums">';
+    for (var i = 0; i < n; i++) h += i === k ? '<span aria-current="page">' + (i + 1) + '</span>' : '<a href="#" data-k="' + i + '">' + (i + 1) + '</a>';
+    h += '</span>';
+    h += k < n - 1 ? '<a href="#" data-k="' + (k + 1) + '">Older &rarr;</a>' : '';
+    h += '<span class="pager-note">' + from + ' to ' + to + '</span>';
+    nav.innerHTML = h; nav.hidden = false;
+    if (scroll) t.scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }
+  nav.addEventListener('click', function (e) {
+    var a = e.target.closest('a[data-k]'); if (!a) return;
+    e.preventDefault(); go(+a.dataset.k, true);
+  });
+  go(0, false);
+});
+</script>
 {% endblock %}

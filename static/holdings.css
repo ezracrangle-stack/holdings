@@ -106,3 +106,4 @@
 .posts a:hover { text-decoration: underline; }
 .posts-meta { font: italic 14px var(--body); color: var(--mute); margin-left: 8px; }
 .posts-blurb { display: block; color: var(--mute); font-size: 15px; margin-top: 2px; }
+.pager .pager-note { flex-basis: 100%; text-align: center; font: italic 14px var(--body); text-transform: none; letter-spacing: 0; color: var(--mute); }
