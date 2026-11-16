@@ -217,3 +217,23 @@ managers:
     cik: 1374170
     letters: no
     why: "Nicolai founded AKO Capital and has run Norway's oil fund since 2020. The fund owns about 1.5% of every listed company in the world, so its 13F looks a lot like the US market. Some quarters it files the holdings a year late, under confidential treatment; they show up here when they come out."
+
+  - id: francis-chou
+    name: Francis Chou
+    firm: Chou Associates Management
+    cik: 1389403
+    letters: no
+    why: "Francis holds cash when he can't find bargains and buys distressed debt only when the recovery is there, and his letters say plainly what went wrong. Berkshire is in every 13F since 2013 and is 30% of it now."
+
+  - id: mason-hawkins
+    name: Mason Hawkins
+    firm: Longleaf Partners
+    cik: 807985
+    letters: no
+    why: "Mason founded Southeastern in 1975 and still chairs it; Ross Glotzbach runs it day to day. FedEx, CNX Resources and Graham Holdings are in every 13F since 2013."
+
+  - id: andrew-brenton
+    name: Andrew Brenton
+    firm: Turtle Creek Asset Management
+    cik: 1484148
+    letters: turtle-creek

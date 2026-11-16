@@ -12231,6 +12231,400 @@
    "table_total": 4588428223,
    "first_seen": "2026-11-16T04:31:32+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001172661-26-005273",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1553733,
+   "url": "https://www.sec.gov/Archives/edgar/data/1553733/000117266126005273/0001172661-26-005273-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Brave Warrior Advisors, LLC",
+   "holdings": [
+    {
+     "cusip": "G4705A100",
+     "put_call": null,
+     "issuer": "ICON PUB LTD CO",
+     "class": "SHS",
+     "shares": 2836749,
+     "unit": "SH",
+     "value": 482218963
+    },
+    {
+     "cusip": "87162W100",
+     "put_call": null,
+     "issuer": "TD SYNNEX CORPORATION",
+     "class": "COM",
+     "shares": 1696727,
+     "unit": "SH",
+     "value": 435804330
+    },
+    {
+     "cusip": "68268W103",
+     "put_call": null,
+     "issuer": "ONEMAIN HLDGS INC",
+     "class": "COM",
+     "shares": 7523755,
+     "unit": "SH",
+     "value": 416740789
+    },
+    {
+     "cusip": "05329W102",
+     "put_call": null,
+     "issuer": "AUTONATION INC",
+     "class": "COM",
+     "shares": 1926427,
+     "unit": "SH",
+     "value": 303296667
+    },
+    {
+     "cusip": "78442P106",
+     "put_call": null,
+     "issuer": "SLM CORP",
+     "class": "COM",
+     "shares": 13259286,
+     "unit": "SH",
+     "value": 300057642
+    },
+    {
+     "cusip": "363576109",
+     "put_call": null,
+     "issuer": "GALLAGHER ARTHUR J & CO",
+     "class": "COM",
+     "shares": 1270696,
+     "unit": "SH",
+     "value": 289858465
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 1017912,
+     "unit": "SH",
+     "value": 280648518
+    },
+    {
+     "cusip": "74164M108",
+     "put_call": null,
+     "issuer": "PRIMERICA INC",
+     "class": "COM",
+     "shares": 857179,
+     "unit": "SH",
+     "value": 233486988
+    },
+    {
+     "cusip": "036752103",
+     "put_call": null,
+     "issuer": "ELEVANCE HEALTH INC FORMERLY",
+     "class": "COM",
+     "shares": 579472,
+     "unit": "SH",
+     "value": 225310303
+    },
+    {
+     "cusip": "783513203",
+     "put_call": null,
+     "issuer": "RYANAIR HOLDINGS PLC",
+     "class": "SPONSORED ADR",
+     "shares": 3918374,
+     "unit": "SH",
+     "value": 215549754
+    },
+    {
+     "cusip": "216648501",
+     "put_call": null,
+     "issuer": "COOPER COS INC",
+     "class": "COM",
+     "shares": 3776459,
+     "unit": "SH",
+     "value": 213483227
+    },
+    {
+     "cusip": "55336V100",
+     "put_call": null,
+     "issuer": "MPLX LP",
+     "class": "COM UNIT REP LTD",
+     "shares": 3070137,
+     "unit": "SH",
+     "value": 172910116
+    },
+    {
+     "cusip": "12008R107",
+     "put_call": null,
+     "issuer": "BUILDERS FIRSTSOURCE INC",
+     "class": "COM",
+     "shares": 3031021,
+     "unit": "SH",
+     "value": 172798507
+    },
+    {
+     "cusip": "23331A109",
+     "put_call": null,
+     "issuer": "D R HORTON INC",
+     "class": "COM",
+     "shares": 1170932,
+     "unit": "SH",
+     "value": 160007858
+    },
+    {
+     "cusip": "601137102",
+     "put_call": null,
+     "issuer": "MILLROSE PPTYS INC",
+     "class": "COM CL A",
+     "shares": 5885663,
+     "unit": "SH",
+     "value": 152850668
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATL FINL INC",
+     "class": "COM SHS",
+     "shares": 3860338,
+     "unit": "SH",
+     "value": 149202064
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 646040,
+     "unit": "SH",
+     "value": 52710404
+    },
+    {
+     "cusip": "03676B102",
+     "put_call": null,
+     "issuer": "ANTERO MIDSTREAM CORP",
+     "class": "COM",
+     "shares": 1813231,
+     "unit": "SH",
+     "value": 36554737
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 20258,
+     "unit": "SH",
+     "value": 6970373
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 4785,
+     "unit": "SH",
+     "value": 2454226
+    },
+    {
+     "cusip": "40412C101",
+     "put_call": null,
+     "issuer": "HCA HEALTHCARE INC",
+     "class": "COM",
+     "shares": 4666,
+     "unit": "SH",
+     "value": 1991169
+    },
+    {
+     "cusip": "46625H100",
+     "put_call": null,
+     "issuer": "JPMORGAN CHASE & CO",
+     "class": "COM",
+     "shares": 5643,
+     "unit": "SH",
+     "value": 1866874
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 2508,
+     "unit": "SH",
+     "value": 1818751
+    },
+    {
+     "cusip": "866966104",
+     "put_call": null,
+     "issuer": "SUNBELT RENTALS HOLDINGS INC",
+     "class": "SHS",
+     "shares": 23762,
+     "unit": "SH",
+     "value": 1739616
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 6250,
+     "unit": "SH",
+     "value": 1557187
+    },
+    {
+     "cusip": "88023U101",
+     "put_call": null,
+     "issuer": "SOMNIGROUP INTERNATIONAL INC",
+     "class": "COM",
+     "shares": 22500,
+     "unit": "SH",
+     "value": 1397475
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 3790,
+     "unit": "SH",
+     "value": 1291405
+    },
+    {
+     "cusip": "060505104",
+     "put_call": null,
+     "issuer": "BANK OF AMER CORP",
+     "class": "COM",
+     "shares": 14532,
+     "unit": "SH",
+     "value": 790977
+    },
+    {
+     "cusip": "20030N101",
+     "put_call": null,
+     "issuer": "COMCAST CORP NEW",
+     "class": "CL A",
+     "shares": 31094,
+     "unit": "SH",
+     "value": 676605
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1067,
+     "unit": "SH",
+     "value": 588418
+    },
+    {
+     "cusip": "349381103",
+     "put_call": null,
+     "issuer": "FIGURE TECHNOLOGY SOLUTIO",
+     "class": "COM CL A",
+     "shares": 19000,
+     "unit": "SH",
+     "value": 548150
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1261,
+     "unit": "SH",
+     "value": 497427
+    },
+    {
+     "cusip": "038222105",
+     "put_call": null,
+     "issuer": "APPLIED MATLS INC",
+     "class": "COM",
+     "shares": 961,
+     "unit": "SH",
+     "value": 491436
+    },
+    {
+     "cusip": "824348106",
+     "put_call": null,
+     "issuer": "SHERWIN WILLIAMS CO",
+     "class": "COM",
+     "shares": 1350,
+     "unit": "SH",
+     "value": 436414
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 5500,
+     "unit": "SH",
+     "value": 428670
+    },
+    {
+     "cusip": "571903202",
+     "put_call": null,
+     "issuer": "MARRIOTT INTL INC NEW",
+     "class": "CL A",
+     "shares": 1194,
+     "unit": "SH",
+     "value": 424670
+    },
+    {
+     "cusip": "437076102",
+     "put_call": null,
+     "issuer": "HOME DEPOT INC",
+     "class": "COM",
+     "shares": 1350,
+     "unit": "SH",
+     "value": 384061
+    },
+    {
+     "cusip": "743315103",
+     "put_call": null,
+     "issuer": "PROGRESSIVE CORP",
+     "class": "COM",
+     "shares": 1789,
+     "unit": "SH",
+     "value": 370878
+    },
+    {
+     "cusip": "882508104",
+     "put_call": null,
+     "issuer": "TEXAS INSTRS INC",
+     "class": "COM",
+     "shares": 1010,
+     "unit": "SH",
+     "value": 282891
+    },
+    {
+     "cusip": "032654105",
+     "put_call": null,
+     "issuer": "ANALOG DEVICES INC",
+     "class": "COM",
+     "shares": 612,
+     "unit": "SH",
+     "value": 242787
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 618,
+     "unit": "SH",
+     "value": 222066
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 471,
+     "unit": "SH",
+     "value": 213895
+    }
+   ],
+   "table_total": 4321176421,
+   "first_seen": "2026-11-16T18:14:14+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "BRAVE WARRIOR CAPITAL, INC."
