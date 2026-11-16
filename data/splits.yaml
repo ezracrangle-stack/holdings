@@ -69,3 +69,5 @@
 - {ticker: HTZ, date: 2016-07-01, ratio: 0.2}
 - {ticker: XRX, date: 2017-06-15, ratio: 0.25}
 - {ticker: MTW, date: 2017-11-20, ratio: 0.25}
+- {ticker: APH, date: 2026-09-03, ratio: 2}
+- {ticker: APH, date: 2024-06-12, ratio: 2}
