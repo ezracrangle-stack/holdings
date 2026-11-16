@@ -7,6 +7,8 @@ import unicodedata
 
 import yaml
 
+from sectors import sector as sector_of
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 BIG_MOVE = 0.25            # a change of 25% or more in shares counts as "big" on the home page
@@ -66,6 +68,7 @@ def positions(filing, securities, unknown):
         p = out.setdefault(key, {"key": "|".join(x or "" for x in key), "name": sec["name"],
                                   "slug": slugify(sec["name"]), "ticker": sec.get("ticker"),
                                   "fund": bool(sec.get("fund")), "put_call": r["put_call"],
+                                  "sector": sector_of(securities.get(r["cusip"])),
                                   "class": r["class"], "unit": r["unit"], "shares": 0, "value": 0,
                                   "cusips": set()})
         p["shares"] += r["shares"]
@@ -77,6 +80,13 @@ def positions(filing, securities, unknown):
         p["price"] = p["value"] / p["shares"] if p["shares"] and p["unit"] == "SH" and not p["put_call"] else None
         p["cusips"] = sorted(p["cusips"])
     return sorted(out.values(), key=lambda p: -p["value"]), total
+
+
+def sector_weights(positions):
+    out = {}
+    for p in positions:
+        out[p["sector"]] = out.get(p["sector"], 0) + p["weight"]
+    return sorted(out.items(), key=lambda x: -x[1])
 
 
 def load_splits():
@@ -146,6 +156,8 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
                          "first_seen": f.get("first_seen"), "backfill": f.get("backfill", True)})
     if quarters:
         quarters[-1]["is_latest"] = True
+    for q in quarters:
+        q["sectors"] = sector_weights(q["positions"])
     for i, q in enumerate(quarters):
         q["changes"] = changes(quarters[i - 1], q, splits, warnings, m["name"]) if i else []
         q["prev"] = quarters[i - 1] if i else None

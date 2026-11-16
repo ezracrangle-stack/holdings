@@ -1,12 +1,16 @@
 {% extends "base.html" %}
 {% block title %}{{ m.name }}, {{ m.firm }}: 13F for {{ q.label }}{% endblock %}
 {% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ q.positions|length }} positions, {{ q.total|money }}.{% endblock %}
+{% from "_charts.html" import sector_bars %}
 {% block main %}
 <p class="crumb"><a href="{{ root }}m/{{ m.id }}.html">&larr; {{ m.name }}, latest 13F</a></p>
 <h1 class="page-title">{{ m.name }} · {{ q.label }}</h1>
 <p class="firm-line big">{{ m.firm }}</p>
 <p class="source">Portfolio at the end of {{ q.label }}, from the 13F filed {{ q.filed|date }}{% if q.amended %}, as amended{% endif %}. <a href="{{ q.url }}" target="_blank" rel="noopener">See the filing on EDGAR &#8599;</a></p>
 {% include "_portfolio.html" %}
+
+<h2 class="rule-head">Sector weighting</h2>
+{{ sector_bars(q.sectors) }}
 
 <h2 class="rule-head">What changed{% if q.prev %} from {{ q.prev.label }}{% endif %}</h2>
 {% include "_changes.html" %}

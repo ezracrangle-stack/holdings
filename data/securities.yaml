@@ -5,38 +5,41 @@
 #   name:   company name on the site. Use the same name as on letters.ezrasnotes.com,
 #           so the company page lands on the same web address (Alphabet → /c/alphabet.html).
 #   ticker: current ticker, or the last one if the company no longer trades.
+#   sic:    the company's industry code at the SEC (on EDGAR, under the company name).
+#           The site turns it into a broad sector. Leave it out if you don't know it.
+#   sector: optional, to override the sector the SIC code gives.
 #   fund:   yes for ETFs and funds. They show in the portfolio but get no company page.
 #   note:   anything worth knowing (old names, filing errors).
 #
 # A CUSIP that isn't here still shows on the site, with the name from the filing
 # and no ticker, and the weekly check asks you (or Claude) to add it.
 
-"02079K305": {name: Alphabet, ticker: GOOGL}
-"02079KAB3": {name: Alphabet, ticker: GOOGL, note: "Filed with a bond CUSIP by mistake; the line is Class A shares."}
-"023135106": {name: Amazon, ticker: AMZN}
-"084670108": {name: Berkshire Hathaway, ticker: BRK.A}
-"112585104": {name: Brookfield Corporation, ticker: BN, note: "Called Brookfield Asset Management Inc. until December 2022."}
-"11271J107": {name: Brookfield Corporation, ticker: BN}
-"113004105": {name: Brookfield Asset Management, ticker: BAM, note: "Spun off from Brookfield Corporation in December 2022."}
-"G16169107": {name: Brookfield Wealth Solutions, ticker: BNT, note: "Called Brookfield Asset Management Reinsurance Partners in 2021."}
-"G17977110": {name: Burford Capital, ticker: BUR}
-"30303M102": {name: Meta Platforms, ticker: META, note: "Called Facebook until 2021."}
-"443573100": {name: HubSpot, ticker: HUBS}
+"02079K305": {name: Alphabet, ticker: GOOGL, sic: 7370}
+"02079KAB3": {name: Alphabet, ticker: GOOGL, sic: 7370, note: "Filed with a bond CUSIP by mistake; the line is Class A shares."}
+"023135106": {name: Amazon, ticker: AMZN, sic: 5961}
+"084670108": {name: Berkshire Hathaway, ticker: BRK.A, sic: 6331}
+"112585104": {name: Brookfield Corporation, ticker: BN, sic: 6512, note: "Called Brookfield Asset Management Inc. until December 2022."}
+"11271J107": {name: Brookfield Corporation, ticker: BN, sic: 6512}
+"113004105": {name: Brookfield Asset Management, ticker: BAM, sic: 6282, note: "Spun off from Brookfield Corporation in December 2022."}
+"G16169107": {name: Brookfield Wealth Solutions, ticker: BNT, sic: 6399, note: "Called Brookfield Asset Management Reinsurance Partners in 2021."}
+"G17977110": {name: Burford Capital, ticker: BUR, sic: 6199}
+"30303M102": {name: Meta Platforms, ticker: META, sic: 7370, note: "Called Facebook until 2021."}
+"443573100": {name: HubSpot, ticker: HUBS, sic: 7372}
 "46436E718": {name: iShares 0-3 Month Treasury Bond ETF, ticker: SGOV, fund: yes}
-"48251W104": {name: KKR, ticker: KKR}
-"570535104": {name: Markel, ticker: MKL}
-"594918104": {name: Microsoft, ticker: MSFT}
-"M7S64H106": {name: monday.com, ticker: MNDY}
-"64110L106": {name: Netflix, ticker: NFLX}
-"70614W100": {name: Peloton, ticker: PTON}
-"79466L302": {name: Salesforce, ticker: CRM}
-"819047101": {name: Shake Shack, ticker: SHAK}
-"82509L107": {name: Shopify, ticker: SHOP}
-"83088V102": {name: Slack Technologies, ticker: WORK, note: "Bought by Salesforce in 2021."}
-"L8681T102": {name: Spotify, ticker: SPOT}
-"860897107": {name: Stitch Fix, ticker: SFIX}
-"88160R101": {name: Tesla, ticker: TSLA}
-"898202106": {name: Trupanion, ticker: TRUP}
-"90184LAD4": {name: Twitter, ticker: TWTR, note: "Filed with a bond CUSIP by mistake; the line is common shares. Taken private in 2022."}
-"90184L102": {name: Twitter, ticker: TWTR, note: "Taken private in 2022."}
-"94419L101": {name: Wayfair, ticker: W}
+"48251W104": {name: KKR, ticker: KKR, sic: 6282}
+"570535104": {name: Markel, ticker: MKL, sic: 6331}
+"594918104": {name: Microsoft, ticker: MSFT, sic: 7372}
+"M7S64H106": {name: monday.com, ticker: MNDY, sic: 7372}
+"64110L106": {name: Netflix, ticker: NFLX, sic: 7841}
+"70614W100": {name: Peloton, ticker: PTON, sic: 3949}
+"79466L302": {name: Salesforce, ticker: CRM, sic: 7372}
+"819047101": {name: Shake Shack, ticker: SHAK, sic: 5810}
+"82509L107": {name: Shopify, ticker: SHOP, sic: 7372}
+"83088V102": {name: Slack Technologies, ticker: WORK, sic: 7372, note: "Bought by Salesforce in 2021."}
+"L8681T102": {name: Spotify, ticker: SPOT, sic: 4832}
+"860897107": {name: Stitch Fix, ticker: SFIX, sic: 5961}
+"88160R101": {name: Tesla, ticker: TSLA, sic: 3711}
+"898202106": {name: Trupanion, ticker: TRUP, sic: 6324}
+"90184LAD4": {name: Twitter, ticker: TWTR, sic: 7370, note: "Filed with a bond CUSIP by mistake; the line is common shares. Taken private in 2022."}
+"90184L102": {name: Twitter, ticker: TWTR, sic: 7370, note: "Taken private in 2022."}
+"94419L101": {name: Wayfair, ticker: W, sic: 5961}

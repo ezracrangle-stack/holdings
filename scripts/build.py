@@ -74,6 +74,8 @@ def price(v):
 
 STEPS = [(0.20, 6), (0.15, 5), (0.10, 4), (0.05, 3), (0.025, 2), (0, 1)]
 STEP_LABELS = ["Under 2.5%", "2.5-5%", "5-10%", "10-15%", "15-20%", "20%+"]
+SECTOR_STEPS = [(0.50, 6), (0.40, 5), (0.30, 4), (0.20, 3), (0.10, 2), (0, 1)]
+SECTOR_LABELS = ["Under 10%", "10-20%", "20-30%", "30-40%", "40-50%", "50%+"]
 
 
 def timeline(m):
@@ -94,6 +96,24 @@ def timeline(m):
     for r in out:
         r["steps"] = [next(n for t, n in STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
         r["current"] = r["last"] == last
+    return out
+
+
+def sector_grid(m):
+    """Rows: sectors, ordered by latest weight then by most recent quarter held. Same steps as the holdings grid."""
+    quarters = m["quarters"]
+    rows = {}
+    for i, q in enumerate(quarters):
+        for name, w in q["sectors"]:
+            r = rows.setdefault(name, {"name": name, "cells": [0.0] * len(quarters), "last": i})
+            r["cells"][i] = w
+            r["last"] = i
+    last = len(quarters) - 1
+    out = sorted(rows.values(), key=lambda r: (r["last"] != last, -r["cells"][last] if r["last"] == last else -r["last"]))
+    for r in out:
+        r["steps"] = [next(n for t, n in SECTOR_STEPS if w >= t) if w > 0 else 0 for w in r["cells"]]
+        r["current"] = r["last"] == last
+        r["fund"] = True          # no link
     return out
 
 
@@ -206,7 +226,7 @@ def build():
     render("404.html", "404.html", "/")
     for m in managers:
         render("manager.html", f"m/{m['id']}.html", "../", m=m, q=m["latest"], companies=companies,
-               grid=timeline(m), step_labels=STEP_LABELS)
+               grid=timeline(m), sgrid=sector_grid(m), step_labels=STEP_LABELS, sector_labels=SECTOR_LABELS)
         render("activity.html", f"m/{m['id']}/activity.html", "../../", m=m, companies=companies)
         for h in m["history"].values():
             render("stock_history.html", f"m/{m['id']}/stock/{h['slug']}.html", "../../../", m=m, h=h,
@@ -225,6 +245,10 @@ def build():
     if unknown:
         notes.append("These 13F lines have no company name or ticker yet. Add them to data/securities.yaml:\n"
                      + "\n".join(f"- `{k}`: {v}" for k, v in sorted(unknown.items())))
+    nosector = sorted({p["name"] for m in managers for p in m["latest"]["positions"] if p["sector"] == "Unclassified"})
+    if nosector:
+        notes.append("These holdings have no sector yet. Add their SIC code (it's on their EDGAR page) "
+                     "to data/securities.yaml: " + ", ".join(nosector))
     if warnings:
         notes.append("\n".join(f"- {w}" for w in warnings))
     if notes:

@@ -1,0 +1,48 @@
+{% macro heat(rows, m, root, step_labels, label, link=true) %}
+<div class="hm" role="img" aria-label="{{ label }}">
+  <div class="hm-scroll">
+    <div class="hm-grid" style="--cols: {{ m.quarters|length }}">
+      <span class="hm-corner"></span>
+      {% for h in m.quarters %}<span class="hm-year">{% if h.label.startswith("Q1") %}{{ h.period[:4] }}{% endif %}</span>{% endfor %}
+      {% for r in rows %}
+        <span class="hm-name{% if not r.current %} past{% endif %}"><span class="hm-t">{% if link and not r.fund %}<a href="{{ root }}c/{{ r.slug }}.html">{{ r.name }}</a>{% else %}{{ r.name }}{% endif %}</span></span>
+        {% for w in r.cells %}<span class="hm-c s{{ r.steps[loop.index0] }}"{% if w %} data-tip="{{ r.name }} · {{ m.quarters[loop.index0].label }} · {{ w|pct }}"{% endif %}></span>{% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+  <p class="hm-legend"><span class="hm-lt">Weight</span>{% for l in step_labels %}<span class="hm-k"><span class="hm-c s{{ loop.index }}"></span>{{ l }}</span>{% endfor %}</p>
+  <div class="hm-tip" hidden></div>
+</div>
+{% endmacro %}
+
+{% macro heat_script() %}
+<script>
+document.querySelectorAll('.hm').forEach(function (box) {
+  var tip = box.querySelector('.hm-tip'), sc = box.querySelector('.hm-scroll');
+  sc.scrollLeft = sc.scrollWidth;  // start at the latest quarter
+  function show(e) {
+    var c = e.target.closest('.hm-c[data-tip]');
+    if (!c) { tip.hidden = true; return; }
+    tip.textContent = c.dataset.tip; tip.hidden = false;
+    var b = box.getBoundingClientRect(), r = c.getBoundingClientRect();
+    var x = Math.min(Math.max(r.left - b.left + r.width / 2 - tip.offsetWidth / 2, 0), b.width - tip.offsetWidth);
+    tip.style.left = x + 'px'; tip.style.top = (r.top - b.top - tip.offsetHeight - 6) + 'px';
+  }
+  box.addEventListener('mouseover', show);
+  box.addEventListener('click', show);
+  box.addEventListener('mouseleave', function () { tip.hidden = true; });
+});
+</script>
+{% endmacro %}
+
+{% macro sector_bars(sectors) %}
+{% set top = sectors[0][1] if sectors else 1 %}
+<table class="sbars">
+  <caption class="sr">Sector weights in this 13F</caption>
+  <tbody>
+  {% for name, w in sectors %}
+    <tr><th scope="row">{{ name }}</th><td class="sb"><span class="sbar" style="width: {{ (w / top * 100)|round(1) }}%"></span></td><td class="num">{{ w|pct }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% endmacro %}
