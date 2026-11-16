@@ -1,0 +1,2544 @@
+{
+ "filings": [
+  {
+   "accession": "0001172661-19-000319",
+   "form": "13F-HR",
+   "filed": "2019-02-06",
+   "period": "2018-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266119000319/0001172661-19-000319-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 110000,
+     "unit": "SH",
+     "value": 41994000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 206500,
+     "unit": "SH",
+     "value": 27070000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 19900,
+     "unit": "SH",
+     "value": 20795000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 590700,
+     "unit": "SH",
+     "value": 15039000
+    },
+    {
+     "cusip": "819047101",
+     "put_call": null,
+     "issuer": "SHAKE SHACK INC",
+     "class": "CL A",
+     "shares": 165000,
+     "unit": "SH",
+     "value": 7494000
+    }
+   ],
+   "table_total": 112392000,
+   "first_seen": "2026-11-16T19:26:12+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-001120",
+   "form": "13F-HR",
+   "filed": "2019-05-09",
+   "period": "2019-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266119001120/0001172661-19-001120-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 47905000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 211500,
+     "unit": "SH",
+     "value": 35255000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 19900,
+     "unit": "SH",
+     "value": 23420000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 608400,
+     "unit": "SH",
+     "value": 19919000
+    }
+   ],
+   "table_total": 126499000,
+   "first_seen": "2026-11-16T19:26:12+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-001663",
+   "form": "13F-HR",
+   "filed": "2019-08-09",
+   "period": "2019-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266119001663/0001172661-19-001663-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 106000,
+     "unit": "SH",
+     "value": 51286000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 211500,
+     "unit": "SH",
+     "value": 40820000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 608400,
+     "unit": "SH",
+     "value": 21981000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 19900,
+     "unit": "SH",
+     "value": 21548000
+    }
+   ],
+   "table_total": 135635000,
+   "first_seen": "2026-11-16T19:26:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-002196",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266119002196/0001172661-19-002196-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 115000,
+     "unit": "SH",
+     "value": 53051000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 246500,
+     "unit": "SH",
+     "value": 43897000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 19900,
+     "unit": "SH",
+     "value": 24301000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 719566,
+     "unit": "SH",
+     "value": 18291000
+    }
+   ],
+   "table_total": 139540000,
+   "first_seen": "2026-11-16T19:26:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-000321",
+   "form": "13F-HR",
+   "filed": "2020-02-05",
+   "period": "2019-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266120000321/0001172661-20-000321-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 114500,
+     "unit": "SH",
+     "value": 50647000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 206400,
+     "unit": "SH",
+     "value": 42364000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 271500,
+     "unit": "SH",
+     "value": 33226000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 747544,
+     "unit": "SH",
+     "value": 28003000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 8200,
+     "unit": "SH",
+     "value": 10983000
+    }
+   ],
+   "table_total": 165223000,
+   "first_seen": "2026-11-16T19:26:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-001167",
+   "form": "13F-HR",
+   "filed": "2020-05-08",
+   "period": "2020-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266120001167/0001172661-20-001167-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 238000,
+     "unit": "SH",
+     "value": 39698000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 127400,
+     "unit": "SH",
+     "value": 32575000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 300100,
+     "unit": "SH",
+     "value": 30256000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 770317,
+     "unit": "SH",
+     "value": 20051000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 11400,
+     "unit": "SH",
+     "value": 13246000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 94642,
+     "unit": "SH",
+     "value": 5214000
+    }
+   ],
+   "table_total": 141040000,
+   "first_seen": "2026-11-16T19:26:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-001613",
+   "form": "13F-HR",
+   "filed": "2020-08-10",
+   "period": "2020-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266120001613/0001172661-20-001613-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 183000,
+     "unit": "SH",
+     "value": 76679000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 291000,
+     "unit": "SH",
+     "value": 74560000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 260000,
+     "unit": "SH",
+     "value": 59038000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 795956,
+     "unit": "SH",
+     "value": 33979000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 94642,
+     "unit": "SH",
+     "value": 11376000
+    }
+   ],
+   "table_total": 255632000,
+   "first_seen": "2026-11-16T19:26:17+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-002134",
+   "form": "13F-HR",
+   "filed": "2020-11-13",
+   "period": "2020-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266120002134/0001172661-20-002134-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 263800,
+     "unit": "SH",
+     "value": 67229000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 253000,
+     "unit": "SH",
+     "value": 66261000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 183000,
+     "unit": "SH",
+     "value": 61971000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 719000,
+     "unit": "SH",
+     "value": 56729000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 557000,
+     "unit": "SH",
+     "value": 14961000
+    }
+   ],
+   "table_total": 267151000,
+   "first_seen": "2026-11-16T19:26:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-000255",
+   "form": "13F-HR",
+   "filed": "2021-02-04",
+   "period": "2020-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266121000255/0001172661-21-000255-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 253000,
+     "unit": "SH",
+     "value": 69109000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 197300,
+     "unit": "SH",
+     "value": 68293000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 263800,
+     "unit": "SH",
+     "value": 65939000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 1016800,
+     "unit": "SH",
+     "value": 42950000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 316298,
+     "unit": "SH",
+     "value": 37864000
+    }
+   ],
+   "table_total": 284155000,
+   "first_seen": "2026-11-16T19:26:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-001048",
+   "form": "13F-HR",
+   "filed": "2021-04-30",
+   "period": "2021-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266121001048/0001172661-21-001048-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 301800,
+     "unit": "SH",
+     "value": 84269000
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 213695,
+     "unit": "SH",
+     "value": 76979000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 210100,
+     "unit": "SH",
+     "value": 61881000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 219513,
+     "unit": "SH",
+     "value": 46508000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 1050558,
+     "unit": "SH",
+     "value": 42684000
+    }
+   ],
+   "table_total": 312321000,
+   "first_seen": "2026-11-16T19:26:19+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-001557",
+   "form": "13F-HR",
+   "filed": "2021-07-28",
+   "period": "2021-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266121001557/0001172661-21-001557-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 221495,
+     "unit": "SH",
+     "value": 100583000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 333700,
+     "unit": "SH",
+     "value": 96866000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 214600,
+     "unit": "SH",
+     "value": 74619000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 219513,
+     "unit": "SH",
+     "value": 53620000
+    },
+    {
+     "cusip": "83088V102",
+     "put_call": null,
+     "issuer": "SLACK TECHNOLOGIES INC",
+     "class": "COM CL A",
+     "shares": 1088058,
+     "unit": "SH",
+     "value": 48201000
+    }
+   ],
+   "table_total": 373889000,
+   "first_seen": "2026-11-16T19:26:20+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-002068",
+   "form": "13F-HR",
+   "filed": "2021-10-27",
+   "period": "2021-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266121002068/0001172661-21-002068-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 213995,
+     "unit": "SH",
+     "value": 125251000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 297308,
+     "unit": "SH",
+     "value": 80636000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 214600,
+     "unit": "SH",
+     "value": 72833000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 333700,
+     "unit": "SH",
+     "value": 65395000
+    }
+   ],
+   "table_total": 344115000,
+   "first_seen": "2026-11-16T19:26:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-000255",
+   "form": "13F-HR",
+   "filed": "2022-02-08",
+   "period": "2021-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266122000255/0001172661-22-000255-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 193158,
+     "unit": "SH",
+     "value": 132831000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 318943,
+     "unit": "SH",
+     "value": 81053000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 223400,
+     "unit": "SH",
+     "value": 75141000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 411400,
+     "unit": "SH",
+     "value": 64915000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 133035,
+     "unit": "SH",
+     "value": 30836000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 11700,
+     "unit": "SH",
+     "value": 1545000
+    }
+   ],
+   "table_total": 386321000,
+   "first_seen": "2026-11-16T19:26:22+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-001230",
+   "form": "13F-HR",
+   "filed": "2022-05-11",
+   "period": "2022-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266122001230/0001172661-22-001230-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital GmbH",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 195946,
+     "unit": "SH",
+     "value": 107843000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE COM INC",
+     "class": "COM",
+     "shares": 316743,
+     "unit": "SH",
+     "value": 67251000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 494935,
+     "unit": "SH",
+     "value": 59041000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 450800,
+     "unit": "SH",
+     "value": 47091000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 182900,
+     "unit": "SH",
+     "value": 40670000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 11700,
+     "unit": "SH",
+     "value": 1043000
+    }
+   ],
+   "table_total": 322939000,
+   "first_seen": "2026-11-16T19:26:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-001943",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266122001943/0001172661-22-001943-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 198446,
+     "unit": "SH",
+     "value": 93946000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 314143,
+     "unit": "SH",
+     "value": 51846000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 208400,
+     "unit": "SH",
+     "value": 33605000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 450800,
+     "unit": "SH",
+     "value": 29550000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 517335,
+     "unit": "SH",
+     "value": 11681000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 22200,
+     "unit": "SH",
+     "value": 1338000
+    }
+   ],
+   "table_total": 221966000,
+   "first_seen": "2026-11-16T19:26:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-002413",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266122002413/0001172661-22-002413-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 195246,
+     "unit": "SH",
+     "value": 85518000
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 305143,
+     "unit": "SH",
+     "value": 43892000
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 455800,
+     "unit": "SH",
+     "value": 35657000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 210400,
+     "unit": "SH",
+     "value": 28547000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 709835,
+     "unit": "SH",
+     "value": 14410000
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 1486000
+    }
+   ],
+   "table_total": 209510000,
+   "first_seen": "2026-11-16T19:26:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-000424",
+   "form": "13F-HR",
+   "filed": "2023-02-03",
+   "period": "2022-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266123000424/0001172661-23-000424-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 195246,
+     "unit": "SH",
+     "value": 92624702
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 303243,
+     "unit": "SH",
+     "value": 40206989
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 455800,
+     "unit": "SH",
+     "value": 35019114
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 210400,
+     "unit": "SH",
+     "value": 25319536
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 709835,
+     "unit": "SH",
+     "value": 3364618
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 1188250
+    }
+   ],
+   "table_total": 197723209,
+   "first_seen": "2026-11-16T19:26:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-001689",
+   "form": "13F-HR",
+   "filed": "2023-04-14",
+   "period": "2023-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266123001689/0001172661-23-001689-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 169346,
+     "unit": "SH",
+     "value": 73841630
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 303243,
+     "unit": "SH",
+     "value": 60581887
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 274100,
+     "unit": "SH",
+     "value": 58092754
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 455800,
+     "unit": "SH",
+     "value": 45488840
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 203747,
+     "unit": "SH",
+     "value": 16821352
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 709835,
+     "unit": "SH",
+     "value": 6949285
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 1072250
+    }
+   ],
+   "table_total": 262847998,
+   "first_seen": "2026-11-16T19:26:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-002515",
+   "form": "13F-HR",
+   "filed": "2023-07-17",
+   "period": "2023-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266123002515/0001172661-23-002515-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 172846,
+     "unit": "SH",
+     "value": 87793669
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 269100,
+     "unit": "SH",
+     "value": 77226318
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 298543,
+     "unit": "SH",
+     "value": 63070194
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 455800,
+     "unit": "SH",
+     "value": 35661792
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 288747,
+     "unit": "SH",
+     "value": 23986213
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 709835,
+     "unit": "SH",
+     "value": 18398923
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 492000
+    }
+   ],
+   "table_total": 306629109,
+   "first_seen": "2026-11-16T19:26:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-003333",
+   "form": "13F-HR",
+   "filed": "2023-10-10",
+   "period": "2023-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266123003333/0001172661-23-003333-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 268583,
+     "unit": "SH",
+     "value": 80631302
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 157696,
+     "unit": "SH",
+     "value": 72559084
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 294843,
+     "unit": "SH",
+     "value": 59788264
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 466300,
+     "unit": "SH",
+     "value": 42806340
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 636135,
+     "unit": "SH",
+     "value": 26704947
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 288747,
+     "unit": "SH",
+     "value": 24993940
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 199100,
+     "unit": "SH",
+     "value": 19525737
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 705000
+    }
+   ],
+   "table_total": 327714614,
+   "first_seen": "2026-11-16T19:26:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-000775",
+   "form": "13F-HR",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266124000775/0001172661-24-000775-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 145888,
+     "unit": "SH",
+     "value": 77718914
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 198383,
+     "unit": "SH",
+     "value": 70219647
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 448287,
+     "unit": "SH",
+     "value": 55148267
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 186849,
+     "unit": "SH",
+     "value": 49167446
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 715412,
+     "unit": "SH",
+     "value": 37873911
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 199100,
+     "unit": "SH",
+     "value": 29130321
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 309947,
+     "unit": "SH",
+     "value": 25694606
+    },
+    {
+     "cusip": "898202106",
+     "put_call": null,
+     "issuer": "TRUPANION INC",
+     "class": "COM",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 762750
+    }
+   ],
+   "table_total": 345715862,
+   "first_seen": "2026-11-16T19:26:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-001979",
+   "form": "13F-HR",
+   "filed": "2024-05-02",
+   "period": "2024-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266124001979/0001172661-24-001979-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 198383,
+     "unit": "SH",
+     "value": 96330817
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 137688,
+     "unit": "SH",
+     "value": 75941816
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 847531,
+     "unit": "SH",
+     "value": 74506450
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 431280,
+     "unit": "SH",
+     "value": 59292374
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 309947,
+     "unit": "SH",
+     "value": 34624179
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 290400,
+     "unit": "SH",
+     "value": 33759000
+    }
+   ],
+   "table_total": 374454636,
+   "first_seen": "2026-11-16T19:26:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-003132",
+   "form": "13F-HR",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266124003132/0001172661-24-003132-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 819631,
+     "unit": "SH",
+     "value": 105502902
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 183083,
+     "unit": "SH",
+     "value": 92314110
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 137688,
+     "unit": "SH",
+     "value": 70865260
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 396280,
+     "unit": "SH",
+     "value": 63036260
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 317689,
+     "unit": "SH",
+     "value": 42236753
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 309947,
+     "unit": "SH",
+     "value": 37999502
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 1868524
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 7000,
+     "unit": "SH",
+     "value": 1799700
+    }
+   ],
+   "table_total": 415623011,
+   "first_seen": "2026-11-16T19:26:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-004554",
+   "form": "13F-HR",
+   "filed": "2024-11-12",
+   "period": "2024-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266124004554/0001172661-24-004554-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 761731,
+     "unit": "SH",
+     "value": 132624984
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 149583,
+     "unit": "SH",
+     "value": 85627293
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 396280,
+     "unit": "SH",
+     "value": 66246128
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 134188,
+     "unit": "SH",
+     "value": 59501643
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 315547,
+     "unit": "SH",
+     "value": 43974630
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 319389,
+     "unit": "SH",
+     "value": 43056831
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 551429,
+     "unit": "SH",
+     "value": 24825334
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 616337,
+     "unit": "SH",
+     "value": 22927736
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2087067
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 2064635
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 7000,
+     "unit": "SH",
+     "value": 1915970
+    }
+   ],
+   "table_total": 484852251,
+   "first_seen": "2026-11-16T19:26:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-000291",
+   "form": "13F-HR",
+   "filed": "2025-01-22",
+   "period": "2024-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266125000291/0001172661-25-000291-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 547514,
+     "unit": "SH",
+     "value": 111342447
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 149583,
+     "unit": "SH",
+     "value": 87582342
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 359780,
+     "unit": "SH",
+     "value": 77190799
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 131588,
+     "unit": "SH",
+     "value": 61775302
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 224347,
+     "unit": "SH",
+     "value": 40146896
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 345489,
+     "unit": "SH",
+     "value": 33508978
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 522729,
+     "unit": "SH",
+     "value": 25179856
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 616337,
+     "unit": "SH",
+     "value": 20357611
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 4847250
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 2540603
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2118924
+    }
+   ],
+   "table_total": 466591008,
+   "first_seen": "2026-11-16T19:26:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-001492",
+   "form": "13F-HR",
+   "filed": "2025-04-14",
+   "period": "2025-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266125001492/0001172661-25-001492-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 547514,
+     "unit": "SH",
+     "value": 114474227
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 142988,
+     "unit": "SH",
+     "value": 82412564
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 128929,
+     "unit": "SH",
+     "value": 66572489
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 338000,
+     "unit": "SH",
+     "value": 55222440
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 335569,
+     "unit": "SH",
+     "value": 39714591
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 212480,
+     "unit": "SH",
+     "value": 35184563
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 492265,
+     "unit": "SH",
+     "value": 25627316
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 659652,
+     "unit": "SH",
+     "value": 24413721
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 4316985
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 2708060
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2347219
+    }
+   ],
+   "table_total": 452994175,
+   "first_seen": "2026-11-16T19:26:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-002493",
+   "form": "13F-HR",
+   "filed": "2025-07-08",
+   "period": "2025-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266125002493/0001172661-25-002493-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 510352,
+     "unit": "SH",
+     "value": 171968210
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 142988,
+     "unit": "SH",
+     "value": 105538013
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 128929,
+     "unit": "SH",
+     "value": 65680300
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 338000,
+     "unit": "SH",
+     "value": 53559480
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 849920,
+     "unit": "SH",
+     "value": 47094067
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 335569,
+     "unit": "SH",
+     "value": 35120652
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 659652,
+     "unit": "SH",
+     "value": 22375396
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 492265,
+     "unit": "SH",
+     "value": 22009168
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 5731000
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 5720215
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 2868203
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2542958
+    }
+   ],
+   "table_total": 540207662,
+   "first_seen": "2026-11-16T19:26:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-004353",
+   "form": "13F-HR",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266125004353/0001172661-25-004353-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 445255,
+     "unit": "SH",
+     "value": 167967996
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 139712,
+     "unit": "SH",
+     "value": 102601699
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 130431,
+     "unit": "SH",
+     "value": 60902147
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 314996,
+     "unit": "SH",
+     "value": 55952739
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 799267,
+     "unit": "SH",
+     "value": 54997562
+    },
+    {
+     "cusip": "722304102",
+     "put_call": null,
+     "issuer": "PDD HOLDINGS INC",
+     "class": "SPONSORED ADS",
+     "shares": 301232,
+     "unit": "SH",
+     "value": 39813833
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 603416,
+     "unit": "SH",
+     "value": 23599600
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 444321,
+     "unit": "SH",
+     "value": 19070257
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 7905612
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 5956425
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 10980,
+     "unit": "SH",
+     "value": 2602260
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 2579895
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2286757
+    }
+   ],
+   "table_total": 546236782,
+   "first_seen": "2026-11-16T19:26:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-26-000401",
+   "form": "13F-HR",
+   "filed": "2026-01-30",
+   "period": "2025-12-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000117266126000401/0001172661-26-000401-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 303403,
+     "unit": "SH",
+     "value": 128042134
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 136311,
+     "unit": "SH",
+     "value": 89977528
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 130431,
+     "unit": "SH",
+     "value": 57840931
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 752478,
+     "unit": "SH",
+     "value": 48391860
+    },
+    {
+     "cusip": "M98068105",
+     "put_call": null,
+     "issuer": "WIX COM LTD",
+     "class": "SHS",
+     "shares": 314996,
+     "unit": "SH",
+     "value": 32724934
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 603416,
+     "unit": "SH",
+     "value": 28390723
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 444321,
+     "unit": "SH",
+     "value": 21211885
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 10178760
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 11500,
+     "unit": "SH",
+     "value": 5561630
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 10980,
+     "unit": "SH",
+     "value": 2908712
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2328316
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 12395,
+     "unit": "SH",
+     "value": 1975267
+    }
+   ],
+   "table_total": 429532680,
+   "first_seen": "2026-11-16T19:26:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001766596-26-000005",
+   "form": "13F-HR",
+   "filed": "2026-05-11",
+   "period": "2026-03-31",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000176659626000005/0001766596-26-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 377298,
+     "unit": "SH",
+     "value": 118818309
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 145534,
+     "unit": "SH",
+     "value": 83313117
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 124160,
+     "unit": "SH",
+     "value": 52697453
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 757919,
+     "unit": "SH",
+     "value": 51111227
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 558380,
+     "unit": "SH",
+     "value": 28080930
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 421539,
+     "unit": "SH",
+     "value": 20562673
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 25220,
+     "unit": "SH",
+     "value": 9407607
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 9351451
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 15511,
+     "unit": "SH",
+     "value": 2895439
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 2817063
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 21395,
+     "unit": "SH",
+     "value": 2676998
+    },
+    {
+     "cusip": "617700109",
+     "put_call": null,
+     "issuer": "MORNINGSTAR INC",
+     "class": "COM",
+     "shares": 3700,
+     "unit": "SH",
+     "value": 653790
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 500,
+     "unit": "SH",
+     "value": 242455
+    }
+   ],
+   "table_total": 382628512,
+   "first_seen": "2026-11-16T19:26:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001766596-26-000007",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1766596,
+   "url": "https://www.sec.gov/Archives/edgar/data/1766596/000176659626000007/0001766596-26-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "RV Capital AG",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 1763296,
+     "unit": "SH",
+     "value": 116060143
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "META PLATFORMS INC",
+     "class": "CL A",
+     "shares": 138997,
+     "unit": "SH",
+     "value": 78295620
+    },
+    {
+     "cusip": "225310101",
+     "put_call": null,
+     "issuer": "CREDIT ACCEP CORP MICH",
+     "class": "COM",
+     "shares": 108272,
+     "unit": "SH",
+     "value": 68941113
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 561086,
+     "unit": "SH",
+     "value": 48836925
+    },
+    {
+     "cusip": "44332N106",
+     "put_call": null,
+     "issuer": "H WORLD GROUP LTD",
+     "class": "SPONSORED ADS",
+     "shares": 513413,
+     "unit": "SH",
+     "value": 21419590
+    },
+    {
+     "cusip": "98850P109",
+     "put_call": null,
+     "issuer": "YUM CHINA HLDGS INC",
+     "class": "COM",
+     "shares": 398021,
+     "unit": "SH",
+     "value": 16267118
+    },
+    {
+     "cusip": "594918104",
+     "put_call": null,
+     "issuer": "MICROSOFT CORP",
+     "class": "COM",
+     "shares": 33100,
+     "unit": "SH",
+     "value": 12346962
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL A",
+     "shares": 32520,
+     "unit": "SH",
+     "value": 11621672
+    },
+    {
+     "cusip": "244199105",
+     "put_call": null,
+     "issuer": "DEERE & CO",
+     "class": "COM",
+     "shares": 5001,
+     "unit": "SH",
+     "value": 3172284
+    },
+    {
+     "cusip": "70432V102",
+     "put_call": null,
+     "issuer": "PAYCOM SOFTWARE INC",
+     "class": "COM",
+     "shares": 21395,
+     "unit": "SH",
+     "value": 2688924
+    },
+    {
+     "cusip": "79466L302",
+     "put_call": null,
+     "issuer": "SALESFORCE INC",
+     "class": "COM",
+     "shares": 15511,
+     "unit": "SH",
+     "value": 2429953
+    },
+    {
+     "cusip": "617700109",
+     "put_call": null,
+     "issuer": "MORNINGSTAR INC",
+     "class": "COM",
+     "shares": 3700,
+     "unit": "SH",
+     "value": 577274
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 500,
+     "unit": "SH",
+     "value": 229565
+    }
+   ],
+   "table_total": 382887143,
+   "first_seen": "2026-11-16T19:26:40+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "RV Capital AG"
+}

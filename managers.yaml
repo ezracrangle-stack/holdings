@@ -282,3 +282,23 @@ managers:
     cik: 1039565
     letters: no
     why: "Irving Kahn was Ben Graham's teaching assistant at Columbia and started the firm with his sons in 1978; he died in 2015, at 109. The firm still looks for the obscure and the out of favor, and Citigroup, Merck, Pfizer, BP and Exxon Mobil are in every 13F since 2013."
+
+  - id: howard-marks
+    name: Howard Marks
+    firm: Oaktree Capital Management
+    cik: 949509
+    letters: no
+    why: "Howard co-founded Oaktree in 1995 to buy the debt other investors wouldn't touch, and his memos are worth reading on their own. Most of Oaktree's money is in credit, so the 13F shows only a slice: listed stocks, many received in restructurings, and convertible bonds."
+
+  - id: prem-watsa
+    name: Prem Watsa
+    firm: Fairfax Financial Holdings
+    cik: 915191
+    letters: no
+    why: "Prem has run Fairfax since 1985 and invests its insurance float the way Berkshire does. The 13F shows only its US-listed stakes; two gold miners, Equinox Gold and Eldorado Gold, are now 44% of it."
+
+  - id: robert-vinall
+    name: Robert Vinall
+    firm: RV Capital
+    cik: 1766596
+    letters: rv-capital

@@ -74,3 +74,5 @@
 - {ticker: EDU, date: 2021-03-16, ratio: 10}
 - {ticker: VHI, date: 2020-06-01, ratio: 0.0833333}
 - {ticker: FLG, date: 2024-07-11, ratio: 0.3333333}
+- {ticker: EGLE, date: 2020-09-15, ratio: 0.1428571}
+- {ticker: OCSL, date: 2023-01-23, ratio: 0.3333333}
