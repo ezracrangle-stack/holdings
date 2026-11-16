@@ -26,3 +26,8 @@
 - {ticker: TSCO, date: 2024-12-20, ratio: 5}
 - {ticker: ORLY, date: 2025-06-10, ratio: 15}
 - {ticker: BKNG, date: 2026-04-02, ratio: 25}
+- {ticker: MA, date: 2014-01-21, ratio: 10}
+- {ticker: SIRI, date: 2024-09-09, ratio: 0.1}
+- {ticker: IBKR, date: 2025-06-18, ratio: 4}
+- {ticker: DVA, date: 2013-09-06, ratio: 2}
+- {ticker: GL, date: 2014-07-01, ratio: 1.5}

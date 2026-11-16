@@ -64,3 +64,24 @@ managers:
     cik: 1056831
     letters: no
     why: "St. Joe, the Florida land company, is 76% of Bruce's 13F. It's in every one since 2013, and it went from 7% of the portfolio to as much as 99%."
+
+  - id: warren-buffett
+    name: Warren Buffett
+    firm: Berkshire Hathaway
+    cik: 1067983
+    letters: no
+    why: "Greg Abel became CEO in 2026, but the oldest holdings are Warren's picks: American Express, Coca-Cola and Moody's are in every 13F since 2013."
+
+  - id: glenn-greenberg
+    name: Glenn Greenberg
+    firm: Brave Warrior Advisors
+    cik: [1553733, 789920]
+    letters: no
+    why: "Glenn's firm was called Chieftain Capital before it became Brave Warrior. Primerica is in every one of his 13Fs since 2013, longer than any other stock he owns."
+
+  - id: bryan-lawrence
+    name: Bryan Lawrence
+    firm: Oakcliff Capital
+    cik: 1657335
+    letters: no
+    why: "Bryan buys great businesses (a natural monopoly, a rational duopoly or the low-cost operator) when a crisis of confidence cuts the price. Interactive Brokers is in every 13F since his first, in 2017."

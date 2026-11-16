@@ -1,0 +1,4049 @@
+{
+ "filings": [
+  {
+   "accession": "0001657335-17-000002",
+   "form": "13F-HR",
+   "filed": "2017-05-12",
+   "period": "2017-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733517000002/0001657335-17-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 484354,
+     "unit": "SH",
+     "value": 16817000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GAS PARTNERS L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15220000
+    },
+    {
+     "cusip": "30219G108",
+     "put_call": null,
+     "issuer": "EXPRESS SCRIPTS HLDG CO",
+     "class": "COM",
+     "shares": 207637,
+     "unit": "SH",
+     "value": 13685000
+    },
+    {
+     "cusip": "G0750C108",
+     "put_call": null,
+     "issuer": "AXALTA COATING SYS LTD",
+     "class": "COM",
+     "shares": 374049,
+     "unit": "SH",
+     "value": 12044000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49727,
+     "unit": "SH",
+     "value": 10948000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 170000,
+     "unit": "SH",
+     "value": 10067000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 53200,
+     "unit": "SH",
+     "value": 9178000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 10000,
+     "unit": "SH",
+     "value": 8296000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 224850,
+     "unit": "SH",
+     "value": 6168000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 260578,
+     "unit": "SH",
+     "value": 2087000
+    }
+   ],
+   "table_total": 104511000,
+   "first_seen": "2026-11-16T04:31:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-17-000003",
+   "form": "13F-HR",
+   "filed": "2017-08-14",
+   "period": "2017-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733517000003/0001657335-17-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 484354,
+     "unit": "SH",
+     "value": 18125000
+    },
+    {
+     "cusip": "30219G108",
+     "put_call": null,
+     "issuer": "EXPRESS SCRIPTS HLDG CO",
+     "class": "COM",
+     "shares": 225637,
+     "unit": "SH",
+     "value": 14405000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49727,
+     "unit": "SH",
+     "value": 13370000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GAS PARTNERS L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 12319000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 170000,
+     "unit": "SH",
+     "value": 10720000
+    },
+    {
+     "cusip": "G0750C108",
+     "put_call": null,
+     "issuer": "AXALTA COATING SYS LTD",
+     "class": "COM",
+     "shares": 324049,
+     "unit": "SH",
+     "value": 10383000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 53200,
+     "unit": "SH",
+     "value": 9515000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 10000,
+     "unit": "SH",
+     "value": 9087000
+    },
+    {
+     "cusip": "05464C101",
+     "put_call": null,
+     "issuer": "AXON ENTERPRISE INC",
+     "class": "COM",
+     "shares": 208204,
+     "unit": "SH",
+     "value": 5234000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 123586,
+     "unit": "SH",
+     "value": 2929000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 260578,
+     "unit": "SH",
+     "value": 2025000
+    }
+   ],
+   "table_total": 108111000,
+   "first_seen": "2026-11-16T04:31:34+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-17-000004",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733517000004/0001657335-17-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 463888,
+     "unit": "SH",
+     "value": 20893000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GAS PARTNERS L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1563027,
+     "unit": "SH",
+     "value": 17740000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 53200,
+     "unit": "SH",
+     "value": 13177000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 170000,
+     "unit": "SH",
+     "value": 12887000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 12553000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 11797000
+    },
+    {
+     "cusip": "G0750C108",
+     "put_call": null,
+     "issuer": "AXALTA COATING SYS LTD",
+     "class": "COM",
+     "shares": 324049,
+     "unit": "SH",
+     "value": 9371000
+    },
+    {
+     "cusip": "30219G108",
+     "put_call": null,
+     "issuer": "EXPRESS SCRIPTS HLDG CO",
+     "class": "COM",
+     "shares": 140844,
+     "unit": "SH",
+     "value": 8918000
+    },
+    {
+     "cusip": "05464C101",
+     "put_call": null,
+     "issuer": "AXON ENTERPRISE INC",
+     "class": "COM",
+     "shares": 318204,
+     "unit": "SH",
+     "value": 7685000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 73321,
+     "unit": "SH",
+     "value": 2039000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 260578,
+     "unit": "SH",
+     "value": 1490000
+    }
+   ],
+   "table_total": 118542000,
+   "first_seen": "2026-11-16T04:31:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-18-000001",
+   "form": "13F-HR",
+   "filed": "2018-02-13",
+   "period": "2017-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733518000001/0001657335-18-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 319469,
+     "unit": "SH",
+     "value": 18915000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 17784000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 13485000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 39000,
+     "unit": "SH",
+     "value": 13102000
+    },
+    {
+     "cusip": "02079K305",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 12870000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 195000,
+     "unit": "SH",
+     "value": 12505000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 47887,
+     "unit": "SH",
+     "value": 12138000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 41200,
+     "unit": "SH",
+     "value": 9649000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 73321,
+     "unit": "SH",
+     "value": 1964000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 260578,
+     "unit": "SH",
+     "value": 1586000
+    }
+   ],
+   "table_total": 113998000,
+   "first_seen": "2026-11-16T04:31:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-18-000003",
+   "form": "13F-HR",
+   "filed": "2018-05-14",
+   "period": "2018-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733518000003/0001657335-18-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 244496,
+     "unit": "SH",
+     "value": 16439000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15468000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 49000,
+     "unit": "SH",
+     "value": 15249000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 15072000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 236776,
+     "unit": "SH",
+     "value": 14665000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 64387,
+     "unit": "SH",
+     "value": 13705000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 12691000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 43100,
+     "unit": "SH",
+     "value": 9619000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 398362,
+     "unit": "SH",
+     "value": 2736000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 48784,
+     "unit": "SH",
+     "value": 1220000
+    }
+   ],
+   "table_total": 116869000,
+   "first_seen": "2026-11-16T04:31:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-18-000005",
+   "form": "13F-HR/A",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733518000005/0001657335-18-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 244496,
+     "unit": "SH",
+     "value": 16439000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15468000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 49000,
+     "unit": "SH",
+     "value": 15249000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 15072000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 236776,
+     "unit": "SH",
+     "value": 14665000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 64387,
+     "unit": "SH",
+     "value": 13705000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 12691000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 43100,
+     "unit": "SH",
+     "value": 9619000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 398362,
+     "unit": "SH",
+     "value": 2736000
+    },
+    {
+     "cusip": "01861G100",
+     "put_call": null,
+     "issuer": "ALLIANCE HOLDINGS GP LP",
+     "class": "COM UNITS LP",
+     "shares": 48784,
+     "unit": "SH",
+     "value": 1220000
+    }
+   ],
+   "table_total": 116864000,
+   "first_seen": "2026-11-16T04:31:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001657335-18-000006",
+   "form": "13F-HR",
+   "filed": "2018-08-15",
+   "period": "2018-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000165733518000006/0001657335-18-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 74500,
+     "unit": "SH",
+     "value": 21844000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 236776,
+     "unit": "SH",
+     "value": 17253000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC COM",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 16948000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 16212000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 229469,
+     "unit": "SH",
+     "value": 14780000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 13722000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 43100,
+     "unit": "SH",
+     "value": 10473000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 36200,
+     "unit": "SH",
+     "value": 8441000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 233264,
+     "unit": "SH",
+     "value": 8434000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 3978000
+    }
+   ],
+   "table_total": 132089000,
+   "first_seen": "2026-11-16T04:31:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-18-002032",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266118002032/0001172661-18-002032-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 74500,
+     "unit": "SH",
+     "value": 24278000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 18282000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 16163000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 67100,
+     "unit": "SH",
+     "value": 15846000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM",
+     "shares": 285955,
+     "unit": "SH",
+     "value": 15816000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 14680000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 156040,
+     "unit": "SH",
+     "value": 11652000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 233264,
+     "unit": "SH",
+     "value": 7721000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 104020,
+     "unit": "SH",
+     "value": 6147000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 3466000
+    },
+    {
+     "cusip": "056752108",
+     "put_call": null,
+     "issuer": "BAIDU INC",
+     "class": "SPON ADR REP A",
+     "shares": 2900,
+     "unit": "SH",
+     "value": 663000
+    }
+   ],
+   "table_total": 134714000,
+   "first_seen": "2026-11-16T04:31:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-000506",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266119000506/0001172661-19-000506-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 343955,
+     "unit": "SH",
+     "value": 18797000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 61500,
+     "unit": "SH",
+     "value": 17526000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 49106,
+     "unit": "SH",
+     "value": 16699000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15452000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 12738000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 82650,
+     "unit": "SH",
+     "value": 12404000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 156040,
+     "unit": "SH",
+     "value": 9788000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 239020,
+     "unit": "SH",
+     "value": 7818000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 283264,
+     "unit": "SH",
+     "value": 7566000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 2825000
+    }
+   ],
+   "table_total": 121613000,
+   "first_seen": "2026-11-16T04:31:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-001242",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266119001242/0001172661-19-001242-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 61500,
+     "unit": "SH",
+     "value": 21335000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 40106,
+     "unit": "SH",
+     "value": 18208000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 343955,
+     "unit": "SH",
+     "value": 17844000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15882000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 82650,
+     "unit": "SH",
+     "value": 14462000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 12300,
+     "unit": "SH",
+     "value": 14432000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 235729,
+     "unit": "SH",
+     "value": 13686000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 283264,
+     "unit": "SH",
+     "value": 9753000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 131540,
+     "unit": "SH",
+     "value": 9181000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 2931000
+    }
+   ],
+   "table_total": 137714000,
+   "first_seen": "2026-11-16T04:31:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-001826",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266119001826/0001172661-19-001826-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 61500,
+     "unit": "SH",
+     "value": 24304000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 343955,
+     "unit": "SH",
+     "value": 18642000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 34273,
+     "unit": "SH",
+     "value": 16581000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 16527000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 15781000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 235729,
+     "unit": "SH",
+     "value": 14754000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 131540,
+     "unit": "SH",
+     "value": 11422000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 283264,
+     "unit": "SH",
+     "value": 10217000
+    },
+    {
+     "cusip": "018581108",
+     "put_call": null,
+     "issuer": "ALLIANCE DATA SYSTEMS CORP",
+     "class": "COM",
+     "shares": 30963,
+     "unit": "SH",
+     "value": 4339000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 3137000
+    }
+   ],
+   "table_total": 135704000,
+   "first_seen": "2026-11-16T04:31:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-19-002230",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266119002230/0001172661-19-002230-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 61500,
+     "unit": "SH",
+     "value": 25345000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 343955,
+     "unit": "SH",
+     "value": 18498000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 34273,
+     "unit": "SH",
+     "value": 17845000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 17797000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15667000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 235729,
+     "unit": "SH",
+     "value": 15558000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 217138,
+     "unit": "SH",
+     "value": 10314000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 281064,
+     "unit": "SH",
+     "value": 9421000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 104540,
+     "unit": "SH",
+     "value": 9200000
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 199046,
+     "unit": "SH",
+     "value": 6160000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 2017000
+    }
+   ],
+   "table_total": 147822000,
+   "first_seen": "2026-11-16T04:31:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-000765",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266120000765/0001172661-20-000765-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 61500,
+     "unit": "SH",
+     "value": 29832000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 235729,
+     "unit": "SH",
+     "value": 21699000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 14600,
+     "unit": "SH",
+     "value": 19520000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 34273,
+     "unit": "SH",
+     "value": 19193000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 383955,
+     "unit": "SH",
+     "value": 17900000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 281064,
+     "unit": "SH",
+     "value": 17668000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 15651000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 104540,
+     "unit": "SH",
+     "value": 9165000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 217138,
+     "unit": "SH",
+     "value": 8297000
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 199046,
+     "unit": "SH",
+     "value": 7002000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 1655000
+    }
+   ],
+   "table_total": 167582000,
+   "first_seen": "2026-11-16T04:31:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-001299",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266120001299/0001172661-20-001299-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 69100,
+     "unit": "SH",
+     "value": 30149000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 58873,
+     "unit": "SH",
+     "value": 18851000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16150,
+     "unit": "SH",
+     "value": 18779000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 305951,
+     "unit": "SH",
+     "value": 16855000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 388286,
+     "unit": "SH",
+     "value": 16762000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 12739000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 332845,
+     "unit": "SH",
+     "value": 11636000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 217138,
+     "unit": "SH",
+     "value": 8735000
+    },
+    {
+     "cusip": "143130102",
+     "put_call": null,
+     "issuer": "CARMAX INC",
+     "class": "COM",
+     "shares": 77276,
+     "unit": "SH",
+     "value": 4160000
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 199046,
+     "unit": "SH",
+     "value": 3770000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 528000
+    }
+   ],
+   "table_total": 142964000,
+   "first_seen": "2026-11-16T04:31:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-001705",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266120001705/0001172661-20-001705-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 69100,
+     "unit": "SH",
+     "value": 35244000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 260223,
+     "unit": "SH",
+     "value": 31279000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 58873,
+     "unit": "SH",
+     "value": 26025000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 332845,
+     "unit": "SH",
+     "value": 23292000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16150,
+     "unit": "SH",
+     "value": 22830000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 388286,
+     "unit": "SH",
+     "value": 16219000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 14509000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 217138,
+     "unit": "SH",
+     "value": 11128000
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 284046,
+     "unit": "SH",
+     "value": 7201000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 365000
+    }
+   ],
+   "table_total": 188092000,
+   "first_seen": "2026-11-16T04:31:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-20-002206",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266120002206/0001172661-20-002206-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 210223,
+     "unit": "SH",
+     "value": 46892000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 69100,
+     "unit": "SH",
+     "value": 43142000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 58873,
+     "unit": "SH",
+     "value": 27972000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 16150,
+     "unit": "SH",
+     "value": 23734000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 332845,
+     "unit": "SH",
+     "value": 23489000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 388286,
+     "unit": "SH",
+     "value": 18766000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1654387,
+     "unit": "SH",
+     "value": 16130000
+    },
+    {
+     "cusip": "03782L101",
+     "put_call": null,
+     "issuer": "APPIAN CORP",
+     "class": "CL A",
+     "shares": 217138,
+     "unit": "SH",
+     "value": 14060000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 90000,
+     "unit": "SH",
+     "value": 10220000
+    },
+    {
+     "cusip": "141788109",
+     "put_call": null,
+     "issuer": "CARGURUS INC",
+     "class": "COM CL A",
+     "shares": 284046,
+     "unit": "SH",
+     "value": 6144000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 557189,
+     "unit": "SH",
+     "value": 363000
+    }
+   ],
+   "table_total": 230912000,
+   "first_seen": "2026-11-16T04:31:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-000706",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266121000706/0001172661-21-000706-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 198887,
+     "unit": "SH",
+     "value": 47641000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 65374,
+     "unit": "SH",
+     "value": 43248000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 269895,
+     "unit": "SH",
+     "value": 38533000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 34469000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 13279,
+     "unit": "SH",
+     "value": 23263000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 367347,
+     "unit": "SH",
+     "value": 22379000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1565167,
+     "unit": "SH",
+     "value": 14728000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 119347,
+     "unit": "SH",
+     "value": 14535000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 96025,
+     "unit": "SH",
+     "value": 12361000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 775000
+    }
+   ],
+   "table_total": 251932000,
+   "first_seen": "2026-11-16T04:31:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-001215",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266121001215/0001172661-21-001215-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 73874,
+     "unit": "SH",
+     "value": 45582000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 32746000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 236447,
+     "unit": "SH",
+     "value": 25938000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 91428,
+     "unit": "SH",
+     "value": 23991000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 261847,
+     "unit": "SH",
+     "value": 19125000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9135,
+     "unit": "SH",
+     "value": 18897000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1565167,
+     "unit": "SH",
+     "value": 16575000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 144425,
+     "unit": "SH",
+     "value": 14678000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 148347,
+     "unit": "SH",
+     "value": 12306000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 986000
+    }
+   ],
+   "table_total": 210824000,
+   "first_seen": "2026-11-16T04:31:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-001740",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266121001740/0001172661-21-001740-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 73874,
+     "unit": "SH",
+     "value": 53296000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 36053000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 236447,
+     "unit": "SH",
+     "value": 30012000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 91428,
+     "unit": "SH",
+     "value": 27595000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9135,
+     "unit": "SH",
+     "value": 22895000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 261847,
+     "unit": "SH",
+     "value": 17211000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 144425,
+     "unit": "SH",
+     "value": 16280000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 14618000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 148347,
+     "unit": "SH",
+     "value": 12761000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 1421000
+    }
+   ],
+   "table_total": 232142000,
+   "first_seen": "2026-11-16T04:31:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-21-002300",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266121002300/0001172661-21-002300-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 73874,
+     "unit": "SH",
+     "value": 53748000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 34787000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 91428,
+     "unit": "SH",
+     "value": 27569000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9135,
+     "unit": "SH",
+     "value": 24348000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 271447,
+     "unit": "SH",
+     "value": 22785000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 144425,
+     "unit": "SH",
+     "value": 17168000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 261847,
+     "unit": "SH",
+     "value": 16324000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 195347,
+     "unit": "SH",
+     "value": 14280000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 13300000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 1560000
+    }
+   ],
+   "table_total": 225869000,
+   "first_seen": "2026-11-16T04:31:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-000743",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266122000743/0001172661-22-000743-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 63874,
+     "unit": "SH",
+     "value": 41644000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 35440000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9135,
+     "unit": "SH",
+     "value": 26433000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 91428,
+     "unit": "SH",
+     "value": 21192000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 261847,
+     "unit": "SH",
+     "value": 20796000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 304736,
+     "unit": "SH",
+     "value": 20140000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 144435,
+     "unit": "SH",
+     "value": 16398000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 14057000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 195347,
+     "unit": "SH",
+     "value": 11818000
+    },
+    {
+     "cusip": "38246G108",
+     "put_call": null,
+     "issuer": "GOODRX HLDGS INC",
+     "class": "COM CL A",
+     "shares": 296233,
+     "unit": "SH",
+     "value": 9681000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 1297000
+    }
+   ],
+   "table_total": 218896000,
+   "first_seen": "2026-11-16T04:31:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-001378",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266122001378/0001172661-22-001378-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 36289000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9135,
+     "unit": "SH",
+     "value": 25514000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 45874,
+     "unit": "SH",
+     "value": 25025000
+    },
+    {
+     "cusip": "146869102",
+     "put_call": null,
+     "issuer": "CARVANA CO",
+     "class": "CL A",
+     "shares": 180928,
+     "unit": "SH",
+     "value": 21583000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 299847,
+     "unit": "SH",
+     "value": 19763000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 186435,
+     "unit": "SH",
+     "value": 17640000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 304736,
+     "unit": "SH",
+     "value": 16754000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 14487000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 195347,
+     "unit": "SH",
+     "value": 13973000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 1845000
+    }
+   ],
+   "table_total": 192873000,
+   "first_seen": "2026-11-16T04:31:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-001837",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266122001837/0001172661-22-001837-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 29891000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 9665,
+     "unit": "SH",
+     "value": 21142000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 361247,
+     "unit": "SH",
+     "value": 19872000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 36074,
+     "unit": "SH",
+     "value": 16902000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 199435,
+     "unit": "SH",
+     "value": 14158000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 11968000
+    },
+    {
+     "cusip": "14161W105",
+     "put_call": null,
+     "issuer": "CARDLYTICS INC",
+     "class": "COM",
+     "shares": 339736,
+     "unit": "SH",
+     "value": 7580000
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 75000,
+     "unit": "SH",
+     "value": 6518000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 97847,
+     "unit": "SH",
+     "value": 4738000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 527140,
+     "unit": "SH",
+     "value": 2852000
+    }
+   ],
+   "table_total": 135621000,
+   "first_seen": "2026-11-16T04:31:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-22-002468",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266122002468/0001172661-22-002468-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 55698,
+     "unit": "SH",
+     "value": 29231000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 361247,
+     "unit": "SH",
+     "value": 23087000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 193300,
+     "unit": "SH",
+     "value": 18586000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 199435,
+     "unit": "SH",
+     "value": 12281000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 37874,
+     "unit": "SH",
+     "value": 11489000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 10611000
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 75000,
+     "unit": "SH",
+     "value": 6103000
+    },
+    {
+     "cusip": "02156B103",
+     "put_call": null,
+     "issuer": "ALTERYX INC",
+     "class": "COM CL A",
+     "shares": 97847,
+     "unit": "SH",
+     "value": 5464000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 2094000
+    }
+   ],
+   "table_total": 118946000,
+   "first_seen": "2026-11-16T04:31:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-000989",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266123000989/0001172661-23-000989-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 51698,
+     "unit": "SH",
+     "value": 32552000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 339647,
+     "unit": "SH",
+     "value": 24573000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 204300,
+     "unit": "SH",
+     "value": 18128000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1305167,
+     "unit": "SH",
+     "value": 15727000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 45574,
+     "unit": "SH",
+     "value": 15454000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 199435,
+     "unit": "SH",
+     "value": 12477000
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 417000,
+     "unit": "SH",
+     "value": 11425800
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 3723000
+    }
+   ],
+   "table_total": 134059800,
+   "first_seen": "2026-11-16T04:31:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-002175",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266123002175/0001172661-23-002175-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 339647,
+     "unit": "SH",
+     "value": 28041000
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 37198,
+     "unit": "SH",
+     "value": 27416000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 216310,
+     "unit": "SH",
+     "value": 22496000
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 560399,
+     "unit": "SH",
+     "value": 18600000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 199435,
+     "unit": "SH",
+     "value": 16364000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1115167,
+     "unit": "SH",
+     "value": 14464000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 35574,
+     "unit": "SH",
+     "value": 12722000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 3425000
+    }
+   ],
+   "table_total": 143528000,
+   "first_seen": "2026-11-16T04:31:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-003065",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266123003065/0001172661-23-003065-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 32398,
+     "unit": "SH",
+     "value": 28969000
+    },
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 339647,
+     "unit": "SH",
+     "value": 28214000
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 19840000
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 160600,
+     "unit": "SH",
+     "value": 19428000
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 15107000
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 35574,
+     "unit": "SH",
+     "value": 13069000
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 165435,
+     "unit": "SH",
+     "value": 12586000
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATIONAL FINANCIAL",
+     "class": "FNF GROUP COM",
+     "shares": 270000,
+     "unit": "SH",
+     "value": 9720000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 3194000
+    }
+   ],
+   "table_total": 150127000,
+   "first_seen": "2026-11-16T04:31:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-23-003952",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266123003952/0001172661-23-003952-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 339647,
+     "unit": "SH",
+     "value": 29399844
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24308,
+     "unit": "SH",
+     "value": 20494804
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 138880,
+     "unit": "SH",
+     "value": 18311328
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 17237326
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 35574,
+     "unit": "SH",
+     "value": 15646157
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 163435,
+     "unit": "SH",
+     "value": 14709150
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 13304314
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATIONAL FINANCIAL",
+     "class": "FNF GROUP COM",
+     "shares": 270000,
+     "unit": "SH",
+     "value": 11151000
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 5373815
+    }
+   ],
+   "table_total": 145627738,
+   "first_seen": "2026-11-16T04:31:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-001088",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266124001088/0001172661-24-001088-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 339647,
+     "unit": "SH",
+     "value": 28156736
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24308,
+     "unit": "SH",
+     "value": 24589973
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 20345091
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 138880,
+     "unit": "SH",
+     "value": 19572358
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 149435,
+     "unit": "SH",
+     "value": 16294392
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38474,
+     "unit": "SH",
+     "value": 14954074
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATIONAL FINANCIAL",
+     "class": "FNF GROUP COM",
+     "shares": 270000,
+     "unit": "SH",
+     "value": 13775400
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 12751350
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 38590,
+     "unit": "SH",
+     "value": 5138644
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 3294350
+    }
+   ],
+   "table_total": 158872368,
+   "first_seen": "2026-11-16T04:31:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-002372",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266124002372/0001172661-24-002372-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 302647,
+     "unit": "SH",
+     "value": 33808696
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21424,
+     "unit": "SH",
+     "value": 26385798
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 22849765
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118880,
+     "unit": "SH",
+     "value": 18100669
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 124435,
+     "unit": "SH",
+     "value": 14522809
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATIONAL FINANCIAL",
+     "class": "FNF GROUP COM",
+     "shares": 270000,
+     "unit": "SH",
+     "value": 14337000
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 108590,
+     "unit": "SH",
+     "value": 12636618
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38474,
+     "unit": "SH",
+     "value": 11181699
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 11081399
+    },
+    {
+     "cusip": "40609P105",
+     "put_call": null,
+     "issuer": "HALLADOR ENERGY COMPANY",
+     "class": "COM",
+     "shares": 372664,
+     "unit": "SH",
+     "value": 1986299
+    }
+   ],
+   "table_total": 166890752,
+   "first_seen": "2026-11-16T04:31:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-003474",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266124003474/0001172661-24-003474-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 302647,
+     "unit": "SH",
+     "value": 37104522
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21424,
+     "unit": "SH",
+     "value": 27371517
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 23335930
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118880,
+     "unit": "SH",
+     "value": 21804970
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 124435,
+     "unit": "SH",
+     "value": 17158342
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 154866,
+     "unit": "SH",
+     "value": 13882188
+    },
+    {
+     "cusip": "31620R303",
+     "put_call": null,
+     "issuer": "FIDELITY NATIONAL FINANCIAL",
+     "class": "FNF GROUP COM",
+     "shares": 270000,
+     "unit": "SH",
+     "value": 13343400
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 11767074
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38474,
+     "unit": "SH",
+     "value": 11502187
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 108590,
+     "unit": "SH",
+     "value": 9717719
+    }
+   ],
+   "table_total": 186987849,
+   "first_seen": "2026-11-16T04:31:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-24-004818",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266124004818/0001172661-24-004818-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 302647,
+     "unit": "SH",
+     "value": 42176886
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21424,
+     "unit": "SH",
+     "value": 30574833
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 615399,
+     "unit": "SH",
+     "value": 28991447
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 124435,
+     "unit": "SH",
+     "value": 22764139
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118880,
+     "unit": "SH",
+     "value": 19875547
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 154866,
+     "unit": "SH",
+     "value": 15145895
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 117088,
+     "unit": "SH",
+     "value": 13877269
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1105928,
+     "unit": "SH",
+     "value": 12983595
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38474,
+     "unit": "SH",
+     "value": 12468654
+    }
+   ],
+   "table_total": 198858265,
+   "first_seen": "2026-11-16T04:31:58+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-000895",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266125000895/0001172661-25-000895-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 299685,
+     "unit": "SH",
+     "value": 52945349
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 611689,
+     "unit": "SH",
+     "value": 28779967
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21293,
+     "unit": "SH",
+     "value": 26984193
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 22502581
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 153930,
+     "unit": "SH",
+     "value": 17086230
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38239,
+     "unit": "SH",
+     "value": 13107182
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 12685218
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 65683,
+     "unit": "SH",
+     "value": 11072840
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 116380,
+     "unit": "SH",
+     "value": 10404372
+    }
+   ],
+   "table_total": 195567932,
+   "first_seen": "2026-11-16T04:31:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-001957",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266125001957/0001172661-25-001957-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 257685,
+     "unit": "SH",
+     "value": 42670059
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21293,
+     "unit": "SH",
+     "value": 29454394
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 611689,
+     "unit": "SH",
+     "value": 27048888
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 18460293
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 153930,
+     "unit": "SH",
+     "value": 15993327
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 14487970
+    },
+    {
+     "cusip": "16119P108",
+     "put_call": null,
+     "issuer": "CHARTER COMMUNICATIONS INC N",
+     "class": "CL A",
+     "shares": 38239,
+     "unit": "SH",
+     "value": 14092219
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 65683,
+     "unit": "SH",
+     "value": 12306367
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 104000,
+     "unit": "SH",
+     "value": 11937120
+    },
+    {
+     "cusip": "50187T106",
+     "put_call": null,
+     "issuer": "LGI HOMES INC",
+     "class": "COM",
+     "shares": 49996,
+     "unit": "SH",
+     "value": 3323234
+    }
+   ],
+   "table_total": 189773871,
+   "first_seen": "2026-11-16T04:31:59+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-003336",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266125003336/0001172661-25-003336-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 57113303
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 33566366
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 21293,
+     "unit": "SH",
+     "value": 32378988
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 20960580
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 65683,
+     "unit": "SH",
+     "value": 15465062
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 153930,
+     "unit": "SH",
+     "value": 14701854
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 13051980
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 12861096
+    }
+   ],
+   "table_total": 200099229,
+   "first_seen": "2026-11-16T04:32:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-25-004906",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266125004906/0001172661-25-004906-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 70925219
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 39401624
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24170,
+     "unit": "SH",
+     "value": 31856543
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 28778112
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 169057,
+     "unit": "SH",
+     "value": 17750985
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 65683,
+     "unit": "SH",
+     "value": 15097894
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 14872720
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 13003997
+    }
+   ],
+   "table_total": 231687094,
+   "first_seen": "2026-11-16T04:32:01+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-26-001030",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266126001030/0001172661-26-001030-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 66286889
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 42578295
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 37078922
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24170,
+     "unit": "SH",
+     "value": 32142475
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 83183,
+     "unit": "SH",
+     "value": 16720615
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS L",
+     "class": "COM UNIT LTD PAR",
+     "shares": 127351,
+     "unit": "SH",
+     "value": 13295444
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 13014990
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 12130400
+    }
+   ],
+   "table_total": 233248030,
+   "first_seen": "2026-11-16T04:32:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-26-002106",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266126002106/0001172661-26-002106-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 69131732
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 37935993
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 33895664
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24170,
+     "unit": "SH",
+     "value": 28012063
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 144183,
+     "unit": "SH",
+     "value": 21564009
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP LP",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 13498655
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS LP",
+     "class": "COM UNIT LTD PAR",
+     "shares": 102057,
+     "unit": "SH",
+     "value": 12348897
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 10247120
+    }
+   ],
+   "table_total": 226634133,
+   "first_seen": "2026-11-16T04:32:03+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001172661-26-003363",
+   "form": "13F-HR",
+   "filed": "2026-08-13",
+   "period": "2026-06-30",
+   "cik": 1657335,
+   "url": "https://www.sec.gov/Archives/edgar/data/1657335/000117266126003363/0001172661-26-003363-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Oakcliff Capital Partners, LP",
+   "holdings": [
+    {
+     "cusip": "45841N107",
+     "put_call": null,
+     "issuer": "INTERACTIVE BROKERS GROUP IN",
+     "class": "COM CL A",
+     "shares": 1030740,
+     "unit": "SH",
+     "value": 89715610
+    },
+    {
+     "cusip": "02079K107",
+     "put_call": null,
+     "issuer": "ALPHABET INC",
+     "class": "CAP STK CL C",
+     "shares": 118161,
+     "unit": "SH",
+     "value": 41749826
+    },
+    {
+     "cusip": "375916103",
+     "put_call": null,
+     "issuer": "GILDAN ACTIVEWEAR INC",
+     "class": "COM",
+     "shares": 681689,
+     "unit": "SH",
+     "value": 35175152
+    },
+    {
+     "cusip": "893641100",
+     "put_call": null,
+     "issuer": "TRANSDIGM GROUP INC",
+     "class": "COM",
+     "shares": 24170,
+     "unit": "SH",
+     "value": 32195407
+    },
+    {
+     "cusip": "40171V100",
+     "put_call": null,
+     "issuer": "GUIDEWIRE SOFTWARE INC",
+     "class": "COM",
+     "shares": 158683,
+     "unit": "SH",
+     "value": 19525943
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODY'S CORP",
+     "class": "COM",
+     "shares": 34000,
+     "unit": "SH",
+     "value": 15399280
+    },
+    {
+     "cusip": "85512C105",
+     "put_call": null,
+     "issuer": "STAR GROUP L P",
+     "class": "UNIT LTD PARTNR",
+     "shares": 1099239,
+     "unit": "SH",
+     "value": 14114229
+    },
+    {
+     "cusip": "526057104",
+     "put_call": null,
+     "issuer": "LENNAR CORP-A",
+     "class": "CL A",
+     "shares": 118000,
+     "unit": "SH",
+     "value": 10677820
+    },
+    {
+     "cusip": "63900P608",
+     "put_call": null,
+     "issuer": "NATURAL RESOURCE PARTNERS LP",
+     "class": "COM UNIT LTD PAR",
+     "shares": 102057,
+     "unit": "SH",
+     "value": 9899529
+    }
+   ],
+   "table_total": 268452796,
+   "first_seen": "2026-11-16T04:32:03+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Oakcliff Capital Partners, LP"
+}
