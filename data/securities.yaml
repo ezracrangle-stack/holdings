@@ -1817,3 +1817,7 @@
 "26856L103": {name: "e.l.f. Beauty", ticker: "ELF", sic: 2844}
 "35953D104": {name: "fuboTV", ticker: "FUBO", sic: 7812}
 "45172L209": {name: "iFM Investments", ticker: "CTC", sector: "Financials & real estate"}
+
+# Q3 2026 filings
+"60744M106": {name: "Mobility Global", ticker: "MBGL", sic: 7389, sector: "Industrials", note: "Spun off from S&P Global in 2026."}
+"464288257": {name: "iShares MSCI ACWI ETF", ticker: "ACWI", fund: yes}

@@ -16,7 +16,8 @@
 #              (the end of the address: letters.ezrasnotes.com/m/hayden.html → hayden).
 #              Then "why" is taken from that site and you can leave it out. Otherwise: no.
 #  old_ids:    earlier addresses of the page, so old links still land here.
-#  top:        for very diversified 13Fs, show only this many of the biggest positions.
+#  top:        optional. The site never shows more than the 50 biggest positions;
+#              set a lower number here to show fewer.
 #
 #  Keep the two spaces of indentation. Text with a colon (:)
 #  inside must go between double quotes.
@@ -139,7 +140,6 @@ managers:
     name: Joel Greenblatt
     firm: Gotham Asset Management
     cik: 1510387
-    top: 50
     letters: no
     why: "Joel wrote The Little Book That Beats the Market and teaches at Columbia. Gotham now runs a diversified, rules-based book of about 1,800 stocks; this page shows the 50 biggest."
 
@@ -154,7 +154,6 @@ managers:
     name: Chris Begg
     firm: East Coast Asset Management
     cik: 1579254
-    top: 50
     letters: no
     why: "Chris models 120 to 150 companies in his Grove of Titans and buys when one reaches a 15% ten-year IRR. His fund holds about eight; the 13F lists every account the firm manages, 81 positions."
 

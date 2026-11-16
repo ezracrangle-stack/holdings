@@ -14,6 +14,9 @@ DATA = ROOT / "data"
 BIG_MOVE = 0.25            # a change of 25% or more in shares counts as "big" on the home page
 
 
+MAX_POSITIONS = 50
+
+
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", name).encode("ascii", "ignore")
                   .decode().lower()).strip("-")
@@ -218,7 +221,12 @@ def build_manager(m, saved, securities, unknown, splits, warnings):
             p["since"] = since
             p["since_label"] = quarter_label(since)
             p["first_filing"] = unknown_before         # "or earlier": we can't see the quarter before
-    top = m.get("top")
+    # every page shows at most MAX_POSITIONS (50) positions; a manager can set a lower "top"
+    top = m.get("top") or MAX_POSITIONS
+    if any(len(q["positions"]) > top for q in quarters):
+        m["top"] = top
+    else:
+        top = None
     if top:
         # very diversified 13Fs: keep the biggest positions; weights stay a share of the whole 13F
         kept = [{p["key"] for p in q["positions"][:top]} for q in quarters]
