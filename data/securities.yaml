@@ -3555,3 +3555,8 @@
 "894650100": {name: "Tredegar", ticker: "TG", sic: 3350}
 "911163103": {name: "United Natural Foods", ticker: "UNFI", sic: 5141}
 "92335C106": {name: "Vera Bradley", ticker: "VRA", sic: 3100}
+
+# Dev Kantesaria (Valley Forge)
+"61174X109": {name: "Monster Beverage", ticker: "MNST", sic: 2086}
+"045327103": {name: "Aspen Technology", ticker: "AZPN", sic: 7372, note: "The old AspenTech, before the 2022 Emerson deal."}
+"29109X106": {name: "Aspen Technology", ticker: "AZPN", sic: 7372, note: "Taken private by Emerson in 2025."}

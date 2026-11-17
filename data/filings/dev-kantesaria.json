@@ -1,0 +1,3867 @@
+{
+ "filings": [
+  {
+   "accession": "0001697868-17-000001",
+   "form": "13F-HR",
+   "filed": "2017-02-13",
+   "period": "2016-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786817000001/0001697868-17-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Advisors, LLC",
+   "holdings": [
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 33128000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 292209,
+     "unit": "SH",
+     "value": 31424000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 457174,
+     "unit": "SH",
+     "value": 20271000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 6705000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 6398000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 125084,
+     "unit": "SH",
+     "value": 6358000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 3588000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 1734000
+    }
+   ],
+   "table_total": 109605000,
+   "first_seen": "2026-11-17T14:30:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-17-000002",
+   "form": "13F-HR",
+   "filed": "2017-05-15",
+   "period": "2017-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786817000002/0001697868-17-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Advisors, LLC",
+   "holdings": [
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 39373000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 292209,
+     "unit": "SH",
+     "value": 38203000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 521745,
+     "unit": "SH",
+     "value": 24089000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 7287000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 125084,
+     "unit": "SH",
+     "value": 6971000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 6785000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 3908000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 1869000
+    }
+   ],
+   "table_total": 128485000,
+   "first_seen": "2026-11-17T14:30:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-17-000004",
+   "form": "13F-HR",
+   "filed": "2017-08-14",
+   "period": "2017-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786817000004/0001697868-17-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Advisors, L.P.",
+   "holdings": [
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 42760000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 292209,
+     "unit": "SH",
+     "value": 42660000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 531249,
+     "unit": "SH",
+     "value": 26392000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 7769000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 7690000
+    },
+    {
+     "cusip": "654106103",
+     "put_call": null,
+     "issuer": "NIKE INC",
+     "class": "CL B",
+     "shares": 125084,
+     "unit": "SH",
+     "value": 7380000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 4220000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 1752000
+    }
+   ],
+   "table_total": 140624000,
+   "first_seen": "2026-11-17T14:30:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-17-000005",
+   "form": "13F-HR",
+   "filed": "2017-11-14",
+   "period": "2017-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786817000005/0001697868-17-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Advisors, L.P.",
+   "holdings": [
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 48920000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 292209,
+     "unit": "SH",
+     "value": 45675000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 531249,
+     "unit": "SH",
+     "value": 29352000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 94000,
+     "unit": "SH",
+     "value": 9963000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 8630000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 8315000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 4907000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 1992000
+    }
+   ],
+   "table_total": 157754000,
+   "first_seen": "2026-11-17T14:30:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-18-000001",
+   "form": "13F-HR",
+   "filed": "2018-02-14",
+   "period": "2017-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786818000001/0001697868-18-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Advisors, L.P.",
+   "holdings": [
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 51872000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 292209,
+     "unit": "SH",
+     "value": 49500000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 531249,
+     "unit": "SH",
+     "value": 33623000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 241503,
+     "unit": "SH",
+     "value": 28478000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 9350000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 9230000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 5260000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 2099000
+    }
+   ],
+   "table_total": 189412000,
+   "first_seen": "2026-11-17T14:30:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-18-000003",
+   "form": "13F-HR",
+   "filed": "2018-05-15",
+   "period": "2018-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786818000003/0001697868-18-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 302232,
+     "unit": "SH",
+     "value": 57744000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 56683000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 608230,
+     "unit": "SH",
+     "value": 34797000
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 270003,
+     "unit": "SH",
+     "value": 31809000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 10141000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 9809000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 6087000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 3995000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 2502000
+    }
+   ],
+   "table_total": 213567000,
+   "first_seen": "2026-11-17T14:30:30+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-18-000004",
+   "form": "13F-HR",
+   "filed": "2018-08-14",
+   "period": "2018-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786818000004/0001697868-18-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 319078,
+     "unit": "SH",
+     "value": 61684000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 302232,
+     "unit": "SH",
+     "value": 61622000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 351415,
+     "unit": "SH",
+     "value": 59937000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 608230,
+     "unit": "SH",
+     "value": 34852000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 11952000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 10861000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 6829000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4858000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 2941000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1700000
+    }
+   ],
+   "table_total": 257236000,
+   "first_seen": "2026-11-17T14:30:31+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-18-000005",
+   "form": "13F-HR",
+   "filed": "2018-11-14",
+   "period": "2018-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786818000005/0001697868-18-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 76125000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 369532,
+     "unit": "SH",
+     "value": 72203000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 369415,
+     "unit": "SH",
+     "value": 61766000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 608230,
+     "unit": "SH",
+     "value": 35448000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 58500,
+     "unit": "SH",
+     "value": 13303000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 82000,
+     "unit": "SH",
+     "value": 12307000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 76200,
+     "unit": "SH",
+     "value": 11896000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 34750,
+     "unit": "SH",
+     "value": 7736000
+    },
+    {
+     "cusip": "30303M102",
+     "put_call": null,
+     "issuer": "FACEBOOK INC",
+     "class": "CL A",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 4112000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 3612000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 2003000
+    }
+   ],
+   "table_total": 300510000,
+   "first_seen": "2026-11-17T14:30:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-19-000002",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786819000002/0001697868-19-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 407407,
+     "unit": "SH",
+     "value": 69235000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 62286000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 384915,
+     "unit": "SH",
+     "value": 53903000
+    },
+    {
+     "cusip": "61174X109",
+     "put_call": null,
+     "issuer": "MONSTER BEVERAGE CORP NEW",
+     "class": "COM",
+     "shares": 531249,
+     "unit": "SH",
+     "value": 26148000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 80641,
+     "unit": "SH",
+     "value": 15874000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 13896000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 92000,
+     "unit": "SH",
+     "value": 12138000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 35750,
+     "unit": "SH",
+     "value": 6744000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 2606000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1502000
+    }
+   ],
+   "table_total": 264333000,
+   "first_seen": "2026-11-17T14:30:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-19-000003",
+   "form": "13F-HR",
+   "filed": "2019-05-15",
+   "period": "2019-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786819000003/0001697868-19-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 90474000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 407407,
+     "unit": "SH",
+     "value": 85780000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 420915,
+     "unit": "SH",
+     "value": 76223000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 449922,
+     "unit": "SH",
+     "value": 70273000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 94641,
+     "unit": "SH",
+     "value": 24740000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 16836000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 35750,
+     "unit": "SH",
+     "value": 8417000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 3306000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1781000
+    }
+   ],
+   "table_total": 377831000,
+   "first_seen": "2026-11-17T14:30:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-19-000004",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786819000004/0001697868-19-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 104593000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 421407,
+     "unit": "SH",
+     "value": 95992000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 420915,
+     "unit": "SH",
+     "value": 82209000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 468922,
+     "unit": "SH",
+     "value": 81381000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 94641,
+     "unit": "SH",
+     "value": 24733000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 17601000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 35750,
+     "unit": "SH",
+     "value": 9457000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 31713,
+     "unit": "SH",
+     "value": 3941000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1894000
+    }
+   ],
+   "table_total": 421802000,
+   "first_seen": "2026-11-17T14:30:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-19-000005",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786819000005/0001697868-19-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 421407,
+     "unit": "SH",
+     "value": 103236000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 101096000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 446915,
+     "unit": "SH",
+     "value": 91542000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 482922,
+     "unit": "SH",
+     "value": 83067000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 94641,
+     "unit": "SH",
+     "value": 25169000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 76850,
+     "unit": "SH",
+     "value": 20870000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 15959000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 43813,
+     "unit": "SH",
+     "value": 5393000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1736000
+    }
+   ],
+   "table_total": 448068000,
+   "first_seen": "2026-11-17T14:30:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-20-000003",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786820000003/0001697868-20-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 333078,
+     "unit": "SH",
+     "value": 124798000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 421407,
+     "unit": "SH",
+     "value": 115065000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 449915,
+     "unit": "SH",
+     "value": 106814000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 482922,
+     "unit": "SH",
+     "value": 90741000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 84850,
+     "unit": "SH",
+     "value": 25335000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 94641,
+     "unit": "SH",
+     "value": 24789000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 19823000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 43813,
+     "unit": "SH",
+     "value": 5298000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1848000
+    }
+   ],
+   "table_total": 514512000,
+   "first_seen": "2026-11-17T14:30:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-20-000004",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786820000004/0001697868-20-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 437960,
+     "unit": "SH",
+     "value": 107322000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 340278,
+     "unit": "SH",
+     "value": 104700000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 449915,
+     "unit": "SH",
+     "value": 95157000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 482922,
+     "unit": "SH",
+     "value": 77808000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INC",
+     "class": "CL A",
+     "shares": 175650,
+     "unit": "SH",
+     "value": 42430000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 94641,
+     "unit": "SH",
+     "value": 21767000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 108050,
+     "unit": "SH",
+     "value": 16867000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 43813,
+     "unit": "SH",
+     "value": 4165000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 1950000
+    }
+   ],
+   "table_total": 472167000,
+   "first_seen": "2026-11-17T14:30:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-20-000005",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786820000005/0001697868-20-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 547505,
+     "unit": "SH",
+     "value": 180392000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 569529,
+     "unit": "SH",
+     "value": 156467000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 340278,
+     "unit": "SH",
+     "value": 142250000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 441150,
+     "unit": "SH",
+     "value": 130448000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 482922,
+     "unit": "SH",
+     "value": 93286000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 115741,
+     "unit": "SH",
+     "value": 34281000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 137624,
+     "unit": "SH",
+     "value": 32918000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE INC",
+     "class": "COM",
+     "shares": 71500,
+     "unit": "SH",
+     "value": 31125000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 181266,
+     "unit": "SH",
+     "value": 18781000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 2759000
+    }
+   ],
+   "table_total": 822707000,
+   "first_seen": "2026-11-17T14:30:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-20-000006",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786820000006/0001697868-20-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 633998,
+     "unit": "SH",
+     "value": 228620000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 588529,
+     "unit": "SH",
+     "value": 170585000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 444650,
+     "unit": "SH",
+     "value": 150367000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 340278,
+     "unit": "SH",
+     "value": 144747000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 482922,
+     "unit": "SH",
+     "value": 96570000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 115741,
+     "unit": "SH",
+     "value": 37756000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 71500,
+     "unit": "SH",
+     "value": 35066000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 137624,
+     "unit": "SH",
+     "value": 31793000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 181266,
+     "unit": "SH",
+     "value": 22946000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 3149000
+    }
+   ],
+   "table_total": 921599000,
+   "first_seen": "2026-11-17T14:30:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-21-000002",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786821000002/0001697868-21-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 676614,
+     "unit": "SH",
+     "value": 241511000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 645541,
+     "unit": "SH",
+     "value": 212209000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 346278,
+     "unit": "SH",
+     "value": 176962000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 593529,
+     "unit": "SH",
+     "value": 172266000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 538122,
+     "unit": "SH",
+     "value": 117703000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 115741,
+     "unit": "SH",
+     "value": 43964000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 137624,
+     "unit": "SH",
+     "value": 42022000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 80500,
+     "unit": "SH",
+     "value": 40260000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 202266,
+     "unit": "SH",
+     "value": 26345000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1000,
+     "unit": "SH",
+     "value": 3257000
+    }
+   ],
+   "table_total": 1076499000,
+   "first_seen": "2026-11-17T14:30:39+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-21-000003",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786821000003/0001697868-21-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1342158,
+     "unit": "SH",
+     "value": 477875000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1272544,
+     "unit": "SH",
+     "value": 449043000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1155246,
+     "unit": "SH",
+     "value": 344968000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 666001,
+     "unit": "SH",
+     "value": 323710000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1015303,
+     "unit": "SH",
+     "value": 214970000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 187189,
+     "unit": "SH",
+     "value": 88984000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 215221,
+     "unit": "SH",
+     "value": 82443000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 253508,
+     "unit": "SH",
+     "value": 70260000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 387202,
+     "unit": "SH",
+     "value": 55885000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1842,
+     "unit": "SH",
+     "value": 5699000
+    }
+   ],
+   "table_total": 2113836000,
+   "first_seen": "2026-11-17T14:30:40+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-21-000004",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786821000004/0001697868-21-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1272544,
+     "unit": "SH",
+     "value": 522316000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1352814,
+     "unit": "SH",
+     "value": 493899000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1155246,
+     "unit": "SH",
+     "value": 418626000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 671509,
+     "unit": "SH",
+     "value": 337554000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 78715,
+     "unit": "SH",
+     "value": 270792000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1015303,
+     "unit": "SH",
+     "value": 237398000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 194189,
+     "unit": "SH",
+     "value": 113725000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 215221,
+     "unit": "SH",
+     "value": 105495000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 253608,
+     "unit": "SH",
+     "value": 74028000
+    }
+   ],
+   "table_total": 2573833000,
+   "first_seen": "2026-11-17T14:30:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-21-000005",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786821000005/0001697868-21-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1276544,
+     "unit": "SH",
+     "value": 542391000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1381123,
+     "unit": "SH",
+     "value": 480189000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1156246,
+     "unit": "SH",
+     "value": 410595000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 724711,
+     "unit": "SH",
+     "value": 288384000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 80915,
+     "unit": "SH",
+     "value": 265809000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1015303,
+     "unit": "SH",
+     "value": 226159000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 215221,
+     "unit": "SH",
+     "value": 116114000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 200077,
+     "unit": "SH",
+     "value": 115188000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 253608,
+     "unit": "SH",
+     "value": 72321000
+    }
+   ],
+   "table_total": 2517150000,
+   "first_seen": "2026-11-17T14:30:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-22-000002",
+   "form": "13F-HR",
+   "filed": "2022-02-14",
+   "period": "2021-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786822000002/0001697868-22-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1112913,
+     "unit": "SH",
+     "value": 525217000
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1440698,
+     "unit": "SH",
+     "value": 517672000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1027734,
+     "unit": "SH",
+     "value": 401412000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 894482,
+     "unit": "SH",
+     "value": 387910000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 81715,
+     "unit": "SH",
+     "value": 272466000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 933397,
+     "unit": "SH",
+     "value": 202276000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 139670000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 196071,
+     "unit": "SH",
+     "value": 126117000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 253608,
+     "unit": "SH",
+     "value": 71312000
+    }
+   ],
+   "table_total": 2644052000,
+   "first_seen": "2026-11-17T14:30:42+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-22-000003",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786822000003/0001697868-22-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1541857,
+     "unit": "SH",
+     "value": 551029000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1189361,
+     "unit": "SH",
+     "value": 487852000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 899130,
+     "unit": "SH",
+     "value": 419408000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1080881,
+     "unit": "SH",
+     "value": 364700000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 81715,
+     "unit": "SH",
+     "value": 266387000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 973477,
+     "unit": "SH",
+     "value": 215888000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 112221000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 196071,
+     "unit": "SH",
+     "value": 94279000
+    },
+    {
+     "cusip": "045327103",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 417823,
+     "unit": "SH",
+     "value": 69095000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 224034,
+     "unit": "SH",
+     "value": 48022000
+    }
+   ],
+   "table_total": 2628881000,
+   "first_seen": "2026-11-17T14:30:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-22-000004",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786822000004/0001697868-22-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1574417,
+     "unit": "SH",
+     "value": 496697000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1295275,
+     "unit": "SH",
+     "value": 436585000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 963048,
+     "unit": "SH",
+     "value": 386086000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1159004,
+     "unit": "SH",
+     "value": 315214000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 973477,
+     "unit": "SH",
+     "value": 191668000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1634300,
+     "unit": "SH",
+     "value": 173579000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 90162000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 196071,
+     "unit": "SH",
+     "value": 75574000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 224034,
+     "unit": "SH",
+     "value": 38525000
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 175485,
+     "unit": "SH",
+     "value": 32233000
+    }
+   ],
+   "table_total": 2236324000,
+   "first_seen": "2026-11-17T14:30:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-22-000005",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786822000005/0001697868-22-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1574417,
+     "unit": "SH",
+     "value": 447670000
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 963048,
+     "unit": "SH",
+     "value": 396785000
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1295275,
+     "unit": "SH",
+     "value": 395512000
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1159004,
+     "unit": "SH",
+     "value": 281765000
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1634300,
+     "unit": "SH",
+     "value": 184676000
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 973477,
+     "unit": "SH",
+     "value": 172938000
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 198071,
+     "unit": "SH",
+     "value": 76717000
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 67783000
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 224034,
+     "unit": "SH",
+     "value": 41850000
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 175485,
+     "unit": "SH",
+     "value": 41801000
+    }
+   ],
+   "table_total": 2107497000,
+   "first_seen": "2026-11-17T14:30:44+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-23-000002",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786823000002/0001697868-23-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 963048,
+     "unit": "SH",
+     "value": 576461272
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1555667,
+     "unit": "SH",
+     "value": 540952086
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1392653,
+     "unit": "SH",
+     "value": 466455196
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 339473394
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 1004777,
+     "unit": "SH",
+     "value": 208752470
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 1105393,
+     "unit": "SH",
+     "value": 92853012
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 82889022
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 198071,
+     "unit": "SH",
+     "value": 77093195
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 224034,
+     "unit": "SH",
+     "value": 41865234
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 175485,
+     "unit": "SH",
+     "value": 36044619
+    }
+   ],
+   "table_total": 2462839498,
+   "first_seen": "2026-11-17T14:30:45+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-23-000004",
+   "form": "13F-HR",
+   "filed": "2023-05-15",
+   "period": "2023-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786823000004/0001697868-23-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 943048,
+     "unit": "SH",
+     "value": 662670399
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1489102,
+     "unit": "SH",
+     "value": 541154558
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1392653,
+     "unit": "SH",
+     "value": 480144975
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 372857828
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 904977,
+     "unit": "SH",
+     "value": 204036114
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 198341296
+    },
+    {
+     "cusip": "00724F101",
+     "put_call": null,
+     "issuer": "ADOBE SYSTEMS INCORPORATED",
+     "class": "COM",
+     "shares": 246305,
+     "unit": "SH",
+     "value": 94918558
+    },
+    {
+     "cusip": "052769106",
+     "put_call": null,
+     "issuer": "AUTODESK INC",
+     "class": "COM",
+     "shares": 224034,
+     "unit": "SH",
+     "value": 46634917
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 175485,
+     "unit": "SH",
+     "value": 40163252
+    }
+   ],
+   "table_total": 2640921897,
+   "first_seen": "2026-11-17T14:30:46+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-23-000006",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786823000006/0001697868-23-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 943048,
+     "unit": "SH",
+     "value": 763123872
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1655561,
+     "unit": "SH",
+     "value": 663697849
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1489102,
+     "unit": "SH",
+     "value": 585663817
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 423665525
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 904977,
+     "unit": "SH",
+     "value": 214913938
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 203840025
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 49526241
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 62903,
+     "unit": "SH",
+     "value": 45588949
+    }
+   ],
+   "table_total": 2950020216,
+   "first_seen": "2026-11-17T14:30:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-23-000007",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786823000007/0001697868-23-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 943048,
+     "unit": "SH",
+     "value": 819065479
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1655561,
+     "unit": "SH",
+     "value": 604958545
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1489102,
+     "unit": "SH",
+     "value": 589550373
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 385224690
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 227307498
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 904977,
+     "unit": "SH",
+     "value": 208153760
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 60355766
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 62903,
+     "unit": "SH",
+     "value": 37028480
+    }
+   ],
+   "table_total": 2931644591,
+   "first_seen": "2026-11-17T14:30:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-24-000002",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786824000002/0001697868-24-000002-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 903587,
+     "unit": "SH",
+     "value": 1051784304
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1655561,
+     "unit": "SH",
+     "value": 729307732
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 633270106
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 475862209
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 278063971
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 237443626
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 65051023
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 62903,
+     "unit": "SH",
+     "value": 47612539
+    }
+   ],
+   "table_total": 3518395510,
+   "first_seen": "2026-11-17T14:30:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-24-000005",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786824000005/0001697868-24-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 880748,
+     "unit": "SH",
+     "value": 1100591508
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 715021652
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1655561,
+     "unit": "SH",
+     "value": 704358428
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 478871682
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 289172650
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 254525705
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 63021041
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 62903,
+     "unit": "SH",
+     "value": 61045474
+    }
+   ],
+   "table_total": 3666608140,
+   "first_seen": "2026-11-17T14:30:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-24-000007",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786824000007/0001697868-24-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 877748,
+     "unit": "SH",
+     "value": 1306668338
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1655561,
+     "unit": "SH",
+     "value": 738380206
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 655022016
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1218410,
+     "unit": "SH",
+     "value": 512865321
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 292380242
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 239377102
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 62903,
+     "unit": "SH",
+     "value": 64332785
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 58692186
+    }
+   ],
+   "table_total": 3867718195,
+   "first_seen": "2026-11-17T14:30:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-24-000008",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786824000008/0001697868-24-000008-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 808793,
+     "unit": "SH",
+     "value": 1571905371
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1705898,
+     "unit": "SH",
+     "value": 881301025
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 733180413
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1288444,
+     "unit": "SH",
+     "value": 611482638
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 444881,
+     "unit": "SH",
+     "value": 276271101
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 250759074
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 125627,
+     "unit": "SH",
+     "value": 104678698
+    },
+    {
+     "cusip": "29109X106",
+     "put_call": null,
+     "issuer": "ASPEN TECHNOLOGY INC",
+     "class": "COM",
+     "shares": 295485,
+     "unit": "SH",
+     "value": 70567728
+    }
+   ],
+   "table_total": 4500146048,
+   "first_seen": "2026-11-17T14:30:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-25-000001",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786825000001/0001697868-25-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 784122,
+     "unit": "SH",
+     "value": 1561132013
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1755098,
+     "unit": "SH",
+     "value": 874091457
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 781836392
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1314144,
+     "unit": "SH",
+     "value": 622076345
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 288233853
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 402281,
+     "unit": "SH",
+     "value": 252833609
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 125627,
+     "unit": "SH",
+     "value": 87069561
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 144000,
+     "unit": "SH",
+     "value": 36698400
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 59700,
+     "unit": "SH",
+     "value": 35820597
+    }
+   ],
+   "table_total": 4539792227,
+   "first_seen": "2026-11-17T14:30:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-25-000004",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786825000004/0001697868-25-000004-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 768422,
+     "unit": "SH",
+     "value": 1417093116
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1755098,
+     "unit": "SH",
+     "value": 891765294
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 813833229
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1314144,
+     "unit": "SH",
+     "value": 611983719
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 319625478
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 297360,
+     "unit": "SH",
+     "value": 182576066
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 125627,
+     "unit": "SH",
+     "value": 83244219
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 144000,
+     "unit": "SH",
+     "value": 35072640
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 59700,
+     "unit": "SH",
+     "value": 33760350
+    }
+   ],
+   "table_total": 4388954111,
+   "first_seen": "2026-11-17T14:30:53+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-25-000005",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786825000005/0001697868-25-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 768422,
+     "unit": "SH",
+     "value": 1404644679
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1755098,
+     "unit": "SH",
+     "value": 925445624
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 834352778
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1314144,
+     "unit": "SH",
+     "value": 659161489
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 323811636
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 263312,
+     "unit": "SH",
+     "value": 207392431
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 125627,
+     "unit": "SH",
+     "value": 100676222
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 144000,
+     "unit": "SH",
+     "value": 37349280
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 59700,
+     "unit": "SH",
+     "value": 34431378
+    }
+   ],
+   "table_total": 4527265516,
+   "first_seen": "2026-11-17T14:30:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-25-000006",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786825000006/0001697868-25-000006-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 768422,
+     "unit": "SH",
+     "value": 1149966576
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1755098,
+     "unit": "SH",
+     "value": 854223748
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1484772,
+     "unit": "SH",
+     "value": 844553161
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1314144,
+     "unit": "SH",
+     "value": 626163333
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 912017,
+     "unit": "SH",
+     "value": 311344363
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 261097,
+     "unit": "SH",
+     "value": 178305752
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 125627,
+     "unit": "SH",
+     "value": 121618242
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 144000,
+     "unit": "SH",
+     "value": 36940320
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 59700,
+     "unit": "SH",
+     "value": 33874377
+    }
+   ],
+   "table_total": 4156989872,
+   "first_seen": "2026-11-17T14:30:54+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-26-000001",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786826000001/0001697868-26-000001-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 769424,
+     "unit": "SH",
+     "value": 1300803603
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1758179,
+     "unit": "SH",
+     "value": 918806764
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1487409,
+     "unit": "SH",
+     "value": 849132050
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1317292,
+     "unit": "SH",
+     "value": 672938618
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 916410,
+     "unit": "SH",
+     "value": 321394151
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 221236,
+     "unit": "SH",
+     "value": 146551151
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 126242,
+     "unit": "SH",
+     "value": 135061266
+    },
+    {
+     "cusip": "55354G100",
+     "put_call": null,
+     "issuer": "MSCI INC",
+     "class": "COM",
+     "shares": 60770,
+     "unit": "SH",
+     "value": 34865572
+    },
+    {
+     "cusip": "294429105",
+     "put_call": null,
+     "issuer": "EQUIFAX INC",
+     "class": "COM",
+     "shares": 146352,
+     "unit": "SH",
+     "value": 31755457
+    }
+   ],
+   "table_total": 4411308632,
+   "first_seen": "2026-11-17T14:30:55+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-26-000003",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786826000003/0001697868-26-000003-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 769342,
+     "unit": "SH",
+     "value": 821303359
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1758074,
+     "unit": "SH",
+     "value": 747779195
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1487496,
+     "unit": "SH",
+     "value": 743242251
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1317188,
+     "unit": "SH",
+     "value": 574623265
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HOLDING N V",
+     "class": "N Y REGISTRY SHS",
+     "shares": 171083,
+     "unit": "SH",
+     "value": 225971559
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 598753,
+     "unit": "SH",
+     "value": 180967107
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 189072,
+     "unit": "SH",
+     "value": 81750951
+    }
+   ],
+   "table_total": 3375637687,
+   "first_seen": "2026-11-17T14:30:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-26-000005",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786826000005/0001697868-26-000005-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 672186,
+     "unit": "SH",
+     "value": 803114389
+    },
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1524036,
+     "unit": "SH",
+     "value": 620678901
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 1317188,
+     "unit": "SH",
+     "value": 596580789
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 1065934,
+     "unit": "SH",
+     "value": 547463702
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HLDG NV",
+     "class": "N Y REGISTRY SHS",
+     "shares": 171083,
+     "unit": "SH",
+     "value": 340359364
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 462978,
+     "unit": "SH",
+     "value": 158843122
+    },
+    {
+     "cusip": "461202103",
+     "put_call": null,
+     "issuer": "INTUIT",
+     "class": "COM",
+     "shares": 189072,
+     "unit": "SH",
+     "value": 49347792
+    }
+   ],
+   "table_total": 3116388059,
+   "first_seen": "2026-11-17T14:30:57+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001697868-26-000007",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1697868,
+   "url": "https://www.sec.gov/Archives/edgar/data/1697868/000169786826000007/0001697868-26-000007-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Valley Forge Capital Management, LP",
+   "holdings": [
+    {
+     "cusip": "78409V104",
+     "put_call": null,
+     "issuer": "S&P GLOBAL INC",
+     "class": "COM",
+     "shares": 1392860,
+     "unit": "SH",
+     "value": 549441484
+    },
+    {
+     "cusip": "615369105",
+     "put_call": null,
+     "issuer": "MOODYS CORP",
+     "class": "COM",
+     "shares": 911284,
+     "unit": "SH",
+     "value": 413841403
+    },
+    {
+     "cusip": "303250104",
+     "put_call": null,
+     "issuer": "FAIR ISAAC CORP",
+     "class": "COM",
+     "shares": 640202,
+     "unit": "SH",
+     "value": 379300479
+    },
+    {
+     "cusip": "N07059210",
+     "put_call": null,
+     "issuer": "ASML HLDG NV",
+     "class": "N Y REGISTRY SHS",
+     "shares": 208493,
+     "unit": "SH",
+     "value": 377720513
+    },
+    {
+     "cusip": "023135106",
+     "put_call": null,
+     "issuer": "AMAZON COM INC",
+     "class": "COM",
+     "shares": 711048,
+     "unit": "SH",
+     "value": 177157609
+    },
+    {
+     "cusip": "11135F101",
+     "put_call": null,
+     "issuer": "BROADCOM INC",
+     "class": "COM",
+     "shares": 475318,
+     "unit": "SH",
+     "value": 166926928
+    },
+    {
+     "cusip": "67066G104",
+     "put_call": null,
+     "issuer": "NVIDIA CORPORATION",
+     "class": "COM",
+     "shares": 646113,
+     "unit": "SH",
+     "value": 147559287
+    },
+    {
+     "cusip": "874039100",
+     "put_call": null,
+     "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+     "class": "SPONSORED ADS",
+     "shares": 298898,
+     "unit": "SH",
+     "value": 136354279
+    },
+    {
+     "cusip": "57636Q104",
+     "put_call": null,
+     "issuer": "MASTERCARD INCORPORATED",
+     "class": "CL A",
+     "shares": 169513,
+     "unit": "SH",
+     "value": 93481334
+    },
+    {
+     "cusip": "92826C839",
+     "put_call": null,
+     "issuer": "VISA INC",
+     "class": "COM CL A",
+     "shares": 238203,
+     "unit": "SH",
+     "value": 85593484
+    }
+   ],
+   "table_total": 2527376800,
+   "first_seen": "2026-11-17T14:30:57+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Valley Forge Capital Management, LP"
+}
