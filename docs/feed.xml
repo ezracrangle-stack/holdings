@@ -6,7 +6,14 @@
   <atom:link href="https://holdings.ezrasnotes.com/feed.xml" rel="self" type="application/rss+xml"/>
   <description>New 13F filings from the value investors Ezra follows.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
+  <item>
+    <title>Bob Robotti (Robotti &amp; Company Advisors): 13F for Q3 2026</title>
+    <link>https://holdings.ezrasnotes.com/m/bob-robotti/2026-q3.html</link>
+    <guid isPermaLink="true">https://holdings.ezrasnotes.com/m/bob-robotti/2026-q3.html</guid>
+    <pubDate>Tue, 17 Nov 2026 13:36:23 +0000</pubDate>
+    <description>57 positions, $631.7M. Builders FirstSource: add 36%; Civeo: add 729%; Amrize: add 92%; Asbury Automotive: reduce 39%; U-Haul Holding: reduce 48%; Advanced Energy Industries: sell; International Seaways: sell</description>
+  </item>
   <item>
     <title>Chris Begg (East Coast Asset Management): 13F for Q3 2026</title>
     <link>https://holdings.ezrasnotes.com/m/chris-begg/2026-q3.html</link>
@@ -349,13 +356,6 @@
     <guid isPermaLink="true">https://holdings.ezrasnotes.com/m/david-rolfe/2024-q1.html</guid>
     <pubDate>Mon, 16 Nov 2026 04:09:43 +0000</pubDate>
     <description>19 positions, $499.8M. Alphabet: sell</description>
-  </item>
-  <item>
-    <title>Leon Cooperman (Omega Advisors): 13F for Q1 2024</title>
-    <link>https://holdings.ezrasnotes.com/m/leon-cooperman/2024-q1.html</link>
-    <guid isPermaLink="true">https://holdings.ezrasnotes.com/m/leon-cooperman/2024-q1.html</guid>
-    <pubDate>Mon, 16 Nov 2026 17:03:59 +0000</pubDate>
-    <description>51 positions, $2.40B. KBR: buy; Sea: buy; PHX Minerals: buy; ADT: add 98%; Vanguard Intermediate-Term Treasury ETF: add 337%; Ellington Financial: reduce 45%; Pioneer Natural Resources: sell; Schwab Short-Term U.S. Treasury ETF: sell</description>
   </item>
 </channel>
 </rss>

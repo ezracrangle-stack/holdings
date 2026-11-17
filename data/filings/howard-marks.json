@@ -129572,6 +129572,20 @@
    "table_total": 7206070520,
    "first_seen": "2026-11-16T19:25:21+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001193125-26-464327",
+   "form": "13F-NT",
+   "filed": "2026-11-17",
+   "period": "2026-09-30",
+   "cik": 949509,
+   "url": "https://www.sec.gov/Archives/edgar/data/949509/000119312526464327/0001193125-26-464327-index.html",
+   "report_type": "13F NOTICE",
+   "amendment_type": null,
+   "filer_name": "OAKTREE CAPITAL MANAGEMENT LP",
+   "holdings": [],
+   "first_seen": "2026-11-17T13:36:30+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "OAKTREE CAPITAL MANAGEMENT LP"

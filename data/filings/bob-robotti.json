@@ -32342,6 +32342,535 @@
    "table_total": 619509887,
    "first_seen": "2026-11-16T13:50:57+00:00",
    "backfill": true
+  },
+  {
+   "accession": "0001140361-26-044282",
+   "form": "13F-HR",
+   "filed": "2026-11-17",
+   "period": "2026-09-30",
+   "cik": 1105838,
+   "url": "https://www.sec.gov/Archives/edgar/data/1105838/000114036126044282/0001140361-26-044282-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "ROBOTTI ROBERT",
+   "holdings": [
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "COM",
+     "shares": 2885197,
+     "unit": "SH",
+     "value": 233989477
+    },
+    {
+     "cusip": "12008R107",
+     "put_call": null,
+     "issuer": "BUILDERS FIRSTSOURCE INC",
+     "class": "COM",
+     "shares": 692688,
+     "unit": "SH",
+     "value": 39490143
+    },
+    {
+     "cusip": "33833Q106",
+     "put_call": null,
+     "issuer": "FIVE POINT HOLDINGS LLC",
+     "class": "COM",
+     "shares": 6964320,
+     "unit": "SH",
+     "value": 32593018
+    },
+    {
+     "cusip": "502160104",
+     "put_call": null,
+     "issuer": "LSB INDS INC",
+     "class": "COM",
+     "shares": 2103456,
+     "unit": "SH",
+     "value": 20550765
+    },
+    {
+     "cusip": "952845105",
+     "put_call": null,
+     "issuer": "WEST FRASER TIMBER CO LTD",
+     "class": "COM",
+     "shares": 294266,
+     "unit": "SH",
+     "value": 20403051
+    },
+    {
+     "cusip": "149568107",
+     "put_call": null,
+     "issuer": "CAVCO INDS INC DEL",
+     "class": "COM",
+     "shares": 31561,
+     "unit": "SH",
+     "value": 17682366
+    },
+    {
+     "cusip": "03938L203",
+     "put_call": null,
+     "issuer": "ARCELORMITTAL SA LUXEMBOURG",
+     "class": "NY REGISTRY SH",
+     "shares": 235948,
+     "unit": "SH",
+     "value": 15747170
+    },
+    {
+     "cusip": "N00985106",
+     "put_call": null,
+     "issuer": "AERCAP HOLDINGS NV",
+     "class": "SHS",
+     "shares": 106165,
+     "unit": "SH",
+     "value": 15236801
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINL GROUP INC",
+     "class": "COM",
+     "shares": 318515,
+     "unit": "SH",
+     "value": 14565691
+    },
+    {
+     "cusip": "960413102",
+     "put_call": null,
+     "issuer": "WESTLAKE CHEM CORP",
+     "class": "COM",
+     "shares": 233393,
+     "unit": "SH",
+     "value": 14542717
+    },
+    {
+     "cusip": "136385101",
+     "put_call": null,
+     "issuer": "CANADIAN NAT RES LTD",
+     "class": "COM",
+     "shares": 303668,
+     "unit": "SH",
+     "value": 14282023
+    },
+    {
+     "cusip": "45774W108",
+     "put_call": null,
+     "issuer": "INSTEEL INDUSTRIES INC",
+     "class": "COM",
+     "shares": 475385,
+     "unit": "SH",
+     "value": 13847965
+    },
+    {
+     "cusip": "Y62132108",
+     "put_call": null,
+     "issuer": "NAVIGATOR HOLDINGS PLC",
+     "class": "SHS",
+     "shares": 535531,
+     "unit": "SH",
+     "value": 12413609
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP NEW",
+     "class": "COM",
+     "shares": 521486,
+     "unit": "SH",
+     "value": 11743857
+    },
+    {
+     "cusip": "958102105",
+     "put_call": null,
+     "issuer": "WESTERN DIGITAL CORP",
+     "class": "COM",
+     "shares": 21712,
+     "unit": "SH",
+     "value": 9867236
+    },
+    {
+     "cusip": "043436104",
+     "put_call": null,
+     "issuer": "ASBURY AUTOMOTIVE GROUP",
+     "class": "COM",
+     "shares": 53039,
+     "unit": "SH",
+     "value": 9138620
+    },
+    {
+     "cusip": "533900106",
+     "put_call": null,
+     "issuer": "LINCOLN ELEC HLDGS INC",
+     "class": "COM",
+     "shares": 33403,
+     "unit": "SH",
+     "value": 8837766
+    },
+    {
+     "cusip": "783754104",
+     "put_call": null,
+     "issuer": "RYERSON HLDG CORP",
+     "class": "COM",
+     "shares": 369859,
+     "unit": "SH",
+     "value": 8713878
+    },
+    {
+     "cusip": "750491102",
+     "put_call": null,
+     "issuer": "RADNET INC",
+     "class": "COM",
+     "shares": 119492,
+     "unit": "SH",
+     "value": 8237778
+    },
+    {
+     "cusip": "17878Y207",
+     "put_call": null,
+     "issuer": "CIVEO CORP CDA",
+     "class": "COM NEW",
+     "shares": 248800,
+     "unit": "SH",
+     "value": 8158152
+    },
+    {
+     "cusip": "830830105",
+     "put_call": null,
+     "issuer": "CHAMPION HOMES INC",
+     "class": "COM",
+     "shares": 90551,
+     "unit": "SH",
+     "value": 7760221
+    },
+    {
+     "cusip": "894164102",
+     "put_call": null,
+     "issuer": "TRAVEL PLUS LEISURE CO",
+     "class": "COM",
+     "shares": 122064,
+     "unit": "SH",
+     "value": 7552100
+    },
+    {
+     "cusip": "01973R101",
+     "put_call": null,
+     "issuer": "ALLISON TRANSMISSION HLDGS INC",
+     "class": "COM",
+     "shares": 58604,
+     "unit": "SH",
+     "value": 6637489
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES INC",
+     "class": "CL B",
+     "shares": 100000,
+     "unit": "SH",
+     "value": 6579000
+    },
+    {
+     "cusip": "601137102",
+     "put_call": null,
+     "issuer": "MILLROSE PPTYS INC",
+     "class": "COM CL A",
+     "shares": 252300,
+     "unit": "SH",
+     "value": 6552231
+    },
+    {
+     "cusip": "G65431127",
+     "put_call": null,
+     "issuer": "NOBLE CORP NEW",
+     "class": "ORD SHS A",
+     "shares": 145228,
+     "unit": "SH",
+     "value": 6061817
+    },
+    {
+     "cusip": "G7997W102",
+     "put_call": null,
+     "issuer": "SEADRILL 2021 LTD",
+     "class": "COM",
+     "shares": 130820,
+     "unit": "SH",
+     "value": 5843730
+    },
+    {
+     "cusip": "78413P101",
+     "put_call": null,
+     "issuer": "SEACOR MARINE HOLDINGS INC",
+     "class": "COM",
+     "shares": 713824,
+     "unit": "SH",
+     "value": 5796251
+    },
+    {
+     "cusip": "546347105",
+     "put_call": null,
+     "issuer": "LOUISIANA PAC CORP",
+     "class": "COM",
+     "shares": 79501,
+     "unit": "SH",
+     "value": 5131790
+    },
+    {
+     "cusip": "80004C200",
+     "put_call": null,
+     "issuer": "SANDISK CORP",
+     "class": "COM",
+     "shares": 2896,
+     "unit": "SH",
+     "value": 5038722
+    },
+    {
+     "cusip": "00402L107",
+     "put_call": null,
+     "issuer": "ACADEMY SPORTS & OUTDOORS IN",
+     "class": "COM",
+     "shares": 103880,
+     "unit": "SH",
+     "value": 4995589
+    },
+    {
+     "cusip": "136635109",
+     "put_call": null,
+     "issuer": "CANADIAN SOLAR INC",
+     "class": "COM",
+     "shares": 401410,
+     "unit": "SH",
+     "value": 4624243
+    },
+    {
+     "cusip": "235825205",
+     "put_call": null,
+     "issuer": "DANA HOLDING CORP",
+     "class": "COM",
+     "shares": 150758,
+     "unit": "SH",
+     "value": 4117201
+    },
+    {
+     "cusip": "L8681T102",
+     "put_call": null,
+     "issuer": "SPOTIFY TECHNOLOGY S A",
+     "class": "SHS",
+     "shares": 7500,
+     "unit": "SH",
+     "value": 3655350
+    },
+    {
+     "cusip": "81141R100",
+     "put_call": null,
+     "issuer": "SEA LTD",
+     "class": "SPONSORED ADS",
+     "shares": 25000,
+     "unit": "SH",
+     "value": 2434000
+    },
+    {
+     "cusip": "740444104",
+     "put_call": null,
+     "issuer": "PREFORMED LINE PRODS CO",
+     "class": "COM",
+     "shares": 5935,
+     "unit": "SH",
+     "value": 2416732
+    },
+    {
+     "cusip": "127190304",
+     "put_call": null,
+     "issuer": "CACI INTL INC",
+     "class": "CL A",
+     "shares": 3600,
+     "unit": "SH",
+     "value": 2192796
+    },
+    {
+     "cusip": "75282U104",
+     "put_call": null,
+     "issuer": "RANGER ENERGY SVCS INC",
+     "class": "COM CL A",
+     "shares": 100000,
+     "unit": "SH",
+     "value": 1519000
+    },
+    {
+     "cusip": "443628102",
+     "put_call": null,
+     "issuer": "HUDBAY MINERALS INC",
+     "class": "COM",
+     "shares": 55000,
+     "unit": "SH",
+     "value": 1467400
+    },
+    {
+     "cusip": "H2927K103",
+     "put_call": null,
+     "issuer": "AMRIZE LTD",
+     "class": "SHS",
+     "shares": 37500,
+     "unit": "SH",
+     "value": 1402125
+    },
+    {
+     "cusip": "617446448",
+     "put_call": null,
+     "issuer": "MORGAN STANLEY",
+     "class": "COM NEW",
+     "shares": 6500,
+     "unit": "SH",
+     "value": 1222520
+    },
+    {
+     "cusip": "023586506",
+     "put_call": null,
+     "issuer": "U HAUL HOLDING COMPANY",
+     "class": "COM SER N",
+     "shares": 22300,
+     "unit": "SH",
+     "value": 1178555
+    },
+    {
+     "cusip": "71654V408",
+     "put_call": null,
+     "issuer": "PETROLEO BRASILEIRO SA PETRO",
+     "class": "SPONSORED ADR",
+     "shares": 50000,
+     "unit": "SH",
+     "value": 1043500
+    },
+    {
+     "cusip": "008474108",
+     "put_call": null,
+     "issuer": "AGNICO EAGLE MINES LTD",
+     "class": "COM",
+     "shares": 5500,
+     "unit": "SH",
+     "value": 1007985
+    },
+    {
+     "cusip": "52472M101",
+     "put_call": null,
+     "issuer": "LEGACY HOUSING CORP",
+     "class": "COM",
+     "shares": 32779,
+     "unit": "SH",
+     "value": 939774
+    },
+    {
+     "cusip": "011532108",
+     "put_call": null,
+     "issuer": "ALAMOS GOLD INCORPORATED",
+     "class": "COM CL A",
+     "shares": 21500,
+     "unit": "SH",
+     "value": 696385
+    },
+    {
+     "cusip": "37364X109",
+     "put_call": null,
+     "issuer": "GEOSPACE TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 127736,
+     "unit": "SH",
+     "value": 624630
+    },
+    {
+     "cusip": "43283X105",
+     "put_call": null,
+     "issuer": "HILTON GRAND VACATIONS INC",
+     "class": "COM",
+     "shares": 15010,
+     "unit": "SH",
+     "value": 520247
+    },
+    {
+     "cusip": "806857108",
+     "put_call": null,
+     "issuer": "SCHLUMBERGER LIMITED",
+     "class": "COM",
+     "shares": 8000,
+     "unit": "SH",
+     "value": 389760
+    },
+    {
+     "cusip": "G5568L109",
+     "put_call": null,
+     "issuer": "LIFEZONE METALS LIMITED",
+     "class": "ORD SHS",
+     "shares": 100000,
+     "unit": "SH",
+     "value": 376000
+    },
+    {
+     "cusip": "817070501",
+     "put_call": null,
+     "issuer": "SENECA FOODS CORP",
+     "class": "COM",
+     "shares": 1982,
+     "unit": "SH",
+     "value": 352796
+    },
+    {
+     "cusip": "29446Y502",
+     "put_call": null,
+     "issuer": "EQUINOX GOLD CORP",
+     "class": "COM",
+     "shares": 30000,
+     "unit": "SH",
+     "value": 333300
+    },
+    {
+     "cusip": "811543107",
+     "put_call": null,
+     "issuer": "SEABOARD CORP DEL",
+     "class": "COM",
+     "shares": 75,
+     "unit": "SH",
+     "value": 296100
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS LIMITED",
+     "class": "CL A",
+     "shares": 3344,
+     "unit": "SH",
+     "value": 262571
+    },
+    {
+     "cusip": "155123102",
+     "put_call": null,
+     "issuer": "CENTRAL SECURITIES CORP",
+     "class": "COM",
+     "shares": 4376,
+     "unit": "SH",
+     "value": 242912
+    },
+    {
+     "cusip": "25820R105",
+     "put_call": null,
+     "issuer": "DORCHESTER MINERALS",
+     "class": "COM",
+     "shares": 7964,
+     "unit": "SH",
+     "value": 223311
+    },
+    {
+     "cusip": "55825T103",
+     "put_call": null,
+     "issuer": "MADISON SQUARE GARDEN SPORT CORP",
+     "class": "CL A",
+     "shares": 500,
+     "unit": "SH",
+     "value": 202605
+    }
+   ],
+   "table_total": 631732821,
+   "first_seen": "2026-11-17T13:36:23+00:00",
+   "backfill": false
   }
  ],
  "sec_name": "ROBOTTI ROBERT"
