@@ -47,7 +47,7 @@
     </span>
   </div>
   <a class="nameplate" href="{{ root }}index.html">Investor Holdings</a>
-  <p class="byline">By <a href="https://x.com/ezracrangle">@ezracrangle</a></p>
+  <p class="byline">By <a href="{{ newsletter_url }}">@ezracrangle</a></p>
   <nav>
     <a href="{{ root }}index.html"{% if page == 'index.html' %} aria-current="page"{% endif %}>Latest</a>
     <a href="{{ root }}managers.html"{% if page == 'managers.html' or page.startswith('m/') %} aria-current="page"{% endif %}>Managers</a>
