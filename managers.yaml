@@ -408,3 +408,10 @@ managers:
     cik: 1697868
     letters: no
     why: "Dev invests the Buffett and Munger way: about 10 businesses that work like toll booths, held for years. S&P Global, Moody's, Mastercard and Visa are in every 13F since his first, in 2016, and the two rating agencies are 38% of it."
+
+  - id: amit-wadhwaney
+    name: Amit Wadhwaney
+    firm: Moerus Capital Management
+    style: "Deep value · Worldwide, often emerging markets · Out-of-favor industries"
+    cik: 1742647
+    letters: moerus

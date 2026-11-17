@@ -3560,3 +3560,18 @@
 "61174X109": {name: "Monster Beverage", ticker: "MNST", sic: 2086}
 "045327103": {name: "Aspen Technology", ticker: "AZPN", sic: 7372, note: "The old AspenTech, before the 2022 Emerson deal."}
 "29109X106": {name: "Aspen Technology", ticker: "AZPN", sic: 7372, note: "Taken private by Emerson in 2025."}
+
+# Amit Wadhwaney (Moerus)
+"13321L108": {name: "Cameco", ticker: "CCJ", sector: "Energy"}
+"38500T101": {name: "Gran Tierra Energy", ticker: "GTE", sector: "Energy"}
+"962879102": {name: "Wheaton Precious Metals", ticker: "WPM", sector: "Materials"}
+"140501107": {name: "Capital Southwest", ticker: "CSWC", sector: "Financials & real estate"}
+"P31076105": {name: "Copa Holdings", ticker: "CPA", sector: "Industrials"}
+"780287108": {name: "Royal Gold", ticker: "RGLD", sector: "Materials"}
+"29269R105": {name: "Enerflex", ticker: "EFXT", sector: "Energy"}
+"G16250105": {name: "Brookfield Wealth Solutions", ticker: "BNT", sector: "Financials & real estate", note: "Called Brookfield Reinsurance until 2024."}
+"G17434104": {name: "Brookfield Wealth Solutions", ticker: "BNT", sector: "Financials & real estate"}
+"399909100": {name: "Grupo Financiero Galicia", ticker: "GGAL", sector: "Financials & real estate"}
+"39525U107": {name: "Greenfire Resources", ticker: "GFR", sector: "Energy"}
+"64440N103": {name: "New Found Gold", ticker: "NFGC", sector: "Materials"}
+"15135U109": {name: "Cenovus Energy", ticker: "CVE", sector: "Energy"}

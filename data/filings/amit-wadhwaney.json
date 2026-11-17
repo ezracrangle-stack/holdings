@@ -1,0 +1,6070 @@
+{
+ "filings": [
+  {
+   "accession": "0001398344-19-002718",
+   "form": "13F-HR",
+   "filed": "2019-02-14",
+   "period": "2018-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834419002718/0001398344-19-002718-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS-A",
+     "class": "Com",
+     "shares": 5637646,
+     "unit": "SH",
+     "value": 44537000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA B-ADR",
+     "class": "Com",
+     "shares": 3359225,
+     "unit": "SH",
+     "value": 40076000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANC",
+     "class": "Com",
+     "shares": 1937008,
+     "unit": "SH",
+     "value": 33626000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 587443,
+     "unit": "SH",
+     "value": 27610000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1421969,
+     "unit": "SH",
+     "value": 27202000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RES INC",
+     "class": "Com",
+     "shares": 799539,
+     "unit": "SH",
+     "value": 23714000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS",
+     "class": "Com",
+     "shares": 493635,
+     "unit": "SH",
+     "value": 20856000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASS-A",
+     "class": "Com",
+     "shares": 490513,
+     "unit": "SH",
+     "value": 18811000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1591177,
+     "unit": "SH",
+     "value": 18142000
+    },
+    {
+     "cusip": "194014106",
+     "put_call": null,
+     "issuer": "COLFAX CORP",
+     "class": "Com",
+     "shares": 762899,
+     "unit": "SH",
+     "value": 15945000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENER",
+     "class": "Com",
+     "shares": 6372968,
+     "unit": "SH",
+     "value": 13988000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS",
+     "class": "Com",
+     "shares": 469407,
+     "unit": "SH",
+     "value": 9168000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRI INC",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 6781000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAP SOUTHWEST",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2696000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDIN-CL A",
+     "class": "Com",
+     "shares": 25273,
+     "unit": "SH",
+     "value": 1989000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12066,
+     "unit": "SH",
+     "value": 1033000
+    }
+   ],
+   "table_total": 306174000,
+   "first_seen": "2026-11-17T18:52:16+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-008751",
+   "form": "13F-HR",
+   "filed": "2019-05-14",
+   "period": "2019-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834419008751/0001398344-19-008751-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 3504627,
+     "unit": "SH",
+     "value": 42301000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5749674,
+     "unit": "SH",
+     "value": 41225000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2095440,
+     "unit": "SH",
+     "value": 39373000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1564122,
+     "unit": "SH",
+     "value": 36272000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 637688,
+     "unit": "SH",
+     "value": 34933000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 642206,
+     "unit": "SH",
+     "value": 33883000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 875955,
+     "unit": "SH",
+     "value": 29029000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1754475,
+     "unit": "SH",
+     "value": 20700000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 364837,
+     "unit": "SH",
+     "value": 17020000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 7107028,
+     "unit": "SH",
+     "value": 16185000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 521402,
+     "unit": "SH",
+     "value": 12420000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 8035000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2951000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25817,
+     "unit": "SH",
+     "value": 2081000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12216,
+     "unit": "SH",
+     "value": 1111000
+    }
+   ],
+   "table_total": 337519000,
+   "first_seen": "2026-11-17T18:52:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-014228",
+   "form": "13F-HR",
+   "filed": "2019-08-14",
+   "period": "2019-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834419014228/0001398344-19-014228-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5828543,
+     "unit": "SH",
+     "value": 42432000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2098457,
+     "unit": "SH",
+     "value": 40353000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1571590,
+     "unit": "SH",
+     "value": 36901000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 2773363,
+     "unit": "SH",
+     "value": 36109000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 640167,
+     "unit": "SH",
+     "value": 34223000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 609884,
+     "unit": "SH",
+     "value": 32793000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 874069,
+     "unit": "SH",
+     "value": 30418000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1765029,
+     "unit": "SH",
+     "value": 18924000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 8526491,
+     "unit": "SH",
+     "value": 13348000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 519892,
+     "unit": "SH",
+     "value": 12571000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 260547,
+     "unit": "SH",
+     "value": 12449000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 73978,
+     "unit": "SH",
+     "value": 5042000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2938000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25817,
+     "unit": "SH",
+     "value": 2519000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12216,
+     "unit": "SH",
+     "value": 1252000
+    }
+   ],
+   "table_total": 322272000,
+   "first_seen": "2026-11-17T18:52:18+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-19-020209",
+   "form": "13F-HR",
+   "filed": "2019-11-14",
+   "period": "2019-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834419020209/0001398344-19-020209-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2093662,
+     "unit": "SH",
+     "value": 38523000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5495214,
+     "unit": "SH",
+     "value": 36928000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 2784306,
+     "unit": "SH",
+     "value": 36669000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 686766,
+     "unit": "SH",
+     "value": 36206000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 644522,
+     "unit": "SH",
+     "value": 32149000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1632318,
+     "unit": "SH",
+     "value": 24664000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 734150,
+     "unit": "SH",
+     "value": 21188000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1818977,
+     "unit": "SH",
+     "value": 17282000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 12856074,
+     "unit": "SH",
+     "value": 15923000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 455929,
+     "unit": "SH",
+     "value": 11964000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 220867,
+     "unit": "SH",
+     "value": 11726000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 55365,
+     "unit": "SH",
+     "value": 3822000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 3057000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 23121,
+     "unit": "SH",
+     "value": 2283000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 10698,
+     "unit": "SH",
+     "value": 1318000
+    }
+   ],
+   "table_total": 293702000,
+   "first_seen": "2026-11-17T18:52:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-003332",
+   "form": "13F-HR",
+   "filed": "2020-02-14",
+   "period": "2019-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834420003332/0001398344-20-003332-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5246829,
+     "unit": "SH",
+     "value": 42499000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 638773,
+     "unit": "SH",
+     "value": 41067000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1851030,
+     "unit": "SH",
+     "value": 39557000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1928274,
+     "unit": "SH",
+     "value": 37177000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 2094469,
+     "unit": "SH",
+     "value": 29993000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 581436,
+     "unit": "SH",
+     "value": 27857000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 17574599,
+     "unit": "SH",
+     "value": 22863000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 751661,
+     "unit": "SH",
+     "value": 19528000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1702410,
+     "unit": "SH",
+     "value": 15123000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 434397,
+     "unit": "SH",
+     "value": 12923000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 185230,
+     "unit": "SH",
+     "value": 10706000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 44576,
+     "unit": "SH",
+     "value": 3432000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2919000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 23121,
+     "unit": "SH",
+     "value": 2499000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 5723,
+     "unit": "SH",
+     "value": 700000
+    }
+   ],
+   "table_total": 308843000,
+   "first_seen": "2026-11-17T18:52:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-010231",
+   "form": "13F-HR",
+   "filed": "2020-05-15",
+   "period": "2020-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834420010231/0001398344-20-010231-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2178461,
+     "unit": "SH",
+     "value": 29780000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 3031032,
+     "unit": "SH",
+     "value": 28886000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 730356,
+     "unit": "SH",
+     "value": 26563000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 765217,
+     "unit": "SH",
+     "value": 25971000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5418961,
+     "unit": "SH",
+     "value": 18099000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 2373164,
+     "unit": "SH",
+     "value": 18089000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 899666,
+     "unit": "SH",
+     "value": 15015000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2048671,
+     "unit": "SH",
+     "value": 14505000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 504239,
+     "unit": "SH",
+     "value": 13882000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 143503,
+     "unit": "SH",
+     "value": 6350000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 11864907,
+     "unit": "SH",
+     "value": 3034000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2155000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1602000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 139364,
+     "unit": "SH",
+     "value": 790000
+    }
+   ],
+   "table_total": 204721000,
+   "first_seen": "2026-11-17T18:52:41+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-015786",
+   "form": "13F-HR",
+   "filed": "2020-08-14",
+   "period": "2020-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834420015786/0001398344-20-015786-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1931058,
+     "unit": "SH",
+     "value": 30028000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 581995,
+     "unit": "SH",
+     "value": 26714000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 2517001,
+     "unit": "SH",
+     "value": 22301000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 679304,
+     "unit": "SH",
+     "value": 21806000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5165342,
+     "unit": "SH",
+     "value": 21643000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1743931,
+     "unit": "SH",
+     "value": 17883000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2447138,
+     "unit": "SH",
+     "value": 13680000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 294484,
+     "unit": "SH",
+     "value": 12972000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 7082000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2297000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1891000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 187164,
+     "unit": "SH",
+     "value": 1344000
+    }
+   ],
+   "table_total": 179641000,
+   "first_seen": "2026-11-17T18:52:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-20-022761",
+   "form": "13F-HR",
+   "filed": "2020-11-16",
+   "period": "2020-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834420022761/0001398344-20-022761-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2012546,
+     "unit": "SH",
+     "value": 36226000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 585462,
+     "unit": "SH",
+     "value": 33465000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 731504,
+     "unit": "SH",
+     "value": 28697000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5564437,
+     "unit": "SH",
+     "value": 22814000
+    },
+    {
+     "cusip": "87936R106",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR PREF",
+     "class": "Com",
+     "shares": 2689836,
+     "unit": "SH",
+     "value": 20631000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1770802,
+     "unit": "SH",
+     "value": 17898000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2608700,
+     "unit": "SH",
+     "value": 17504000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 302931,
+     "unit": "SH",
+     "value": 14865000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 7116000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2568000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1970000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 196296,
+     "unit": "SH",
+     "value": 1248000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 2772,
+     "unit": "SH",
+     "value": 140000
+    }
+   ],
+   "table_total": 205142000,
+   "first_seen": "2026-11-17T18:52:47+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-003457",
+   "form": "13F-HR",
+   "filed": "2021-02-16",
+   "period": "2020-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421003457/0001398344-21-003457-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 577834,
+     "unit": "SH",
+     "value": 45637000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1498615,
+     "unit": "SH",
+     "value": 36866000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 743078,
+     "unit": "SH",
+     "value": 35787000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 6060025,
+     "unit": "SH",
+     "value": 30482000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 3087652,
+     "unit": "SH",
+     "value": 27326000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2679898,
+     "unit": "SH",
+     "value": 23154000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1635206,
+     "unit": "SH",
+     "value": 21905000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 304142,
+     "unit": "SH",
+     "value": 12695000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 180872,
+     "unit": "SH",
+     "value": 8883000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 24100,
+     "unit": "SH",
+     "value": 3142000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 117472,
+     "unit": "SH",
+     "value": 2489000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 169111,
+     "unit": "SH",
+     "value": 2166000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 12407,
+     "unit": "SH",
+     "value": 958000
+    }
+   ],
+   "table_total": 251490000,
+   "first_seen": "2026-11-17T18:52:48+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005777",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2019-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005777/0001398344-21-005777-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 3504627,
+     "unit": "SH",
+     "value": 42301000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5749674,
+     "unit": "SH",
+     "value": 41225000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2095440,
+     "unit": "SH",
+     "value": 39373000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1564122,
+     "unit": "SH",
+     "value": 36272000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 637688,
+     "unit": "SH",
+     "value": 34933000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 642206,
+     "unit": "SH",
+     "value": 33883000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 875955,
+     "unit": "SH",
+     "value": 29029000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1754475,
+     "unit": "SH",
+     "value": 20700000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 364837,
+     "unit": "SH",
+     "value": 17020000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 7107028,
+     "unit": "SH",
+     "value": 16185000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 521402,
+     "unit": "SH",
+     "value": 12420000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 8035000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2951000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25817,
+     "unit": "SH",
+     "value": 2081000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12216,
+     "unit": "SH",
+     "value": 1111000
+    }
+   ],
+   "table_total": 337519000,
+   "first_seen": "2026-11-17T18:52:49+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005778",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2019-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005778/0001398344-21-005778-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5828543,
+     "unit": "SH",
+     "value": 42432000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2098457,
+     "unit": "SH",
+     "value": 40353000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1571590,
+     "unit": "SH",
+     "value": 36901000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2773363,
+     "unit": "SH",
+     "value": 36109000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 640167,
+     "unit": "SH",
+     "value": 34223000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 609884,
+     "unit": "SH",
+     "value": 32793000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 874069,
+     "unit": "SH",
+     "value": 30418000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1765029,
+     "unit": "SH",
+     "value": 18924000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 8526491,
+     "unit": "SH",
+     "value": 13348000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 519892,
+     "unit": "SH",
+     "value": 12571000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 260547,
+     "unit": "SH",
+     "value": 12449000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 73978,
+     "unit": "SH",
+     "value": 5042000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2938000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25817,
+     "unit": "SH",
+     "value": 2519000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12216,
+     "unit": "SH",
+     "value": 1252000
+    }
+   ],
+   "table_total": 322272000,
+   "first_seen": "2026-11-17T18:52:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005779",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2020-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005779/0001398344-21-005779-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2012546,
+     "unit": "SH",
+     "value": 36226000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 585462,
+     "unit": "SH",
+     "value": 33465000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 731504,
+     "unit": "SH",
+     "value": 28697000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5564437,
+     "unit": "SH",
+     "value": 22814000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2689836,
+     "unit": "SH",
+     "value": 20631000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1770802,
+     "unit": "SH",
+     "value": 17898000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2608700,
+     "unit": "SH",
+     "value": 17504000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 302931,
+     "unit": "SH",
+     "value": 14865000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 7116000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2568000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1970000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 196296,
+     "unit": "SH",
+     "value": 1248000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 2772,
+     "unit": "SH",
+     "value": 140000
+    }
+   ],
+   "table_total": 205142000,
+   "first_seen": "2026-11-17T18:52:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005783",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2019-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005783/0001398344-21-005783-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5246829,
+     "unit": "SH",
+     "value": 42499000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 638773,
+     "unit": "SH",
+     "value": 41067000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1851030,
+     "unit": "SH",
+     "value": 39557000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1928274,
+     "unit": "SH",
+     "value": 37177000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2094469,
+     "unit": "SH",
+     "value": 29993000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 581436,
+     "unit": "SH",
+     "value": 27857000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 17574599,
+     "unit": "SH",
+     "value": 22863000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 751661,
+     "unit": "SH",
+     "value": 19528000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1702410,
+     "unit": "SH",
+     "value": 15123000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 434397,
+     "unit": "SH",
+     "value": 12923000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 185230,
+     "unit": "SH",
+     "value": 10706000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 44576,
+     "unit": "SH",
+     "value": 3432000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2919000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 23121,
+     "unit": "SH",
+     "value": 2499000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 5723,
+     "unit": "SH",
+     "value": 700000
+    }
+   ],
+   "table_total": 308843000,
+   "first_seen": "2026-11-17T18:52:52+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005784",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2018-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005784/0001398344-21-005784-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5637646,
+     "unit": "SH",
+     "value": 44537000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 3359225,
+     "unit": "SH",
+     "value": 40076000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1937008,
+     "unit": "SH",
+     "value": 33626000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 587443,
+     "unit": "SH",
+     "value": 27610000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1421969,
+     "unit": "SH",
+     "value": 27202000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 799539,
+     "unit": "SH",
+     "value": 23714000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 493635,
+     "unit": "SH",
+     "value": 20856000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 490513,
+     "unit": "SH",
+     "value": 18811000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1591177,
+     "unit": "SH",
+     "value": 18142000
+    },
+    {
+     "cusip": "194014106",
+     "put_call": null,
+     "issuer": "COLFAX CORP",
+     "class": "Com",
+     "shares": 762899,
+     "unit": "SH",
+     "value": 15945000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 6372968,
+     "unit": "SH",
+     "value": 13988000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 469407,
+     "unit": "SH",
+     "value": 9168000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 6781000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 2696000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25273,
+     "unit": "SH",
+     "value": 1989000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 12066,
+     "unit": "SH",
+     "value": 1033000
+    }
+   ],
+   "table_total": 306174000,
+   "first_seen": "2026-11-17T18:52:56+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005786",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2020-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005786/0001398344-21-005786-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1931058,
+     "unit": "SH",
+     "value": 30028000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 581995,
+     "unit": "SH",
+     "value": 26714000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2517001,
+     "unit": "SH",
+     "value": 22301000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 679304,
+     "unit": "SH",
+     "value": 21806000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5165342,
+     "unit": "SH",
+     "value": 21643000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1743931,
+     "unit": "SH",
+     "value": 17883000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2447138,
+     "unit": "SH",
+     "value": 13680000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 294484,
+     "unit": "SH",
+     "value": 12972000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 7082000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2297000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1891000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 187164,
+     "unit": "SH",
+     "value": 1344000
+    }
+   ],
+   "table_total": 179641000,
+   "first_seen": "2026-11-17T18:53:00+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005787",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2020-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005787/0001398344-21-005787-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2178461,
+     "unit": "SH",
+     "value": 29780000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 3031032,
+     "unit": "SH",
+     "value": 28886000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 730356,
+     "unit": "SH",
+     "value": 26563000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 765217,
+     "unit": "SH",
+     "value": 25971000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5418961,
+     "unit": "SH",
+     "value": 18099000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 2373164,
+     "unit": "SH",
+     "value": 18089000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 899666,
+     "unit": "SH",
+     "value": 15015000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2048671,
+     "unit": "SH",
+     "value": 14505000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 504239,
+     "unit": "SH",
+     "value": 13882000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 143503,
+     "unit": "SH",
+     "value": 6350000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 11864907,
+     "unit": "SH",
+     "value": 3034000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 33237,
+     "unit": "SH",
+     "value": 2155000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 1602000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 139364,
+     "unit": "SH",
+     "value": 790000
+    }
+   ],
+   "table_total": 204721000,
+   "first_seen": "2026-11-17T18:53:04+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005791",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2019-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005791/0001398344-21-005791-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 2093662,
+     "unit": "SH",
+     "value": 38523000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5495214,
+     "unit": "SH",
+     "value": 36928000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2784306,
+     "unit": "SH",
+     "value": 36669000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 686766,
+     "unit": "SH",
+     "value": 36206000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 644522,
+     "unit": "SH",
+     "value": 32149000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1632318,
+     "unit": "SH",
+     "value": 24664000
+    },
+    {
+     "cusip": "354613101",
+     "put_call": null,
+     "issuer": "FRANKLIN RESOURCES INC",
+     "class": "Com",
+     "shares": 734150,
+     "unit": "SH",
+     "value": 21188000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1818977,
+     "unit": "SH",
+     "value": 17282000
+    },
+    {
+     "cusip": "38500T101",
+     "put_call": null,
+     "issuer": "GRAN TIERRA ENERGY INC",
+     "class": "Com",
+     "shares": 12856074,
+     "unit": "SH",
+     "value": 15923000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 455929,
+     "unit": "SH",
+     "value": 11964000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 220867,
+     "unit": "SH",
+     "value": 11726000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 55365,
+     "unit": "SH",
+     "value": 3822000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 140248,
+     "unit": "SH",
+     "value": 3057000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 23121,
+     "unit": "SH",
+     "value": 2283000
+    },
+    {
+     "cusip": "780287108",
+     "put_call": null,
+     "issuer": "ROYAL GOLD INC",
+     "class": "Com",
+     "shares": 10698,
+     "unit": "SH",
+     "value": 1318000
+    }
+   ],
+   "table_total": 293702000,
+   "first_seen": "2026-11-17T18:53:05+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-005792",
+   "form": "13F-HR/A",
+   "filed": "2021-03-05",
+   "period": "2020-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421005792/0001398344-21-005792-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": "RESTATEMENT",
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 577834,
+     "unit": "SH",
+     "value": 45637000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1498615,
+     "unit": "SH",
+     "value": 36866000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 743078,
+     "unit": "SH",
+     "value": 35787000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 6060025,
+     "unit": "SH",
+     "value": 30482000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1635206,
+     "unit": "SH",
+     "value": 27880000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 3087652,
+     "unit": "SH",
+     "value": 27326000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2679898,
+     "unit": "SH",
+     "value": 23154000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 304142,
+     "unit": "SH",
+     "value": 12695000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 180872,
+     "unit": "SH",
+     "value": 7465000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 24100,
+     "unit": "SH",
+     "value": 2697000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 169111,
+     "unit": "SH",
+     "value": 2166000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 117472,
+     "unit": "SH",
+     "value": 2085000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 12407,
+     "unit": "SH",
+     "value": 958000
+    }
+   ],
+   "table_total": 255198000,
+   "first_seen": "2026-11-17T18:53:06+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-010824",
+   "form": "13F-HR",
+   "filed": "2021-05-17",
+   "period": "2021-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421010824/0001398344-21-010824-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 551707,
+     "unit": "SH",
+     "value": 46895000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1400793,
+     "unit": "SH",
+     "value": 42164000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 685726,
+     "unit": "SH",
+     "value": 36954000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2771774,
+     "unit": "SH",
+     "value": 34730000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5974918,
+     "unit": "SH",
+     "value": 30412000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1517081,
+     "unit": "SH",
+     "value": 25164000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 2713791,
+     "unit": "SH",
+     "value": 21358000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 271286,
+     "unit": "SH",
+     "value": 10366000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 9579000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 24483,
+     "unit": "SH",
+     "value": 3305000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 135074,
+     "unit": "SH",
+     "value": 2993000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 169111,
+     "unit": "SH",
+     "value": 2305000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 12407,
+     "unit": "SH",
+     "value": 1002000
+    }
+   ],
+   "table_total": 267227000,
+   "first_seen": "2026-11-17T18:53:07+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-016224",
+   "form": "13F-HR",
+   "filed": "2021-08-16",
+   "period": "2021-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421016224/0001398344-21-016224-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 383657,
+     "unit": "SH",
+     "value": 32626000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 493903,
+     "unit": "SH",
+     "value": 29935000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 4759342,
+     "unit": "SH",
+     "value": 28413000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 802149,
+     "unit": "SH",
+     "value": 27433000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2177268,
+     "unit": "SH",
+     "value": 26236000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1215363,
+     "unit": "SH",
+     "value": 23299000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 295641,
+     "unit": "SH",
+     "value": 13029000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 981093,
+     "unit": "SH",
+     "value": 12960000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 10973000
+    },
+    {
+     "cusip": "87936R205",
+     "put_call": null,
+     "issuer": "TELEFONICA BRASIL-ADR",
+     "class": "Com",
+     "shares": 677332,
+     "unit": "SH",
+     "value": 5757000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 135074,
+     "unit": "SH",
+     "value": 3138000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 24483,
+     "unit": "SH",
+     "value": 2900000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 12407,
+     "unit": "SH",
+     "value": 935000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 77000
+    }
+   ],
+   "table_total": 217711000,
+   "first_seen": "2026-11-17T18:53:10+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-21-021461",
+   "form": "13F-HR",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834421021461/0001398344-21-021461-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 369433,
+     "unit": "SH",
+     "value": 35344000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 435067,
+     "unit": "SH",
+     "value": 28205000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2336722,
+     "unit": "SH",
+     "value": 28181000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5001768,
+     "unit": "SH",
+     "value": 25609000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1157083,
+     "unit": "SH",
+     "value": 25109000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 586373,
+     "unit": "SH",
+     "value": 21772000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 1489805,
+     "unit": "SH",
+     "value": 17922000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 380834,
+     "unit": "SH",
+     "value": 14312000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 215248,
+     "unit": "SH",
+     "value": 11518000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 135074,
+     "unit": "SH",
+     "value": 3401000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 24483,
+     "unit": "SH",
+     "value": 3126000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 12407,
+     "unit": "SH",
+     "value": 1010000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 82000
+    }
+   ],
+   "table_total": 215591000,
+   "first_seen": "2026-11-17T18:53:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-002703",
+   "form": "13F-HR",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834422002703/0001398344-22-002703-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 372581,
+     "unit": "SH",
+     "value": 37899000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 431758,
+     "unit": "SH",
+     "value": 32468000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5001461,
+     "unit": "SH",
+     "value": 29159000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2312642,
+     "unit": "SH",
+     "value": 24768000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 576530,
+     "unit": "SH",
+     "value": 24750000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 590485,
+     "unit": "SH",
+     "value": 22911000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1017471,
+     "unit": "SH",
+     "value": 22203000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 1633254,
+     "unit": "SH",
+     "value": 15990000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 205165,
+     "unit": "SH",
+     "value": 12388000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 127786,
+     "unit": "SH",
+     "value": 3230000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 22855,
+     "unit": "SH",
+     "value": 2762000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 13789,
+     "unit": "SH",
+     "value": 1140000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 92000
+    }
+   ],
+   "table_total": 229760000,
+   "first_seen": "2026-11-17T18:53:14+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-009629",
+   "form": "13F-HR",
+   "filed": "2022-05-16",
+   "period": "2022-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834422009629/0001398344-22-009629-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 562001,
+     "unit": "SH",
+     "value": 58442000
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2673075,
+     "unit": "SH",
+     "value": 58113000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 6031654,
+     "unit": "SH",
+     "value": 49037000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 521420,
+     "unit": "SH",
+     "value": 46260000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 807420,
+     "unit": "SH",
+     "value": 38417000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1253340,
+     "unit": "SH",
+     "value": 36496000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 880471,
+     "unit": "SH",
+     "value": 28923000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 2187895,
+     "unit": "SH",
+     "value": 26692000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 204855,
+     "unit": "SH",
+     "value": 11589000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 127786,
+     "unit": "SH",
+     "value": 3032000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 20902,
+     "unit": "SH",
+     "value": 2458000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 17984,
+     "unit": "SH",
+     "value": 1504000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 84000
+    }
+   ],
+   "table_total": 361047000,
+   "first_seen": "2026-11-17T18:53:15+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-015551",
+   "form": "13F-HR",
+   "filed": "2022-08-15",
+   "period": "2022-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834422015551/0001398344-22-015551-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 2411323,
+     "unit": "SH",
+     "value": 50855000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 497663,
+     "unit": "SH",
+     "value": 40818000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 5778943,
+     "unit": "SH",
+     "value": 38950000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 939900,
+     "unit": "SH",
+     "value": 33865000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1161599,
+     "unit": "SH",
+     "value": 32083000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 357308,
+     "unit": "SH",
+     "value": 28474000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1225871,
+     "unit": "SH",
+     "value": 25706000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 2260210,
+     "unit": "SH",
+     "value": 18308000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 8354000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 125820,
+     "unit": "SH",
+     "value": 2318000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 19664,
+     "unit": "SH",
+     "value": 2026000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25997,
+     "unit": "SH",
+     "value": 1647000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 66000
+    }
+   ],
+   "table_total": 283470000,
+   "first_seen": "2026-11-17T18:53:21+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-22-021943",
+   "form": "13F-HR",
+   "filed": "2022-11-14",
+   "period": "2022-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834422021943/0001398344-22-021943-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1771854,
+     "unit": "SH",
+     "value": 38449000
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1132133,
+     "unit": "SH",
+     "value": 33398000
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 4242827,
+     "unit": "SH",
+     "value": 30930000
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 945605,
+     "unit": "SH",
+     "value": 30600000
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 970645,
+     "unit": "SH",
+     "value": 25731000
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 307074,
+     "unit": "SH",
+     "value": 25604000
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 541057,
+     "unit": "SH",
+     "value": 21117000
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 2379680,
+     "unit": "SH",
+     "value": 13564000
+    },
+    {
+     "cusip": "112585104",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGE-CL A",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 7682000
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 19664,
+     "unit": "SH",
+     "value": 2356000
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 125820,
+     "unit": "SH",
+     "value": 2131000
+    },
+    {
+     "cusip": "98462Y100",
+     "put_call": null,
+     "issuer": "YAMANA GOLD INC",
+     "class": "Com",
+     "shares": 424083,
+     "unit": "SH",
+     "value": 1921000
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25093,
+     "unit": "SH",
+     "value": 1681000
+    },
+    {
+     "cusip": "G16169107",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MANAGEMEN-A",
+     "class": "Com",
+     "shares": 1476,
+     "unit": "SH",
+     "value": 60000
+    }
+   ],
+   "table_total": 235224000,
+   "first_seen": "2026-11-17T18:53:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-003148",
+   "form": "13F-HR",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834423003148/0001398344-23-003148-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1479017,
+     "unit": "SH",
+     "value": 54501776
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 762934,
+     "unit": "SH",
+     "value": 46477939
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1304554,
+     "unit": "SH",
+     "value": 44720111
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 998536,
+     "unit": "SH",
+     "value": 39022787
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 4147766,
+     "unit": "SH",
+     "value": 34675324
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1269147,
+     "unit": "SH",
+     "value": 28736994
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 385447,
+     "unit": "SH",
+     "value": 28149194
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX LTD",
+     "class": "Com",
+     "shares": 3473883,
+     "unit": "SH",
+     "value": 21887975
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 3656964,
+     "unit": "SH",
+     "value": 18760225
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 5910076
+    },
+    {
+     "cusip": "98462Y100",
+     "put_call": null,
+     "issuer": "YAMANA GOLD INC",
+     "class": "Com",
+     "shares": 424083,
+     "unit": "SH",
+     "value": 2353661
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 25093,
+     "unit": "SH",
+     "value": 2086985
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 16724,
+     "unit": "SH",
+     "value": 1938813
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 106270,
+     "unit": "SH",
+     "value": 1817217
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT-A",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1353138
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSURANCE LTD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 30383
+    }
+   ],
+   "table_total": 332422598,
+   "first_seen": "2026-11-17T18:53:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-009910",
+   "form": "13F-HR",
+   "filed": "2023-05-16",
+   "period": "2023-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834423009910/0001398344-23-009910-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 1120260,
+     "unit": "SH",
+     "value": 49381061
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 734750,
+     "unit": "SH",
+     "value": 48655145
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 918434,
+     "unit": "SH",
+     "value": 44231781
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1222718,
+     "unit": "SH",
+     "value": 38809069
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1172105,
+     "unit": "SH",
+     "value": 30690142
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 3916307,
+     "unit": "SH",
+     "value": 30194727
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 4566654,
+     "unit": "SH",
+     "value": 28039256
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 358565,
+     "unit": "SH",
+     "value": 26480025
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX LTD",
+     "class": "Com",
+     "shares": 3430910,
+     "unit": "SH",
+     "value": 20434171
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 6122357
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 16724,
+     "unit": "SH",
+     "value": 2323465
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 106270,
+     "unit": "SH",
+     "value": 1889481
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 17390,
+     "unit": "SH",
+     "value": 1605967
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT-A",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1544286
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSURANCE LTD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 32024
+    }
+   ],
+   "table_total": 330432957,
+   "first_seen": "2026-11-17T18:53:32+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-014731",
+   "form": "13F-HR",
+   "filed": "2023-08-14",
+   "period": "2023-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834423014731/0001398344-23-014731-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 659188,
+     "unit": "SH",
+     "value": 51449623
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 796102,
+     "unit": "SH",
+     "value": 44135895
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1237855,
+     "unit": "SH",
+     "value": 41059650
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 896975,
+     "unit": "SH",
+     "value": 38767260
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 1056481,
+     "unit": "SH",
+     "value": 33101795
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 4566654,
+     "unit": "SH",
+     "value": 32194911
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 539158,
+     "unit": "SH",
+     "value": 31837280
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 2894699,
+     "unit": "SH",
+     "value": 29670665
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX LTD",
+     "class": "Com",
+     "shares": 3417822,
+     "unit": "SH",
+     "value": 23281041
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 6321489
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 15624,
+     "unit": "SH",
+     "value": 2596553
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 106270,
+     "unit": "SH",
+     "value": 2095644
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES LTD-CLS B",
+     "class": "Com",
+     "shares": 47846,
+     "unit": "SH",
+     "value": 2014317
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT-A",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1540038
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 13902,
+     "unit": "SH",
+     "value": 1537283
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSURANCE LTD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 32878
+    }
+   ],
+   "table_total": 341636322,
+   "first_seen": "2026-11-17T18:53:33+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-23-020621",
+   "form": "13F-HR",
+   "filed": "2023-11-14",
+   "period": "2023-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834423020621/0001398344-23-020621-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1130489,
+     "unit": "SH",
+     "value": 41409812
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 481751,
+     "unit": "SH",
+     "value": 37745191
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 530513,
+     "unit": "SH",
+     "value": 37703559
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 832963,
+     "unit": "SH",
+     "value": 33062073
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 797854,
+     "unit": "SH",
+     "value": 32352980
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 4306940,
+     "unit": "SH",
+     "value": 31225315
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 485374,
+     "unit": "SH",
+     "value": 29976698
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 2611909,
+     "unit": "SH",
+     "value": 24708659
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX LTD",
+     "class": "Com",
+     "shares": 2940178,
+     "unit": "SH",
+     "value": 16891352
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "Com",
+     "shares": 187860,
+     "unit": "SH",
+     "value": 5874382
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 15624,
+     "unit": "SH",
+     "value": 2737950
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 106270,
+     "unit": "SH",
+     "value": 2433583
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES LTD-CLS B",
+     "class": "Com",
+     "shares": 55383,
+     "unit": "SH",
+     "value": 2386453
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO GALICIA-ADR",
+     "class": "Com",
+     "shares": 126173,
+     "unit": "SH",
+     "value": 1646558
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT-A",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1573548
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 13902,
+     "unit": "SH",
+     "value": 1238946
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSURANCE LTD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 30557
+    }
+   ],
+   "table_total": 302997616,
+   "first_seen": "2026-11-17T18:53:35+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-002884",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834424002884/0001398344-24-002884-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP IN",
+     "class": "Com",
+     "shares": 1179152,
+     "unit": "SH",
+     "value": 47649532
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS CORP",
+     "class": "Com",
+     "shares": 797854,
+     "unit": "SH",
+     "value": 39366116
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS INC",
+     "class": "Com",
+     "shares": 480314,
+     "unit": "SH",
+     "value": 38314648
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER INC",
+     "class": "Com",
+     "shares": 527964,
+     "unit": "SH",
+     "value": 38071484
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR.COM CORP",
+     "class": "Com",
+     "shares": 3748523,
+     "unit": "SH",
+     "value": 35461028
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO CORP",
+     "class": "Com",
+     "shares": 807413,
+     "unit": "SH",
+     "value": 34831613
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN LTD",
+     "class": "Com",
+     "shares": 528205,
+     "unit": "SH",
+     "value": 29753788
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS INC-A",
+     "class": "Com",
+     "shares": 2243376,
+     "unit": "SH",
+     "value": 28468441
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX LTD",
+     "class": "Com",
+     "shares": 4063281,
+     "unit": "SH",
+     "value": 18808361
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CORP",
+     "class": "Com",
+     "shares": 185560,
+     "unit": "SH",
+     "value": 7444667
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO GALICIA-ADR",
+     "class": "Com",
+     "shares": 186077,
+     "unit": "SH",
+     "value": 3212619
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES LTD-CLS B",
+     "class": "Com",
+     "shares": 61412,
+     "unit": "SH",
+     "value": 2595885
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS INC",
+     "class": "Com",
+     "shares": 12228,
+     "unit": "SH",
+     "value": 2536209
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST CORP",
+     "class": "Com",
+     "shares": 95730,
+     "unit": "SH",
+     "value": 2268801
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MGMT-A",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1895903
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS SA-CLASS A",
+     "class": "Com",
+     "shares": 13902,
+     "unit": "SH",
+     "value": 1477922
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSURANCE LTD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 39199
+    }
+   ],
+   "table_total": 332196216,
+   "first_seen": "2026-11-17T18:53:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-009626",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834424009626/0001398344-24-009626-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 1063029,
+     "unit": "SH",
+     "value": 46879579
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 836390,
+     "unit": "SH",
+     "value": 39419061
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 385280,
+     "unit": "SH",
+     "value": 35445760
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM ORD",
+     "class": "Com",
+     "shares": 2803884,
+     "unit": "SH",
+     "value": 33534453
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 561091,
+     "unit": "SH",
+     "value": 30472852
+    },
+    {
+     "cusip": "84790A105",
+     "put_call": null,
+     "issuer": "SPECTRUM BRANDS HOLDINGS ORD",
+     "class": "Com",
+     "shares": 335500,
+     "unit": "SH",
+     "value": 29862855
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO ORD",
+     "class": "Com",
+     "shares": 653584,
+     "unit": "SH",
+     "value": 28305883
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX ORD",
+     "class": "Com",
+     "shares": 4514762,
+     "unit": "SH",
+     "value": 26274981
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 2049706,
+     "unit": "SH",
+     "value": 22792731
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 185560,
+     "unit": "SH",
+     "value": 7769397
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 149482,
+     "unit": "SH",
+     "value": 3799832
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 61412,
+     "unit": "SH",
+     "value": 2811441
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 11188,
+     "unit": "SH",
+     "value": 2624705
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 1324329,
+     "unit": "SH",
+     "value": 2092440
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 82097,
+     "unit": "SH",
+     "value": 2049141
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1983218
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 13902,
+     "unit": "SH",
+     "value": 1448032
+    },
+    {
+     "cusip": "05961W105",
+     "put_call": null,
+     "issuer": "BANCO MACRO ADR REP TEN CL B ORD",
+     "class": "Com",
+     "shares": 28759,
+     "unit": "SH",
+     "value": 1385609
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSRNC EX VOTN CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 40568
+    }
+   ],
+   "table_total": 318992538,
+   "first_seen": "2026-11-17T18:53:38+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-014595",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834424014595/0001398344-24-014595-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 1070224,
+     "unit": "SH",
+     "value": 53254346
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 868948,
+     "unit": "SH",
+     "value": 45550254
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO ORD",
+     "class": "Com",
+     "shares": 663719,
+     "unit": "SH",
+     "value": 32658303
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 608002,
+     "unit": "SH",
+     "value": 30953382
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX ORD",
+     "class": "Com",
+     "shares": 5514672,
+     "unit": "SH",
+     "value": 29751292
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM ORD",
+     "class": "Com",
+     "shares": 2188365,
+     "unit": "SH",
+     "value": 28952069
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 2075985,
+     "unit": "SH",
+     "value": 18683865
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 98934,
+     "unit": "SH",
+     "value": 9419506
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 180277,
+     "unit": "SH",
+     "value": 7488707
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 123482,
+     "unit": "SH",
+     "value": 3773610
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 69190,
+     "unit": "SH",
+     "value": 3314201
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2620870,
+     "unit": "SH",
+     "value": 3040209
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 11188,
+     "unit": "SH",
+     "value": 2968288
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 82097,
+     "unit": "SH",
+     "value": 2141911
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 1795846
+    },
+    {
+     "cusip": "05961W105",
+     "put_call": null,
+     "issuer": "BANCO MACRO ADR REP TEN CL B ORD",
+     "class": "Com",
+     "shares": 29570,
+     "unit": "SH",
+     "value": 1695248
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 16700,
+     "unit": "SH",
+     "value": 1589506
+    },
+    {
+     "cusip": "G16250105",
+     "put_call": null,
+     "issuer": "BROOKFIELD REINSRNC EX VOTN CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 40384
+    }
+   ],
+   "table_total": 277070927,
+   "first_seen": "2026-11-17T18:53:43+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-020707",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834424020707/0001398344-24-020707-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 983288,
+     "unit": "SH",
+     "value": 60521376
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 793724,
+     "unit": "SH",
+     "value": 48480662
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO ORD",
+     "class": "Com",
+     "shares": 667067,
+     "unit": "SH",
+     "value": 31866321
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX ORD",
+     "class": "Com",
+     "shares": 4908562,
+     "unit": "SH",
+     "value": 29251763
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 568441,
+     "unit": "SH",
+     "value": 27319274
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM ORD",
+     "class": "Com",
+     "shares": 2021509,
+     "unit": "SH",
+     "value": 25066712
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 1912542,
+     "unit": "SH",
+     "value": 16677366
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 180277,
+     "unit": "SH",
+     "value": 9581723
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 120217,
+     "unit": "SH",
+     "value": 5059934
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2490811,
+     "unit": "SH",
+     "value": 4558184
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 69190,
+     "unit": "SH",
+     "value": 3614486
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 8565,
+     "unit": "SH",
+     "value": 3138130
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 47197,
+     "unit": "SH",
+     "value": 2231946
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 82097,
+     "unit": "SH",
+     "value": 2076233
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 16700,
+     "unit": "SH",
+     "value": 1567128
+    },
+    {
+     "cusip": "05961W105",
+     "put_call": null,
+     "issuer": "BANCO MACRO ADR REP TEN CL B ORD",
+     "class": "Com",
+     "shares": 20895,
+     "unit": "SH",
+     "value": 1326833
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 51618
+    }
+   ],
+   "table_total": 272389689,
+   "first_seen": "2026-11-17T18:53:50+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-002605",
+   "form": "13F-HR",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834425002605/0001398344-25-002605-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 640204,
+     "unit": "SH",
+     "value": 50191994
+    },
+    {
+     "cusip": "29269R105",
+     "put_call": null,
+     "issuer": "ENERFLEX ORD",
+     "class": "Com",
+     "shares": 4796705,
+     "unit": "SH",
+     "value": 47725255
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 714115,
+     "unit": "SH",
+     "value": 40161828
+    },
+    {
+     "cusip": "G27358103",
+     "put_call": null,
+     "issuer": "DESPEGAR COM ORD",
+     "class": "Com",
+     "shares": 1679528,
+     "unit": "SH",
+     "value": 32330914
+    },
+    {
+     "cusip": "13321L108",
+     "put_call": null,
+     "issuer": "CAMECO ORD",
+     "class": "Com",
+     "shares": 620008,
+     "unit": "SH",
+     "value": 31861492
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 640502,
+     "unit": "SH",
+     "value": 28662465
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 2122675,
+     "unit": "SH",
+     "value": 15453074
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 157151,
+     "unit": "SH",
+     "value": 9028325
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 61878,
+     "unit": "SH",
+     "value": 3856237
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2163109,
+     "unit": "SH",
+     "value": 3612392
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 73712,
+     "unit": "SH",
+     "value": 2987547
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 7780,
+     "unit": "SH",
+     "value": 2744784
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41366,
+     "unit": "SH",
+     "value": 2241624
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 73983,
+     "unit": "SH",
+     "value": 1614309
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 16700,
+     "unit": "SH",
+     "value": 1467596
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 55819
+    }
+   ],
+   "table_total": 273995655,
+   "first_seen": "2026-11-17T18:53:51+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-009252",
+   "form": "13F-HR",
+   "filed": "2025-05-13",
+   "period": "2025-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834425009252/0001398344-25-009252-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 709192,
+     "unit": "SH",
+     "value": 55054575
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 658953,
+     "unit": "SH",
+     "value": 32730196
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 574253,
+     "unit": "SH",
+     "value": 30762733
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 3552013,
+     "unit": "SH",
+     "value": 28629225
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 12274580,
+     "unit": "SH",
+     "value": 27372313
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS ORD",
+     "class": "Com",
+     "shares": 466479,
+     "unit": "SH",
+     "value": 18313966
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 157151,
+     "unit": "SH",
+     "value": 8236284
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2949388,
+     "unit": "SH",
+     "value": 5072947
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 102229,
+     "unit": "SH",
+     "value": 4321220
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 115062,
+     "unit": "SH",
+     "value": 4191709
+    },
+    {
+     "cusip": "P31076105",
+     "put_call": null,
+     "issuer": "COPA HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 31321,
+     "unit": "SH",
+     "value": 2895940
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 7780,
+     "unit": "SH",
+     "value": 2268026
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41366,
+     "unit": "SH",
+     "value": 2004183
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 73983,
+     "unit": "SH",
+     "value": 1651301
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 50752
+    }
+   ],
+   "table_total": 223555370,
+   "first_seen": "2026-11-17T18:54:02+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-014907",
+   "form": "13F-HR",
+   "filed": "2025-08-11",
+   "period": "2025-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834425014907/0001398344-25-014907-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 488154,
+     "unit": "SH",
+     "value": 43836229
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 665854,
+     "unit": "SH",
+     "value": 36415555
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 565956,
+     "unit": "SH",
+     "value": 32961277
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 10263176,
+     "unit": "SH",
+     "value": 31713214
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS ORD",
+     "class": "Com",
+     "shares": 707701,
+     "unit": "SH",
+     "value": 29801289
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 3327551,
+     "unit": "SH",
+     "value": 26254377
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 157151,
+     "unit": "SH",
+     "value": 9719789
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 3150025,
+     "unit": "SH",
+     "value": 7308058
+    },
+    {
+     "cusip": "878742204",
+     "put_call": null,
+     "issuer": "TECK RESOURCES CL B ORD",
+     "class": "Com",
+     "shares": 134062,
+     "unit": "SH",
+     "value": 5413424
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 102229,
+     "unit": "SH",
+     "value": 4715824
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41366,
+     "unit": "SH",
+     "value": 2286712
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 7780,
+     "unit": "SH",
+     "value": 2231537
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 73983,
+     "unit": "SH",
+     "value": 1630585
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 60060
+    }
+   ],
+   "table_total": 234347930,
+   "first_seen": "2026-11-17T18:54:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-020817",
+   "form": "13F-HR",
+   "filed": "2025-11-13",
+   "period": "2025-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834425020817/0001398344-25-020817-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 398347,
+     "unit": "SH",
+     "value": 44551128
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 679843,
+     "unit": "SH",
+     "value": 44475329
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 595621,
+     "unit": "SH",
+     "value": 34968909
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS ORD",
+     "class": "Com",
+     "shares": 708014,
+     "unit": "SH",
+     "value": 34529843
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 10207990,
+     "unit": "SH",
+     "value": 34503006
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 3329994,
+     "unit": "SH",
+     "value": 22477460
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 157151,
+     "unit": "SH",
+     "value": 10777416
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2925990,
+     "unit": "SH",
+     "value": 8368331
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 102229,
+     "unit": "SH",
+     "value": 5451873
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41366,
+     "unit": "SH",
+     "value": 2355380
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 7780,
+     "unit": "SH",
+     "value": 1888595
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 73983,
+     "unit": "SH",
+     "value": 1617268
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 971,
+     "unit": "SH",
+     "value": 66552
+    }
+   ],
+   "table_total": 246031090,
+   "first_seen": "2026-11-17T18:54:13+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-002850",
+   "form": "13F-HR",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834426002850/0001398344-26-002850-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 609721,
+     "unit": "SH",
+     "value": 37784410
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 307902,
+     "unit": "SH",
+     "value": 36184643
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 519789,
+     "unit": "SH",
+     "value": 32081377
+    },
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS ORD",
+     "class": "Com",
+     "shares": 607897,
+     "unit": "SH",
+     "value": 30638009
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 8303820,
+     "unit": "SH",
+     "value": 27651721
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 3556906,
+     "unit": "SH",
+     "value": 26107690
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 227939,
+     "unit": "SH",
+     "value": 10460121
+    },
+    {
+     "cusip": "39525U107",
+     "put_call": null,
+     "issuer": "GREENFIRE RESOURCES ORD",
+     "class": "Com",
+     "shares": 1693492,
+     "unit": "SH",
+     "value": 8082169
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 2925990,
+     "unit": "SH",
+     "value": 6934596
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 102229,
+     "unit": "SH",
+     "value": 5163587
+    },
+    {
+     "cusip": "64440N103",
+     "put_call": null,
+     "issuer": "NEW FOUND GOLD ORD",
+     "class": "Com",
+     "shares": 1692643,
+     "unit": "SH",
+     "value": 5007199
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41318,
+     "unit": "SH",
+     "value": 2164650
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 6847,
+     "unit": "SH",
+     "value": 2009800
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 61698,
+     "unit": "SH",
+     "value": 1366611
+    },
+    {
+     "cusip": "15135U109",
+     "put_call": null,
+     "issuer": "CENOVUS ENERGY ORD",
+     "class": "Com",
+     "shares": 12377,
+     "unit": "SH",
+     "value": 209402
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 1187,
+     "unit": "SH",
+     "value": 54543
+    }
+   ],
+   "table_total": 231900528,
+   "first_seen": "2026-11-17T18:54:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-009117",
+   "form": "13F-HR",
+   "filed": "2026-05-14",
+   "period": "2026-03-31",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834426009117/0001398344-26-009117-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "G9460G101",
+     "put_call": null,
+     "issuer": "VALARIS ORD",
+     "class": "Com",
+     "shares": 463985,
+     "unit": "SH",
+     "value": 45489089
+    },
+    {
+     "cusip": "67077M108",
+     "put_call": null,
+     "issuer": "NUTRIEN ORD",
+     "class": "Com",
+     "shares": 599236,
+     "unit": "SH",
+     "value": 45218349
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 4263589,
+     "unit": "SH",
+     "value": 35174609
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 777068,
+     "unit": "SH",
+     "value": 32069596
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 234645,
+     "unit": "SH",
+     "value": 30740841
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 8407720,
+     "unit": "SH",
+     "value": 30688178
+    },
+    {
+     "cusip": "39525U107",
+     "put_call": null,
+     "issuer": "GREENFIRE RESOURCES ORD",
+     "class": "Com",
+     "shares": 2335804,
+     "unit": "SH",
+     "value": 14838495
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 227939,
+     "unit": "SH",
+     "value": 9224691
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 107992,
+     "unit": "SH",
+     "value": 9022732
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 175098,
+     "unit": "SH",
+     "value": 8178828
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 3092490,
+     "unit": "SH",
+     "value": 5071684
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41318,
+     "unit": "SH",
+     "value": 1836585
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 6847,
+     "unit": "SH",
+     "value": 1784191
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 61698,
+     "unit": "SH",
+     "value": 1364760
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 1187,
+     "unit": "SH",
+     "value": 49142
+    }
+   ],
+   "table_total": 270751770,
+   "first_seen": "2026-11-17T18:54:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-014276",
+   "form": "13F-HR",
+   "filed": "2026-08-13",
+   "period": "2026-06-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834426014276/0001398344-26-014276-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 910370,
+     "unit": "SH",
+     "value": 45500293
+    },
+    {
+     "cusip": "N20944109",
+     "put_call": null,
+     "issuer": "CNH INDUSTRIAL ORD",
+     "class": "Com",
+     "shares": 3705690,
+     "unit": "SH",
+     "value": 41614899
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 4275279,
+     "unit": "SH",
+     "value": 34458749
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 8329722,
+     "unit": "SH",
+     "value": 28904135
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 202628,
+     "unit": "SH",
+     "value": 22759177
+    },
+    {
+     "cusip": "39525U107",
+     "put_call": null,
+     "issuer": "GREENFIRE RESOURCES ORD",
+     "class": "Com",
+     "shares": 2232277,
+     "unit": "SH",
+     "value": 12611201
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 246487,
+     "unit": "SH",
+     "value": 12331745
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 227939,
+     "unit": "SH",
+     "value": 9707922
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 3241090,
+     "unit": "SH",
+     "value": 5736729
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 82251,
+     "unit": "SH",
+     "value": 5480384
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 6847,
+     "unit": "SH",
+     "value": 1905520
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41318,
+     "unit": "SH",
+     "value": 1853112
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 61698,
+     "unit": "SH",
+     "value": 1466561
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 1187,
+     "unit": "SH",
+     "value": 50637
+    }
+   ],
+   "table_total": 224381064,
+   "first_seen": "2026-11-17T18:54:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-019992",
+   "form": "13F-HR",
+   "filed": "2026-11-13",
+   "period": "2026-09-30",
+   "cik": 1742647,
+   "url": "https://www.sec.gov/Archives/edgar/data/1742647/000139834426019992/0001398344-26-019992-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "Moerus Capital Management LLC",
+   "holdings": [
+    {
+     "cusip": "N20944109",
+     "put_call": null,
+     "issuer": "CNH INDUSTRIAL ORD",
+     "class": "Com",
+     "shares": 3634806,
+     "unit": "SH",
+     "value": 46707257
+    },
+    {
+     "cusip": "47233W109",
+     "put_call": null,
+     "issuer": "JEFFERIES FINANCIAL GROUP ORD",
+     "class": "Com",
+     "shares": 887193,
+     "unit": "SH",
+     "value": 40571336
+    },
+    {
+     "cusip": "G0457F107",
+     "put_call": null,
+     "issuer": "ARCOS DORADOS HOLDINGS CL A ORD",
+     "class": "Com",
+     "shares": 4298362,
+     "unit": "SH",
+     "value": 30733288
+    },
+    {
+     "cusip": "059460303",
+     "put_call": null,
+     "issuer": "BANCO BRADESCO ADR REPSTG 1 PRF",
+     "class": "Com",
+     "shares": 8666317,
+     "unit": "SH",
+     "value": 30505436
+    },
+    {
+     "cusip": "962879102",
+     "put_call": null,
+     "issuer": "WHEATON PRECIOUS METALS ORD",
+     "class": "Com",
+     "shares": 198048,
+     "unit": "SH",
+     "value": 26482979
+    },
+    {
+     "cusip": "39525U107",
+     "put_call": null,
+     "issuer": "GREENFIRE RESOURCES ORD",
+     "class": "Com",
+     "shares": 3008534,
+     "unit": "SH",
+     "value": 16911971
+    },
+    {
+     "cusip": "11271J107",
+     "put_call": null,
+     "issuer": "BROOKFIELD CL A ORD",
+     "class": "Com",
+     "shares": 227939,
+     "unit": "SH",
+     "value": 8310656
+    },
+    {
+     "cusip": "399909100",
+     "put_call": null,
+     "issuer": "GRUPO FINANCIERO ADR REP 10 CL B ORD",
+     "class": "Com",
+     "shares": 158076,
+     "unit": "SH",
+     "value": 5886750
+    },
+    {
+     "cusip": "88642R109",
+     "put_call": null,
+     "issuer": "TIDEWATER ORD",
+     "class": "Com",
+     "shares": 66834,
+     "unit": "SH",
+     "value": 5420237
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN ORD",
+     "class": "Com",
+     "shares": 3410564,
+     "unit": "SH",
+     "value": 5184057
+    },
+    {
+     "cusip": "126402106",
+     "put_call": null,
+     "issuer": "CSW INDUSTRIALS ORD",
+     "class": "Com",
+     "shares": 6747,
+     "unit": "SH",
+     "value": 1943676
+    },
+    {
+     "cusip": "113004105",
+     "put_call": null,
+     "issuer": "BROOKFIELD ASSET MNGMT CL A ORD",
+     "class": "Com",
+     "shares": 41318,
+     "unit": "SH",
+     "value": 1841956
+    },
+    {
+     "cusip": "140501107",
+     "put_call": null,
+     "issuer": "CAPITAL SOUTHWEST ORD",
+     "class": "Com",
+     "shares": 60698,
+     "unit": "SH",
+     "value": 1403945
+    },
+    {
+     "cusip": "G17434104",
+     "put_call": null,
+     "issuer": "BROOKFIELD WEALTH SOLUTIONS CL A ORD",
+     "class": "Com",
+     "shares": 1187,
+     "unit": "SH",
+     "value": 43349
+    }
+   ],
+   "table_total": 221946893,
+   "first_seen": "2026-11-17T18:54:27+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "Moerus Capital Management LLC"
+}
