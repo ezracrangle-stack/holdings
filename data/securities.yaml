@@ -3529,3 +3529,7 @@
 "300426103": {name: "Everus Construction Group", ticker: "ECG", sector: "Industrials"}
 "80517M109": {name: "Savers Value Village", ticker: "SVV", sector: "Consumer discretionary"}
 "M5216V106": {name: "Global-e Online", ticker: "GLBE", sector: "Technology"}
+"001026103": {name: "ADI Global Distribution", ticker: "ADIG", sector: "Industrials", note: "Spun off from Resideo in 2026."}
+"156431108": {name: "Century Aluminum", ticker: "CENX", sector: "Materials"}
+"78440X887": {name: "SL Green Realty", ticker: "SLG", sector: "Financials & real estate"}
+"M8769Q102": {name: "Teva", ticker: "TEVA", sector: "Health care"}

@@ -10,6 +10,12 @@
 # Newest first. The weekly check opens an issue when a new post names a manager
 # or a company on the site, so you can decide whether to add it here.
 
+- title: Domino's Has a Problem That Doesn't Show Up in Its Accounts
+  url: https://www.ezrasnotes.com/p/dominos-pizza-analysis
+  date: 2026-10-09
+  blurb: Its growth depends on franchisees whose math keeps getting worse.
+  companies: [domino-s-pizza]
+
 - title: What Chris Hohn Taught Me About Rejecting 99.6% of the Market
   url: https://www.ezrasnotes.com/p/how-to-invest-like-chris-hohn
   date: 2026-09-12
