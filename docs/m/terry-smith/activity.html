@@ -10213,6 +10213,12 @@
 <p class="small">The starting portfolio: <a href="../../m/terry-smith/stock/stryker.html">Stryker</a> 9.8% · <a href="../../m/terry-smith/stock/dr-pepper-snapple.html">Dr Pepper Snapple</a> 9.7% · <a href="../../m/terry-smith/stock/domino-s-pizza.html">Domino&#39;s Pizza</a> 9.0% · <a href="../../m/terry-smith/stock/becton-dickinson.html">Becton Dickinson</a> 8.0% · <a href="../../m/terry-smith/stock/adp.html">ADP</a> 7.3% · <a href="../../m/terry-smith/stock/microsoft.html">Microsoft</a> 7.2% · <a href="../../m/terry-smith/stock/procter-gamble.html">Procter &amp; Gamble</a> 7.1% · <a href="../../m/terry-smith/stock/3m.html">3M</a> 6.9% · <a href="../../m/terry-smith/stock/johnson-johnson.html">Johnson &amp; Johnson</a> 6.1% · <a href="../../m/terry-smith/stock/philip-morris-international.html">Philip Morris International</a> 5.4% · <a href="../../m/terry-smith/stock/pepsico.html">PepsiCo</a> 5.3% · <a href="../../m/terry-smith/stock/waters.html">Waters</a> 4.4% · <a href="../../m/terry-smith/stock/colgate-palmolive.html">Colgate-Palmolive</a> 3.4% · <a href="../../m/terry-smith/stock/choice-hotels.html">Choice Hotels</a> 3.4% · <a href="../../m/terry-smith/stock/sigma-aldrich.html">Sigma-Aldrich</a> 2.6% · <a href="../../m/terry-smith/stock/mcdonald-s.html">McDonald&#39;s</a> 2.5% · <a href="../../m/terry-smith/stock/visa.html">Visa</a> 1.7%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -10233,5 +10239,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

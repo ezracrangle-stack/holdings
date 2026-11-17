@@ -7641,6 +7641,12 @@
 <p class="small">The starting portfolio: <a href="../../m/prem-watsa/stock/blackberry.html">BlackBerry</a> 21.8% · <a href="../../m/prem-watsa/stock/johnson-johnson.html">Johnson &amp; Johnson</a> 20.4% · <a href="../../m/prem-watsa/stock/resolute-forest-products.html">Resolute Forest Products</a> 15.3% · <a href="../../m/prem-watsa/stock/level-3-communications.html">Level 3 Communications</a> 10.2% · <a href="../../m/prem-watsa/stock/sandridge-energy.html">SandRidge Energy</a> 6.2% · <a href="../../m/prem-watsa/stock/dell-inc.html">Dell Inc.</a> 4.8% · <a href="../../m/prem-watsa/stock/u-s-bancorp.html">U.S. Bancorp</a> 4.2% · <a href="../../m/prem-watsa/stock/beyond.html">Beyond</a> 3.6% · <a href="../../m/prem-watsa/stock/level-3-communications.html">Level 3 Communications</a> 3.5% · <a href="../../m/prem-watsa/stock/exco-resources.html">EXCO Resources</a> 3.3% · <a href="../../m/prem-watsa/stock/wells-fargo.html">Wells Fargo</a> 2.2% · <a href="../../m/prem-watsa/stock/protective-insurance.html">Protective Insurance</a> 0.9% · <a href="../../m/prem-watsa/stock/walmart.html">Walmart</a> 0.7% · <a href="../../m/prem-watsa/stock/intel.html">Intel</a> 0.5% · <a href="../../m/prem-watsa/stock/bce.html">BCE</a> 0.4% · <a href="../../m/prem-watsa/stock/ryanair.html">Ryanair</a> 0.4% · <a href="../../m/prem-watsa/stock/kennedy-wilson.html">Kennedy-Wilson</a> 0.3% · <a href="../../m/prem-watsa/stock/pfizer.html">Pfizer</a> 0.3% · <a href="../../m/prem-watsa/stock/cresud.html">Cresud</a> 0.2% · <a href="../../m/prem-watsa/stock/dex-media.html">Dex Media</a> 0.1% · <a href="../../m/prem-watsa/stock/berkshire-hathaway.html">Berkshire Hathaway</a> 0.1% · <a href="../../m/prem-watsa/stock/berkshire-hathaway.html">Berkshire Hathaway</a> 0.0% · <a href="../../m/prem-watsa/stock/usg.html">USG</a> 0.0% · <a href="../../m/prem-watsa/stock/citigroup.html">Citigroup</a> 0.0% · <a href="../../m/prem-watsa/stock/new-york-times.html">New York Times</a> 0.0% · <a href="../../m/prem-watsa/stock/old-republic-international.html">Old Republic International</a> 0.0% · <a href="../../m/prem-watsa/stock/flagstar-financial.html">Flagstar Financial</a> 0.0% · <a href="../../m/prem-watsa/stock/merck.html">Merck</a> 0.0% · <a href="../../m/prem-watsa/stock/slm.html">SLM</a> 0.0% · <a href="../../m/prem-watsa/stock/mbia.html">MBIA</a> 0.0% · <a href="../../m/prem-watsa/stock/hologic.html">Hologic</a> 0.0% · <a href="../../m/prem-watsa/stock/patterson-uti-energy.html">Patterson-UTI Energy</a> 0.0% · <a href="../../m/prem-watsa/stock/cninsure.html">CNinsure</a> 0.0% · <a href="../../m/prem-watsa/stock/ultra-petroleum.html">Ultra Petroleum</a> 0.0% · <a href="../../m/prem-watsa/stock/new-oriental-education.html">New Oriental Education</a> 0.0% · <a href="../../m/prem-watsa/stock/hp.html">HP</a> 0.0% · <a href="../../m/prem-watsa/stock/sterling-bancorp.html">Sterling Bancorp</a> 0.0% · <a href="../../m/prem-watsa/stock/cooper-tire.html">Cooper Tire</a> 0.0% · <a href="../../m/prem-watsa/stock/ibm.html">IBM</a> 0.0% · <a href="../../m/prem-watsa/stock/nam-tai-property.html">Nam Tai Property</a> 0.0% · <a href="../../m/prem-watsa/stock/cfs-bancorp.html">CFS Bancorp</a> 0.0%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -7661,5 +7667,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

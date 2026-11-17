@@ -7561,6 +7561,12 @@
 <p class="small">The starting portfolio: <a href="../../m/chris-bloomstran/stock/berkshire-hathaway.html">Berkshire Hathaway</a> 15.3% · <a href="../../m/chris-bloomstran/stock/exxon-mobil.html">Exxon Mobil</a> 15.1% · <a href="../../m/chris-bloomstran/stock/mercury-general.html">Mercury General</a> 9.9% · <a href="../../m/chris-bloomstran/stock/berkshire-hathaway.html">Berkshire Hathaway</a> 8.6% · <a href="../../m/chris-bloomstran/stock/newmont.html">Newmont</a> 5.3% · <a href="../../m/chris-bloomstran/stock/jefferies-financial-group.html">Jefferies Financial Group</a> 4.4% · <a href="../../m/chris-bloomstran/stock/intel.html">Intel</a> 4.1% · <a href="../../m/chris-bloomstran/stock/merck.html">Merck</a> 3.8% · <a href="../../m/chris-bloomstran/stock/kinross-gold.html">Kinross Gold</a> 3.4% · <a href="../../m/chris-bloomstran/stock/microsoft.html">Microsoft</a> 3.0% · <a href="../../m/chris-bloomstran/stock/johnson-johnson.html">Johnson &amp; Johnson</a> 2.9% · <a href="../../m/chris-bloomstran/stock/sanofi.html">Sanofi</a> 2.7% · <a href="../../m/chris-bloomstran/stock/wafd.html">WaFd</a> 2.6% · <a href="../../m/chris-bloomstran/stock/pepsico.html">PepsiCo</a> 2.4% · <a href="../../m/chris-bloomstran/stock/general-electric.html">General Electric</a> 2.1% · <a href="../../m/chris-bloomstran/stock/equinor.html">Equinor</a> 2.1% · <a href="../../m/chris-bloomstran/stock/goldcorp.html">Goldcorp</a> 2.0% · <a href="../../m/chris-bloomstran/stock/avx.html">AVX</a> 1.5% · <a href="../../m/chris-bloomstran/stock/costco.html">Costco</a> 1.3% · <a href="../../m/chris-bloomstran/stock/validus-holdings.html">Validus Holdings</a> 1.2% · <a href="../../m/chris-bloomstran/stock/coca-cola.html">Coca-Cola</a> 1.2% · <a href="../../m/chris-bloomstran/stock/3m.html">3M</a> 1.0% · <a href="../../m/chris-bloomstran/stock/travelers.html">Travelers</a> 0.9% · <a href="../../m/chris-bloomstran/stock/vical.html">Vical</a> 0.8% · <a href="../../m/chris-bloomstran/stock/cna-financial.html">CNA Financial</a> 0.7% · <a href="../../m/chris-bloomstran/stock/chubb.html">Chubb</a> 0.5% · <a href="../../m/chris-bloomstran/stock/shell.html">Shell</a> 0.5% · <a href="../../m/chris-bloomstran/stock/tellabs.html">Tellabs</a> 0.3% · <a href="../../m/chris-bloomstran/stock/medtronic.html">Medtronic</a> 0.2% · <a href="../../m/chris-bloomstran/stock/molson-coors-beverage.html">Molson Coors Beverage</a> 0.1%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -7581,5 +7587,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

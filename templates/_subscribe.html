@@ -1,0 +1,22 @@
+{#- The newsletter box. This file is the only place to change its texts.
+    Its look comes from the "sister" box in static/style.css.
+    kind:  which text to show (the list below). %s in a text becomes the page's name.
+    place: "mid" (inside the page) or "end" (above the footer). It goes into the link, for measuring.
+    To take a box off the site, delete its line in the page template;
+    the one at the end of every page is in base.html. -#}
+{% macro subscribe(kind="end", place="end", name="") -%}
+{%- set SUB_SITE = "holdings" -%}
+{%- set SUB_TEXTS = {
+  "manager": "I write about the businesses managers like this one own, and why they keep them. Free, every week.",
+  "company": "I write about businesses like %s and why the investors on this site own them. Free, every week.",
+  "end": "What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.",
+} -%}
+{%- set text = SUB_TEXTS.get(kind, SUB_TEXTS["end"]) -%}
+{%- set url = "https://www.ezrasnotes.com/subscribe?utm_source=" ~ SUB_SITE ~ "&utm_medium=site&utm_campaign=" ~ place ~ "-" ~ kind -%}
+<aside class="sister subscribe" data-place="{{ place }}" data-kind="{{ kind }}">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="{{ url }}">Ezra's Notes</a></p>
+  <p class="sister-body">{{ text|replace("%s", name) }}</p>
+  <a class="button" href="{{ url }}">Subscribe free</a>
+</aside>
+{%- endmacro %}

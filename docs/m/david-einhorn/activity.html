@@ -14641,6 +14641,12 @@
 <p class="small">The starting portfolio: <a href="../../m/david-einhorn/stock/apple.html">Apple</a> 17.8% · <a href="../../m/david-einhorn/stock/general-motors.html">General Motors</a> 10.7% · <a href="../../m/david-einhorn/stock/marvell-technology.html">Marvell Technology</a> 9.7% · <a href="../../m/david-einhorn/stock/aetna.html">Aetna</a> 8.0% · <a href="../../m/david-einhorn/stock/cigna-group.html">Cigna Group</a> 6.8% · <a href="../../m/david-einhorn/stock/ncr.html">NCR</a> 5.7% · <a href="../../m/david-einhorn/stock/oil-states-international.html">Oil States International</a> 4.7% · <a href="../../m/david-einhorn/stock/vaneck-etf.html">VanEck ETF</a> 4.0% · <a href="../../m/david-einhorn/stock/computer-sciences.html">Computer Sciences</a> 3.4% · <a href="../../m/david-einhorn/stock/aptiv.html">Aptiv</a> 3.2% · <a href="../../m/david-einhorn/stock/einstein-noah-restaurant-group.html">Einstein Noah Restaurant Group</a> 2.9% · <a href="../../m/david-einhorn/stock/aspen-insurance-holdings.html">Aspen Insurance Holdings</a> 2.7% · <a href="../../m/david-einhorn/stock/babcock-wilcox.html">Babcock &amp; Wilcox</a> 2.2% · <a href="../../m/david-einhorn/stock/dst-systems.html">DST Systems</a> 2.0% · <a href="../../m/david-einhorn/stock/voya-financial.html">Voya Financial</a> 1.9% · <a href="../../m/david-einhorn/stock/liberty-global.html">Liberty Global</a> 1.7% · <a href="../../m/david-einhorn/stock/iac-interactivecorp.html">IAC/InterActiveCorp</a> 1.6% · <a href="../../m/david-einhorn/stock/oaktree-capital-group.html">Oaktree Capital Group</a> 1.5% · <a href="../../m/david-einhorn/stock/legg-mason.html">Legg Mason</a> 1.4% · <a href="../../m/david-einhorn/stock/liberty-global.html">Liberty Global</a> 1.2% · <a href="../../m/david-einhorn/stock/rite-aid.html">Rite Aid</a> 1.1% · <a href="../../m/david-einhorn/stock/amdocs.html">Amdocs</a> 1.1% · <a href="../../m/david-einhorn/stock/urs.html">URS</a> 1.0% · <a href="../../m/david-einhorn/stock/wpx-energy.html">WPX Energy</a> 0.9% · <a href="../../m/david-einhorn/stock/spirit-aerosystems.html">Spirit AeroSystems</a> 0.8% · <a href="../../m/david-einhorn/stock/vodafone.html">Vodafone</a> 0.7% · <a href="../../m/david-einhorn/stock/state-bank-financial.html">State Bank Financial</a> 0.5% · <a href="../../m/david-einhorn/stock/oaktree-specialty-lending.html">Oaktree Specialty Lending</a> 0.4% · <a href="../../m/david-einhorn/stock/capital-bank-financial.html">Capital Bank Financial</a> 0.3% · <a href="../../m/david-einhorn/stock/green-brick-partners.html">Green Brick Partners</a> 0.1%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -14661,5 +14667,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

@@ -392,3 +392,11 @@ managers:
     cik: 905567
     letters: no
     why: "Don Yacktman founded the firm in 1992; his son Stephen and Jason Subotky run it now. They buy shareholder-friendly businesses at a discount, and Berkshire, Coca-Cola, PepsiCo and Procter & Gamble are in every 13F since 2013."
+
+  - id: michael-melby
+    name: Michael Melby
+    firm: Gate City Capital
+    style: "Deep value · Small and micro caps · Hidden assets"
+    cik: 1705447
+    letters: no
+    why: "Mike buys overlooked small caps near their floor value, often with land or buildings the market has forgotten, and keeps about 15 of them. Alico, Amrep, Canterbury Park and Saga Communications are in every 13F since his first, in late 2023."

@@ -687,7 +687,7 @@
   
     <tr><th scope="row">Technology</th><td class="sb"><span class="sbar" style="width: 65.3%"></span></td><td class="num">13.5%</td></tr>
   
-    <tr><th scope="row">Unclassified</th><td class="sb"><span class="sbar" style="width: 59.3%"></span></td><td class="num">12.3%</td></tr>
+    <tr><th scope="row">Unclassified</th><td class="sb"><span class="sbar" style="width: 59.1%"></span></td><td class="num">12.2%</td></tr>
   
     <tr><th scope="row">Health care</th><td class="sb"><span class="sbar" style="width: 51.4%"></span></td><td class="num">10.6%</td></tr>
   
@@ -695,13 +695,13 @@
   
     <tr><th scope="row">Energy</th><td class="sb"><span class="sbar" style="width: 43.5%"></span></td><td class="num">9.0%</td></tr>
   
-    <tr><th scope="row">Consumer discretionary</th><td class="sb"><span class="sbar" style="width: 38.2%"></span></td><td class="num">7.9%</td></tr>
+    <tr><th scope="row">Consumer discretionary</th><td class="sb"><span class="sbar" style="width: 38.3%"></span></td><td class="num">7.9%</td></tr>
   
     <tr><th scope="row">Media &amp; telecom</th><td class="sb"><span class="sbar" style="width: 31.0%"></span></td><td class="num">6.4%</td></tr>
   
     <tr><th scope="row">Consumer staples</th><td class="sb"><span class="sbar" style="width: 24.7%"></span></td><td class="num">5.1%</td></tr>
   
-    <tr><th scope="row">Materials</th><td class="sb"><span class="sbar" style="width: 14.6%"></span></td><td class="num">3.0%</td></tr>
+    <tr><th scope="row">Materials</th><td class="sb"><span class="sbar" style="width: 14.7%"></span></td><td class="num">3.0%</td></tr>
   
     <tr><th scope="row">Utilities</th><td class="sb"><span class="sbar" style="width: 7.2%"></span></td><td class="num">1.5%</td></tr>
   
@@ -918,6 +918,12 @@
   <a href="../../m/nicolai-tangen/2014-q1.html">Q1 2014 &rarr;</a>
 </p>
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -938,5 +944,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

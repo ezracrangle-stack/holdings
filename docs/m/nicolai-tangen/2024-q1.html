@@ -7,7 +7,7 @@
 <meta name="color-scheme" content="light dark">
 <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}if(t!=='dark'&&t!=='light'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();</script>
 <title>Nicolai Tangen, Norges Bank Investment Management: 13F for Q1 2024 · Ezra's Notes</title>
-<meta name="description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,880 positions, $633.63B.">
+<meta name="description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,879 positions, $633.63B.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="../../static/holdings.css?v=814d52ab">
 <link rel="alternate" type="application/rss+xml" title="Investor Holdings · Ezra's Notes" href="../../feed.xml">
 <meta property="og:title" content="Nicolai Tangen, Norges Bank Investment Management: 13F for Q1 2024 · Ezra's Notes">
-<meta property="og:description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,880 positions, $633.63B.">
+<meta property="og:description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,879 positions, $633.63B.">
 
 <meta property="og:url" content="https://holdings.ezrasnotes.com/m/nicolai-tangen/2024-q1.html">
 <meta property="og:type" content="website">
@@ -28,7 +28,7 @@
 <meta name="twitter:site" content="@ezracrangle">
 <meta name="twitter:creator" content="@ezracrangle">
 <meta name="twitter:title" content="Nicolai Tangen, Norges Bank Investment Management: 13F for Q1 2024 · Ezra's Notes">
-<meta name="twitter:description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,880 positions, $633.63B.">
+<meta name="twitter:description" content="Norges Bank Investment Management's 13F for Q1 2024: 1,879 positions, $633.63B.">
 <meta name="twitter:image" content="https://holdings.ezrasnotes.com/static/og-image.png">
 <link rel="icon" href="../../static/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="512x512" href="../../static/icon-512.png">
@@ -671,9 +671,9 @@
     </tr>
   
   </tbody>
-  <tfoot><tr><td>Top 50 of 1,880 positions</td><td class="num">49.6%</td><td class="num hide-s">$633.63B</td><td class="hide-s"></td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
+  <tfoot><tr><td>Top 50 of 1,879 positions</td><td class="num">49.6%</td><td class="num hide-s">$633.63B</td><td class="hide-s"></td><td class="hide-s"></td><td></td><td></td></tr></tfoot>
 </table>
-<p class="small">This 13F lists 1,880 positions. The site shows the 50 biggest; the full list is in the filing on EDGAR.</p>
+<p class="small">This 13F lists 1,879 positions. The site shows the 50 biggest; the full list is in the filing on EDGAR.</p>
 <p class="small">Weight is the position's share of the total value in this 13F, not of the whole fund. Price is the value divided by the number of shares, so it's the price at the end of the quarter, as the firm reported it. Change compares share counts with Q4 2023, adjusted for stock splits.</p>
 
 <h2 class="rule-head">Sector weighting</h2>
@@ -926,6 +926,12 @@
   <a href="../../m/nicolai-tangen/2024-q2.html">Q2 2024 &rarr;</a>
 </p>
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -946,5 +952,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

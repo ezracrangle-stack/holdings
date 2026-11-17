@@ -12513,6 +12513,12 @@
 <p class="small">The starting portfolio: <a href="../../m/david-rolfe/stock/apple.html">Apple</a> 9.1% · <a href="../../m/david-rolfe/stock/berkshire-hathaway.html">Berkshire Hathaway</a> 7.3% · <a href="../../m/david-rolfe/stock/cognizant.html">Cognizant</a> 6.9% · <a href="../../m/david-rolfe/stock/qualcomm.html">Qualcomm</a> 6.5% · <a href="../../m/david-rolfe/stock/emc.html">EMC</a> 6.3% · <a href="../../m/david-rolfe/stock/express-scripts.html">Express Scripts</a> 6.1% · <a href="../../m/david-rolfe/stock/alphabet.html">Alphabet</a> 5.4% · <a href="../../m/david-rolfe/stock/cummins.html">Cummins</a> 4.5% · <a href="../../m/david-rolfe/stock/charles-schwab.html">Charles Schwab</a> 4.4% · <a href="../../m/david-rolfe/stock/tapestry.html">Tapestry</a> 4.3% · <a href="../../m/david-rolfe/stock/stericycle.html">Stericycle</a> 4.3% · <a href="../../m/david-rolfe/stock/visa.html">Visa</a> 4.2% · <a href="../../m/david-rolfe/stock/varian-medical-systems.html">Varian Medical Systems</a> 4.0% · <a href="../../m/david-rolfe/stock/verisk-analytics.html">Verisk Analytics</a> 3.9% · <a href="../../m/david-rolfe/stock/gilead-sciences.html">Gilead Sciences</a> 3.6% · <a href="../../m/david-rolfe/stock/perrigo.html">Perrigo</a> 3.6% · <a href="../../m/david-rolfe/stock/slb.html">SLB</a> 3.6% · <a href="../../m/david-rolfe/stock/booking.html">Booking</a> 3.5% · <a href="../../m/david-rolfe/stock/nov.html">NOV</a> 3.0% · <a href="../../m/david-rolfe/stock/american-express.html">American Express</a> 2.8% · <a href="../../m/david-rolfe/stock/monster-beverage.html">Monster Beverage</a> 2.7%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -12533,5 +12539,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

@@ -2,6 +2,7 @@
 {% block title %}{{ m.name }}, {{ m.firm }}: 13F portfolio{% endblock %}
 {% block description %}{{ m.firm }}'s 13F for {{ q.label }}: {{ "{:,}".format(q.total_positions) }} positions, {{ q.total|money }}. Top holdings: {% for p in q.positions[:3] %}{{ p.name }}{% if not loop.last %}, {% endif %}{% endfor %}.{% endblock %}
 {% from "_charts.html" import heat, heat_script, sector_bars %}
+{% from "_subscribe.html" import subscribe %}
 {% block main %}
 <p class="crumb"><a href="{{ root }}managers.html">&larr; All managers</a></p>
 <h1 class="page-title">{{ m.name }}</h1>
@@ -16,6 +17,7 @@
 {% endif %}
 
 {% set posts = m.posts %}{% set heading = "I wrote about " ~ m.name.split()[0] %}{% include "_posts.html" %}
+{{ subscribe("manager", "mid") }}
 
 <h2 class="rule-head">Portfolio at the end of {{ q.label }}</h2>
 {% if m.stopped_filing %}<p class="source">{{ m.firm }} stopped filing 13Fs after {{ q.label }}, so this is the last portfolio on record.</p>

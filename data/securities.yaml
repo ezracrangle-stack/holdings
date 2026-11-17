@@ -3533,3 +3533,25 @@
 "156431108": {name: "Century Aluminum", ticker: "CENX", sector: "Materials"}
 "78440X887": {name: "SL Green Realty", ticker: "SLG", sector: "Financials & real estate"}
 "M8769Q102": {name: "Teva", ticker: "TEVA", sector: "Health care"}
+
+# Michael Melby (Gate City Capital)
+"070203104": {name: "Bassett Furniture", ticker: "BSET", sic: 2511}
+"13811E101": {name: "Canterbury Park", ticker: "CPHC", sector: "Consumer discretionary"}
+"25271C201": {name: "Diamond Offshore Drilling", ticker: "DO", sic: 1381, note: "Bought by Noble in 2024."}
+"25961D105": {name: "Douglas Elliman", ticker: "DOUG", sic: 6531}
+"29382R107": {name: "Entravision Communications", ticker: "EVC", sic: 4833}
+"29390K102": {name: "Enviri", ticker: "NVRI", sic: 4953}
+"371532102": {name: "Genesco", ticker: "GCO", sic: 5661}
+"42234Q102": {name: "Heartland Express", ticker: "HTLD", sic: 4213}
+"439038100": {name: "Hooker Furnishings", ticker: "HOFT", sector: "Consumer discretionary"}
+"46121Y201": {name: "Intrepid Potash", ticker: "IPI", sic: 1400}
+"47012E403": {name: "JAKKS Pacific", ticker: "JAKK", sector: "Consumer discretionary"}
+"488152208": {name: "Kelly Services", ticker: "KELYA", sic: 7363}
+"566330106": {name: "Marcus", ticker: "MCS", sic: 7830}
+"64110Y108": {name: "Net Lease Office Properties", ticker: "NLOP", sic: 6798}
+"704551100": {name: "Peabody Energy", ticker: "BTU", sic: 1221}
+"786598300": {name: "Saga Communications", ticker: "SGA", sic: 4832}
+"863111100": {name: "Strattec Security", ticker: "STRT", sic: 3714}
+"894650100": {name: "Tredegar", ticker: "TG", sic: 3350}
+"911163103": {name: "United Natural Foods", ticker: "UNFI", sic: 5141}
+"92335C106": {name: "Vera Bradley", ticker: "VRA", sic: 3100}

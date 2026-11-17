@@ -1,0 +1,1853 @@
+{
+ "filings": [
+  {
+   "accession": "0001398344-24-002953",
+   "form": "13F-HR",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834424002953/0001398344-24-002953-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 707802,
+     "unit": "SH",
+     "value": 20582882
+    },
+    {
+     "cusip": "566330106",
+     "put_call": null,
+     "issuer": "MARCUS CORP DEL",
+     "class": "COM",
+     "shares": 800348,
+     "unit": "SH",
+     "value": 11669074
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 405284,
+     "unit": "SH",
+     "value": 10269897
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 458017,
+     "unit": "SH",
+     "value": 10195458
+    },
+    {
+     "cusip": "410345102",
+     "put_call": null,
+     "issuer": "HANESBRANDS INC",
+     "class": "COM",
+     "shares": 2200000,
+     "unit": "SH",
+     "value": 9812000
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 432638,
+     "unit": "SH",
+     "value": 9505057
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 824312,
+     "unit": "SH",
+     "value": 8473927
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1038000,
+     "unit": "SH",
+     "value": 6010020
+    },
+    {
+     "cusip": "371532102",
+     "put_call": null,
+     "issuer": "GENESCO INC",
+     "class": "COM",
+     "shares": 146603,
+     "unit": "SH",
+     "value": 5161892
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 231003,
+     "unit": "SH",
+     "value": 4719414
+    },
+    {
+     "cusip": "92335C106",
+     "put_call": null,
+     "issuer": "VERA BRADLEY INC",
+     "class": "COM",
+     "shares": 555990,
+     "unit": "SH",
+     "value": 4281123
+    },
+    {
+     "cusip": "37364X109",
+     "put_call": null,
+     "issuer": "GEOSPACE TECHNOLOGIES CORP",
+     "class": "COM",
+     "shares": 329470,
+     "unit": "SH",
+     "value": 4269931
+    }
+   ],
+   "table_total": 104950675,
+   "first_seen": "2026-11-17T13:59:23+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-009634",
+   "form": "13F-HR",
+   "filed": "2024-05-15",
+   "period": "2024-03-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834424009634/0001398344-24-009634-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 733377,
+     "unit": "SH",
+     "value": 21473279
+    },
+    {
+     "cusip": "566330106",
+     "put_call": null,
+     "issuer": "MARCUS CORP DEL",
+     "class": "COM",
+     "shares": 966162,
+     "unit": "SH",
+     "value": 13777470
+    },
+    {
+     "cusip": "410345102",
+     "put_call": null,
+     "issuer": "HANESBRANDS INC",
+     "class": "COM",
+     "shares": 2200000,
+     "unit": "SH",
+     "value": 12760000
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 1109816,
+     "unit": "SH",
+     "value": 12030405
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 7159142,
+     "unit": "SH",
+     "value": 11740993
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 439001,
+     "unit": "SH",
+     "value": 9794112
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 405284,
+     "unit": "SH",
+     "value": 9617389
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 455232,
+     "unit": "SH",
+     "value": 9496140
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 368180,
+     "unit": "SH",
+     "value": 8556503
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 264349,
+     "unit": "SH",
+     "value": 6169906
+    },
+    {
+     "cusip": "371532102",
+     "put_call": null,
+     "issuer": "GENESCO INC",
+     "class": "COM",
+     "shares": 218659,
+     "unit": "SH",
+     "value": 6153064
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1216806,
+     "unit": "SH",
+     "value": 5840669
+    },
+    {
+     "cusip": "64110Y108",
+     "put_call": null,
+     "issuer": "NET LEASE OFFICE PROPERTIES",
+     "class": "COM",
+     "shares": 189656,
+     "unit": "SH",
+     "value": 4513813
+    },
+    {
+     "cusip": "92335C106",
+     "put_call": null,
+     "issuer": "VERA BRADLEY INC",
+     "class": "COM",
+     "shares": 141654,
+     "unit": "SH",
+     "value": 963247
+    },
+    {
+     "cusip": "25271C201",
+     "put_call": null,
+     "issuer": "DIAMOND OFFSHORE DRILLING IN",
+     "class": "COM",
+     "shares": 63517,
+     "unit": "SH",
+     "value": 866372
+    }
+   ],
+   "table_total": 133753362,
+   "first_seen": "2026-11-17T13:59:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-014621",
+   "form": "13F-HR",
+   "filed": "2024-08-14",
+   "period": "2024-06-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834424014621/0001398344-24-014621-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 828018,
+     "unit": "SH",
+     "value": 21453946
+    },
+    {
+     "cusip": "566330106",
+     "put_call": null,
+     "issuer": "MARCUS CORP DEL",
+     "class": "COM",
+     "shares": 1673740,
+     "unit": "SH",
+     "value": 19030424
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 8980814,
+     "unit": "SH",
+     "value": 18231052
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 705857,
+     "unit": "SH",
+     "value": 16538230
+    },
+    {
+     "cusip": "911163103",
+     "put_call": null,
+     "issuer": "UNITED NAT FOODS INC",
+     "class": "COM",
+     "shares": 1083119,
+     "unit": "SH",
+     "value": 14188859
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 412341,
+     "unit": "SH",
+     "value": 10308525
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1577693,
+     "unit": "SH",
+     "value": 7068065
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 444131,
+     "unit": "SH",
+     "value": 6995063
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 276977,
+     "unit": "SH",
+     "value": 6049178
+    },
+    {
+     "cusip": "410345102",
+     "put_call": null,
+     "issuer": "HANESBRANDS INC",
+     "class": "COM",
+     "shares": 1180100,
+     "unit": "SH",
+     "value": 5817893
+    },
+    {
+     "cusip": "64110Y108",
+     "put_call": null,
+     "issuer": "NET LEASE OFFICE PROPERTIES",
+     "class": "COM",
+     "shares": 189656,
+     "unit": "SH",
+     "value": 4669331
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 245568,
+     "unit": "SH",
+     "value": 4643691
+    },
+    {
+     "cusip": "42234Q102",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 138093,
+     "unit": "SH",
+     "value": 1702687
+    }
+   ],
+   "table_total": 136696944,
+   "first_seen": "2026-11-17T13:59:24+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-24-020710",
+   "form": "13F-HR",
+   "filed": "2024-11-14",
+   "period": "2024-09-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834424020710/0001398344-24-020710-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 770844,
+     "unit": "SH",
+     "value": 21560507
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 9805603,
+     "unit": "SH",
+     "value": 20297598
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 837570,
+     "unit": "SH",
+     "value": 20101680
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 677622,
+     "unit": "SH",
+     "value": 17984088
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 412341,
+     "unit": "SH",
+     "value": 17590467
+    },
+    {
+     "cusip": "911163103",
+     "put_call": null,
+     "issuer": "UNITED NAT FOODS INC",
+     "class": "COM",
+     "shares": 804282,
+     "unit": "SH",
+     "value": 13528023
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 500000,
+     "unit": "SH",
+     "value": 13390000
+    },
+    {
+     "cusip": "566330106",
+     "put_call": null,
+     "issuer": "MARCUS CORP DEL",
+     "class": "COM",
+     "shares": 684406,
+     "unit": "SH",
+     "value": 10313998
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1431712,
+     "unit": "SH",
+     "value": 9377714
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 444131,
+     "unit": "SH",
+     "value": 6377721
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 284833,
+     "unit": "SH",
+     "value": 5497277
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 405175,
+     "unit": "SH",
+     "value": 4975549
+    },
+    {
+     "cusip": "64110Y108",
+     "put_call": null,
+     "issuer": "NET LEASE OFFICE PROPERTIES",
+     "class": "COM",
+     "shares": 140805,
+     "unit": "SH",
+     "value": 4311449
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 127361,
+     "unit": "SH",
+     "value": 3781348
+    },
+    {
+     "cusip": "070203104",
+     "put_call": null,
+     "issuer": "BASSETT FURNITURE INDS INC",
+     "class": "COM",
+     "shares": 92397,
+     "unit": "SH",
+     "value": 1335137
+    }
+   ],
+   "table_total": 170422556,
+   "first_seen": "2026-11-17T13:59:25+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-002776",
+   "form": "13F-HR",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834425002776/0001398344-25-002776-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 10473634,
+     "unit": "SH",
+     "value": 24613040
+    },
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 770844,
+     "unit": "SH",
+     "value": 19987985
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 838921,
+     "unit": "SH",
+     "value": 18389148
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 1892575,
+     "unit": "SH",
+     "value": 17638799
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 692141,
+     "unit": "SH",
+     "value": 17012826
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 328060,
+     "unit": "SH",
+     "value": 13516072
+    },
+    {
+     "cusip": "500255104",
+     "put_call": null,
+     "issuer": "KOHLS CORP",
+     "class": "COM",
+     "shares": 909741,
+     "unit": "SH",
+     "value": 12772764
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 9528210
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1431712,
+     "unit": "SH",
+     "value": 8404149
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 332903,
+     "unit": "SH",
+     "value": 6824512
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 590893,
+     "unit": "SH",
+     "value": 6629819
+    },
+    {
+     "cusip": "36116M106",
+     "put_call": null,
+     "issuer": "FUTUREFUEL CORP",
+     "class": "COM",
+     "shares": 851898,
+     "unit": "SH",
+     "value": 4506540
+    },
+    {
+     "cusip": "64110Y108",
+     "put_call": null,
+     "issuer": "NET LEASE OFFICE PROPERTIES",
+     "class": "COM",
+     "shares": 100437,
+     "unit": "SH",
+     "value": 3134639
+    },
+    {
+     "cusip": "070203104",
+     "put_call": null,
+     "issuer": "BASSETT FURNITURE INDS INC",
+     "class": "COM",
+     "shares": 147527,
+     "unit": "SH",
+     "value": 2040298
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 23689,
+     "unit": "SH",
+     "value": 743835
+    }
+   ],
+   "table_total": 165742636,
+   "first_seen": "2026-11-17T13:59:26+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-009449",
+   "form": "13F-HR",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834425009449/0001398344-25-009449-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 3299754,
+     "unit": "SH",
+     "value": 27420956
+    },
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 878417,
+     "unit": "SH",
+     "value": 26211963
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 12199252,
+     "unit": "SH",
+     "value": 25618429
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 753821,
+     "unit": "SH",
+     "value": 22154799
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 667141,
+     "unit": "SH",
+     "value": 18019478
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 10772147
+    },
+    {
+     "cusip": "863111100",
+     "put_call": null,
+     "issuer": "STRATTEC SEC CORP",
+     "class": "COM",
+     "shares": 250260,
+     "unit": "SH",
+     "value": 9875260
+    },
+    {
+     "cusip": "500255104",
+     "put_call": null,
+     "issuer": "KOHLS CORP",
+     "class": "COM",
+     "shares": 941850,
+     "unit": "SH",
+     "value": 7704333
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 359836,
+     "unit": "SH",
+     "value": 6567007
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1188670,
+     "unit": "SH",
+     "value": 5943350
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 602193,
+     "unit": "SH",
+     "value": 5552219
+    },
+    {
+     "cusip": "36116M106",
+     "put_call": null,
+     "issuer": "FUTUREFUEL CORP",
+     "class": "COM",
+     "shares": 851839,
+     "unit": "SH",
+     "value": 3322172
+    },
+    {
+     "cusip": "070203104",
+     "put_call": null,
+     "issuer": "BASSETT FURNITURE INDS INC",
+     "class": "COM",
+     "shares": 181032,
+     "unit": "SH",
+     "value": 2760738
+    },
+    {
+     "cusip": "894650100",
+     "put_call": null,
+     "issuer": "TREDEGAR CORP",
+     "class": "COM",
+     "shares": 121810,
+     "unit": "SH",
+     "value": 937937
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 27922,
+     "unit": "SH",
+     "value": 559836
+    }
+   ],
+   "table_total": 173420624,
+   "first_seen": "2026-11-17T13:59:27+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-015407",
+   "form": "13F-HR",
+   "filed": "2025-08-14",
+   "period": "2025-06-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834425015407/0001398344-25-015407-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1126553,
+     "unit": "SH",
+     "value": 36815752
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 11972986,
+     "unit": "SH",
+     "value": 27777328
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 3581525,
+     "unit": "SH",
+     "value": 22348716
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 413417,
+     "unit": "SH",
+     "value": 15081452
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 1611581,
+     "unit": "SH",
+     "value": 13924060
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 11229985
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 644211,
+     "unit": "SH",
+     "value": 8645312
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 443599,
+     "unit": "SH",
+     "value": 8361841
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 208388,
+     "unit": "SH",
+     "value": 7445703
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 1188670,
+     "unit": "SH",
+     "value": 4671473
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 42972,
+     "unit": "SH",
+     "value": 2723565
+    },
+    {
+     "cusip": "894650100",
+     "put_call": null,
+     "issuer": "TREDEGAR CORP",
+     "class": "COM",
+     "shares": 260088,
+     "unit": "SH",
+     "value": 2288774
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 103583,
+     "unit": "SH",
+     "value": 2167992
+    },
+    {
+     "cusip": "36116M106",
+     "put_call": null,
+     "issuer": "FUTUREFUEL CORP",
+     "class": "COM",
+     "shares": 475279,
+     "unit": "SH",
+     "value": 1844083
+    },
+    {
+     "cusip": "070203104",
+     "put_call": null,
+     "issuer": "BASSETT FURNITURE INDS INC",
+     "class": "COM",
+     "shares": 104219,
+     "unit": "SH",
+     "value": 1584129
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN INC",
+     "class": "COM",
+     "shares": 373387,
+     "unit": "SH",
+     "value": 866258
+    }
+   ],
+   "table_total": 167776423,
+   "first_seen": "2026-11-17T13:59:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-25-020989",
+   "form": "13F-HR",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834425020989/0001398344-25-020989-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1258179,
+     "unit": "SH",
+     "value": 43608484
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 1091343,
+     "unit": "SH",
+     "value": 28942416
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 11597568,
+     "unit": "SH",
+     "value": 27022333
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 2024845,
+     "unit": "SH",
+     "value": 16968201
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 2447195,
+     "unit": "SH",
+     "value": 16053599
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 196045,
+     "unit": "SH",
+     "value": 13636890
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 10746232
+    },
+    {
+     "cusip": "47012E403",
+     "put_call": null,
+     "issuer": "JAKKS PAC INC",
+     "class": "COM NEW",
+     "shares": 530380,
+     "unit": "SH",
+     "value": 9934017
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 445345,
+     "unit": "SH",
+     "value": 7299205
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 209917,
+     "unit": "SH",
+     "value": 7279922
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 208388,
+     "unit": "SH",
+     "value": 6372505
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 985277,
+     "unit": "SH",
+     "value": 4394335
+    },
+    {
+     "cusip": "36116M106",
+     "put_call": null,
+     "issuer": "FUTUREFUEL CORP",
+     "class": "COM",
+     "shares": 804225,
+     "unit": "SH",
+     "value": 3120393
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 100742,
+     "unit": "SH",
+     "value": 2409749
+    },
+    {
+     "cusip": "894650100",
+     "put_call": null,
+     "issuer": "TREDEGAR CORP",
+     "class": "COM",
+     "shares": 174805,
+     "unit": "SH",
+     "value": 1403684
+    }
+   ],
+   "table_total": 199191965,
+   "first_seen": "2026-11-17T13:59:28+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-003219",
+   "form": "13F-HR",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834426003219/0001398344-26-003219-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1297679,
+     "unit": "SH",
+     "value": 47209562
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 11090968,
+     "unit": "SH",
+     "value": 32496536
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 914026,
+     "unit": "SH",
+     "value": 25345941
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 2192807,
+     "unit": "SH",
+     "value": 19801047
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 609806,
+     "unit": "SH",
+     "value": 18111238
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 207561,
+     "unit": "SH",
+     "value": 14228307
+    },
+    {
+     "cusip": "47012E403",
+     "put_call": null,
+     "issuer": "JAKKS PAC INC",
+     "class": "COM NEW",
+     "shares": 782717,
+     "unit": "SH",
+     "value": 13212263
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO NEW",
+     "class": "COM",
+     "shares": 541332,
+     "unit": "SH",
+     "value": 13040688
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 1872195,
+     "unit": "SH",
+     "value": 11738663
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 9890852
+    },
+    {
+     "cusip": "812215200",
+     "put_call": null,
+     "issuer": "SEAPORT ENTMT GROUP INC",
+     "class": "COMMON STOCK",
+     "shares": 385326,
+     "unit": "SH",
+     "value": 7617895
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 445345,
+     "unit": "SH",
+     "value": 6858313
+    },
+    {
+     "cusip": "36116M106",
+     "put_call": null,
+     "issuer": "FUTUREFUEL CORP",
+     "class": "COM",
+     "shares": 1104149,
+     "unit": "SH",
+     "value": 3522235
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 737301,
+     "unit": "SH",
+     "value": 2624792
+    },
+    {
+     "cusip": "439038100",
+     "put_call": null,
+     "issuer": "HOOKER FURNISHINGS CORPORATI",
+     "class": "COM",
+     "shares": 218928,
+     "unit": "SH",
+     "value": 2471697
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 100742,
+     "unit": "SH",
+     "value": 1893950
+    },
+    {
+     "cusip": "894650100",
+     "put_call": null,
+     "issuer": "TREDEGAR CORP",
+     "class": "COM",
+     "shares": 122118,
+     "unit": "SH",
+     "value": 876807
+    }
+   ],
+   "table_total": 230940786,
+   "first_seen": "2026-11-17T13:59:29+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-009270",
+   "form": "13F-HR",
+   "filed": "2026-05-15",
+   "period": "2026-03-31",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834426009270/0001398344-26-009270-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1283706,
+     "unit": "SH",
+     "value": 52965710
+    },
+    {
+     "cusip": "412822108",
+     "put_call": null,
+     "issuer": "HARLEY DAVIDSON INC",
+     "class": "COM",
+     "shares": 2269416,
+     "unit": "SH",
+     "value": 45887592
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 10556711,
+     "unit": "SH",
+     "value": 31353432
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 221399,
+     "unit": "SH",
+     "value": 19901556
+    },
+    {
+     "cusip": "47012E403",
+     "put_call": null,
+     "issuer": "JAKKS PAC INC",
+     "class": "COM NEW",
+     "shares": 967114,
+     "unit": "SH",
+     "value": 19264911
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 1578634,
+     "unit": "SH",
+     "value": 16417794
+    },
+    {
+     "cusip": "812215200",
+     "put_call": null,
+     "issuer": "SEAPORT ENTMT GROUP INC",
+     "class": "COMMON STOCK",
+     "shares": 689447,
+     "unit": "SH",
+     "value": 14809322
+    },
+    {
+     "cusip": "42330P107",
+     "put_call": null,
+     "issuer": "HELIX ENERGY SOLUTIONS GRP I",
+     "class": "COM",
+     "shares": 1297832,
+     "unit": "SH",
+     "value": 12835558
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 10106987
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 224275,
+     "unit": "SH",
+     "value": 9592242
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 445553,
+     "unit": "SH",
+     "value": 6946171
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 170847,
+     "unit": "SH",
+     "value": 5629409
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN INC",
+     "class": "COM",
+     "shares": 2280114,
+     "unit": "SH",
+     "value": 3739387
+    },
+    {
+     "cusip": "439038100",
+     "put_call": null,
+     "issuer": "HOOKER FURNISHINGS CORPORATI",
+     "class": "COM",
+     "shares": 236671,
+     "unit": "SH",
+     "value": 3048322
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 85749,
+     "unit": "SH",
+     "value": 2412119
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 731301,
+     "unit": "SH",
+     "value": 2003765
+    }
+   ],
+   "table_total": 256914277,
+   "first_seen": "2026-11-17T13:59:36+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-014466",
+   "form": "13F-HR",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834426014466/0001398344-26-014466-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 7158129,
+     "unit": "SH",
+     "value": 93342002
+    },
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1293141,
+     "unit": "SH",
+     "value": 53497243
+    },
+    {
+     "cusip": "412822108",
+     "put_call": null,
+     "issuer": "HARLEY DAVIDSON INC",
+     "class": "COM",
+     "shares": 1972970,
+     "unit": "SH",
+     "value": 48258846
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 1502437,
+     "unit": "SH",
+     "value": 34736343
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO",
+     "class": "COM",
+     "shares": 1300000,
+     "unit": "SH",
+     "value": 27547000
+    },
+    {
+     "cusip": "47012E403",
+     "put_call": null,
+     "issuer": "JAKKS PAC INC",
+     "class": "COM NEW",
+     "shares": 1057868,
+     "unit": "SH",
+     "value": 24627167
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 221399,
+     "unit": "SH",
+     "value": 19611523
+    },
+    {
+     "cusip": "812215200",
+     "put_call": null,
+     "issuer": "SEAPORT ENTMT GROUP INC",
+     "class": "COMMON STOCK",
+     "shares": 723248,
+     "unit": "SH",
+     "value": 19238397
+    },
+    {
+     "cusip": "488152208",
+     "put_call": null,
+     "issuer": "KELLY SVCS INC",
+     "class": "CL A",
+     "shares": 1229262,
+     "unit": "SH",
+     "value": 15095337
+    },
+    {
+     "cusip": "18538R103",
+     "put_call": null,
+     "issuer": "CLEARWATER PAPER CORP",
+     "class": "COM",
+     "shares": 938496,
+     "unit": "SH",
+     "value": 14715617
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 244258,
+     "unit": "SH",
+     "value": 8006777
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 7835074
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 468430,
+     "unit": "SH",
+     "value": 7382457
+    },
+    {
+     "cusip": "422347104",
+     "put_call": null,
+     "issuer": "HEARTLAND EXPRESS INC",
+     "class": "COM",
+     "shares": 320299,
+     "unit": "SH",
+     "value": 4874951
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN INC",
+     "class": "COM",
+     "shares": 2129688,
+     "unit": "SH",
+     "value": 3769548
+    },
+    {
+     "cusip": "230215105",
+     "put_call": null,
+     "issuer": "CULP INC",
+     "class": "COM",
+     "shares": 625539,
+     "unit": "SH",
+     "value": 1939171
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 52915,
+     "unit": "SH",
+     "value": 1334516
+    }
+   ],
+   "table_total": 385811969,
+   "first_seen": "2026-11-17T13:59:37+00:00",
+   "backfill": true
+  },
+  {
+   "accession": "0001398344-26-020112",
+   "form": "13F-HR",
+   "filed": "2026-11-16",
+   "period": "2026-09-30",
+   "cik": 1705447,
+   "url": "https://www.sec.gov/Archives/edgar/data/1705447/000139834426020112/0001398344-26-020112-index.html",
+   "report_type": "13F HOLDINGS REPORT",
+   "amendment_type": null,
+   "filer_name": "GATE CITY CAPITAL MANAGEMENT, LLC",
+   "holdings": [
+    {
+     "cusip": "016230104",
+     "put_call": null,
+     "issuer": "ALICO INC",
+     "class": "COM",
+     "shares": 1329230,
+     "unit": "SH",
+     "value": 51281693
+    },
+    {
+     "cusip": "29382R107",
+     "put_call": null,
+     "issuer": "ENTRAVISION COMMUNICATIONS C",
+     "class": "CL A",
+     "shares": 5695925,
+     "unit": "SH",
+     "value": 41865049
+    },
+    {
+     "cusip": "412822108",
+     "put_call": null,
+     "issuer": "HARLEY DAVIDSON INC",
+     "class": "COM",
+     "shares": 1332970,
+     "unit": "SH",
+     "value": 32564457
+    },
+    {
+     "cusip": "704551100",
+     "put_call": null,
+     "issuer": "PEABODY ENERGY CORP",
+     "class": "COM",
+     "shares": 1303954,
+     "unit": "SH",
+     "value": 31803438
+    },
+    {
+     "cusip": "95058W100",
+     "put_call": null,
+     "issuer": "WENDYS CO",
+     "class": "COM",
+     "shares": 3648912,
+     "unit": "SH",
+     "value": 23280059
+    },
+    {
+     "cusip": "61945C103",
+     "put_call": null,
+     "issuer": "MOSAIC CO",
+     "class": "COM",
+     "shares": 976785,
+     "unit": "SH",
+     "value": 21147395
+    },
+    {
+     "cusip": "29390K102",
+     "put_call": null,
+     "issuer": "ENVIRI CORP",
+     "class": "COM",
+     "shares": 986437,
+     "unit": "SH",
+     "value": 19265115
+    },
+    {
+     "cusip": "18538R103",
+     "put_call": null,
+     "issuer": "CLEARWATER PAPER CORP",
+     "class": "COM",
+     "shares": 982799,
+     "unit": "SH",
+     "value": 18830429
+    },
+    {
+     "cusip": "457030104",
+     "put_call": null,
+     "issuer": "INGLES MKTS INC",
+     "class": "CL A",
+     "shares": 221399,
+     "unit": "SH",
+     "value": 18779063
+    },
+    {
+     "cusip": "488152208",
+     "put_call": null,
+     "issuer": "KELLY SVCS INC",
+     "class": "CL A",
+     "shares": 1129262,
+     "unit": "SH",
+     "value": 18305337
+    },
+    {
+     "cusip": "47012E403",
+     "put_call": null,
+     "issuer": "JAKKS PAC INC",
+     "class": "COM NEW",
+     "shares": 678902,
+     "unit": "SH",
+     "value": 17060807
+    },
+    {
+     "cusip": "812215200",
+     "put_call": null,
+     "issuer": "SEAPORT ENTMT GROUP INC",
+     "class": "COMMON STOCK",
+     "shares": 677887,
+     "unit": "SH",
+     "value": 15516833
+    },
+    {
+     "cusip": "610236101",
+     "put_call": null,
+     "issuer": "MONRO INC",
+     "class": "COM",
+     "shares": 878769,
+     "unit": "SH",
+     "value": 12293978
+    },
+    {
+     "cusip": "46121Y201",
+     "put_call": null,
+     "issuer": "INTREPID POTASH INC",
+     "class": "COM",
+     "shares": 328401,
+     "unit": "SH",
+     "value": 10535104
+    },
+    {
+     "cusip": "13811E101",
+     "put_call": null,
+     "issuer": "CANTERBURY PK HLDG CORP",
+     "class": "COM",
+     "shares": 484749,
+     "unit": "SH",
+     "value": 7562084
+    },
+    {
+     "cusip": "786598300",
+     "put_call": null,
+     "issuer": "SAGA COMMUNICATIONS INC",
+     "class": "CL A NEW",
+     "shares": 863845,
+     "unit": "SH",
+     "value": 7118083
+    },
+    {
+     "cusip": "25961D105",
+     "put_call": null,
+     "issuer": "DOUGLAS ELLIMAN INC",
+     "class": "COM",
+     "shares": 2159733,
+     "unit": "SH",
+     "value": 3282794
+    },
+    {
+     "cusip": "032159105",
+     "put_call": null,
+     "issuer": "AMREP CORP",
+     "class": "COM",
+     "shares": 52915,
+     "unit": "SH",
+     "value": 1191646
+    }
+   ],
+   "table_total": 351683364,
+   "first_seen": "2026-11-17T13:59:38+00:00",
+   "backfill": true
+  }
+ ],
+ "sec_name": "GATE CITY CAPITAL MANAGEMENT, LLC"
+}

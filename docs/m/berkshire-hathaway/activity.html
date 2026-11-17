@@ -7057,6 +7057,12 @@
 <p class="small">The starting portfolio: <a href="../../m/berkshire-hathaway/stock/wells-fargo.html">Wells Fargo</a> 20.8% · <a href="../../m/berkshire-hathaway/stock/coca-cola.html">Coca-Cola</a> 17.5% · <a href="../../m/berkshire-hathaway/stock/ibm.html">IBM</a> 14.2% · <a href="../../m/berkshire-hathaway/stock/american-express.html">American Express</a> 12.3% · <a href="../../m/berkshire-hathaway/stock/procter-gamble.html">Procter &amp; Gamble</a> 4.4% · <a href="../../m/berkshire-hathaway/stock/walmart.html">Walmart</a> 4.0% · <a href="../../m/berkshire-hathaway/stock/u-s-bancorp.html">U.S. Bancorp</a> 3.1% · <a href="../../m/berkshire-hathaway/stock/exxon-mobil.html">Exxon Mobil</a> 3.1% · <a href="../../m/berkshire-hathaway/stock/directv.html">DirecTV</a> 2.5% · <a href="../../m/berkshire-hathaway/stock/davita.html">DaVita</a> 2.0% · <a href="../../m/berkshire-hathaway/stock/phillips-66.html">Phillips 66</a> 1.7% · <a href="../../m/berkshire-hathaway/stock/moody-s.html">Moody&#39;s</a> 1.7% · <a href="../../m/berkshire-hathaway/stock/conocophillips.html">ConocoPhillips</a> 1.6% · <a href="../../m/berkshire-hathaway/stock/general-motors.html">General Motors</a> 1.5% · <a href="../../m/berkshire-hathaway/stock/graham-holdings.html">Graham Holdings</a> 0.9% · <a href="../../m/berkshire-hathaway/stock/liberty-media.html">Liberty Media</a> 0.8% · <a href="../../m/berkshire-hathaway/stock/bny.html">BNY</a> 0.8% · <a href="../../m/berkshire-hathaway/stock/nov.html">NOV</a> 0.7% · <a href="../../m/berkshire-hathaway/stock/m-t-bank.html">M&amp;T Bank</a> 0.7% · <a href="../../m/berkshire-hathaway/stock/chicago-bridge-iron.html">Chicago Bridge &amp; Iron</a> 0.6% · <a href="../../m/berkshire-hathaway/stock/suncor-energy.html">Suncor Energy</a> 0.6% · <a href="../../m/berkshire-hathaway/stock/viacom.html">Viacom</a> 0.6% · <a href="../../m/berkshire-hathaway/stock/verisign.html">VeriSign</a> 0.5% · <a href="../../m/berkshire-hathaway/stock/costco.html">Costco</a> 0.5% · <a href="../../m/berkshire-hathaway/stock/precision-castparts.html">Precision Castparts</a> 0.5% · <a href="../../m/berkshire-hathaway/stock/usg.html">USG</a> 0.4% · <a href="../../m/berkshire-hathaway/stock/deere.html">Deere</a> 0.4% · <a href="../../m/berkshire-hathaway/stock/wabco.html">WABCO</a> 0.3% · <a href="../../m/berkshire-hathaway/stock/visa.html">Visa</a> 0.3% · <a href="../../m/berkshire-hathaway/stock/globe-life.html">Globe Life</a> 0.3% · <a href="../../m/berkshire-hathaway/stock/mastercard.html">Mastercard</a> 0.3% · <a href="../../m/berkshire-hathaway/stock/sanofi.html">Sanofi</a> 0.2% · <a href="../../m/berkshire-hathaway/stock/starz.html">Starz</a> 0.1% · <a href="../../m/berkshire-hathaway/stock/verisk-analytics.html">Verisk Analytics</a> 0.1% · <a href="../../m/berkshire-hathaway/stock/gsk.html">GSK</a> 0.1% · <a href="../../m/berkshire-hathaway/stock/media-general.html">Media General</a> 0.1% · <a href="../../m/berkshire-hathaway/stock/johnson-johnson.html">Johnson &amp; Johnson</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/dish-network.html">DISH Network</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/mondelez.html">Mondelez</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/general-electric.html">General Electric</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/kraft-heinz.html">Kraft Heinz</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/ups.html">UPS</a> 0.0% · <a href="../../m/berkshire-hathaway/stock/lee-enterprises.html">Lee Enterprises</a> 0.0%.</p>
 
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -7077,5 +7083,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

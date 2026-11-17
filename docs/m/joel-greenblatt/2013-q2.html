@@ -683,29 +683,29 @@
   <caption class="sr">Sector weights in this 13F</caption>
   <tbody>
   
-    <tr><th scope="row">Unclassified</th><td class="sb"><span class="sbar" style="width: 100.0%"></span></td><td class="num">26.0%</td></tr>
+    <tr><th scope="row">Unclassified</th><td class="sb"><span class="sbar" style="width: 100.0%"></span></td><td class="num">25.7%</td></tr>
   
-    <tr><th scope="row">Industrials</th><td class="sb"><span class="sbar" style="width: 62.8%"></span></td><td class="num">16.3%</td></tr>
+    <tr><th scope="row">Industrials</th><td class="sb"><span class="sbar" style="width: 63.9%"></span></td><td class="num">16.4%</td></tr>
   
-    <tr><th scope="row">Technology</th><td class="sb"><span class="sbar" style="width: 58.4%"></span></td><td class="num">15.2%</td></tr>
+    <tr><th scope="row">Technology</th><td class="sb"><span class="sbar" style="width: 59.0%"></span></td><td class="num">15.2%</td></tr>
   
-    <tr><th scope="row">Consumer discretionary</th><td class="sb"><span class="sbar" style="width: 48.8%"></span></td><td class="num">12.7%</td></tr>
+    <tr><th scope="row">Consumer discretionary</th><td class="sb"><span class="sbar" style="width: 49.2%"></span></td><td class="num">12.7%</td></tr>
   
-    <tr><th scope="row">Health care</th><td class="sb"><span class="sbar" style="width: 37.8%"></span></td><td class="num">9.8%</td></tr>
+    <tr><th scope="row">Health care</th><td class="sb"><span class="sbar" style="width: 38.2%"></span></td><td class="num">9.8%</td></tr>
   
-    <tr><th scope="row">Consumer staples</th><td class="sb"><span class="sbar" style="width: 18.3%"></span></td><td class="num">4.8%</td></tr>
+    <tr><th scope="row">Consumer staples</th><td class="sb"><span class="sbar" style="width: 18.6%"></span></td><td class="num">4.8%</td></tr>
   
-    <tr><th scope="row">Materials</th><td class="sb"><span class="sbar" style="width: 14.9%"></span></td><td class="num">3.9%</td></tr>
+    <tr><th scope="row">Materials</th><td class="sb"><span class="sbar" style="width: 15.0%"></span></td><td class="num">3.9%</td></tr>
   
-    <tr><th scope="row">Media &amp; telecom</th><td class="sb"><span class="sbar" style="width: 14.4%"></span></td><td class="num">3.7%</td></tr>
+    <tr><th scope="row">Media &amp; telecom</th><td class="sb"><span class="sbar" style="width: 14.8%"></span></td><td class="num">3.8%</td></tr>
   
-    <tr><th scope="row">Financials &amp; real estate</th><td class="sb"><span class="sbar" style="width: 10.7%"></span></td><td class="num">2.8%</td></tr>
+    <tr><th scope="row">Financials &amp; real estate</th><td class="sb"><span class="sbar" style="width: 10.8%"></span></td><td class="num">2.8%</td></tr>
   
-    <tr><th scope="row">Energy</th><td class="sb"><span class="sbar" style="width: 10.6%"></span></td><td class="num">2.8%</td></tr>
+    <tr><th scope="row">Energy</th><td class="sb"><span class="sbar" style="width: 10.7%"></span></td><td class="num">2.8%</td></tr>
   
-    <tr><th scope="row">Funds &amp; ETFs</th><td class="sb"><span class="sbar" style="width: 7.1%"></span></td><td class="num">1.8%</td></tr>
+    <tr><th scope="row">Funds &amp; ETFs</th><td class="sb"><span class="sbar" style="width: 7.2%"></span></td><td class="num">1.8%</td></tr>
   
-    <tr><th scope="row">Other</th><td class="sb"><span class="sbar" style="width: 1.3%"></span></td><td class="num">0.3%</td></tr>
+    <tr><th scope="row">Other</th><td class="sb"><span class="sbar" style="width: 1.4%"></span></td><td class="num">0.4%</td></tr>
   
     <tr><th scope="row">Utilities</th><td class="sb"><span class="sbar" style="width: 0.1%"></span></td><td class="num">0.0%</td></tr>
   
@@ -726,6 +726,12 @@
   <a href="../../m/joel-greenblatt/2013-q3.html">Q3 2013 &rarr;</a>
 </p>
 
+<aside class="sister subscribe" data-place="end" data-kind="end">
+  <p class="sister-kicker">Newsletter</p>
+  <p class="sister-head"><a href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Ezra's Notes</a></p>
+  <p class="sister-body">What the best long-term investors are buying, and the businesses behind the tickers. Free, every week.</p>
+  <a class="button" href="https://www.ezrasnotes.com/subscribe?utm_source=holdings&amp;utm_medium=site&amp;utm_campaign=end-end">Subscribe free</a>
+</aside>
 </main>
 
 <footer>
@@ -746,5 +752,15 @@
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
 <script src="../../static/paginate.js?v=814d52ab"></script>
+<script>(function(){
+  /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
+  var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
+  function send(name,box){ if(window.gtag) gtag('event',name,{placement:box.dataset.place,page_kind:box.dataset.kind}); }
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){send('subscribe_box_view',e.target);io.unobserve(e.target);}})},{threshold:0.5});
+    boxes.forEach(function(b){io.observe(b)});
+  }
+  boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
+})();</script>
 </body>
 </html>

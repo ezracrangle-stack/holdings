@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_subscribe.html" import subscribe %}
 {% block title %}{{ c.name }}{% if c.tickers %} ({{ c.tickers|join(", ") }}){% endif %}: who owns it{% endblock %}
 {% block description %}{% if c.holders %}{{ c.holders }} of the value investors I follow own {{ c.name }}, by their latest 13F.{% else %}Value investors I follow who owned {{ c.name }} in past 13F filings.{% endif %}{% endblock %}
 {% block main %}
@@ -28,6 +29,7 @@
 {% else %}
 <p>None of the managers I follow owns it, by their latest 13F.</p>
 {% endif %}
+{{ subscribe("company", "mid", c.name) }}
 
 {% if c.past %}
 <h2 class="rule-head">Owned it before</h2>
