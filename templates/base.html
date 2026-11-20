@@ -63,7 +63,7 @@
     <a href="{{ root }}index.html"{% if page == 'index.html' %} aria-current="page"{% endif %}>Latest</a>
     <a href="{{ root }}managers.html"{% if page == 'managers.html' or page.startswith('m/') %} aria-current="page"{% endif %}>Managers</a>
     <a href="{{ root }}companies.html"{% if page == 'companies.html' or page.startswith('c/') %} aria-current="page"{% endif %}>Companies</a>
-    <a href="{{ root }}search.html"{% if page == 'search.html' %} aria-current="page"{% endif %}>Search</a>
+    <a href="{{ root }}search.html" title="Search (shortcut: /)"{% if page == 'search.html' %} aria-current="page"{% endif %}>Search</a>
     <a href="{{ root }}about.html"{% if page == 'about.html' %} aria-current="page"{% endif %}>About</a>
     <a href="{{ subscribe_url }}" class="nav-cta">Subscribe</a>
   </nav>
@@ -120,5 +120,9 @@
   });
 })();
 </script>
+<script>(function(){
+document.querySelectorAll('a.mail-report').forEach(function(a){var e=a.dataset.u+'@'+a.dataset.d;a.href='mailto:'+e+'?subject='+encodeURIComponent(a.dataset.s)+'&body='+encodeURIComponent(location.href+'\n\n');a.addEventListener('click',function(){if(window.gtag)gtag('event','broken_link_report',{page:location.pathname});});});
+document.addEventListener('keydown',function(e){if(e.key!=='/'||e.ctrlKey||e.metaKey||e.altKey)return;var t=e.target;if(t&&(t.isContentEditable||/^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName)))return;e.preventDefault();var box=document.querySelector('#q,#cfind,#filter,#f');if(box){box.focus();box.select&&box.select();}else{location.href='{{ root }}search.html';}});
+})();</script>
 </body>
 </html>
