@@ -13,8 +13,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../static/style.css?v=814d52ab">
-<link rel="stylesheet" href="../../static/holdings.css?v=814d52ab">
+<link rel="stylesheet" href="../../static/style.css?v=c1087d5e">
+<link rel="stylesheet" href="../../static/holdings.css?v=c1087d5e">
 <link rel="alternate" type="application/rss+xml" title="Investor Holdings · Ezra's Notes" href="../../feed.xml">
 <meta property="og:title" content="Thomas Gayner, Markel Group: 13F for Q3 2021 · Ezra's Notes">
 <meta property="og:description" content="Markel Group's 13F for Q3 2021: 125 positions, $7.91B.">
@@ -781,7 +781,7 @@
 <script>(function(){var b=document.getElementById('theme-toggle'),r=document.documentElement;function label(){b.textContent=r.getAttribute('data-theme')==='dark'?'Light':'Dark'}label();b.addEventListener('click',function(){var t=r.getAttribute('data-theme')==='dark'?'light':'dark';r.setAttribute('data-theme',t);try{localStorage.setItem('theme',t)}catch(e){}label()})})();</script>
 <script>(function(){document.querySelectorAll('.share').forEach(function(box){var url=box.dataset.url,title=box.dataset.title,n=box.querySelector('.share-native'),c=box.querySelector('.share-copy');if(navigator.share){n.hidden=false;n.addEventListener('click',function(){navigator.share({title:title,url:url}).catch(function(){})})}c.addEventListener('click',function(){var done=function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy link'},2000)};if(navigator.clipboard){navigator.clipboard.writeText(url).then(done,function(){prompt('Copy this link:',url)})}else{prompt('Copy this link:',url)}})})})();</script>
 
-<script src="../../static/paginate.js?v=814d52ab"></script>
+<script src="../../static/paginate.js?v=c1087d5e"></script>
 <script>(function(){
   /* Newsletter box: tell Google Analytics when it shows up and when someone clicks it. */
   var boxes=document.querySelectorAll('.subscribe'); if(!boxes.length) return;
@@ -792,5 +792,18 @@
   }
   boxes.forEach(function(b){b.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){send('subscribe_click',b)})})});
 })();</script>
+<a href="#" class="to-top" id="to-top" aria-label="Back to top" title="Back to top">&uarr;</a>
+<script>
+(function () {
+  var b = document.getElementById('to-top');
+  function check() { b.classList.toggle('show', window.scrollY > window.innerHeight * 1.2); }
+  window.addEventListener('scroll', check, { passive: true }); check();
+  b.addEventListener('click', function (e) {
+    e.preventDefault();
+    var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: still ? 'auto' : 'smooth' });
+  });
+})();
+</script>
 </body>
 </html>
